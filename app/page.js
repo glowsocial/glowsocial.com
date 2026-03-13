@@ -60,24 +60,24 @@ export default function HomePage() {
           <div className="hero-visual">
             <div className="hero-slideshow" id="heroSlideshow">
               <img
-                src="https://glowsocial.com/wp-content/uploads/Sample-post-for-a-realtor.png"
+                src="/images/sample-post-realtor.png"
                 alt="Sample Glow Social post for a realtor"
                 className="hero-slide active"
               />
               <img
-                src="https://glowsocial.com/wp-content/uploads/Sample-post-for-a-chiropractor.png"
+                src="/images/sample-post-chiropractor.png"
                 alt="Sample Glow Social post for a chiropractor"
                 className="hero-slide"
                 loading="lazy"
               />
               <img
-                src="https://glowsocial.com/wp-content/uploads/Sample-post-for-a-bakery.png"
+                src="/images/sample-post-bakery.png"
                 alt="Sample Glow Social post for a bakery"
                 className="hero-slide"
                 loading="lazy"
               />
               <img
-                src="https://glowsocial.com/wp-content/uploads/Sample-post-for-a-landscaper.png"
+                src="/images/sample-post-landscaper.png"
                 alt="Sample Glow Social post for a landscaper"
                 className="hero-slide"
                 loading="lazy"
