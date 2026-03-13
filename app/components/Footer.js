@@ -26,6 +26,7 @@ export default function Footer() {
           <div className="footer-col">
             <h4>Resources</h4>
             <Link href="/blog">Blog</Link>
+            <Link href="/manifesto">Manifesto</Link>
             <Link href="/about">About</Link>
             <a href="https://app.glowsocial.com/help">Help Center</a>
           </div>
