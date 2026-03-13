@@ -7,7 +7,7 @@ export default function Header() {
     <header className="site-header">
       <div className="container">
         <Link href="/" className="site-logo">
-          Glow <span>Social</span>
+          <img src="/images/glow-social-logo.png" alt="Glow Social" />
         </Link>
 
         <nav className="site-nav">

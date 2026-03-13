@@ -70,7 +70,15 @@ ul {
 }
 
 /* Typography */
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.5px;
+  text-transform: none;
+}
+
+h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
   font-weight: 600;
   line-height: 1.15;
@@ -187,12 +195,13 @@ h2 {
 }
 
 .site-logo {
-  font-family: var(--font-heading);
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: var(--navy);
-  letter-spacing: 0.5px;
-  text-transform: none;
+  display: flex;
+  align-items: center;
+}
+
+.site-logo img {
+  height: 32px;
+  width: auto;
 }
 
 .site-logo span {
@@ -206,8 +215,11 @@ h2 {
 }
 
 .site-nav a {
-  font-size: 0.9rem;
-  font-weight: 500;
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
   color: var(--text-muted);
   transition: color var(--transition);
 }

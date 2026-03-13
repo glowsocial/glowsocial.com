@@ -6,8 +6,8 @@ export default function Footer() {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-brand">
-            <div className="site-logo">
-              Glow <span>Social</span>
+            <div className="site-logo" style={{ marginBottom: 12 }}>
+              <img src="/images/glow-social-logo.png" alt="Glow Social" style={{ filter: "brightness(0) invert(1)" }} />
             </div>
             <p>
               Done-for-you social media that keeps local businesses visible,
