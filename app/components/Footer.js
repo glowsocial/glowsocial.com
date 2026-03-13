@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div className="footer-brand">
             <div className="site-logo" style={{ marginBottom: 12 }}>
-              <img src="/images/glow-social-logo.png" alt="Glow Social" style={{ filter: "brightness(0) invert(1)" }} />
+              <img src="/images/glow-social-footer-logo.png" alt="Glow Social" />
             </div>
             <p>
               Done-for-you social media that keeps local businesses visible,
@@ -33,11 +33,11 @@ export default function Footer() {
           <div className="footer-col">
             <h4>Connect</h4>
             <a
-              href="https://facebook.com/glowsocialhq"
+              href="https://www.linkedin.com/company/glowsocialhq/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Facebook
+              LinkedIn
             </a>
             <a
               href="https://instagram.com/glowsocialhq"
@@ -47,13 +47,12 @@ export default function Footer() {
               Instagram
             </a>
             <a
-              href="https://www.linkedin.com/company/glowsocialhq/"
+              href="https://facebook.com/glowsocialhq"
               target="_blank"
               rel="noopener noreferrer"
             >
-              LinkedIn
+              Facebook
             </a>
-            <a href="mailto:kathleen@glowsocial.com">Email Us</a>
           </div>
         </div>
 

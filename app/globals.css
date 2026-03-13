@@ -302,14 +302,16 @@ h2 {
   margin-bottom: 16px;
 }
 
-.footer-col a {
+.site-footer .footer-col a {
   display: block;
-  font-size: 0.88rem;
+  font-family: var(--font-heading) !important;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
   padding: 4px 0;
   color: rgba(255,255,255,.6);
   transition: color var(--transition);
-  text-transform: none;
-  letter-spacing: 0;
 }
 
 .footer-col a:hover {

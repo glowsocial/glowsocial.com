@@ -82,6 +82,12 @@ export default function HomePage() {
                 className="hero-slide"
                 loading="lazy"
               />
+              <img
+                src="/images/sample-post-dog-groomer.png"
+                alt="Sample Glow Social post for a dog groomer"
+                className="hero-slide"
+                loading="lazy"
+              />
             </div>
           </div>
         </div>
