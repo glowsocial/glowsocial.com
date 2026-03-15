@@ -36,7 +36,7 @@ export default function Agency() {
       <section className="agency-hero">
         <div className="container">
           <div>
-            <span className="agency-badge">🏢 Built for Agencies</span>
+            <span className="agency-badge">Built for Agencies</span>
             <h1>
               Manage All Your Clients{" "}
               <span className="accent">From One Dashboard</span>
@@ -47,12 +47,12 @@ export default function Agency() {
               people.
             </p>
             <div className="agency-ctas">
-              <a href="#pricing" className="btn-primary">
+              <a href="https://app.glowsocial.com/agency/checkout" className="btn-primary">
+                Get Started
+              </a>
+              <a href="#pricing" className="btn-outline">
                 See Pricing
               </a>
-              <Link href="/contact" className="btn-outline">
-                📅 Let's Talk
-              </Link>
             </div>
             <div className="agency-hero-proof">
               <strong>Pro features</strong> for every client · Starting at{" "}
@@ -67,7 +67,7 @@ export default function Agency() {
               </div>
               <div>
                 <div className="client-row">
-                  <div className="client-avatar coffee">☕</div>
+                  <div className="client-avatar coffee">C</div>
                   <div className="client-info">
                     <h4>Main Street Coffee</h4>
                     <span>12 posts scheduled</span>
@@ -75,7 +75,7 @@ export default function Agency() {
                   <div className="client-status">● Active</div>
                 </div>
                 <div className="client-row">
-                  <div className="client-avatar salon">✂️</div>
+                  <div className="client-avatar salon">B</div>
                   <div className="client-info">
                     <h4>Bella's Hair Studio</h4>
                     <span>8 posts scheduled</span>
@@ -83,7 +83,7 @@ export default function Agency() {
                   <div className="client-status">● Active</div>
                 </div>
                 <div className="client-row">
-                  <div className="client-avatar gym">🏋️</div>
+                  <div className="client-avatar gym">P</div>
                   <div className="client-info">
                     <h4>Peak Fitness Gym</h4>
                     <span>15 posts scheduled</span>
@@ -91,7 +91,7 @@ export default function Agency() {
                   <div className="client-status">● Active</div>
                 </div>
                 <div className="client-row">
-                  <div className="client-avatar restaurant">🍽️</div>
+                  <div className="client-avatar restaurant">T</div>
                   <div className="client-info">
                     <h4>Taco Loco</h4>
                     <span>10 posts scheduled</span>
@@ -99,7 +99,7 @@ export default function Agency() {
                   <div className="client-status">● Active</div>
                 </div>
                 <div className="client-row">
-                  <div className="client-avatar bakery">🎂</div>
+                  <div className="client-avatar bakery">S</div>
                   <div className="client-info">
                     <h4>Sweet Dreams Bakery</h4>
                     <span>6 posts scheduled</span>
@@ -116,16 +116,16 @@ export default function Agency() {
       <section className="agency-trust">
         <div className="agency-trust-inner">
           <div className="agency-trust-stat">
-            ⚡ <span><strong>Pro features</strong> for every client</span>
+            <span><strong>Pro features</strong> for every client</span>
           </div>
           <div className="agency-trust-stat">
-            👥 <span><strong>Master login</strong> + sub-accounts</span>
+            <span><strong>Master login</strong> + sub-accounts</span>
           </div>
           <div className="agency-trust-stat">
-            🧾 <span><strong>One invoice</strong> per month</span>
+            <span><strong>One invoice</strong> per month</span>
           </div>
           <div className="agency-trust-stat">
-            📈 <span><strong>Scales</strong> as you grow</span>
+            <span><strong>Scales</strong> as you grow</span>
           </div>
         </div>
       </section>
@@ -201,7 +201,7 @@ export default function Agency() {
         </div>
         <div className="features-grid">
           <div className="feature-card">
-            <div className="feature-icon">📊</div>
+            <div className="feature-icon">D</div>
             <div>
               <h3>Master Dashboard</h3>
               <p>
@@ -211,7 +211,7 @@ export default function Agency() {
             </div>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">✏️</div>
+            <div className="feature-icon">P</div>
             <div>
               <h3>20 Posts Per Client</h3>
               <p>
@@ -221,7 +221,7 @@ export default function Agency() {
             </div>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">🔗</div>
+            <div className="feature-icon">13</div>
             <div>
               <h3>13 Platforms</h3>
               <p>
@@ -231,7 +231,7 @@ export default function Agency() {
             </div>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">🎨</div>
+            <div className="feature-icon">B</div>
             <div>
               <h3>Per-Client Branding</h3>
               <p>
@@ -241,7 +241,7 @@ export default function Agency() {
             </div>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">🎬</div>
+            <div className="feature-icon">V</div>
             <div>
               <h3>Video + Carousels</h3>
               <p>
@@ -251,7 +251,7 @@ export default function Agency() {
             </div>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">🧾</div>
+            <div className="feature-icon">$</div>
             <div>
               <h3>Consolidated Billing</h3>
               <p>
@@ -459,7 +459,6 @@ export default function Agency() {
             </a>
           </div>
           <div className="guarantee-box">
-            🛡️
             <p>
               <strong>No Contracts</strong>
               <br />
