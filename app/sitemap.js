@@ -24,19 +24,32 @@ export default function sitemap() {
     priority: 0.6,
   }));
 
+  const staticPages = [
+    { path: "", priority: 1.0, changeFrequency: "weekly" },
+    { path: "/blog", priority: 0.8, changeFrequency: "daily" },
+    { path: "/about", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/agency", priority: 0.8, changeFrequency: "monthly" },
+    { path: "/how-glow-social-works", priority: 0.9, changeFrequency: "monthly" },
+    { path: "/faq", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/contact", priority: 0.6, changeFrequency: "yearly" },
+    { path: "/privacy", priority: 0.3, changeFrequency: "yearly" },
+    { path: "/terms", priority: 0.3, changeFrequency: "yearly" },
+    { path: "/compare", priority: 0.7, changeFrequency: "weekly" },
+    { path: "/local", priority: 0.7, changeFrequency: "weekly" },
+    { path: "/home-services", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/ai-visibility-service", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/become-an-affiliate", priority: 0.5, changeFrequency: "monthly" },
+    { path: "/manifesto", priority: 0.5, changeFrequency: "yearly" },
+    { path: "/lets-meet", priority: 0.6, changeFrequency: "monthly" },
+  ].map(({ path, priority, changeFrequency }) => ({
+    url: `${BASE_URL}${path}`,
+    lastModified: new Date(),
+    changeFrequency,
+    priority,
+  }));
+
   return [
-    {
-      url: BASE_URL,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 1.0,
-    },
-    {
-      url: `${BASE_URL}/blog`,
-      lastModified: new Date(),
-      changeFrequency: "daily",
-      priority: 0.8,
-    },
+    ...staticPages,
     ...blogPosts,
     ...localPages,
     ...comparisonPages,

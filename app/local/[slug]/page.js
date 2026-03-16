@@ -16,6 +16,9 @@ export async function generateMetadata({ params }) {
   return {
     title: page.title,
     description: page.description || `${page.title} — Glow Social`,
+    alternates: {
+      canonical: `/local/${slug}`,
+    },
   };
 }
 

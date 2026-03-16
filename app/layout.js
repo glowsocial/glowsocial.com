@@ -19,6 +19,9 @@ const urbanist = Urbanist({
 
 export const metadata = {
   metadataBase: new URL("https://glowsocial.com"),
+  alternates: {
+    canonical: "./",
+  },
   title: {
     default: "Glow Social | Done-For-You Social Media for Local Businesses",
     template: "%s | Glow Social",
