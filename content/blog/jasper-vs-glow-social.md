@@ -123,4 +123,8 @@ If you want to write your own content with AI assistance, Jasper is excellent. I
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>**Also compare:** [Copy.ai vs. Glow Social](/blog/copy-ai-vs-glow-social) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Best AI Content Generators](/blog/best-ai-social-media-content-generators)
+
+---
+
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

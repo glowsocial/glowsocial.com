@@ -15,7 +15,7 @@ faqs:
 Home service businesses—contractors, HVAC companies, plumbers, landscapers—rely on local visibility and trust to win jobs. Social media helps build that trust, but most home service owners are too busy on job sites to create content. The best options either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $49.
 
 
-This guide covers what works for home service businesses specifically.
+This guide covers what works for home service businesses specifically. For general small business advice, see our guide on [the best social media platforms for local businesses](/blog/best-platforms-local-business).
 
 
 ## What Home Service Businesses Need from Social Media
@@ -184,7 +184,7 @@ Automated posting solves this. Glow Social publishes 12 posts monthly whether yo
 
 ## Getting Started
 
-For automated home service social media, Glow Social handles content creation and posting for $49/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated home service social media, Glow Social handles content creation and posting for $49/month. Learn [how done-for-you social media works](/blog/done-for-you-social-media-guide) and [what it costs compared to other options](/blog/ai-tools-vs-agencies-cost). Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 For DIY, start with Google Business Profile (if you haven't already) and commit to collecting 5 reviews per month—that usually outperforms social media posting for home services.

@@ -135,4 +135,8 @@ If you prefer doing it yourself with AI assistance, start with Buffer's free tie
 
 <hr>
 
-<strong>About Glow Social:</strong> Done-for-you social media posting for small businesses. 12 custom posts/month, auto-published to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>**Related reading:** [Jasper vs. Glow Social](/blog/jasper-vs-glow-social) · [Copy.ai vs. Glow Social](/blog/copy-ai-vs-glow-social) · [AI tools vs agencies cost](/blog/ai-tools-vs-agencies-cost)
+
+---
+
+About Glow Social:</strong> Done-for-you social media posting for small businesses. 12 custom posts/month, auto-published to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

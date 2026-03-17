@@ -165,4 +165,8 @@ For DIY, commit to 3 posts per week maximum and batch-create monthly to stay con
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>**Related reading:** [How to stay consistent without burnout](/blog/consistent-social-media-without-burnout) · [Create a month of content in 1 hour](/blog/create-month-content-one-hour) · [50+ content ideas](/blog/content-ideas-local-business)
+
+---
+
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

@@ -28,7 +28,7 @@ Here's how the costs actually compare.
 
 ## DIY AI Tools: The Real Cost
 
-Tools like Jasper, Copy.ai, and Buffer's AI assistant seem affordable, but calculate the full expense:
+Tools like [Jasper](/blog/jasper-vs-glow-social), [Copy.ai](/blog/copy-ai-vs-glow-social), and [Buffer](/blog/buffer-vs-glow-social)'s AI assistant seem affordable, but calculate the full expense:
 
 
 <strong>Direct costs:</strong>
@@ -189,7 +189,7 @@ If your time is worth $50/hour: 6 hours × $50 = $300/month in time cost
 Most small businesses don't need agency-level service. They need consistent visibility. The question is whether you want to create that visibility yourself (DIY tools) or pay for someone/something to create it for you (freelancer/agency/Glow Social).
 
 
-If your budget is under $100/month and you don't want to do the work yourself, Glow Social is the only option that fits—$49/month for done-for-you posting at <a href="https://glowsocial.com">glowsocial.com</a>.
+If your budget is under $100/month and you don't want to do the work yourself, Glow Social is the only option that fits — read our [complete done-for-you social media guide](/blog/done-for-you-social-media-guide) for details—$49/month for done-for-you posting at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>

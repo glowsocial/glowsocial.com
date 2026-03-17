@@ -155,4 +155,8 @@ Either way, you don't need 10+ hours per month. You just need consistent visibil
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>**Related reading:** [How to stay consistent without burnout](/blog/consistent-social-media-without-burnout) · [Done-for-you social media guide](/blog/done-for-you-social-media-guide) · [What done-for-you costs](/blog/done-for-you-social-media-cost)
+
+---
+
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

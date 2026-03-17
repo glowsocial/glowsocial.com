@@ -109,7 +109,7 @@ Buffer looks cheaper on the surface, but compare total costs:
 <li><strong>Total:</strong> $49/month</li>
 </ul>
 
-If your time is worth more than $10/hour, Glow Social costs less than DIY with Buffer.
+If your time is worth more than $10/hour, Glow Social costs less than DIY with Buffer. See our full [cost breakdown](/blog/done-for-you-social-media-cost).
 
 
 ## Can You Use Both?
@@ -125,7 +125,7 @@ This gives you consistent presence without the pressure of creating all your con
 Buffer helps you do social media yourself. Glow Social does social media for you.
 
 
-If you enjoy content creation and have the time, Buffer is a solid choice. If you want posting handled automatically, Glow Social offers 12 posts/month for $49 with 5-minute setup at <a href="https://glowsocial.com">glowsocial.com</a>.
+If you enjoy content creation and have the time, Buffer is a solid choice. Also compare [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social) and [Sprout Social vs. Glow Social](/blog/sprout-social-vs-glow-social). If you want posting handled automatically, Glow Social offers 12 posts/month for $49 with 5-minute setup at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>

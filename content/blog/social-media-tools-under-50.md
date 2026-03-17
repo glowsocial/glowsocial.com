@@ -171,7 +171,7 @@ Cheaper tools aren't always cheaper when time is included.
 For DIY scheduling, start with Buffer's free tier to test if you'll actually use it. If free works, consider paid options for more features.
 
 
-For automated posting, Glow Social creates and publishes 12 posts monthly for $49. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated posting, Glow Social creates and publishes 12 posts monthly for $49. Compare it against [Buffer](/blog/buffer-vs-glow-social), [Hootsuite](/blog/hootsuite-vs-glow-social), and [Sprout Social](/blog/sprout-social-vs-glow-social) in our detailed reviews. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>

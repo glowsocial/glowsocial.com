@@ -146,4 +146,8 @@ Or skip the content creation entirely: Glow Social publishes 12 posts automatica
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>**Related reading:** [Best platforms for local businesses](/blog/best-platforms-local-business) · [How often should you post?](/blog/posting-frequency-local-business) · [Create a month of content in 1 hour](/blog/create-month-content-one-hour)
+
+---
+
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

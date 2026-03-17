@@ -162,4 +162,8 @@ For DIY consistency, start with monthly batching: block 3 hours on the first of 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>**Related reading:** [Create a month of content in 1 hour](/blog/create-month-content-one-hour) · [How often should local businesses post?](/blog/posting-frequency-local-business) · [Done-for-you social media guide](/blog/done-for-you-social-media-guide)
+
+---
+
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

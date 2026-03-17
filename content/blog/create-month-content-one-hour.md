@@ -171,4 +171,8 @@ Either approach beats the alternative: sporadic posting that creates inconsisten
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>**Related reading:** [50+ content ideas for local businesses](/blog/content-ideas-local-business) · [How to stay consistent without burnout](/blog/consistent-social-media-without-burnout) · [Done-for-you social media guide](/blog/done-for-you-social-media-guide)
+
+---
+
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
