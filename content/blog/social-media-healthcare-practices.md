@@ -1,6 +1,6 @@
 ---
-title: "social media healthcare practices"
-description: ""
+title: "Social Media for Healthcare Practices: HIPAA-Safe Strategies"
+description: "How healthcare practices can use social media to attract patients while staying HIPAA-compliant. Content ideas, tools, and posting best practices for medical offices."
 slug: "social-media-healthcare-practices"
 date: "2026-01-29"
 ---

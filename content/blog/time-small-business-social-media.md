@@ -1,6 +1,6 @@
 ---
-title: "time small business social media"
-description: ""
+title: "How Much Time Does Social Media Take for Small Businesses?"
+description: "Small businesses spend 6-10 hours per week on social media. Learn the real time breakdown and how to cut it to under 1 hour with done-for-you automation."
 slug: "time-small-business-social-media"
 date: "2026-01-29"
 ---

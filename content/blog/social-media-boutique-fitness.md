@@ -1,6 +1,6 @@
 ---
-title: "social media boutique fitness"
-description: ""
+title: "Social Media Marketing for Boutique Fitness Studios (2026)"
+description: "The complete social media playbook for boutique fitness studios. Content ideas, posting schedules, and automation tools to fill classes and build community."
 slug: "social-media-boutique-fitness"
 date: "2026-01-29"
 ---

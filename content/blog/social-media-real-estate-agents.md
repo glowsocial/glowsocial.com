@@ -1,6 +1,6 @@
 ---
-title: "social media real estate agents"
-description: ""
+title: "Social Media for Real Estate Agents: The 2026 Playbook"
+description: "The complete social media guide for real estate agents. Listing content, market updates, and done-for-you tools that generate leads while you sell houses."
 slug: "social-media-real-estate-agents"
 date: "2026-01-29"
 ---

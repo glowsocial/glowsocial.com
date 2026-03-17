@@ -1,6 +1,6 @@
 ---
-title: "social media restaurants"
-description: ""
+title: "Social Media for Restaurants: Content Ideas That Drive Reservations"
+description: "Restaurant social media marketing that actually works. Content ideas, posting schedules, and automation tools to fill tables and build a loyal following."
 slug: "social-media-restaurants"
 date: "2026-01-29"
 ---

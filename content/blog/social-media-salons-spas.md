@@ -1,6 +1,6 @@
 ---
-title: "social media salons spas"
-description: ""
+title: "Social Media for Salons & Spas: Fill Your Chair Every Day"
+description: "The complete social media guide for salons and spas. Showcase transformations, build trust, and keep your appointment book full with proven posting strategies."
 slug: "social-media-salons-spas"
 date: "2026-01-29"
 ---

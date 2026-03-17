@@ -1,6 +1,6 @@
 ---
-title: "social media fitness studios"
-description: ""
+title: "Social Media for Fitness Studios: Strategies That Fill Classes"
+description: "Proven social media strategies for fitness studios and gyms. Learn what content drives memberships and how to stay consistent without spending hours on it."
 slug: "social-media-fitness-studios"
 date: "2026-01-29"
 ---

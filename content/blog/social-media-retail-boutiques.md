@@ -1,6 +1,6 @@
 ---
-title: "social media retail boutiques"
-description: ""
+title: "Social Media for Retail & Boutique Shops: Drive Foot Traffic"
+description: "Social media strategies for retail stores and boutiques. Product showcases, behind-the-scenes content, and seasonal campaigns that bring customers through the door."
 slug: "social-media-retail-boutiques"
 date: "2026-01-29"
 ---

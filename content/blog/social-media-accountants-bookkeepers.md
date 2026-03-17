@@ -1,6 +1,6 @@
 ---
-title: "social media accountants bookkeepers"
-description: ""
+title: "Social Media for Accountants & Bookkeepers: The Complete Guide"
+description: "How accountants and bookkeepers can use social media to build trust and attract clients. Proven strategies, tools, and posting tips for financial professionals."
 slug: "social-media-accountants-bookkeepers"
 date: "2026-01-29"
 ---
