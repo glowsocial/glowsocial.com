@@ -22,6 +22,30 @@ export async function generateMetadata({ params }) {
   };
 }
 
+function FaqJsonLd({ faqs }) {
+  if (!faqs || faqs.length === 0) return null;
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((faq) => ({
+      "@type": "Question",
+      name: faq.q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: faq.a,
+      },
+    })),
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 export default async function ComparePage({ params }) {
   const { slug } = await params;
   const page = getPostBySlug("comparisons", slug);
@@ -31,6 +55,7 @@ export default async function ComparePage({ params }) {
 
   return (
     <article className="blog-post">
+      {page.faqs && <FaqJsonLd faqs={page.faqs} />}
       <header className="blog-post-header">
         <Link
           href="/compare"
