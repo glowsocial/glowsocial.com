@@ -38,3 +38,5 @@ Local agencies in Austin typically charge $1,500+ per month. However, Glow Socia
 
 ### What is the best way to handle social media for lawyers and attorneys?
 The best way is to automate it. Done-for-you software ensures you maintain a consistent 3-post-per-week schedule without wasting hours of your own time writing captions.
+
+**Read more:** [Best Social Media for Lawyers](/blog/best-social-media-service-for-lawyers) · [Done-For-You Guide](/blog/done-for-you-social-media-guide) · [How Much Does Done-For-You Cost?](/blog/done-for-you-social-media-cost)

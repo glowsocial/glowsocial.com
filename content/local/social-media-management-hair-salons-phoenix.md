@@ -45,3 +45,5 @@ The best salon content includes transformation photos, style trend breakdowns, p
 
 ### Does social media bring in new salon clients?
 Yes. The majority of new salon clients discover their stylist through Instagram or Google. An active, professional social media presence is the most cost-effective way to attract walk-ins and bookings.
+
+**Read more:** [Social Media for Salons & Spas](/blog/social-media-salons-spas) · [Best Posting Service for Salons](/blog/best-social-media-posting-service-salons) · [How Much Does Done-For-You Cost?](/blog/done-for-you-social-media-cost)

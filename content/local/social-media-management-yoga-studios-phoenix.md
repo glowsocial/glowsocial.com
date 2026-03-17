@@ -45,3 +45,5 @@ Effective yoga studio content includes wellness tips, class schedule highlights,
 
 ### Does social media actually bring in new yoga students?
 Yes. Most new students discover studios through Instagram and Google searches. An active social media presence is often the deciding factor between booking a trial class or scrolling past.
+
+**Read more:** [Social Media for Boutique Fitness](/blog/social-media-boutique-fitness) · [Best Service for Gyms](/blog/best-social-media-service-gyms-fitness-studios) · [How Much Does Done-For-You Cost?](/blog/done-for-you-social-media-cost)

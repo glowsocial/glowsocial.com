@@ -3,6 +3,27 @@ const nextConfig = {
   trailingSlash: false,
   async redirects() {
     return [
+      // === Removed misfit local pages (broken auto-generated content) ===
+      {
+        source: "/local/social-media-management-roofers",
+        destination: "/blog/best-social-media-posting-service-contractors",
+        permanent: true,
+      },
+      {
+        source: "/local/social-media-management-lawyers-12-posts-monthly",
+        destination: "/blog/best-social-media-service-for-lawyers",
+        permanent: true,
+      },
+      {
+        source: "/local/social-media-management-oba-framework",
+        destination: "/blog/done-for-you-social-media-guide",
+        permanent: true,
+      },
+      {
+        source: "/local/social-media-management-tools-worth",
+        destination: "/blog/social-media-tools-local-business",
+        permanent: true,
+      },
       // === Existing site-structure redirects ===
       {
         source: "/privacy-policy",

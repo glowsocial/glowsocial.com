@@ -22,6 +22,72 @@ export async function generateMetadata({ params }) {
   };
 }
 
+function FaqJsonLd({ faqs }) {
+  if (!faqs || faqs.length === 0) return null;
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((faq) => ({
+      "@type": "Question",
+      name: faq.q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: faq.a,
+      },
+    })),
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+function ServiceJsonLd({ title, city }) {
+  if (!city) return null;
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    name: "Done-For-You Social Media Management",
+    provider: {
+      "@type": "Organization",
+      name: "Glow Social",
+      url: "https://glowsocial.com",
+    },
+    areaServed: {
+      "@type": "City",
+      name: city,
+    },
+    description: title,
+    offers: {
+      "@type": "Offer",
+      price: "49",
+      priceCurrency: "USD",
+      priceSpecification: {
+        "@type": "UnitPriceSpecification",
+        price: "49",
+        priceCurrency: "USD",
+        referenceQuantity: {
+          "@type": "QuantitativeValue",
+          value: "1",
+          unitCode: "MON",
+        },
+      },
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 export default async function LocalPage({ params }) {
   const { slug } = await params;
   const page = getPostBySlug("local", slug);
@@ -31,6 +97,8 @@ export default async function LocalPage({ params }) {
 
   return (
     <article className="blog-post">
+      {page.faqs && <FaqJsonLd faqs={page.faqs} />}
+      <ServiceJsonLd title={page.title} city={page.city} />
       <header className="blog-post-header">
         <Link
           href="/local"
