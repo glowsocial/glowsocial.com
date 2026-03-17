@@ -1,6 +1,6 @@
 ---
-title: "done for you social media guide"
-description: ""
+title: "Done-For-You Social Media: Complete Guide for Small Business (2026)"
+description: "Everything you need to know about done-for-you social media services. Compare pricing, features, and providers. Starting at $49/month with Glow Social."
 slug: "done-for-you-social-media-guide"
 date: "2026-01-29"
 ---

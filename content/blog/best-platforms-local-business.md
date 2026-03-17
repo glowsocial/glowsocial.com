@@ -1,6 +1,6 @@
 ---
-title: "best platforms local business"
-description: ""
+title: "Best Social Media Platforms for Local Businesses in 2026"
+description: "Which social media platforms should local businesses focus on? Facebook, Instagram, LinkedIn, and Google Business Profile ranked by ROI for local business."
 slug: "best-platforms-local-business"
 date: "2026-01-29"
 ---

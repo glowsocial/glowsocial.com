@@ -1,6 +1,6 @@
 ---
-title: "hours per week social media"
-description: ""
+title: "How Many Hours a Week Does Social Media Take? (Real Data)"
+description: "Small businesses spend 6-10 hours per week on social media. Here's the breakdown and how to cut it to under 1 hour with automation."
 slug: "hours-per-week-social-media"
 date: "2026-01-29"
 ---

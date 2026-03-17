@@ -1,6 +1,6 @@
 ---
-title: "how ai social media posting works"
-description: ""
+title: "How AI Social Media Posting Actually Works (2026 Guide)"
+description: "How AI social media posting works: from content generation to automated scheduling. A plain-English guide for business owners who want to understand the technology."
 slug: "how-ai-social-media-posting-works"
 date: "2026-01-29"
 ---

@@ -1,8 +1,13 @@
 ---
-title: "social media not working"
-description: ""
+title: "Why Your Social Media Isn't Working (And How to Fix It)"
+description: "Your social media isn't working because of inconsistency, wrong content, or unrealistic expectations. Here are the real fixes that get results for small businesses."
 slug: "social-media-not-working"
 date: "2026-01-29"
+faqs:
+  - q: "Why isn't my social media working for my business?"
+    a: "The most common reasons are inconsistent posting, wrong content for your audience, unrealistic expectations about timelines, and treating social media as advertising instead of trust-building. Consistency alone fixes most of these issues."
+  - q: "How long does it take for social media to work for a small business?"
+    a: "Most small businesses see meaningful results from social media after 3-6 months of consistent posting. The biggest factor is posting regularly — not going viral or getting thousands of followers."
 ---
 
 If your social media isn't generating leads, engagement, or visibility, you're not alone—most small businesses struggle to make social media work. Usually the problem isn't the platforms. It's one of these common issues that have straightforward fixes.

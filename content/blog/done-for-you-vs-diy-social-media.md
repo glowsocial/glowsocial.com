@@ -1,6 +1,6 @@
 ---
-title: "done for you vs diy social media"
-description: ""
+title: "Done-For-You vs. DIY Social Media: Which is Right for You?"
+description: "Done-for-you vs DIY social media compared: cost, time, and results. Find out which approach fits your business and budget."
 slug: "done-for-you-vs-diy-social-media"
 date: "2026-01-29"
 ---

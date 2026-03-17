@@ -1,6 +1,6 @@
 ---
-title: "jasper vs glow social"
-description: ""
+title: "Jasper vs. Glow Social: AI Writing Tool vs. Done-For-You Social Media"
+description: "Jasper vs Glow Social: one generates copy you still have to post, the other handles everything. Compare features, pricing, and time savings for local businesses."
 slug: "jasper-vs-glow-social"
 date: "2026-01-29"
 ---

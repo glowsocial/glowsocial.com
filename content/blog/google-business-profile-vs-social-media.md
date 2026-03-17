@@ -1,6 +1,6 @@
 ---
-title: "google business profile vs social media"
-description: ""
+title: "Google Business Profile vs. Social Media: Where Should Local Businesses Focus?"
+description: "Google Business Profile vs social media: which drives more local customers? The answer is both, but here's how to prioritize your limited time."
 slug: "google-business-profile-vs-social-media"
 date: "2026-01-29"
 ---

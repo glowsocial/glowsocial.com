@@ -1,6 +1,6 @@
 ---
-title: "posting frequency local business"
-description: ""
+title: "How Often Should a Local Business Post on Social Media?"
+description: "The ideal posting frequency for local businesses is 3-5 times per week. Here's why, plus the minimum you need to stay visible."
 slug: "posting-frequency-local-business"
 date: "2026-01-29"
 ---

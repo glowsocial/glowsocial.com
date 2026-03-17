@@ -1,6 +1,6 @@
 ---
-title: "social media tools local business"
-description: ""
+title: "7 Best Social Media Tools for Local Businesses in 2026"
+description: "Compare the best social media tools built for local businesses in 2026. From free scheduling to done-for-you posting — find the right tool for your budget."
 slug: "social-media-tools-local-business"
 date: "2026-01-29"
 ---

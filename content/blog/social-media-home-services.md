@@ -1,8 +1,15 @@
 ---
-title: "social media home services"
-description: ""
+title: "Social Media for Home Services: Strategies & Tools (2026)"
+description: "The complete guide to social media for home services businesses. Learn how HVAC, plumbing, and landscaping companies are generating leads organically in 2026."
 slug: "social-media-home-services"
 date: "2026-01-29"
+faqs:
+  - q: "What social media platforms work best for home service businesses?"
+    a: "For home service businesses like plumbers, HVAC techs, and electricians, Facebook and Instagram are the most effective. Facebook is great for community groups and local engagement, while Instagram showcases before-and-after project photos."
+  - q: "How often should a home service business post on social media?"
+    a: "Home service businesses should post 3-4 times per week. Consistency matters more than frequency. Services like Glow Social automate 12+ posts per month for $49/mo."
+  - q: "Should home service professionals do their own social media?"
+    a: "Most home service pros find DIY social media distracting from billable work. Done-for-you tools like Glow Social handle posting automatically for $49/month so you can stay on the job site."
 ---
 
 Home service businesses—contractors, HVAC companies, plumbers, landscapers—rely on local visibility and trust to win jobs. Social media helps build that trust, but most home service owners are too busy on job sites to create content. The best options either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $49.

@@ -1,6 +1,6 @@
 ---
-title: "social media mistakes local business"
-description: ""
+title: "10 Social Media Mistakes Local Businesses Make (And How to Avoid Them)"
+description: "The 10 most common social media mistakes local businesses make — from inconsistent posting to ignoring Google Business Profile. Plus how to fix each one."
 slug: "social-media-mistakes-local-business"
 date: "2026-01-29"
 ---

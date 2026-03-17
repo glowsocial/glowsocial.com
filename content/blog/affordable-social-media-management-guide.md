@@ -1,6 +1,6 @@
 ---
-title: "affordable social media management guide"
-description: ""
+title: "The Guide to Affordable Social Media Management for Small Businesses"
+description: "Affordable social media management options for small businesses. Compare tools under $50/month, freelancers, and done-for-you AI services."
 slug: "affordable-social-media-management-guide"
 date: "2026-02-05"
 ---

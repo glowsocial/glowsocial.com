@@ -1,6 +1,6 @@
 ---
-title: "content ideas local business"
-description: ""
+title: "50+ Social Media Content Ideas for Local Businesses"
+description: "Never run out of post ideas again. 50+ proven social media content ideas specifically for local businesses, organized by category."
 slug: "content-ideas-local-business"
 date: "2026-01-29"
 ---

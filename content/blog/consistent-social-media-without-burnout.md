@@ -1,6 +1,6 @@
 ---
-title: "consistent social media without burnout"
-description: ""
+title: "How to Stay Consistent on Social Media Without Burnout"
+description: "Struggling to post consistently? Learn practical strategies to maintain your social media presence without burning out — including when to automate."
 slug: "consistent-social-media-without-burnout"
 date: "2026-01-29"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "create month content one hour"
-description: ""
+title: "How to Create a Month of Social Media Content in 1 Hour"
+description: "Batch-create an entire month of social media content in a single focused hour. Step-by-step framework for busy local business owners."
 slug: "create-month-content-one-hour"
 date: "2026-01-29"
 ---

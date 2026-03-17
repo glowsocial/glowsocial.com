@@ -1,6 +1,6 @@
 ---
-title: "sprout social vs glow social"
-description: ""
+title: "Sprout Social vs. Glow Social: $399/Mo vs. $49/Mo for Local Businesses"
+description: "Sprout Social starts at $249/mo and charges extra for reviews. Glow Social does it all for $49/mo. Compare features for local business social media."
 slug: "sprout-social-vs-glow-social"
 date: "2026-01-29"
 ---

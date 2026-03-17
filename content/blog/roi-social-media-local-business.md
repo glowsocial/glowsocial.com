@@ -1,6 +1,6 @@
 ---
-title: "roi social media local business"
-description: ""
+title: "Social Media ROI for Local Business: How to Measure What Matters"
+description: "How to measure social media ROI for local businesses. Stop tracking vanity metrics and focus on the numbers that actually drive revenue."
 slug: "roi-social-media-local-business"
 date: "2026-01-29"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "bad social media advice local business"
-description: ""
+title: "Bad Social Media Advice That's Hurting Local Businesses"
+description: "Stop following generic social media advice. Here are the most common bad tips local businesses fall for and what actually works instead."
 slug: "bad-social-media-advice-local-business"
 date: "2026-01-29"
 ---

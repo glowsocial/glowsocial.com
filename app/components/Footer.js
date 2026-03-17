@@ -32,6 +32,16 @@ export default function Footer() {
           </div>
 
           <div className="footer-col">
+            <h4>Compare</h4>
+            <Link href="/compare/later-alternative">Later Alternative</Link>
+            <Link href="/blog/buffer-vs-glow-social">Buffer vs. Glow Social</Link>
+            <Link href="/compare/chatgpt-alternative">ChatGPT Alternative</Link>
+            <Link href="/blog/hootsuite-vs-glow-social">Hootsuite vs. Glow Social</Link>
+            <Link href="/blog/sprout-social-vs-glow-social">Sprout Social vs. Glow Social</Link>
+            <Link href="/compare/loomly-alternative">Loomly Alternative</Link>
+          </div>
+
+          <div className="footer-col">
             <h4>Connect</h4>
             <a
               href="https://www.linkedin.com/company/glowsocialhq/"
