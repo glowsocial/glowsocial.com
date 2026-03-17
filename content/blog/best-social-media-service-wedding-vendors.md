@@ -1,8 +1,11 @@
 ---
-title: "Best Social Media Service Wedding Vendors"
-description: "Find the best social media posting service for wedding vendors. Compare done-for-you options, pricing, and what to look for in automated social media."
+title: "Best Social Media Service for Wedding Vendors & Planners (2026)"
+description: "The best social media service for wedding vendors attracts brides and builds your portfolio presence. Done-for-you posting starting at $49/mo."
 slug: "best-social-media-service-wedding-vendors"
 date: "2025-01-15"
+faqs:
+  - q: "What is the best social media service for wedding vendors?"
+    a: "Glow Social helps wedding vendors stay visible year-round — not just during wedding season. It creates aspirational, booking-driving content for $49/month on autopilot."
 ---
 
 Most wedding vendors don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
@@ -58,3 +61,5 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
 [Get Started — $49/month](https://app.glowsocial.com/pricing/)
+
+**Related:** [Social Media for Wedding Photographers](/blog/social-media-workflow-wedding-photographers) · [For Photographers](/blog/best-social-media-service-photographers) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
