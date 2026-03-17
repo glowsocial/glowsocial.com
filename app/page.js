@@ -7,17 +7,18 @@ import "./home.css";
 
 export default function HomePage() {
   useEffect(() => {
-    // Hero slideshow
-    const slides = document.querySelectorAll(".hero-slide");
-    let current = 0;
-    if (slides.length > 1) {
-      const interval = setInterval(() => {
-        slides[current].classList.remove("active");
-        current = (current + 1) % slides.length;
-        slides[current].classList.add("active");
-      }, 3500);
-      return () => clearInterval(interval);
-    }
+    // How It Works tabs
+    const tabBtns = document.querySelectorAll(".how-tab-btn");
+    const tabPanels = document.querySelectorAll(".how-tab-panel");
+    tabBtns.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const tab = btn.dataset.tab;
+        tabBtns.forEach((b) => b.classList.remove("active"));
+        tabPanels.forEach((p) => p.classList.remove("active"));
+        btn.classList.add("active");
+        document.querySelector(`[data-panel="${tab}"]`)?.classList.add("active");
+      });
+    });
   }, []);
 
   useEffect(() => {
@@ -41,71 +42,59 @@ export default function HomePage() {
       <HomeJsonLd />
       {/* HERO */}
       <section className="hero">
-        <div className="container hero-grid">
-          <div className="hero-text">
-            <span className="hero-badge">The App for Local Businesses</span>
-            <h1>
-              Glow Social reads 11 pages of your website{" "}
-              <br />
-              <span className="accent">before writing your first post.</span>
-            </h1>
-            <p className="hero-sub">
-              So every caption sounds like you wrote it on your best day.
-            </p>
-            <p className="hero-desc">
-              <strong>3 taps. 12 posts. 12 platforms.</strong> Every month, for
-              $49.
-            </p>
-          </div>
-          <div className="hero-visual">
-            <div className="hero-slideshow" id="heroSlideshow">
-              <img
-                src="/images/sample-post-realtor.png"
-                alt="Sample Glow Social post for a realtor"
-                className="hero-slide active"
-              />
-              <img
-                src="/images/sample-post-chiropractor.png"
-                alt="Sample Glow Social post for a chiropractor"
-                className="hero-slide"
-                loading="lazy"
-              />
-              <img
-                src="/images/sample-post-bakery.png"
-                alt="Sample Glow Social post for a bakery"
-                className="hero-slide"
-                loading="lazy"
-              />
-              <img
-                src="/images/sample-post-landscaper.png"
-                alt="Sample Glow Social post for a landscaper"
-                className="hero-slide"
-                loading="lazy"
-              />
-              <img
-                src="/images/sample-post-dog-groomer.png"
-                alt="Sample Glow Social post for a dog groomer"
-                className="hero-slide"
-                loading="lazy"
-              />
-            </div>
+        <div className="container hero-centered">
+          <span className="hero-badge">Built for Local Businesses</span>
+          <h1>
+            Your $49/month{" "}
+            <span className="accent">social media marketing agency.</span>
+          </h1>
+          <p className="hero-sub">
+            Posts created, designed, and published for you — so you can run your business.
+          </p>
+          <p className="hero-desc">
+            <strong>12+ posts. 13 platforms. Setup in 5 minutes.</strong> Cancel anytime.
+          </p>
+          <div className="hero-ctas-centered">
+            <a
+              href="https://app.glowsocial.com/pricing/"
+              className="btn btn--primary btn--lg"
+              id="hero-cta-primary"
+            >
+              Get Started — $49/mo
+            </a>
+            <a
+              href="https://app.glowsocial.com/examples"
+              className="btn btn--outline"
+              id="hero-cta-secondary"
+            >
+              See What Yours Would Look Like
+            </a>
           </div>
         </div>
-        <div className="container hero-ctas">
-          <a
-            href="https://app.glowsocial.com/pricing/"
-            className="btn btn--primary"
-            id="hero-cta-primary"
-          >
-            Get Started
-          </a>
-          <a
-            href="https://app.glowsocial.com/examples"
-            className="btn btn--outline"
-            id="hero-cta-secondary"
-          >
-            See What Yours Would Look Like
-          </a>
+      </section>
+
+      {/* PROBLEM */}
+      <section className="problem">
+        <div className="container problem-inner">
+          <h2>Sound Familiar?</h2>
+          <div className="problem-scenarios">
+            <div className="problem-scenario">
+              <h3>You haven&apos;t posted in weeks.</h3>
+              <p>You keep meaning to. But between serving customers and running the business, social media always loses.</p>
+            </div>
+            <div className="problem-scenario">
+              <h3>The chain down the street posts every day.</h3>
+              <p>Professional graphics. Consistent schedule. Always visible. They have a marketing team. You have a to-do list.</p>
+            </div>
+            <div className="problem-scenario">
+              <h3>You&apos;ve tried doing it yourself.</h3>
+              <p>Canva templates. Scheduling apps. Batch content Sundays. It worked for a week. Then it didn&apos;t.</p>
+            </div>
+          </div>
+          <div className="solution-bridge">
+            <h3>Now you show up every day too. Starting this week.</h3>
+            <p>Glow Social creates and publishes professional content for your business — so you never have to stare at a blank screen again.</p>
+          </div>
         </div>
       </section>
 
@@ -131,99 +120,70 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* GBP + REVIEWS */}
-      <section className="gbp-reviews">
-        <div className="container">
-          <h2>The Two Things That Actually Get Local Businesses Found</h2>
-          <p className="section-sub">Google is how most customers find you. Your Business Profile and your reviews are the first things they see. Glow Social keeps both active — automatically.</p>
-          <div className="gbp-grid">
-            <div className="gbp-pillar">
-              <div className="gbp-pillar-header">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="3"/><polyline points="9 11 12 14 22 4"/></svg>
-                <h3>Google Business Profile Posts</h3>
-              </div>
-              <p className="gbp-pillar-desc">Most social tools skip GBP entirely. Glow Social publishes directly to it — keeping your listing active and boosting your local search ranking.</p>
-              <ul className="gbp-pillar-list">
-                <li>Daily posts created and published for you</li>
-                <li>Matches your brand voice and services</li>
-                <li>Managed alongside all your other platforms</li>
-              </ul>
-            </div>
-            <div className="gbp-pillar">
-              <div className="gbp-pillar-header">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-                <h3>Google Review Monitoring</h3>
-              </div>
-              <p className="gbp-pillar-desc">See every new review the moment it comes in. Respond right from your dashboard — no extra app, no extra cost.</p>
-              <ul className="gbp-pillar-list">
-                <li>Instant alerts when new reviews arrive</li>
-                <li>Reply to reviews without leaving Glow Social</li>
-                <li>Included in every plan — competitors charge $399+/mo</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* PROBLEM AGITATION */}
-      <section className="problem">
-        <div className="container problem-inner">
-          <h2>The Chain Restaurant Down the Street Posts Every Day</h2>
-          <p>They show up in feeds constantly. Professional graphics, consistent schedule, always visible.</p>
-          <p>You post when you can. <strong>Which is almost never.</strong></p>
-          <p>Because you&apos;re busy actually running a business.</p>
-          <div className="solution-bridge">
-            <h3>Now you do too. Starting this week.</h3>
-            <p>Customers find you. Prospects remember you. Your business looks open, active, and thriving — because it is.</p>
-          </div>
-        </div>
-      </section>
-
-      {/* HOW IT WORKS */}
+      {/* HOW IT WORKS — tabbed layout with app screenshots */}
       <section className="how" id="how">
         <div className="container">
-          <h2>Built from your brand intelligence</h2>
-          <span className="section-badge">Connect. Extract. Publish.</span>
-          <p className="section-sub">We scrape your brand colors, tone, and services. You review and tap publish.</p>
-          <div className="steps-grid">
-            <div className="step-card">
-              <span className="step-num">1</span>
-              <h3>Connect</h3>
-              <p>Enter your web address so we can learn your business inside and out.</p>
+          <h2>Here&apos;s How Your $49/Month Agency Works</h2>
+          <p className="section-sub">We read 11 pages of your website before writing a single word. Then you pick your favorites and tap publish.</p>
+
+          <div className="how-tabs">
+            <div className="how-tab-buttons">
+              <button className="how-tab-btn active" data-tab="connect" id="tab-connect">
+                <span className="step-num">1</span>
+                <span>Connect</span>
+              </button>
+              <button className="how-tab-btn" data-tab="pick" id="tab-pick">
+                <span className="step-num">2</span>
+                <span>Pick</span>
+              </button>
+              <button className="how-tab-btn" data-tab="post" id="tab-post">
+                <span className="step-num">3</span>
+                <span>Post</span>
+              </button>
             </div>
-            <div className="step-card">
-              <span className="step-num">2</span>
-              <h3>Extract</h3>
-              <p>We scrape your brand colors, analyze your tone, and generate 192 topics.</p>
-              <div className="platform-icons">
-                <span title="Facebook">f</span>
-                <span title="Google">G</span>
-                <span title="Instagram">ig</span>
-                <span title="LinkedIn">in</span>
-                <span title="X">X</span>
-                <span title="TikTok">Tk</span>
+
+            <div className="how-tab-panels">
+              <div className="how-tab-panel active" data-panel="connect">
+                <div className="how-panel-content">
+                  <div className="how-panel-text">
+                    <h3>Drop in your website. We do the rest.</h3>
+                    <p>Glow Social reads 11 pages of your website to learn your business, your brand voice, and your services. Then we generate 133+ content ideas tailored specifically to you.</p>
+                    <p>Your dashboard shows everything at a glance — connected platforms, posting schedule, and content pipeline. Setup takes about 5 minutes.</p>
+                  </div>
+                  <div className="how-panel-img">
+                    <img src="/images/app-dashboard.png" alt="Glow Social dashboard showing 6 connected platforms, posting schedule, and 133 content ideas" />
+                  </div>
+                </div>
               </div>
-            </div>
-            <div className="step-card">
-              <span className="step-num">3</span>
-              <h3>Publish</h3>
-              <p>Posts are scheduled to 12 platforms with a single approval.</p>
-              <div className="we-handle">
-                <span>
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="20 6 9 17 4 12" /></svg>
-                  Captions
-                </span>
-                <span>
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="20 6 9 17 4 12" /></svg>
-                  Images
-                </span>
-                <span>
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="20 6 9 17 4 12" /></svg>
-                  Scheduling
-                </span>
+
+              <div className="how-tab-panel" data-panel="pick">
+                <div className="how-panel-content">
+                  <div className="how-panel-text">
+                    <h3>Swipe through ideas. Keep the ones you love.</h3>
+                    <p>Browse through content ideas written for your business. Swipe right to keep, left to skip. It&apos;s like Tinder for your social media content.</p>
+                    <p>Choose between static posts, videos, and carousels. Every idea is a starting point — we turn the ones you pick into polished, ready-to-publish content.</p>
+                  </div>
+                  <div className="how-panel-img">
+                    <img src="/images/app-sparks.png" alt="Glow Social sparks picker — swipe through content ideas and choose the ones you love" />
+                  </div>
+                </div>
+              </div>
+
+              <div className="how-tab-panel" data-panel="post">
+                <div className="how-panel-content">
+                  <div className="how-panel-text">
+                    <h3>Review, tap, done. We handle the rest.</h3>
+                    <p>Each post comes with a professional image, caption, and platform selection. Review it, make edits if you want, then tap Post Now or save it for later.</p>
+                    <p>We publish to Facebook, Instagram, Threads, LinkedIn, Google Business Profile, and more — all from one screen. No separate logins. No copy-pasting.</p>
+                  </div>
+                  <div className="how-panel-img">
+                    <img src="/images/app-post.png" alt="Glow Social post review with professional image, caption, platform badges, and one-tap publishing" />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
+
           <div className="section-cta">
             <a href="https://app.glowsocial.com/pricing/" className="btn btn--primary" id="how-cta">Get Started</a>
           </div>
@@ -259,6 +219,40 @@ export default function HomePage() {
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg></div>
               <div><h3>Get 10+ Hours Back Every Week</h3><p>Stop agonizing over what to post. Stop opening Canva. Stop feeling guilty about your quiet pages. That time is yours again.</p></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* GBP + REVIEWS */}
+      <section className="gbp-reviews">
+        <div className="container">
+          <h2>The Two Things That Actually Get Local Businesses Found</h2>
+          <p className="section-sub">Google is how most customers find you. Your Business Profile and your reviews are the first things they see. Glow Social keeps both active — automatically.</p>
+          <div className="gbp-grid">
+            <div className="gbp-pillar">
+              <div className="gbp-pillar-header">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="3"/><polyline points="9 11 12 14 22 4"/></svg>
+                <h3>Google Business Profile Posts</h3>
+              </div>
+              <p className="gbp-pillar-desc">Most social tools skip GBP entirely. Glow Social publishes directly to it — keeping your listing active and boosting your local search ranking.</p>
+              <ul className="gbp-pillar-list">
+                <li>Daily posts created and published for you</li>
+                <li>Matches your brand voice and services</li>
+                <li>Managed alongside all your other platforms</li>
+              </ul>
+            </div>
+            <div className="gbp-pillar">
+              <div className="gbp-pillar-header">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                <h3>Google Review Monitoring</h3>
+              </div>
+              <p className="gbp-pillar-desc">See every new review the moment it comes in. Respond right from your dashboard — no extra app, no extra cost.</p>
+              <ul className="gbp-pillar-list">
+                <li>Instant alerts when new reviews arrive</li>
+                <li>Reply to reviews without leaving Glow Social</li>
+                <li>Included in every plan — competitors charge $399+/mo</li>
+              </ul>
             </div>
           </div>
         </div>
@@ -383,8 +377,8 @@ export default function HomePage() {
       {/* FINAL CTA */}
       <section className="final-cta">
         <div className="container">
-          <h2>Be the Business Everyone Recognizes</h2>
-          <p>5-minute setup. Posts, Google Business Profile, and reviews — all handled. Your reputation starts building immediately.</p>
+          <h2>Visibility Shouldn&apos;t Be a Luxury Only Corporations Can Afford</h2>
+          <p>5-minute setup. Posts, Google Business Profile, and reviews — all handled. Your $49/month agency starts today.</p>
           <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg" id="final-cta">Get Started — $49/mo</a>
         </div>
       </section>
