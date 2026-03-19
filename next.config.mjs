@@ -138,6 +138,55 @@ const nextConfig = {
         destination: "/blog/best-social-media-manager-alternatives-small-business",
         permanent: true,
       },
+      // Content strategy duplicate → keep the one with better body
+      {
+        source: "/blog/why-content-strategy-is-important-for-social-media-success",
+        destination: "/blog/why-is-content-strategy-important-for-social-media-success",
+        permanent: true,
+      },
+      // Thin done-for-you stubs → canonical guide
+      {
+        source: "/blog/is-done-for-you-social-media-worth-it-small-business",
+        destination: "/blog/done-for-you-social-media-guide",
+        permanent: true,
+      },
+      {
+        source: "/blog/best-done-for-you-social-media-services-small-business",
+        destination: "/blog/done-for-you-social-media-guide",
+        permanent: true,
+      },
+      // Thin Glow Social industry stubs → industry pillar posts
+      {
+        source: "/blog/glow-social-work-gyms",
+        destination: "/blog/social-media-fitness-studios",
+        permanent: true,
+      },
+      {
+        source: "/blog/glow-social-work-salons",
+        destination: "/blog/social-media-salons-spas",
+        permanent: true,
+      },
+      {
+        source: "/blog/glow-social-work-restaurants",
+        destination: "/blog/social-media-restaurants",
+        permanent: true,
+      },
+      {
+        source: "/blog/glow-social-work-retail-stores",
+        destination: "/blog/social-media-retail-boutiques",
+        permanent: true,
+      },
+      // Thin Glow Social feature stubs → How It Works page
+      {
+        source: "/blog/glow-social-ai-content",
+        destination: "/how-glow-social-works",
+        permanent: true,
+      },
+      {
+        source: "/blog/glow-social-setup-time",
+        destination: "/how-glow-social-works",
+        permanent: true,
+      },
 
       // === Existing site-structure redirects ===
       {
@@ -190,7 +239,6 @@ const nextConfig = {
       ...[
         // Previously existing posts (still live)
         "share-business-opinions-social-media",
-        "glow-social-setup-time",
         "best-social-media-service-for-lawyers",
         "social-media-post-types-local-businesses",
         // Newly created posts (still live)
@@ -216,7 +264,7 @@ const nextConfig = {
         "social-media-marketing-cost-optimize-your-budget-with-ai-solutions",
         "what-is-media-scheduling-boost-your-social-media-strategy-effortlessly",
         "social-media-management-meaning-elevate-your-strategy-with-ai-tools",
-        "why-content-strategy-is-important-for-social-media-success",
+
         "understanding-curating-content-meaning-a-comprehensive-overview",
         "social-media-planner-for-small-business-streamline-your-strategy-today",
         "social-media-and-ai-transform-your-digital-dominance-effortlessly",
@@ -234,6 +282,8 @@ const nextConfig = {
         { slug: "canva-vs-all-in-one-social-media-tools", canonical: "/blog/social-media-tools-under-50" },
         { slug: "social-media-agency-vs-diy-tool-service-providers", canonical: "/blog/ai-tools-vs-agencies-cost" },
         { slug: "glow-social-different-hootsuite", canonical: "/blog/hootsuite-vs-glow-social" },
+        { slug: "glow-social-setup-time", canonical: "/how-glow-social-works" },
+        { slug: "why-content-strategy-is-important-for-social-media-success", canonical: "/blog/why-is-content-strategy-important-for-social-media-success" },
       ].map(({ slug, canonical }) => ({
         source: `/${slug}`,
         destination: canonical,
