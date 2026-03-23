@@ -3,6 +3,60 @@ const nextConfig = {
   trailingSlash: false,
   async redirects() {
     return [
+      // === "Time spent on social media" cluster consolidation ===
+      // Merging 5 thin duplicate pages into /blog/average-time-social-media-marketing
+      {
+        source: "/blog/hours-per-week-social-media-takes",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/blog/average-time-spent-social-media-marketing",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/blog/time-small-business-social-media",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/blog/hours-per-week-social-media",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/blog/how-long-manage-social-media",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      // Root-level versions of the same (avoid double redirects)
+      {
+        source: "/hours-per-week-social-media-takes",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/average-time-spent-social-media-marketing",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/time-small-business-social-media",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/hours-per-week-social-media",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
+        source: "/how-long-manage-social-media",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+
       // === Removed misfit local pages (broken auto-generated content) ===
       {
         source: "/local/social-media-management-roofers",
@@ -131,11 +185,6 @@ const nextConfig = {
       {
         source: "/blog/canva-vs-all-in-one-social-media-tools",
         destination: "/blog/social-media-tools-under-50",
-        permanent: true,
-      },
-      {
-        source: "/blog/later-vs-buffer-differences-comparison",
-        destination: "/blog/best-social-media-manager-alternatives-small-business",
         permanent: true,
       },
       // Content strategy duplicate → keep the one with better body
