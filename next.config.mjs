@@ -57,6 +57,29 @@ const nextConfig = {
         permanent: true,
       },
 
+      // === "SM manager cost" cluster consolidation ===
+      // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost
+      {
+        source: "/blog/social-media-manager-cost-hiring-budget",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/blog/the-real-cost-of-social-media-management-comparing-your-options-in-2025",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/social-media-manager-cost-hiring-budget",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/the-real-cost-of-social-media-management-comparing-your-options-in-2025",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+
       // === Removed misfit local pages (broken auto-generated content) ===
       {
         source: "/local/social-media-management-roofers",
