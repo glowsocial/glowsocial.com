@@ -103,3 +103,8 @@ They deserve to be visible online. They shouldn't have to become content creator
 That's why I built Glow Social. Not because I love social media. Because I hate watching good businesses lose to bad marketing.
 
 If that resonates with you — if you're the business owner who's too busy doing great work to post about it — [we built this for you](https://app.glowsocial.com/).
+
+
+### Want to see what Glow Social can do for your Accountant business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/accountant)

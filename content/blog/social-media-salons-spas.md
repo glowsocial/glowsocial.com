@@ -178,3 +178,8 @@ For DIY, commit to taking before/after photos of at least 3 clients per week and
 <hr>
 
 <strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

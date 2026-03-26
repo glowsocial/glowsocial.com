@@ -115,3 +115,8 @@ Instead of learning how to create content, design graphics, and optimize posting
 For more on execution options, see our guide to [social media management for local businesses](/blog/social-media-management-meaning-elevate-your-strategy-with-ai-tools) or explore how [AI tools are changing social media](/blog/social-media-and-ai-transform-your-digital-dominance-effortlessly).
 
 [Get Started](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

@@ -80,3 +80,8 @@ If creating 3 posts per week feels impossible alongside running your business, d
 Customers don't trust businesses that look absent online. They trust businesses that show up consistently, respond to their community, and present themselves professionally. None of this requires marketing expertise — just consistency.
 
 [Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

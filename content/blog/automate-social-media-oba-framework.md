@@ -170,3 +170,8 @@ The OBA framework works because it respects the correct order of operations. Obs
 The result: a social media presence that runs itself while still sounding like your business — not a robot, not a template, but you on your best day.
 
 [Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Plumbing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/plumbing)

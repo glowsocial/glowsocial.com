@@ -58,3 +58,8 @@ The best Plann alternative for local businesses is Glow Social. It completely au
 Glow Social is better for business owners because it is a done-for-you service. Plann is a DIY software (another visual planner that still requires your time and effort). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Later Alternative](/compare/later-alternative) · [Planoly Alternative](/compare/planoly-alternative) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

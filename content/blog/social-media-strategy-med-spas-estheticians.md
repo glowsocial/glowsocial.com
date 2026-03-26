@@ -50,3 +50,8 @@ A consistent, professional social media feed serves as a digital waiting room. M
 1. **The 'Before & After' Story:** Demonstrating real, achievable results.
 2. **Treatment Education:** Explaining the science behind neurotoxins or dermal fillers.
 3. **Clinic Culture:** Showing off your pristine treatment rooms and friendly staff to lower entry anxiety.
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

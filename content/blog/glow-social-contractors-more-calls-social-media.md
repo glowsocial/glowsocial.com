@@ -122,3 +122,8 @@ You don't need a marketing degree or a graphic designer. You need consistent, pr
 [Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
 
 Your next customer is checking your social media right now. Make sure there's something to see.
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

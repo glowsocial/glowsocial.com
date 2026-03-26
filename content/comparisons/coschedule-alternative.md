@@ -58,3 +58,8 @@ The best CoSchedule alternative for local businesses is Glow Social. It complete
 Glow Social is better for business owners because it is a done-for-you service. CoSchedule is a DIY software (a massive marketing calendar that takes hours to set up). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Loomly Alternative](/compare/loomly-alternative) · [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social) · [Planoly Alternative](/compare/planoly-alternative)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

@@ -48,3 +48,8 @@ Glow Social handles your social media content end-to-end. We read your website, 
 While Stories require real-time content, Glow Social ensures your **feed posts** are always active — so even when you're too busy for Stories, your business looks alive and professional.
 
 [Get Started — $49/month](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

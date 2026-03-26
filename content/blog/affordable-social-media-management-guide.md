@@ -98,3 +98,8 @@ If you are a local service provider—a roofer, a coach, a salon owner—you don
 
 ---
 *Published by Kathleen Celmins, Founder of Glow Social. Last updated: February 2026.*
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

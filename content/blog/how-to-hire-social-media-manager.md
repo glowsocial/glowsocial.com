@@ -158,3 +158,8 @@ But if you're honest with yourself and what you really need is "just make my soc
 [Set up Glow Social in 5 minutes](https://app.glowsocial.com/) and see what your posts would look like before you commit to anything.
 
 **Related:** [How Much Does a Social Media Manager Cost?](/blog/freelance-social-media-manager-charge-cost) · [Done-For-You vs. DIY Social Media](/blog/done-for-you-vs-diy-social-media) · [Why Social Media Managers Are So Expensive](/blog/why-social-media-managers-expensive)
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

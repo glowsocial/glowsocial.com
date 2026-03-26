@@ -58,3 +58,8 @@ The best Planoly alternative for local businesses is Glow Social. It completely 
 Glow Social is better for business owners because it is a done-for-you service. Planoly is a DIY software (only focuses on instagram visually, ignores text and strategy). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Later Alternative](/compare/later-alternative) · [Plann Alternative](/compare/plann-alternative) · [Best tools under $50/mo](/blog/social-media-tools-under-50)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

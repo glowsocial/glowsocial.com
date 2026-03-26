@@ -151,3 +151,8 @@ Glow Social creates and publishes 12+ posts per month across Facebook, Instagram
 ---
 
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $49/month. [glowsocial.com](https://glowsocial.com)
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

@@ -45,3 +45,8 @@ The most affordable way is leveraging automated, AI-driven tools for SEO and soc
 
 ### Does AI social media management actually work for local businesses?
 Yes. Local businesses don't need viral consumer content; they need consistent, professional presence. AI execution of frameworks like the GLOW Method guarantees that consistency perfectly.
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

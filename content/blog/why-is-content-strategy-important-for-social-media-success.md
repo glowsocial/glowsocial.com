@@ -151,3 +151,8 @@ For more on how different execution approaches compare, see our guide to [automa
 **$49/month.** Your strategy, on schedule, without the time investment.
 
 [Get Started](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

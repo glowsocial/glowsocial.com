@@ -63,3 +63,8 @@ Stop letting your social media pages collect dust. Set up Glow Social in 5 minut
 [Get Started — $49/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Real Estate](/blog/social-media-real-estate-agents) · [Social Media Manager Alternatives](/blog/best-social-media-manager-alternatives-small-business) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
+
+
+### Want to see what Glow Social can do for your Real Estate business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/real-estate)

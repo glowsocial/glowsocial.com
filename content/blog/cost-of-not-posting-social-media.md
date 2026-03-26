@@ -129,3 +129,8 @@ The longer you wait, the wider the gap grows between you and the competitors who
 [Set up Glow Social in 5 minutes](https://app.glowsocial.com/) and never have a silent social media page again.
 
 **Related:** [The Real Cost of Inconsistent Posting](/blog/real-cost-inconsistent-social-media-posting) · [How to Restart After a Long Break](/blog/how-to-restart-social-media-after-long-break) · [How Much Time Does Social Media Take?](/blog/average-time-social-media-marketing)
+
+
+### Want to see what Glow Social can do for your Plumbing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/plumbing)

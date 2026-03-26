@@ -44,3 +44,8 @@ We utilize the **GLOW Method** to transform random scrollers into highly engaged
 ## Beating E-Commerce with Community
 
 You cannot outspend Amazon, but you can absolutely out-community them. By outsourcing the menial task of social media content creation to Glow Social, local retail owners can spend their time actually building an unforgettable, in-store aesthetic and greeting customers by name.
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

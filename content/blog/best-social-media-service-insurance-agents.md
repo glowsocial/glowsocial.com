@@ -63,3 +63,8 @@ Stop letting your social media pages collect dust. Set up Glow Social in 5 minut
 [Get Started — $49/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Financial Advisors](/blog/social-media-automation-financial-advisors-accountants) · [Social Media Manager vs AI](/blog/social-media-manager-vs-ai) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
+
+
+### Want to see what Glow Social can do for your Accountant business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/accountant)

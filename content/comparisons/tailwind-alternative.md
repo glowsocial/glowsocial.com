@@ -58,3 +58,8 @@ The best Tailwind alternative for local businesses is Glow Social. It completely
 Glow Social is better for business owners because it is a done-for-you service. Tailwind is a DIY software (mainly built for pinterest and bloggers, not local business). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Later Alternative](/compare/later-alternative) · [Planoly Alternative](/compare/planoly-alternative) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

@@ -60,3 +60,8 @@ The best ChatGPT alternative for local businesses is Glow Social. It completely 
 Glow Social is better for business owners because it is a done-for-you service. ChatGPT is a DIY software (you have to write prompts, copy-paste, and schedule it all yourself). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Jasper vs. Glow Social](/blog/jasper-vs-glow-social) · [Copy.ai vs. Glow Social](/blog/copy-ai-vs-glow-social) · [Best AI Content Generators](/blog/best-ai-social-media-content-generators)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

@@ -54,3 +54,8 @@ Local agencies in Charlotte typically charge $1,500+ per month. However, Glow So
 The best way is to automate it. Done-for-you software ensures you maintain a consistent 3-post-per-week schedule without wasting hours of your own time writing captions.
 
 **Read more:** [Social Media for Accountants](/blog/social-media-accountants-bookkeepers) · [Best Service for Accountants](/blog/best-social-media-service-for-accountants) · [How Much Does Done-For-You Cost?](/blog/done-for-you-social-media-cost)
+
+
+### Want to see what Glow Social can do for your Accountant business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/accountant)

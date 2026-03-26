@@ -129,3 +129,8 @@ If you're a local business owner reading this:
 [Get started with Glow Social](https://app.glowsocial.com/) — your social media stays active for $49/month while you focus on the work that actually matters.
 
 **Related:** [How to Hire a Social Media Manager](/blog/how-to-hire-social-media-manager) · [Done-For-You Social Media: Complete Guide](/blog/done-for-you-social-media-guide) · [Why I Built a $49/Month Social Media Company](/blog/why-i-built-glow-social)
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

@@ -159,3 +159,8 @@ The hiring math doesn't work for most local businesses until they're generating 
 For more on cost comparisons, see our [social media management cost breakdown](/blog/done-for-you-social-media-cost).
 
 [Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

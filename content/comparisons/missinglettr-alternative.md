@@ -58,3 +58,8 @@ The best Missinglettr alternative for local businesses is Glow Social. It comple
 Glow Social is better for business owners because it is a done-for-you service. Missinglettr is a DIY software (only turns blog posts into social posts, no original creation). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [MeetEdgar Alternative](/compare/meetedgar-alternative) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Crowdfire Alternative](/compare/crowdfire-alternative)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

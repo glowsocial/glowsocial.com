@@ -161,3 +161,8 @@ What you don't get: the creative control and customization of a hands-on plannin
 **$49/month, no contracts.** [Get Started](https://app.glowsocial.com/)
 
 For more on finding the right tool, see our guide to [social media planners for small business](/blog/social-media-planner-for-small-business-streamline-your-strategy-today) or explore [social media automation options](/blog/automated-social-media-local-business).
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

@@ -153,3 +153,8 @@ Social media schedulers are useful tools that solve a real problem. If you alrea
 But if your challenge is creating the content — not distributing it — then a scheduler alone won't solve your social media problem. Look at the full picture and choose the approach that matches your actual bandwidth.
 
 [Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

@@ -61,3 +61,8 @@ Effective content for financial advisors includes financial literacy tips, retir
 Extremely. LinkedIn is the primary platform for professional trust-building. An active LinkedIn presence with educational content positions you as a thought leader and drives high-quality inbound inquiries.
 
 **Read more:** [Social Media for Financial Advisors](/blog/social-media-automation-financial-advisors-accountants) · [Best Service for Accountants](/blog/best-social-media-service-for-accountants) · [How Much Does Done-For-You Cost?](/blog/done-for-you-social-media-cost)
+
+
+### Want to see what Glow Social can do for your Accountant business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/accountant)

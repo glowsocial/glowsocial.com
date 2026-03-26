@@ -159,3 +159,8 @@ Glow Social does. **$49/month, 5-minute setup, content created and published aut
 ---
 
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $49/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+
+
+### Want to see what Glow Social can do for your Cleaning business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/cleaning)

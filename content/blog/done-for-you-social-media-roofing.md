@@ -111,3 +111,8 @@ That's it. Five minutes, and your roofing company's social media is handled for 
 For more on how done-for-you social media works across industries, see our [complete guide to done-for-you social media](/blog/done-for-you-social-media-guide). For a cost comparison with other approaches, check our [social media cost breakdown](/blog/done-for-you-social-media-cost).
 
 [Get Started — $49/month, no contracts](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

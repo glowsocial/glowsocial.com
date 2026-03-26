@@ -63,3 +63,8 @@ Stop letting your social media pages collect dust. Set up Glow Social in 5 minut
 [Get Started — $49/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media Marketing for Dentists](/blog/social-media-marketing-dentists) · [For Medical Practices](/blog/best-social-media-service-medical-practices) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

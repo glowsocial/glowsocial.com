@@ -58,3 +58,8 @@ The best Crowdfire alternative for local businesses is Glow Social. It completel
 Glow Social is better for business owners because it is a done-for-you service. Crowdfire is a DIY software (curates articles from others rather than building your brand). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [MeetEdgar Alternative](/compare/meetedgar-alternative) · [Tailwind Alternative](/compare/tailwind-alternative)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

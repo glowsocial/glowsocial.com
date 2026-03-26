@@ -58,3 +58,8 @@ The best Sendible alternative for local businesses is Glow Social. It completely
 Glow Social is better for business owners because it is a done-for-you service. Sendible is a DIY software (built for agencies managing 50+ clients, not local owners). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Agorapulse Alternative](/compare/agorapulse-alternative) · [Sprout Social vs. Glow Social](/blog/sprout-social-vs-glow-social) · [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

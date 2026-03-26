@@ -67,3 +67,8 @@ This approach keeps your social media perfectly balanced. Instead of only postin
 Don’t stress. Social media doesn’t have to be perfect. If you skip a post, just pick up with the next one. The goal is to keep moving forward, not to be flawless.
 
 With this simple structure, you’ll always have an idea of what to post—and your posts will work harder for your business. Start small, stay consistent, and watch how much easier it gets.
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

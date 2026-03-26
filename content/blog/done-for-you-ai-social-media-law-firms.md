@@ -44,3 +44,8 @@ We execute the **GLOW Method** exactly as a high-end agency would:
 ## Build Trust Before You Meet
 
 An unbreakable legal brand is one built entirely on perceived authority and transparency. An attorney whose social media is flooded with crisp, educational insight is inherently considered more trustworthy than a silent competitor. Let Glow Social do the heavy lifting so you can focus on winning cases.
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

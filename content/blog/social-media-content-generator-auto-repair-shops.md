@@ -56,3 +56,8 @@ Local service businesses using Glow Social see dramatic changes in their online 
 1. **Connect Your Profiles:** Link Facebook, Instagram, and GBP.
 2. **Complete the Intake:** Answer a few quick questions about your specialties (brakes, transmissions, European cars).
 3. **Approve and Forget:** We handle the rest.
+
+
+### Want to see what Glow Social can do for your Auto Repair business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/auto-repair)

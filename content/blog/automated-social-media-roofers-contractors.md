@@ -46,3 +46,8 @@ We use the **GLOW Method** to transform how contractors establish trust:
 ## The 'Show, Don't Tell' Strategy
 
 An unbreakable contractor brand is built on proof of work. Simply showing up on a Friday morning timeline with advice on how to check for water damage positions you instantly as the hyper-local expert. For just $49/month, Glow Social automatically writes the captions, organizes the hashtags, and hits schedule.
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

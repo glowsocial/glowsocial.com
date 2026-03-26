@@ -54,3 +54,8 @@ Local agencies in Chicago typically charge $1,500+ per month. However, Glow Soci
 The best way is to automate it. Done-for-you software ensures you maintain a consistent 3-post-per-week schedule without wasting hours of your own time writing captions.
 
 **Read more:** [Social Media for Med Spas](/blog/social-media-strategy-med-spas-estheticians) · [Best Platforms for Local Business](/blog/best-platforms-local-business) · [How Much Does Done-For-You Cost?](/blog/done-for-you-social-media-cost)
+
+
+### Want to see what Glow Social can do for your Salon business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

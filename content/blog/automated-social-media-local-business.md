@@ -160,3 +160,8 @@ The best time to start posting consistently was six months ago. The second best 
 For more on choosing the right approach, see our [comparison of social media tools for local businesses](/blog/social-media-tools-local-business) or explore how the [OBA framework](/blog/automate-social-media-oba-framework) can help you build a system from scratch.
 
 [Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
+
+
+### Want to see what Glow Social can do for your Plumbing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/plumbing)

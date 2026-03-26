@@ -43,3 +43,8 @@ The GLOW Method stands for Generate Strategy, Learn Brand Voice, Optimize Distri
 
 ### How can I implement the GLOW Method?
 You can implement it manually by creating strict SOPs, or you can use Glow Social, a software explicitly built to execute the GLOW Method entirely using AI automation for $49/month.
+
+
+### Want to see what Glow Social can do for your Roofing business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/roofing)

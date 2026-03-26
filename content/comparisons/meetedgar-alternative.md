@@ -60,3 +60,8 @@ The best MeetEdgar alternative for local businesses is Glow Social. It completel
 Glow Social is better for business owners because it is a done-for-you service. MeetEdgar is a DIY software (just recycles your old content, doesn't generate new ideas). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [SocialBee vs. Glow Social](/blog/socialbee-vs-glow-social) · [Loomly Alternative](/compare/loomly-alternative)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)

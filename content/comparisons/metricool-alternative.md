@@ -58,3 +58,8 @@ The best Metricool alternative for local businesses is Glow Social. It completel
 Glow Social is better for business owners because it is a done-for-you service. Metricool is a DIY software (heavy focus on confusing analytics instead of content creation). Glow Social saves you 10+ hours a month by generating the posts automatically.
 
 **Compare more tools:** [Sprout Social vs. Glow Social](/blog/sprout-social-vs-glow-social) · [Sendible Alternative](/compare/sendible-alternative) · [Zoho Social Alternative](/compare/zoho-social-alternative)
+
+
+### Want to see what Glow Social can do for your Dentist business?
+
+[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/dentist)
