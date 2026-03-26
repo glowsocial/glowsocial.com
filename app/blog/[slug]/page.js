@@ -52,6 +52,76 @@ function FaqJsonLd({ faqs }) {
   );
 }
 
+function ArticleJsonLd({ title, description, date, slug }) {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description: description || `${title} — Glow Social Blog`,
+    datePublished: date,
+    dateModified: date,
+    author: {
+      "@type": "Person",
+      name: "Kathleen Celmins",
+      url: "https://glowsocial.com/about",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Glow Social",
+      url: "https://glowsocial.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://glowsocial.com/icon.png",
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://glowsocial.com/blog/${slug}`,
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+function BreadcrumbJsonLd({ title, slug }) {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://glowsocial.com",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Blog",
+        item: "https://glowsocial.com/blog",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: title,
+        item: `https://glowsocial.com/blog/${slug}`,
+      },
+    ],
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 export default async function BlogPostPage({ params }) {
   const { slug } = await params;
   const post = getPostBySlug("blog", slug);
@@ -61,6 +131,13 @@ export default async function BlogPostPage({ params }) {
 
   return (
     <article className="blog-post">
+      <ArticleJsonLd
+        title={post.title}
+        description={post.description}
+        date={post.date}
+        slug={slug}
+      />
+      <BreadcrumbJsonLd title={post.title} slug={slug} />
       {post.faqs && <FaqJsonLd faqs={post.faqs} />}
       <header className="blog-post-header">
         <Link

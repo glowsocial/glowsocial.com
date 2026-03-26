@@ -88,6 +88,40 @@ function ServiceJsonLd({ title, city }) {
   );
 }
 
+function BreadcrumbJsonLd({ title, slug }) {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://glowsocial.com",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Cities",
+        item: "https://glowsocial.com/local",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: title,
+        item: `https://glowsocial.com/local/${slug}`,
+      },
+    ],
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 export default async function LocalPage({ params }) {
   const { slug } = await params;
   const page = getPostBySlug("local", slug);
@@ -97,6 +131,7 @@ export default async function LocalPage({ params }) {
 
   return (
     <article className="blog-post">
+      <BreadcrumbJsonLd title={page.title} slug={slug} />
       {page.faqs && <FaqJsonLd faqs={page.faqs} />}
       <ServiceJsonLd title={page.title} city={page.city} />
       <header className="blog-post-header">
