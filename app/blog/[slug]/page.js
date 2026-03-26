@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
-import { getAllSlugs, getPostBySlug } from "@/lib/posts";
+import { getAllSlugs, getPostBySlug, getRelatedPosts } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 import Link from "next/link";
+import RelatedPosts from "@/app/components/RelatedPosts";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("blog");
@@ -128,6 +129,7 @@ export default async function BlogPostPage({ params }) {
   if (!post) notFound();
 
   const contentHtml = markdownToHtml(post.content);
+  const relatedPosts = getRelatedPosts(slug, 3);
 
   return (
     <article className="blog-post">
@@ -186,6 +188,9 @@ export default async function BlogPostPage({ params }) {
           Get Started — $49/mo
         </a>
       </div>
+
+      {/* Related Posts */}
+      <RelatedPosts posts={relatedPosts} />
     </article>
   );
 }

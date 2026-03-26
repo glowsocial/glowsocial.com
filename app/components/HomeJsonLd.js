@@ -76,6 +76,48 @@ export default function HomeJsonLd() {
     },
   };
 
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "Glow Social",
+    applicationCategory: "BusinessApplication",
+    operatingSystem: "Web",
+    url: "https://glowsocial.com",
+    description:
+      "Done-for-you social media posting for local businesses. AI-powered content creation and publishing across 13 platforms including Google Business Profile.",
+    offers: [
+      {
+        "@type": "Offer",
+        name: "Glo Core",
+        price: "49.00",
+        priceCurrency: "USD",
+        priceValidUntil: "2027-12-31",
+        description:
+          "12 posts/month, 13 platforms, Google Review monitoring, automated scheduling",
+      },
+      {
+        "@type": "Offer",
+        name: "Glo Pro",
+        price: "99.00",
+        priceCurrency: "USD",
+        priceValidUntil: "2027-12-31",
+        description:
+          "20+ posts/month, carousels, videos, custom posts, performance analytics",
+      },
+      {
+        "@type": "Offer",
+        name: "Glo Unlimited",
+        price: "199.00",
+        priceCurrency: "USD",
+        priceValidUntil: "2027-12-31",
+        description:
+          "Unlimited static, video, carousel, and custom posts",
+      },
+    ],
+    featureList:
+      "AI content creation, 13-platform publishing, Google Business Profile posting, Google Review monitoring, custom graphics, automated scheduling",
+  };
+
   return (
     <>
       <script
@@ -85,6 +127,10 @@ export default function HomeJsonLd() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareSchema) }}
       />
     </>
   );
