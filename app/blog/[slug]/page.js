@@ -3,6 +3,7 @@ import { getAllSlugs, getPostBySlug, getRelatedPosts } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 import Link from "next/link";
 import RelatedPosts from "@/app/components/RelatedPosts";
+import AuthorBio, { PersonJsonLd } from "@/app/components/AuthorBio";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("blog");
@@ -140,6 +141,7 @@ export default async function BlogPostPage({ params }) {
         slug={slug}
       />
       <BreadcrumbJsonLd title={post.title} slug={slug} />
+      <PersonJsonLd />
       {post.faqs && <FaqJsonLd faqs={post.faqs} />}
       <header className="blog-post-header">
         <Link
@@ -188,6 +190,9 @@ export default async function BlogPostPage({ params }) {
           Get Started — $49/mo
         </a>
       </div>
+
+      {/* Author Bio */}
+      <AuthorBio />
 
       {/* Related Posts */}
       <RelatedPosts posts={relatedPosts} />
