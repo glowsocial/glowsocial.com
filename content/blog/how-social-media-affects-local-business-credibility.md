@@ -3,6 +3,13 @@ title: "How Social Media Affects Local Business Credibility"
 description: "Your social media presence directly impacts how credible your local business appears. Here's the research-backed truth about what customers think when they see your profiles."
 slug: "how-social-media-affects-local-business-credibility"
 date: "2026-03-17"
+faqs:
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
+  - q: "Does social media actually bring in customers for local businesses?"
+    a: "Yes. 76% of consumers check a business's social media before visiting or calling. Consistent posting builds trust and keeps your business top-of-mind when customers are ready to buy."
+  - q: "What is done-for-you social media?"
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 When a potential customer searches for your type of business, they usually check three things: your Google reviews, your website, and your social media. Each one contributes to a single question in their mind: **"Can I trust this business?"**

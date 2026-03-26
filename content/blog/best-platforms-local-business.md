@@ -3,6 +3,13 @@ title: "Best Social Media Platforms for Local Businesses in 2026"
 description: "Which social media platforms should local businesses focus on? Facebook, Instagram, LinkedIn, and Google Business Profile ranked by ROI for local business."
 slug: "best-platforms-local-business"
 date: "2026-01-29"
+faqs:
+  - q: "How often should a small business post on social media?"
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+  - q: "What happens if you stop posting on social media?"
+    a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
+  - q: "What is done-for-you social media?"
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Local businesses often feel pressure to be everywhere—Facebook, Instagram, TikTok, LinkedIn, YouTube, Pinterest, X. The reality: most local businesses only need 2-3 platforms, and choosing the right ones matters more than being everywhere. Here's how to pick.

@@ -3,6 +3,13 @@ title: "How to Restart Social Media After a Long Break"
 description: "Haven't posted in months? Here's how to come back to social media without starting over. A practical guide for local businesses."
 slug: "how-to-restart-social-media-after-long-break"
 date: "2026-03-17"
+faqs:
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
+  - q: "Does social media actually bring in customers for local businesses?"
+    a: "Yes. 76% of consumers check a business's social media before visiting or calling. Consistent posting builds trust and keeps your business top-of-mind when customers are ready to buy."
+  - q: "What is done-for-you social media?"
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 You haven't posted in months. Maybe longer. Every time you think about opening Instagram, you feel a wave of guilt followed by "what's the point?" So the silence continues, and the gap between your last post and today grows wider.

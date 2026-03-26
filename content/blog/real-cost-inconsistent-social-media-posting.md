@@ -3,6 +3,13 @@ title: "The Real Cost of Inconsistent Social Media Posting"
 description: "Inconsistent social media isn't just a missed opportunity — it's actively costing your business customers. Here's how to calculate the real damage."
 slug: "real-cost-inconsistent-social-media-posting"
 date: "2026-03-17"
+faqs:
+  - q: "What is the best social media service for local businesses?"
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+  - q: "How often should local businesses post on social media?"
+    a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+  - q: "How much does done-for-you social media cost?"
+    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
 ---
 
 Most business owners know they should post more on social media. But few understand that inconsistent posting isn't just a missed opportunity — it's **actively costing them money**.

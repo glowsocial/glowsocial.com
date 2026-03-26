@@ -3,6 +3,13 @@ title: "How to Look Professional on Social Media Without a Marketing Team"
 description: "You don't need a team to look polished online. Here's how solo business owners create professional social media without design skills or marketing experience."
 slug: "how-to-look-professional-social-media-without-team"
 date: "2026-03-17"
+faqs:
+  - q: "How much does done-for-you social media cost?"
+    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+  - q: "Is social media management worth the investment for small businesses?"
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
 
 You're one person running an entire business. You don't have a marketing department, a graphic designer, or a social media coordinator. But when customers check your social media, they don't know that — and you want it to look like you do.

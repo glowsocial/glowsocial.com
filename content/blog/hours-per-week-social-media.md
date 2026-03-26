@@ -3,6 +3,13 @@ title: "How Many Hours a Week Does Social Media Take? (Real Data)"
 description: "Small businesses spend 6-10 hours per week on social media. Here's the breakdown and how to cut it to under 1 hour with automation."
 slug: "hours-per-week-social-media"
 date: "2026-01-29"
+faqs:
+  - q: "Can social media be fully automated for small businesses?"
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+  - q: "Does automated social media content look professional?"
+    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+  - q: "How often should a small business post on social media?"
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
 ---
 
 You're busy running your business. Social media feels like another chore. Here's the honest answer: You need fewer hours than you think—or zero hours if you automate it. Most small businesses can maintain an effective social presence with 1-3 hours per month (batching) or $49/month (automated posting with Glow Social).

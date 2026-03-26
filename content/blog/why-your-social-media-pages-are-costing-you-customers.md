@@ -3,6 +3,13 @@ title: "Why Your Social Media Pages Are Costing You Customers"
 date: "2026-03-13"
 description: "An abandoned social media page sends one message to potential customers: this business might not be around anymore. Here's what to do about it."
 tags: ["social media", "local business", "marketing"]
+faqs:
+  - q: "How much does done-for-you social media cost?"
+    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+  - q: "Is social media management worth the investment for small businesses?"
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
 
 ## The Silent Killer of Local Business Credibility

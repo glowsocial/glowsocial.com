@@ -3,6 +3,13 @@ title: "What Makes Customers Trust a Business Online"
 description: "Trust is the currency of online business. Here's what local customers look for before they'll pick up the phone and call you."
 slug: "what-makes-customers-trust-business-online"
 date: "2026-03-17"
+faqs:
+  - q: "What is the best social media service for local businesses?"
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+  - q: "How often should local businesses post on social media?"
+    a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+  - q: "How much does done-for-you social media cost?"
+    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
 ---
 
 Every purchasing decision is a trust decision. When someone searches for a dentist, a contractor, or a landscaper, they're not just comparing prices — they're evaluating who they can trust with their money, their home, or their health.

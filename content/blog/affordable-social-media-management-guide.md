@@ -3,6 +3,13 @@ title: "The Guide to Affordable Social Media Management for Small Businesses"
 description: "Affordable social media management options for small businesses. Compare tools under $50/month, freelancers, and done-for-you AI services."
 slug: "affordable-social-media-management-guide"
 date: "2026-02-05"
+faqs:
+  - q: "How much does done-for-you social media cost?"
+    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+  - q: "Is social media management worth the investment for small businesses?"
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+  - q: "Can social media be fully automated for small businesses?"
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
 ---
 
 # The Guide to Affordable Social Media Management for Small Businesses in 2026

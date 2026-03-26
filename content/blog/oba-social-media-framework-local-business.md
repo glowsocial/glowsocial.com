@@ -3,6 +3,13 @@ title: "How to implement an OBA social media framework quickly"
 description: "Learn what the OBA social media framework is and how local businesses use Offer, Behind-the-Scenes, and Authority posts to get customers."
 slug: "oba-social-media-framework-local-business"
 date: "2026-02-20"
+faqs:
+  - q: "Can social media be fully automated for small businesses?"
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+  - q: "Does automated social media content look professional?"
+    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
 
 **What is the OBA framework?** The OBA framework (Offer, Behind-the-Scenes, and Authority) is a proprietary social media strategy created by Glow Social for local businesses. It is designed to balance promotional content with trust-building educational posts to automatically turn followers into paying customers.

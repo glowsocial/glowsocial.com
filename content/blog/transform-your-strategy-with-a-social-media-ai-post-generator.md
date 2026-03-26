@@ -3,6 +3,13 @@ title: "Transform Your Strategy with a Social Media AI Post Generator"
 description: "How AI post generators are changing social media for local businesses. Learn what to look for, what to avoid, and how Glow Social turns AI into done-for-you social media."
 slug: "transform-your-strategy-with-a-social-media-ai-post-generator"
 date: "2025-01-20"
+faqs:
+  - q: "Can social media be fully automated for small businesses?"
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+  - q: "Does automated social media content look professional?"
+    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
 
 AI can write social media posts now. The question for local business owners isn't whether to use AI — it's **how** to use it without sounding like a robot.

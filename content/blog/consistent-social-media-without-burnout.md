@@ -3,6 +3,13 @@ title: "How to Stay Consistent on Social Media Without Burnout"
 description: "Struggling to post consistently? Learn practical strategies to maintain your social media presence without burning out — including when to automate."
 slug: "consistent-social-media-without-burnout"
 date: "2026-01-29"
+faqs:
+  - q: "Can social media be fully automated for small businesses?"
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+  - q: "Does automated social media content look professional?"
+    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+  - q: "How often should a small business post on social media?"
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
 ---
 
 Staying consistent on social media is the number one struggle for small business owners. You know you should post regularly, but between serving customers, managing operations, and everything else, social media always falls to the bottom of the list. Here's how to stay consistent without burning out—or how to automate it entirely.

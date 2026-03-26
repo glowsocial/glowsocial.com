@@ -3,6 +3,13 @@ title: "10 Social Media Mistakes Local Businesses Make (And How to Avoid Them)"
 description: "The 10 most common social media mistakes local businesses make — from inconsistent posting to ignoring Google Business Profile. Plus how to fix each one."
 slug: "social-media-mistakes-local-business"
 date: "2026-01-29"
+faqs:
+  - q: "How often should a small business post on social media?"
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+  - q: "What happens if you stop posting on social media?"
+    a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
+  - q: "What is done-for-you social media?"
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Most small business owners know they should post consistently on social media, but something always gets in the way. The usual pattern: Start strong, get busy with work, stop posting, feel guilty, repeat. If social media isn't working for your business, it's probably one of these common mistakes—and most of them have simple fixes.

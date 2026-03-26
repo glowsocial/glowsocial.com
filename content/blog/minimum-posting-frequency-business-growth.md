@@ -3,6 +3,13 @@ title: "What's the Minimum Posting Frequency for Business Growth?"
 description: "How often does your business actually need to post on social media to see results? Here's the data-backed answer for local businesses."
 slug: "minimum-posting-frequency-business-growth"
 date: "2026-03-17"
+faqs:
+  - q: "How often should a small business post on social media?"
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+  - q: "What happens if you stop posting on social media?"
+    a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
 
 "How often should I post?" is the most common social media question small business owners ask. And the most common answer — "as much as possible!" — is the most useless.

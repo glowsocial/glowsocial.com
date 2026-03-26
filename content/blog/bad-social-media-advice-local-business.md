@@ -3,6 +3,13 @@ title: "Bad Social Media Advice That's Hurting Local Businesses"
 description: "Stop following generic social media advice. Here are the most common bad tips local businesses fall for and what actually works instead."
 slug: "bad-social-media-advice-local-business"
 date: "2026-01-29"
+faqs:
+  - q: "How do I come up with social media content ideas for my business?"
+    a: "Focus on three categories: what you offer (services, products, promotions), why it benefits customers (results, transformations, time saved), and why you're the authority (experience, certifications, customer reviews). Glow Social generates content using this framework automatically."
+  - q: "Can AI create good social media content?"
+    a: "Yes. Modern AI analyzes your website, brand voice, and industry to create relevant, professional content. Done-for-you services like Glow Social create custom posts with matching graphics — not generic templates."
+  - q: "What is done-for-you social media?"
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Local businesses often get similar social media advice that works for big brands but fails for small ones. The reality: what works for a national company with a marketing team doesn't work for a local business owner doing everything themselves. Here's what to avoid and what to do instead.

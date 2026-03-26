@@ -3,6 +3,13 @@ title: "How Often Should a Local Business Post on Social Media?"
 description: "The ideal posting frequency for local businesses is 3-5 times per week. Here's why, plus the minimum you need to stay visible."
 slug: "posting-frequency-local-business"
 date: "2026-01-29"
+faqs:
+  - q: "How often should a small business post on social media?"
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+  - q: "What happens if you stop posting on social media?"
+    a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
+  - q: "What is done-for-you social media?"
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 One of the most common questions local businesses ask: How often should I post on social media? The short answer: <strong>3 posts per week is enough for most small businesses</strong>. Consistency matters more than frequency, and posting so much that you burn out helps no one.

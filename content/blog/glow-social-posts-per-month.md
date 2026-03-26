@@ -3,6 +3,13 @@ title: "Glow Social Posts Per Month"
 description: "Glow Social Posts Per Month. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-posts-per-month"
 date: "2025-01-15"
+faqs:
+  - q: "Can social media be fully automated for small businesses?"
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+  - q: "Does automated social media content look professional?"
+    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+  - q: "What is the difference between social media tools and done-for-you services?"
+    a: "Social media tools (Buffer, Hootsuite, Later) help you schedule posts, but you still create the content yourself. Done-for-you services like Glow Social create, design, and publish content automatically."
 ---
 
 One of the most common questions we get is how Glow Social is different from the social media tools most small businesses have tried (and abandoned).

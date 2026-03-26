@@ -3,6 +3,13 @@ title: "50 Creative Business Social Media Post Ideas to Engage Your Audience"
 description: "Stuck on what to post? Here are 50 social media post ideas for local businesses — organized by category so you always have something ready."
 slug: "50-creative-business-social-media-post-ideas-to-engage-your-audience"
 date: "2025-01-22"
+faqs:
+  - q: "How long does it take to see results from social media?"
+    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
+  - q: "Does social media actually bring in customers for local businesses?"
+    a: "Yes. 76% of consumers check a business's social media before visiting or calling. Consistent posting builds trust and keeps your business top-of-mind when customers are ready to buy."
+  - q: "How do I come up with social media content ideas for my business?"
+    a: "Focus on three categories: what you offer (services, products, promotions), why it benefits customers (results, transformations, time saved), and why you're the authority (experience, certifications, customer reviews). Glow Social generates content using this framework automatically."
 ---
 
 Every business owner has stared at a blank posting screen thinking, "What do I even say?" Here are 50 ideas organized by category so you never run out of content.
