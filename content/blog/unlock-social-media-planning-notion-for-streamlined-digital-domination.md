@@ -1,5 +1,5 @@
 ---
-title: "Social Media Planning with Notion: Templates, Setup, and Alternatives"
+title: "Social Media Planning With Notion: Setup & Templates"
 description: "How to use Notion for social media planning — with a complete setup guide, templates, and why most local businesses end up choosing a done-for-you service instead."
 slug: "unlock-social-media-planning-notion-for-streamlined-digital-domination"
 date: "2025-01-04"

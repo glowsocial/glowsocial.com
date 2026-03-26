@@ -1,5 +1,5 @@
 ---
-title: "Social Media Caption Length Guide: Ideal Length for Every Platform (2026)"
+title: "Social Media Caption Length: Guide for Every Platform"
 description: "The perfect caption length for Instagram, Facebook, LinkedIn, TikTok, and Google Business Profile — backed by data. Plus tips on formatting, emojis, and hashtags."
 slug: "social-media-caption-length"
 date: "2026-03-23"

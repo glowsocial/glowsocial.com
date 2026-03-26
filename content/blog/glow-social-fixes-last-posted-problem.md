@@ -1,5 +1,5 @@
 ---
-title: "Glow Social Fixes Last Posted Problem"
+title: 'Glow Social Fixes the "Last Posted 3 Months Ago" Problem'
 description: "Glow Social Fixes Last Posted Problem. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-fixes-last-posted-problem"
 date: "2025-01-15"

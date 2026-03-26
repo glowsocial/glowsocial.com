@@ -1,5 +1,5 @@
 ---
-title: "Social Media Planner for Small Business: Tools, Templates, and Strategies"
+title: "Best Social Media Planner for Small Businesses (2026)"
 description: "How small businesses can plan social media effectively — compare physical planners, spreadsheets, digital tools, and done-for-you services to find what actually works."
 slug: "social-media-planner-for-small-business-streamline-your-strategy-today"
 date: "2024-12-10"

@@ -1,5 +1,5 @@
 ---
-title: "Social Media Management Meaning: What It Actually Involves (2026)"
+title: "What Is Social Media Management? (And What It Costs)"
 description: "What does social media management really mean? A clear breakdown for local business owners — what's involved, what it costs, and how to simplify it with AI tools."
 slug: "social-media-management-meaning-elevate-your-strategy-with-ai-tools"
 date: "2024-12-16"

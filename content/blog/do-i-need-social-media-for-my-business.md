@@ -1,5 +1,5 @@
 ---
-title: "Do I Even Need Social Media for My Business? ROI and Cost of Inaction (2026)"
+title: "Do I Need Social Media for My Business? (2026)"
 description: "Is social media worth it for small businesses? 78% of consumers check social before buying. Here's the real cost of not posting — and the cheapest way to stay visible."
 slug: "do-i-need-social-media-for-my-business"
 date: "2026-03-23"

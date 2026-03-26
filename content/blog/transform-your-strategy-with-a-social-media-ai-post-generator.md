@@ -1,5 +1,5 @@
 ---
-title: "Transform Your Strategy with a Social Media AI Post Generator"
+title: "AI Social Media Post Generators: Do They Work? (2026)"
 description: "How AI post generators are changing social media for local businesses. Learn what to look for, what to avoid, and how Glow Social turns AI into done-for-you social media."
 slug: "transform-your-strategy-with-a-social-media-ai-post-generator"
 date: "2025-01-20"

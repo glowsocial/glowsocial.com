@@ -1,5 +1,5 @@
 ---
-title: "Content Curation for Social Media: What It Means and How Local Businesses Can Use It"
+title: "What Is Content Curation? A Guide for Local Businesses"
 description: "What does curating content mean? A clear guide for local business owners on content curation — how to find, share, and mix curated content with original posts."
 slug: "understanding-curating-content-meaning-a-comprehensive-overview"
 date: "2024-12-12"

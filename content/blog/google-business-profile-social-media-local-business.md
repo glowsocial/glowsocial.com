@@ -1,5 +1,5 @@
 ---
-title: "Google Business Profile + Social Media: The One-Two Punch for Local Businesses (2026)"
+title: "GBP + Social Media: The Local Business Growth Combo"
 description: "Your Google Business Profile gets you found. Your social media builds trust. Together, they create a local marketing system that works on autopilot. Here's how to combine them."
 slug: "google-business-profile-social-media-local-business"
 date: "2026-03-23"

@@ -1,5 +1,5 @@
 ---
-title: "Social Media Marketing Cost: How to Optimize Your Budget"
+title: "Social Media Marketing Cost: A Realistic Breakdown"
 description: "What does social media marketing actually cost for local businesses? A breakdown of DIY, freelancer, agency, and automated options with real pricing."
 slug: "social-media-marketing-cost-optimize-your-budget-with-ai-solutions"
 date: "2024-12-20"

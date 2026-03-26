@@ -1,5 +1,5 @@
 ---
-title: "Jobs in Social Media Management: Career Paths, Salaries, and What Businesses Need"
+title: "Jobs in Social Media Management: Roles, Salaries & More"
 description: "Explore social media management careers — from coordinator to director. Plus, what local businesses should look for when hiring, and when automation is the smarter choice."
 slug: "unlock-your-career-potential-top-jobs-in-social-media-management-await-you"
 date: "2024-12-28"

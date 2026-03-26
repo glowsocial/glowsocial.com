@@ -1,5 +1,5 @@
 ---
-title: "Social Media Marketing for Dentists: Getting Patients Without Dancing on TikTok"
+title: "Social Media for Dentists: Patients Without TikTok"
 description: "Learn the best social media marketing strategy for dentists that actually drives patient bookings. Discover how Glow Social fully automates your dental practice marketing for $49/month."
 slug: "social-media-marketing-dentists"
 date: "2026-02-20"

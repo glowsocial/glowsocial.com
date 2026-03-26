@@ -1,5 +1,5 @@
 ---
-title: "Glow Social Difference AI Content Platforms"
+title: "How Glow Social Is Different From Other AI Platforms"
 description: "Glow Social Difference AI Content Platforms. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-difference-ai-content-platforms"
 date: "2025-01-15"

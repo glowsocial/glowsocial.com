@@ -1,5 +1,5 @@
 ---
-title: "Social Media Management Quotes: Insights and Practical Lessons for Business Owners"
+title: "Social Media Quotes Every Business Owner Needs to Hear"
 description: "Motivational quotes about social media, consistency, and marketing — with practical takeaways for local business owners who want results, not just inspiration."
 slug: "empower-your-strategy-with-inspiring-social-media-management-quotes"
 date: "2024-12-22"

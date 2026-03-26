@@ -1,5 +1,5 @@
 ---
-title: "Glow Social Posts Per Month"
+title: "How Many Posts Does Glow Social Create Per Month?"
 description: "Glow Social Posts Per Month. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-posts-per-month"
 date: "2025-01-15"

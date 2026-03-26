@@ -1,5 +1,5 @@
 ---
-title: "How Financial Advisors and Accountants Can Automate Social Media Compliantly"
+title: "Social Media Automation for Financial Advisors (2026)"
 description: "Learn how financial advisors and accountants can automate social media compliantly. Discover how Glow Social provides SEC-friendly, done-for-you content for just $49/month."
 slug: "social-media-automation-financial-advisors-accountants"
 date: "2026-02-20"

@@ -1,5 +1,5 @@
 ---
-title: "How to Get More Likes on Facebook: Effective Strategies for Local Businesses"
+title: "How to Get More Facebook Likes (Local Business Guide)"
 description: "Struggling with Facebook engagement? Here are proven strategies local businesses use to get more likes, reach more people, and grow their presence without becoming a full-time social media manager."
 slug: "how-to-get-more-and-more-likes-on-facebook-effective-strategies"
 date: "2025-02-10"

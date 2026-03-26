@@ -1,5 +1,5 @@
 ---
-title: "The OBA Framework: How to Build a Social Media System for Your Local Business"
+title: "The OBA Framework: A Social Media System That Works"
 description: "Learn the OBA (Observe, Build, Automate) framework for creating a social media system that runs itself — while still sounding like your business. Step-by-step guide."
 slug: "automate-social-media-oba-framework"
 date: "2025-01-10"

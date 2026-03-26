@@ -1,5 +1,5 @@
 ---
-title: "Social Media Marketing Ideas to Elevate Engagement and Strategy"
+title: "Social Media Marketing Ideas for Local Businesses"
 description: "Fresh social media marketing ideas for local businesses looking to boost engagement without hiring an agency or spending hours on content creation."
 slug: "social-media-marketing-ideas-to-elevate-engagement-and-strategy"
 date: "2025-01-06"

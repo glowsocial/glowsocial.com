@@ -1,5 +1,5 @@
 ---
-title: "Glow Social Reviews What Customers Say"
+title: "Glow Social Reviews: What Customers Actually Say"
 description: "Glow Social Reviews What Customers Say. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-reviews-what-customers-say"
 date: "2025-01-15"

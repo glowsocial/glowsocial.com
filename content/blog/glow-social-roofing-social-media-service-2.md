@@ -1,5 +1,5 @@
 ---
-title: "Glow Social for Roofing Companies: Automated Social Media That Gets You Calls"
+title: "Glow Social for Roofers: Get More Calls Automatically"
 description: "Learn how roofing companies use Glow Social to stay visible on social media, build trust with homeowners, and generate more calls — without spending hours on content."
 slug: "glow-social-roofing-social-media-service-2"
 date: "2025-02-08"

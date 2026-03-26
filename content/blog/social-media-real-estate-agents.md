@@ -1,5 +1,5 @@
 ---
-title: "Social Media for Real Estate Agents: Complete Guide to Stay Top of Mind (2026)"
+title: "Social Media for Real Estate Agents: Complete Guide"
 description: "The complete social media playbook for real estate agents. Content ideas, best tools, and done-for-you options that keep you visible between transactions."
 slug: "social-media-real-estate-agents"
 date: "2026-01-29"

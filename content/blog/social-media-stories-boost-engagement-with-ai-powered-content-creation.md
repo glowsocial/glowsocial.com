@@ -1,5 +1,5 @@
 ---
-title: "Social Media Stories: Boost Engagement with AI-Powered Content Creation"
+title: "Social Media Stories: Do Local Businesses Need Them?"
 description: "How local businesses can use social media stories to boost engagement, build trust, and stay top-of-mind with customers — without spending hours creating content."
 slug: "social-media-stories-boost-engagement-with-ai-powered-content-creation"
 date: "2025-01-16"

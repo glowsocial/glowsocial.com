@@ -1,5 +1,5 @@
 ---
-title: "Best Social Media Service for Solopreneurs & One-Person Businesses (2026)"
+title: "Best Social Media Service for Solopreneurs (2026)"
 description: "Running a one-person business? The best social media services handle posting so you can focus on clients. Done-for-you starting at $49/mo."
 slug: "best-social-media-service-one-person-businesses"
 date: "2025-01-15"

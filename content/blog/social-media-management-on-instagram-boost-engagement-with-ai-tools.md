@@ -1,5 +1,5 @@
 ---
-title: "Social Media Management on Instagram: A Complete Guide for Local Businesses"
+title: "Instagram Management for Local Businesses (2026 Guide)"
 description: "How to manage Instagram effectively for your local business — content strategies, posting best practices, key metrics, and AI tools that make it affordable."
 slug: "social-media-management-on-instagram-boost-engagement-with-ai-tools"
 date: "2024-12-24"

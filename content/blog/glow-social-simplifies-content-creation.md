@@ -1,5 +1,5 @@
 ---
-title: "Glow Social Simplifies Content Creation"
+title: "How Glow Social Simplifies Social Media Content"
 description: "Glow Social Simplifies Content Creation. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-simplifies-content-creation"
 date: "2025-01-15"

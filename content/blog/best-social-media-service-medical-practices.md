@@ -1,5 +1,5 @@
 ---
-title: "Best Social Media Service for Medical Practices & Doctors (2026)"
+title: "Best Social Media for Medical Practices (2026)"
 description: "The best social media service for medical practices creates HIPAA-conscious content that builds patient trust. Done-for-you posting starting at $49/mo."
 slug: "best-social-media-service-medical-practices"
 date: "2025-01-15"

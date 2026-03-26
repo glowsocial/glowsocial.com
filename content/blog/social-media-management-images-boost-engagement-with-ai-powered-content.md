@@ -1,5 +1,5 @@
 ---
-title: "Social Media Management Images: Boost Engagement with AI-Powered Content"
+title: "Social Media Images: What Local Businesses Need (2026)"
 description: "How professional images and graphics boost social media engagement for local businesses — and how AI-powered tools make it affordable."
 slug: "social-media-management-images-boost-engagement-with-ai-powered-content"
 date: "2025-01-08"

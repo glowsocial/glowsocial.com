@@ -1,5 +1,5 @@
 ---
-title: "Social Media Cost Comparison: DIY vs. Scheduling Tools vs. Done-For-You (2026)"
+title: "Social Media Cost: DIY vs. Tools vs. Done-For-You"
 description: "Compare the real cost of managing social media yourself, using scheduling tools, hiring a freelancer, or using done-for-you software. Includes time value calculations."
 slug: "social-media-cost-comparison-manual-scheduling-voice-matched"
 date: "2026-01-15"

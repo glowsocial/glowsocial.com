@@ -1,6 +1,5 @@
 ---
-title: "Best Social Media Services Under ---
-00/Month for Local Business (2026)"
+title: "Best Social Media Services Under $100/Month (2026)"
 description: "The best social media services under $100/month for local businesses. Compare Buffer, Later, and Glow Social — from free scheduling to $49/mo done-for-you."
 slug: "best-social-media-service-local-businesses-under-100-month"
 date: "2025-01-15"

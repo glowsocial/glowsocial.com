@@ -1,5 +1,5 @@
 ---
-title: "Best Social Media Posting Service for Contractors (2026)"
+title: "Best Social Media Service for Contractors (2026)"
 description: "The best social media posting service for contractors keeps you visible while you work on the job site. Compare done-for-you options starting at $49/mo."
 slug: "best-social-media-posting-service-contractors"
 date: "2025-01-15"

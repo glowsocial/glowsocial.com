@@ -1,5 +1,5 @@
 ---
-title: "What Social Media Managers Won't Tell You About Small Business Posting (2026)"
+title: "What Social Media Managers Won't Tell You (2026)"
 description: "The social media industry has a dirty secret: most small businesses don't need what they're selling. Here's what actually matters for local businesses — and what's overkill."
 slug: "what-social-media-managers-wont-tell-you"
 date: "2026-03-23"

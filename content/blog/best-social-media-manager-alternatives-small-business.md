@@ -1,5 +1,5 @@
 ---
-title: "5 Alternatives to Hiring a Social Media Manager for Your Small Business (2026)"
+title: "5 Alternatives to a Social Media Manager (2026)"
 description: "Can't afford a $2,000/month agency? Here are 5 ways to manage social media without hiring — from free DIY tools to $49/month done-for-you software."
 slug: "best-social-media-manager-alternatives-small-business"
 date: "2025-01-15"

@@ -1,5 +1,5 @@
 ---
-title: "Glow Social Get More Customers"
+title: "How Glow Social Helps You Get More Customers"
 description: "Glow Social Get More Customers. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-get-more-customers"
 date: "2025-01-15"

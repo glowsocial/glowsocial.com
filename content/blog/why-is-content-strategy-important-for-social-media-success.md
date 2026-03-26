@@ -1,5 +1,5 @@
 ---
-title: "Why Content Strategy Matters for Social Media (And How to Build One)"
+title: "Why Content Strategy Matters for Social Media (2026)"
 description: "Why posting randomly on social media doesn't work — and how a simple content strategy helps local businesses get real results. Includes a ready-to-use framework."
 slug: "why-is-content-strategy-important-for-social-media-success"
 date: "2024-12-26"

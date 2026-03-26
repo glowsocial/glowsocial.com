@@ -1,5 +1,5 @@
 ---
-title: "Best Social Media Service for Wedding Vendors & Planners (2026)"
+title: "Best Social Media for Wedding Vendors (2026)"
 description: "The best social media service for wedding vendors attracts brides and builds your portfolio presence. Done-for-you posting starting at $49/mo."
 slug: "best-social-media-service-wedding-vendors"
 date: "2025-01-15"

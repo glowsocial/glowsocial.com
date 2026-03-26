@@ -1,5 +1,5 @@
 ---
-title: "Glow Social Smart Feed Industry Updates"
+title: "Glow Social Smart Feed: Industry Updates, Automated"
 description: "Glow Social Smart Feed Industry Updates. Practical advice for local businesses looking to stay visible on social media without spending hours on content."
 slug: "glow-social-smart-feed-industry-updates"
 date: "2025-01-15"

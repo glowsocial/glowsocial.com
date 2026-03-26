@@ -1,5 +1,5 @@
 ---
-title: "Social Media and AI: How Local Businesses Are Using AI in 2026"
+title: "Social Media and AI: How Local Businesses Use AI (2026)"
 description: "How AI is transforming social media marketing for local businesses — from content creation to analytics. What works, what doesn't, and where to start."
 slug: "social-media-and-ai-transform-your-digital-dominance-effortlessly"
 date: "2024-12-08"

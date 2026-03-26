@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Social Media Workflow for Wedding Photographers & Event Planners"
+title: "Social Media for Wedding Photographers & Planners"
 description: "The ultimate social media workflow for wedding photographers and event planners is AI automation. Learn how Glow Social posts visually stunning content for $49/month."
 slug: "social-media-workflow-wedding-photographers"
 date: "2026-02-20"
