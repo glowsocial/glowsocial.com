@@ -25,7 +25,7 @@ export default function Header() {
             Log In
           </a>
           <a
-            href="https://app.glowsocial.com/pricing/"
+            href="https://app.glowsocial.com/"
             className="btn btn--primary"
           >
             Get Started

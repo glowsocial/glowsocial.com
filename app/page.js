@@ -56,7 +56,7 @@ export default function HomePage() {
           </p>
           <div className="hero-ctas-centered">
             <a
-              href="https://app.glowsocial.com/pricing/"
+              href="https://app.glowsocial.com/"
               className="btn btn--primary btn--lg"
               id="hero-cta-primary"
             >
@@ -185,7 +185,7 @@ export default function HomePage() {
           </div>
 
           <div className="section-cta">
-            <a href="https://app.glowsocial.com/pricing/" className="btn btn--primary" id="how-cta">Get Started</a>
+            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="how-cta">Get Started</a>
           </div>
         </div>
       </section>
@@ -406,7 +406,7 @@ export default function HomePage() {
 
       {/* STICKY MOBILE CTA */}
       <div className="sticky-mobile-cta" id="stickyCta">
-        <a href="https://app.glowsocial.com/pricing/">Get Started — $49/mo</a>
+        <a href="https://app.glowsocial.com/">Get Started — $49/mo</a>
       </div>
     </>
   );

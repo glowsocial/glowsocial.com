@@ -83,4 +83,4 @@ A business that posts three times a week with simple, genuine content looks infi
 
 Your customers don't expect you to look like Nike. They expect you to look like an active, trustworthy business that cares about what they do. That bar is entirely achievable — even if it's just you.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

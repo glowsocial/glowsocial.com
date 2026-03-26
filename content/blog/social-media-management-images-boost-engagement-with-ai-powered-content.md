@@ -49,4 +49,4 @@ The result: posts that look like you hired a designer, at a fraction of the cost
 - **Use design tools (Canva):** Free, but costs 5-10 hours of your time monthly
 - **Done-for-you service (Glow Social):** $49/month, including graphics, captions, and publishing
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)

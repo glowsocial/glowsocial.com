@@ -33,7 +33,7 @@ Instead of navigating agency relationships or trying to DIY between client meeti
 
 The financial advisors growing their practices in Phoenix aren't just smart with money — they're smart with visibility. While you're waiting for the next referral, your competitor is posting educational content on LinkedIn and getting inbound inquiries from prospects who already trust them before the first meeting.
 
-Stop leaving growth on the table. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and build the visibility that attracts the right clients.
+Stop leaving growth on the table. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and build the visibility that attracts the right clients.
 
 
 

@@ -57,4 +57,4 @@ Glow Social creates and publishes professional Instagram content for your busine
 
 **$49/month.** No contracts.
 
-[Get Started](https://app.glowsocial.com/pricing/)
+[Get Started](https://app.glowsocial.com/)

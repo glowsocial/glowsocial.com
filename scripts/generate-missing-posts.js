@@ -117,7 +117,7 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -196,7 +196,7 @@ Glow Social is built for you if:
 
 Try Glow Social for $49/month. Setup takes 5 minutes, no contracts, cancel anytime.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -282,7 +282,7 @@ If you value your time at even $25/hour, 10 hours of DIY social media costs $250
 
 Choose a DIY tool if you enjoy content creation and have time for it. Choose Glow Social if you want posting handled without your ongoing involvement.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -323,7 +323,7 @@ Glow Social Core starts at **$49/month**. No contracts, no commitments, cancel a
 
 Compare that to a freelance social media manager ($300-500/month) or an agency ($2,000+/month).
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -369,7 +369,7 @@ That's it. Your social media is handled.
 
 That's less than a single hour of an agency's time — and it covers your entire social media presence.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -413,7 +413,7 @@ All for **$49/month** with no contracts.
 
 If you're tired of empty social media pages and don't have hours to spend on content creation, try Glow Social. Setup takes 5 minutes.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 `;
 }
 

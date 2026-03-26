@@ -43,4 +43,4 @@ Team introductions, work anniversaries, training days. People hire people, and s
 
 Glow Social creates and publishes professional social media content for your business. 12+ posts per month across 13 platforms — graphics, captions, scheduling, and publishing all included.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)

@@ -78,7 +78,7 @@ export default function About() {
             $49/month. No contracts. Cancel anytime. Setup takes 5 minutes.
           </p>
           <p>
-            <a href="https://app.glowsocial.com/pricing/">Start your Glow Social account →</a>
+            <a href="https://app.glowsocial.com/">Start your Glow Social account →</a>
           </p>
         </div>
       </article>

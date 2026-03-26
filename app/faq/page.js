@@ -51,7 +51,7 @@ export default function FAQ() {
           <p>
             Plans start at $49/month. No contracts, no setup fees, cancel
             anytime. See current pricing at{" "}
-            <a href="https://app.glowsocial.com/pricing/">app.glowsocial.com/pricing</a>.
+            <a href="https://app.glowsocial.com/">app.glowsocial.com</a>.
           </p>
 
           <h2>Can I cancel anytime?</h2>

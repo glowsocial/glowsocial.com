@@ -132,4 +132,4 @@ You don't need to master every aspect of social media management from day one. S
 
 For a detailed cost comparison across all options, see our [done-for-you social media cost breakdown](/blog/done-for-you-social-media-cost).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

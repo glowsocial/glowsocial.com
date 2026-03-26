@@ -55,4 +55,4 @@ All for **$49/month** with no contracts.
 
 Roofing companies love Glow Social because it solves their biggest marketing problem: staying visible without adding another task to an already packed schedule.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)

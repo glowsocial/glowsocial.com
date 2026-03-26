@@ -33,7 +33,7 @@ Instead of hiring agencies or losing evenings to Canva, chiropractic practices a
 
 In a city growing as fast as Phoenix, patients choose the provider they trust first — and trust starts online. When someone Googles "chiropractor near me" and clicks through to your Facebook page, they need to see recent, professional posts. Not a page that hasn't been updated since 2024.
 
-Stop losing potential patients because your social media looks abandoned. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and get back to what you do best.
+Stop losing potential patients because your social media looks abandoned. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and get back to what you do best.
 
 
 

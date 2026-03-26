@@ -76,7 +76,7 @@ See our full guide: [Affordable Social Media Management for Small Business](/blo
 
 Try Glow Social for $49/month. Setup takes 5 minutes, no contracts, cancel anytime.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 
 ---
 

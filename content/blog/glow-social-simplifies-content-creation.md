@@ -48,5 +48,5 @@ Glow Social Core starts at **$49/month**. No contracts, no commitments, cancel a
 
 Compare that to a freelance social media manager ($300-500/month) or an agency ($2,000+/month).
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 

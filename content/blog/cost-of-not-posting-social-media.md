@@ -126,6 +126,6 @@ If your social media has gone dark, here's the priority:
 
 The longer you wait, the wider the gap grows between you and the competitors who are posting. And every day that gap exists, customers are choosing them.
 
-[Set up Glow Social in 5 minutes](https://app.glowsocial.com/pricing/) and never have a silent social media page again.
+[Set up Glow Social in 5 minutes](https://app.glowsocial.com/) and never have a silent social media page again.
 
 **Related:** [The Real Cost of Inconsistent Posting](/blog/real-cost-inconsistent-social-media-posting) · [How to Restart After a Long Break](/blog/how-to-restart-social-media-after-long-break) · [How Much Time Does Social Media Take?](/blog/average-time-social-media-marketing)

@@ -150,4 +150,4 @@ For more on how different execution approaches compare, see our guide to [automa
 
 **$49/month.** Your strategy, on schedule, without the time investment.
 
-[Get Started](https://app.glowsocial.com/pricing/)
+[Get Started](https://app.glowsocial.com/)

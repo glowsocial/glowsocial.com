@@ -47,4 +47,4 @@ That's why **consistency** matters more than timing. A post at 3 PM every Saturd
 
 Glow Social creates and publishes 12+ posts per month across 13 platforms. We handle the content creation, the graphics, and the scheduling — so your social media stays active even on your busiest days.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)

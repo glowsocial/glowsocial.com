@@ -66,4 +66,4 @@ The options:
 
 Your customers are checking your social media. They're doing it today. Right now. The only question is whether they'll find evidence that you're a thriving, trustworthy business — or an empty page that makes them keep looking.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

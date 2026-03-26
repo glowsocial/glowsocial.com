@@ -99,4 +99,4 @@ The reason most small businesses can't maintain 3x per week isn't a lack of idea
 
 Three posts per week. That's the number. It's the minimum effective dose for social media growth, and it's achievable for any business — either through dedicated planning time or automation. Don't overthink it. Don't try to be perfect. Just be consistent.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

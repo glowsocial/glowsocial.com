@@ -74,4 +74,4 @@ You don't need to love social media. You don't need to become an influencer. You
 
 Can you run a business without social media? Technically, yes. Should you? No. The cost of maintaining a basic presence is trivially small compared to the cost of looking invisible. And with automation tools available for under $50/month, the "I don't have time" excuse doesn't hold up anymore.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

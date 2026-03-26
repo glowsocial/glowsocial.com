@@ -60,6 +60,6 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)
 
 **Related:** [How Many Hours Does Social Media Take?](/blog/hours-per-week-social-media) · [Best Tools Under $100/Mo](/blog/best-social-media-service-local-businesses-under-100-month) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)

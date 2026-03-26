@@ -134,4 +134,4 @@ If you're ready to try AI-powered social media, here are your options from simpl
 
 For more on building a sustainable social media system, see our [OBA framework guide](/blog/automate-social-media-oba-framework) or explore the [best social media tools for local businesses](/blog/social-media-tools-local-business).
 
-[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)

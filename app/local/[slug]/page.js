@@ -162,7 +162,7 @@ export default async function LocalPage({ params }) {
           business — so you can focus on what you do best.
         </p>
         <a
-          href="https://app.glowsocial.com/pricing/"
+          href="https://app.glowsocial.com/"
           className="btn btn--primary"
         >
           Get Started — $49/mo

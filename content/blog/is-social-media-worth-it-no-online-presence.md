@@ -134,7 +134,7 @@ You're not investing in social media to "get more followers." You're investing i
 
 The cost of not being online isn't zero, and it's [growing every year](/blog/cost-of-not-posting-social-media). Every month you wait, your competitors who *are* online build a lead that gets harder to close.
 
-Start today. Start small. Start with two platforms. Start with [something that doesn't require your time](https://app.glowsocial.com/pricing/).
+Start today. Start small. Start with two platforms. Start with [something that doesn't require your time](https://app.glowsocial.com/).
 
 The only wrong move is staying invisible.
 

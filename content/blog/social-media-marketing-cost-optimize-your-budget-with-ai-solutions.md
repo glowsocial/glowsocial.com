@@ -45,4 +45,4 @@ The cost of social media marketing ranges from $0 to $10,000+ per month dependin
 
 For businesses that need consistent social media without a big budget or time commitment, done-for-you automation hits the sweet spot. You get professional content at a fraction of the cost.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

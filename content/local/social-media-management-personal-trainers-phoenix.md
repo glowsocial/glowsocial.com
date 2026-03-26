@@ -33,7 +33,7 @@ Instead of spending their recovery time creating content or spending agency pric
 
 When someone in Chandler decides they're finally ready to get in shape, they Google "personal trainer near me" and check Instagram. The trainer with an active feed, professional content, and visible expertise wins that DM. The one with a page last updated in January doesn't.
 
-Stop losing potential clients because your social media doesn't reflect your actual impact. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and spend your energy training — not posting.
+Stop losing potential clients because your social media doesn't reflect your actual impact. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and spend your energy training — not posting.
 
 
 

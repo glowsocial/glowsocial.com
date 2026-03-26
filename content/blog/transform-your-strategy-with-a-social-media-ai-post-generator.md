@@ -53,4 +53,4 @@ The result: posts that sound like **you wrote them on your best day**.
 
 **$49/month.** No contracts.
 
-[Get Started](https://app.glowsocial.com/pricing/)
+[Get Started](https://app.glowsocial.com/)

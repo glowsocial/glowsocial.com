@@ -71,4 +71,4 @@ Businesses that post consistently don't just "look active." They:
 
 You don't need a marketing team. You don't need to learn Canva. You don't need to hire a freelancer.
 
-You need your social media to work as hard as you do. [Get started with Glow Social](https://app.glowsocial.com/pricing/) and have your first posts published this week.
+You need your social media to work as hard as you do. [Get started with Glow Social](https://app.glowsocial.com/) and have your first posts published this week.

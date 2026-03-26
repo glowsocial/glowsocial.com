@@ -33,7 +33,7 @@ Instead of paying agency rates or spending Sunday mornings batch-creating conten
 
 Phoenix has over 400 yoga studios. The ones growing their membership aren't always teaching better classes — they're the ones that appear active, welcoming, and professional when someone searches "yoga studio near me" and checks their Instagram before booking a first class.
 
-Stop stressing about content. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and return to what brought you to yoga in the first place.
+Stop stressing about content. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and return to what brought you to yoga in the first place.
 
 
 

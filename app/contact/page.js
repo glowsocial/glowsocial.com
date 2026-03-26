@@ -35,7 +35,7 @@ export default function Contact() {
             check out <Link href="/faq">frequently asked questions</Link>.
           </p>
           <p>
-            Ready to get started? <a href="https://app.glowsocial.com/pricing/">See pricing and sign up →</a>
+            Ready to get started? <a href="https://app.glowsocial.com/">See pricing and sign up →</a>
           </p>
 
           <h2>Partnerships</h2>

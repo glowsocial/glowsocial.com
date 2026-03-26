@@ -74,4 +74,4 @@ The investment isn't in the tool — it's in the consistency. And consistency is
 
 An inconsistent social media presence costs you customers you'll never know about. Every quiet day is a day your competition is winning trust you're losing. The fix isn't posting more — it's posting consistently. Build a system that doesn't depend on your willpower, and the compound effect will do the rest.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

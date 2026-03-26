@@ -33,7 +33,7 @@ Instead of paying agency rates or spending your weekends on Canva, landscaping b
 
 In the Phoenix metro, the landscaping companies that grow aren't always the most talented — they're the most visible. While you're out building retaining walls, your competitor down the road is posting project photos on Instagram and getting tagged by satisfied homeowners.
 
-Stop losing bids because your online presence doesn't match the quality of your work. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and spend your time in the field, not on your phone.
+Stop losing bids because your online presence doesn't match the quality of your work. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and spend your time in the field, not on your phone.
 
 
 

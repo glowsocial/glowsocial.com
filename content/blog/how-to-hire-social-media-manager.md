@@ -155,6 +155,6 @@ Hiring a social media manager can absolutely be worth it — if you find the rig
 
 But if you're honest with yourself and what you really need is "just make my social media pages not look dead," you don't need a person. You need a system.
 
-[Set up Glow Social in 5 minutes](https://app.glowsocial.com/pricing/) and see what your posts would look like before you commit to anything.
+[Set up Glow Social in 5 minutes](https://app.glowsocial.com/) and see what your posts would look like before you commit to anything.
 
 **Related:** [How Much Does a Social Media Manager Cost?](/blog/freelance-social-media-manager-charge-cost) · [Done-For-You vs. DIY Social Media](/blog/done-for-you-vs-diy-social-media) · [Why Social Media Managers Are So Expensive](/blog/why-social-media-managers-expensive)

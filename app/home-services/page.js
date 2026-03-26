@@ -65,7 +65,7 @@ export default function HomeServices() {
             No contracts. No commitments. No content creation on your end.
           </p>
           <p>
-            <a href="https://app.glowsocial.com/pricing/">Get started →</a>
+            <a href="https://app.glowsocial.com/">Get started →</a>
           </p>
         </div>
       </article>

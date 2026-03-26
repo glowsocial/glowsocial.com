@@ -31,7 +31,7 @@ Instead of paying agency fees or letting your social media stagnate between proj
 
 Phoenix's housing boom means more homeowners looking for design help. The designers earning the best projects are the ones with polished Instagram feeds and active Google Business Profiles — not because they're better designers, but because they appear more established and trustworthy.
 
-Stop losing potential clients because you "haven't had time to post." [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and let your best work speak for itself online.
+Stop losing potential clients because you "haven't had time to post." [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and let your best work speak for itself online.
 
 
 

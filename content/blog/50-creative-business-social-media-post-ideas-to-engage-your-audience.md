@@ -89,4 +89,4 @@ Every business owner has stared at a blank posting screen thinking, "What do I e
 
 Glow Social creates and publishes 12+ customized posts per month for your business — graphics, captions, and publishing across 13 platforms. All for **$49/month**.
 
-[Get Started](https://app.glowsocial.com/pricing/)
+[Get Started](https://app.glowsocial.com/)

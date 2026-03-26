@@ -33,7 +33,7 @@ Instead of paying agency rates or staying up late trying to make Reels, salons a
 
 The salon down the street that's always booked? Check their Instagram. They're posting three times a week with professional content that builds trust before anyone walks through the door. That's not talent — that's visibility.
 
-Stop losing new clients to competitors with better social media. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and spend your time behind the chair, not behind a screen.
+Stop losing new clients to competitors with better social media. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and spend your time behind the chair, not behind a screen.
 
 
 

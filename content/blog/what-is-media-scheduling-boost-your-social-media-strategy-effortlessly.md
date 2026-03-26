@@ -121,4 +121,4 @@ If you want consistent social media but don't have the time for content creation
 
 For a comparison of the best tools for local businesses at every price point, see our roundup of [social media tools under $50](/blog/social-media-tools-under-50).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

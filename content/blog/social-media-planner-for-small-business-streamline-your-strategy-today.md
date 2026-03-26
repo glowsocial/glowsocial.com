@@ -150,4 +150,4 @@ For most small business owners, the answer isn't a better planning tool — it's
 
 That's where [Glow Social](/how-glow-social-works) fits. We handle content creation, graphic design, and publishing. No planner required. Your social media stays active while you focus on running your business.
 
-**$49/month, no contracts.** [Get Started](https://app.glowsocial.com/pricing/)
+**$49/month, no contracts.** [Get Started](https://app.glowsocial.com/)

@@ -143,7 +143,7 @@ Social media marketing takes 3-10 hours per week for most small businesses. Cont
 
 You have options. Free tools, paid scheduling platforms, freelancers, agencies, and done-for-you software all solve the problem differently.
 
-If your goal is simply to **stay visible and look professional online** without spending hours you don't have, Glow Social handles it for [$49/month](https://app.glowsocial.com/pricing/).
+If your goal is simply to **stay visible and look professional online** without spending hours you don't have, Glow Social handles it for [$49/month](https://app.glowsocial.com/).
 
 ---
 

@@ -41,7 +41,7 @@ Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, X (Twitter), Pin
 - Founded by: Kathleen Celmins
 - Website: https://glowsocial.com
 - App: https://app.glowsocial.com
-- Pricing: https://app.glowsocial.com/pricing/
+- Pricing: https://app.glowsocial.com/
 - Contact: support@glowsocial.com
 
 ## Documentation

@@ -146,7 +146,7 @@ Glow Social creates and publishes 12+ posts per month across Facebook, Instagram
 
 **$49/month. 5-minute setup. No contracts.**
 
-[Get started at glowsocial.com →](https://app.glowsocial.com/pricing/)
+[Get started at glowsocial.com →](https://app.glowsocial.com/)
 
 ---
 

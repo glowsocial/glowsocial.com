@@ -50,4 +50,4 @@ Most business owners know what to post. The problem is finding time to do it eve
 
 **Glow Social** reads your website, creates posts in your brand voice, and publishes them across 13 platforms — including Facebook and Google Business Profile. Setup takes 5 minutes.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)

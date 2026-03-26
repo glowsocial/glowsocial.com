@@ -119,6 +119,6 @@ The homeowners who check your social media before calling are the warmest leads 
 
 You don't need a marketing degree or a graphic designer. You need consistent, professional posts going out on the platforms where your customers are looking.
 
-[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
 
 Your next customer is checking your social media right now. Make sure there's something to see.

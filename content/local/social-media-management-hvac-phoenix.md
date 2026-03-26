@@ -33,7 +33,7 @@ Instead of bleeding agency fees or letting your social media collect dust, HVAC 
 
 Phoenix homeowners have dozens of HVAC options. The company that stays visible year-round — not just during peak summer — builds the trust that earns emergency calls and annual maintenance contracts. Your competitor with an active Facebook page is already winning those customers.
 
-Stop losing jobs because your social media looks like you went out of business. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and focus on keeping Phoenix cool.
+Stop losing jobs because your social media looks like you went out of business. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and focus on keeping Phoenix cool.
 
 
 

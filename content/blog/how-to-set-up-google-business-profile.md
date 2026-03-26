@@ -188,6 +188,6 @@ That's why we built [Glow Social](https://glowsocial.com) to handle both simulta
 
 Your Google Business Profile is the most underutilized free marketing tool available to local businesses. Set it up today, complete every section, and commit to keeping it active.
 
-If you want to automate the ongoing posting (the part that actually matters long-term), [set up Glow Social in 5 minutes](https://app.glowsocial.com/pricing/) and we'll handle your GBP and social media posting for you.
+If you want to automate the ongoing posting (the part that actually matters long-term), [set up Glow Social in 5 minutes](https://app.glowsocial.com/) and we'll handle your GBP and social media posting for you.
 
 **Related:** [How Customers Check You Online](/blog/what-makes-customers-trust-business-online) · [Best Platforms for Local Business](/blog/best-platforms-local-business) · [Why Customers Check Your Social Media](/blog/why-customers-check-social-media-before-calling)

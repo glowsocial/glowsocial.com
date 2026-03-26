@@ -33,7 +33,7 @@ Instead of paying agency rates or letting their social media go stale, insurance
 
 Insurance is a trust business. The agent who stays visible and provides value — even when someone isn't actively shopping for a policy — is the one who gets the call when they are. Your competitor posting helpful homeowner tips on Facebook is building that trust right now.
 
-Stop relying solely on cold calls and referrals. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and build the online presence that makes you the obvious choice.
+Stop relying solely on cold calls and referrals. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and build the online presence that makes you the obvious choice.
 
 
 

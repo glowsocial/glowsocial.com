@@ -149,7 +149,7 @@ For most small businesses, the social media management decision comes down to wh
 
 Don't let perfect be the enemy of posted. Consistent, good-enough content beats occasional perfect content every time.
 
-[Get started with Glow Social — $49/month →](https://app.glowsocial.com/pricing/)
+[Get started with Glow Social — $49/month →](https://app.glowsocial.com/)
 
 ---
 

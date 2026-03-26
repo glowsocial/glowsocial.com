@@ -158,4 +158,4 @@ The hiring math doesn't work for most local businesses until they're generating 
 
 For more on cost comparisons, see our [social media management cost breakdown](/blog/done-for-you-social-media-cost).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

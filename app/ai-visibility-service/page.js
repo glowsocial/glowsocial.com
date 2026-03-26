@@ -60,7 +60,7 @@ export default function AIVisibility() {
             visibility footprint.
           </p>
           <p>
-            <a href="https://app.glowsocial.com/pricing/">Get started at $49/month →</a>
+            <a href="https://app.glowsocial.com/">Get started at $49/month →</a>
           </p>
         </div>
       </article>

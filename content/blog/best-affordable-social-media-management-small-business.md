@@ -135,7 +135,7 @@ If you want to start posting consistently without spending hours you don't have:
 2. **No contracts** — cancel anytime if it's not right for you
 3. **See it in action** — [view real examples](https://app.glowsocial.com/examples) of posts Glow Social creates
 
-[Get started →](https://app.glowsocial.com/pricing/)
+[Get started →](https://app.glowsocial.com/)
 
 ---
 

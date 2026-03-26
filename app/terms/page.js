@@ -52,8 +52,8 @@ export default function Terms() {
           <p>
             Glow Social offers monthly subscription plans. Current pricing is
             available at{" "}
-            <a href="https://app.glowsocial.com/pricing/">
-              app.glowsocial.com/pricing
+            <a href="https://app.glowsocial.com/">
+              app.glowsocial.com
             </a>
             . We reserve the right to modify pricing with 30 days' notice to
             existing subscribers.

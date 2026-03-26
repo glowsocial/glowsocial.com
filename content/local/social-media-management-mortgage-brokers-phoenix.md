@@ -33,7 +33,7 @@ Instead of paying agency rates or letting your social media go dark between clos
 
 The Phoenix metro has thousands of licensed mortgage professionals. The ones building a personal brand on social media aren't just getting more direct leads — they're getting more referral partnerships too. Real estate agents want to work with lenders who look professional and established online.
 
-Stop relying solely on referrals. [Outsource your social media to Glow Social today](https://app.glowsocial.com/pricing/) and build the online visibility that drives consistent deal flow.
+Stop relying solely on referrals. [Outsource your social media to Glow Social today](https://app.glowsocial.com/) and build the online visibility that drives consistent deal flow.
 
 
 

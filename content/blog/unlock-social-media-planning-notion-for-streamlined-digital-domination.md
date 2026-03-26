@@ -158,6 +158,6 @@ What you get:
 
 What you don't get: the creative control and customization of a hands-on planning system. This trade-off works for most local businesses because the alternative — an empty Notion board and silent social media pages — isn't really control at all.
 
-**$49/month, no contracts.** [Get Started](https://app.glowsocial.com/pricing/)
+**$49/month, no contracts.** [Get Started](https://app.glowsocial.com/)
 
 For more on finding the right tool, see our guide to [social media planners for small business](/blog/social-media-planner-for-small-business-streamline-your-strategy-today) or explore [social media automation options](/blog/automated-social-media-local-business).

@@ -47,4 +47,4 @@ Glow Social handles your social media content end-to-end. We read your website, 
 
 While Stories require real-time content, Glow Social ensures your **feed posts** are always active — so even when you're too busy for Stories, your business looks alive and professional.
 
-[Get Started — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started — $49/month](https://app.glowsocial.com/)

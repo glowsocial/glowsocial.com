@@ -124,4 +124,4 @@ If even this reduced workload is more than you can sustain, a [done-for-you serv
 
 For more on building a sustainable content strategy, see our [content strategy guide](/blog/why-is-content-strategy-important-for-social-media-success) or explore [social media automation options](/blog/automated-social-media-local-business).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

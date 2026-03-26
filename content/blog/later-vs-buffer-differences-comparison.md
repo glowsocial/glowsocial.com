@@ -154,7 +154,7 @@ But if you're a small business owner who keeps falling behind on social media �
 
 Glow Social does. **$49/month, 5-minute setup, content created and published automatically.**
 
-[Try Glow Social →](https://app.glowsocial.com/pricing/)
+[Try Glow Social →](https://app.glowsocial.com/)
 
 ---
 

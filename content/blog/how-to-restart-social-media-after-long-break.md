@@ -89,4 +89,4 @@ Most of the business value comes from simply **not looking abandoned** — and t
 
 Coming back to social media after a long break is simpler than you think. Don't apologize, don't start over, don't try to be perfect. Just post something today, then post again in a few days. Build a system that keeps it going. That's it.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

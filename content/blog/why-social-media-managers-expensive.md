@@ -89,4 +89,4 @@ For most small businesses, the first list covers everything they need. The secon
 
 Social media managers are expensive because the work is genuinely time-consuming. But for small businesses, the choice isn't "agency or nothing." Done-for-you automation fills the gap — keeping your social media active and professional at a price point that actually makes sense for your business.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

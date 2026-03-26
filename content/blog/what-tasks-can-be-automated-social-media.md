@@ -112,4 +112,4 @@ If you're doing everything manually today, here's the order to automate:
 
 This approach saves 10-15 hours per month while keeping your social media genuinely personal where it counts.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/pricing/)
+[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)

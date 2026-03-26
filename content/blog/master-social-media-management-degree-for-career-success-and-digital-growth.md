@@ -114,4 +114,4 @@ Instead of learning how to create content, design graphics, and optimize posting
 
 For more on execution options, see our guide to [social media management for local businesses](/blog/social-media-management-meaning-elevate-your-strategy-with-ai-tools) or explore how [AI tools are changing social media](/blog/social-media-and-ai-transform-your-digital-dominance-effortlessly).
 
-[Get Started](https://app.glowsocial.com/pricing/)
+[Get Started](https://app.glowsocial.com/)

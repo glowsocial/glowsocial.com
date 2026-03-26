@@ -119,6 +119,6 @@ A few negative reviews with thoughtful owner responses show that you're a real b
 
 What actually damages your reputation isn't a bad review. It's [an abandoned social media page](/blog/cost-of-not-posting-social-media), crickets in your review responses, and the perception that nobody's home.
 
-Stay visible. Stay responsive. [Stay consistent](https://app.glowsocial.com/pricing/).
+Stay visible. Stay responsive. [Stay consistent](https://app.glowsocial.com/).
 
 **Related:** [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [What Makes Customers Trust a Business Online](/blog/what-makes-customers-trust-business-online)
