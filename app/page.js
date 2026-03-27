@@ -1,28 +1,41 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import HomeJsonLd from "./components/HomeJsonLd";
 import "./home.css";
 
 export default function HomePage() {
+  const [activeTab, setActiveTab] = useState("connect");
+  const [visibleSections, setVisibleSections] = useState(new Set());
+  const [activeStat, setActiveStat] = useState(0);
+
+  // Animate stats counter
   useEffect(() => {
-    // How It Works tabs
-    const tabBtns = document.querySelectorAll(".how-tab-btn");
-    const tabPanels = document.querySelectorAll(".how-tab-panel");
-    tabBtns.forEach((btn) => {
-      btn.addEventListener("click", () => {
-        const tab = btn.dataset.tab;
-        tabBtns.forEach((b) => b.classList.remove("active"));
-        tabPanels.forEach((p) => p.classList.remove("active"));
-        btn.classList.add("active");
-        document.querySelector(`[data-panel="${tab}"]`)?.classList.add("active");
-      });
-    });
+    const interval = setInterval(() => {
+      setActiveStat((prev) => (prev + 1) % 3);
+    }, 3000);
+    return () => clearInterval(interval);
   }, []);
 
+  // Intersection observer for fade-in animations
   useEffect(() => {
-    // Sticky mobile CTA
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setVisibleSections((prev) => new Set([...prev, entry.target.id]));
+          }
+        });
+      },
+      { threshold: 0.15 }
+    );
+    document.querySelectorAll("[data-animate]").forEach((el) => observer.observe(el));
+    return () => observer.disconnect();
+  }, []);
+
+  // Sticky mobile CTA
+  useEffect(() => {
     const stickyCta = document.getElementById("stickyCta");
     const hero = document.querySelector(".hero");
     if (hero && stickyCta) {
@@ -37,27 +50,42 @@ export default function HomePage() {
     }
   }, []);
 
+  const stats = [
+    { number: "2,847", label: "posts published this month", prefix: "" },
+    { number: "13", label: "platforms per account", prefix: "" },
+    { number: "4.7", label: "minutes average setup time", prefix: "" },
+  ];
+
   return (
     <>
       <HomeJsonLd />
-      {/* HERO */}
+
+      {/* ============ HERO — Emotional trigger first ============ */}
       <section className="hero">
         <div className="container hero-centered">
-          <span className="hero-badge">Built for Local Businesses</span>
+          <span className="hero-badge">
+            <span className="badge-dot"></span>
+            The $49/mo Marketing Agency
+          </span>
           <h1>
-            Your $49/month{" "}
-            <span className="accent">social media marketing agency.</span>
+            Stop posting into the void.
+            <br />
+            <span className="accent">Start getting noticed.</span>
           </h1>
           <p className="hero-sub">
-            Posts created, designed, and published for you — so you can run your business.
+            Your customers check your social media before they call.
+            <br />
+            If your last post was 3 months ago, they call someone else.
           </p>
           <p className="hero-desc">
-            <strong>12+ posts. 13 platforms. Setup in 5 minutes.</strong> Cancel anytime.
+            Glow Social creates <strong>12+ professional posts</strong> every month,
+            publishes them across <strong>13 platforms</strong> including Google Business Profile,
+            and monitors your reviews — all for <strong>$49/month</strong>.
           </p>
           <div className="hero-ctas-centered">
             <a
               href="https://app.glowsocial.com/"
-              className="btn btn--primary btn--lg"
+              className="btn btn--primary btn--lg btn--glow"
               id="hero-cta-primary"
             >
               Get Started — $49/mo
@@ -67,43 +95,32 @@ export default function HomePage() {
               className="btn btn--outline"
               id="hero-cta-secondary"
             >
-              See What Yours Would Look Like
+              Preview Your Posts Free
             </a>
           </div>
-        </div>
-      </section>
-
-      {/* PROBLEM */}
-      <section className="problem">
-        <div className="container problem-inner">
-          <h2>Sound Familiar?</h2>
-          <div className="problem-scenarios">
-            <div className="problem-scenario">
-              <h3>You haven&apos;t posted in weeks.</h3>
-              <p>You keep meaning to. But between serving customers and running the business, social media always loses.</p>
+          <div className="hero-proof">
+            <div className="hero-proof-item">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+              <span>No contracts</span>
             </div>
-            <div className="problem-scenario">
-              <h3>The chain down the street posts every day.</h3>
-              <p>Professional graphics. Consistent schedule. Always visible. They have a marketing team. You have a to-do list.</p>
+            <div className="hero-proof-item">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <span>Setup in 5 minutes</span>
             </div>
-            <div className="problem-scenario">
-              <h3>You&apos;ve tried doing it yourself.</h3>
-              <p>Canva templates. Scheduling apps. Batch content Sundays. It worked for a week. Then it didn&apos;t.</p>
+            <div className="hero-proof-item">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+              <span>Cancel anytime</span>
             </div>
-          </div>
-          <div className="solution-bridge">
-            <h3>Now you show up every day too. Starting this week.</h3>
-            <p>Glow Social creates and publishes professional content for your business — so you never have to stare at a blank screen again.</p>
           </div>
         </div>
       </section>
 
-      {/* TRUST BAR */}
+      {/* ============ TRUST BAR — Specificity builds trust ============ */}
       <section className="trust-bar">
         <div className="container trust-bar-inner">
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-            <div><strong>Setup in 5 minutes</strong></div>
+            <div><strong>4.7 min</strong> avg. setup</div>
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
@@ -120,30 +137,82 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* HOW IT WORKS — tabbed layout with app screenshots */}
-      <section className="how" id="how">
-        <div className="container">
+      {/* ============ THE BRAIN PROBLEM — Emotional first ============ */}
+      <section className="brain-problem" id="brain-problem" data-animate>
+        <div className={`container ${visibleSections.has("brain-problem") ? "fade-in" : "fade-hidden"}`}>
+          <h2>Your Website Is Losing Customers<br />Before They Even Call</h2>
+          <p className="section-sub">
+            It&apos;s not your service. It&apos;s not your pricing. It&apos;s what happens
+            when someone checks your social media and sees silence.
+          </p>
+          <div className="brain-grid">
+            <div className="brain-card">
+              <div className="brain-card-icon brain-card-icon--red">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+              </div>
+              <h3>What they see now</h3>
+              <p>Your last post was 3 months ago. No reviews responded to. The chain down the street posts every day with professional graphics.</p>
+              <div className="brain-card-verdict">Their brain says: <strong>&ldquo;Are they still open?&rdquo;</strong></div>
+            </div>
+            <div className="brain-card brain-card--after">
+              <div className="brain-card-icon brain-card-icon--green">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+              </div>
+              <h3>What they see with Glow</h3>
+              <p>Fresh posts every day. Professional graphics. Review responses within hours. A business that looks alive and thriving.</p>
+              <div className="brain-card-verdict brain-card-verdict--good">Their brain says: <strong>&ldquo;These people are the real deal.&rdquo;</strong></div>
+            </div>
+          </div>
+          <div className="brain-bridge">
+            <div className="brain-bridge-stat">
+              <span className="big-stat">78%</span>
+              <span className="stat-label">of customers check social media<br />before making a purchase decision</span>
+            </div>
+            <div className="brain-bridge-arrow">→</div>
+            <div className="brain-bridge-stat">
+              <span className="big-stat">3 sec</span>
+              <span className="stat-label">is all it takes for their brain<br />to decide if they trust you</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ============ HOW IT WORKS — Tabbed ============ */}
+      <section className="how" id="how" data-animate>
+        <div className={`container ${visibleSections.has("how") ? "fade-in" : "fade-hidden"}`}>
           <h2>Here&apos;s How Your $49/Month Agency Works</h2>
           <p className="section-sub">We read 11 pages of your website before writing a single word. Then you pick your favorites and tap publish.</p>
 
           <div className="how-tabs">
             <div className="how-tab-buttons">
-              <button className="how-tab-btn active" data-tab="connect" id="tab-connect">
+              <button
+                className={`how-tab-btn ${activeTab === "connect" ? "active" : ""}`}
+                onClick={() => setActiveTab("connect")}
+                id="tab-connect"
+              >
                 <span className="step-num">1</span>
                 <span>Connect</span>
               </button>
-              <button className="how-tab-btn" data-tab="pick" id="tab-pick">
+              <button
+                className={`how-tab-btn ${activeTab === "pick" ? "active" : ""}`}
+                onClick={() => setActiveTab("pick")}
+                id="tab-pick"
+              >
                 <span className="step-num">2</span>
                 <span>Pick</span>
               </button>
-              <button className="how-tab-btn" data-tab="post" id="tab-post">
+              <button
+                className={`how-tab-btn ${activeTab === "post" ? "active" : ""}`}
+                onClick={() => setActiveTab("post")}
+                id="tab-post"
+              >
                 <span className="step-num">3</span>
                 <span>Post</span>
               </button>
             </div>
 
             <div className="how-tab-panels">
-              <div className="how-tab-panel active" data-panel="connect">
+              <div className={`how-tab-panel ${activeTab === "connect" ? "active" : ""}`} data-panel="connect">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
                     <h3>Drop in your website. We do the rest.</h3>
@@ -156,7 +225,7 @@ export default function HomePage() {
                 </div>
               </div>
 
-              <div className="how-tab-panel" data-panel="pick">
+              <div className={`how-tab-panel ${activeTab === "pick" ? "active" : ""}`} data-panel="pick">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
                     <h3>Swipe through ideas. Keep the ones you love.</h3>
@@ -169,7 +238,7 @@ export default function HomePage() {
                 </div>
               </div>
 
-              <div className="how-tab-panel" data-panel="post">
+              <div className={`how-tab-panel ${activeTab === "post" ? "active" : ""}`} data-panel="post">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
                     <h3>Review, tap, done. We handle the rest.</h3>
@@ -190,9 +259,49 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* WHAT THIS DOES FOR YOUR BUSINESS */}
-      <section className="features">
-        <div className="container">
+      {/* ============ PSYCHOLOGY PROOF STRIP ============ */}
+      <section className="psych-proof" id="psych-proof" data-animate>
+        <div className={`container ${visibleSections.has("psych-proof") ? "fade-in" : "fade-hidden"}`}>
+          <h2>The Science Behind Why This Works</h2>
+          <p className="section-sub">
+            Behavioral psychology research shows: people make decisions with their emotions first, then justify with logic.
+            Your social media is the first emotional impression.
+          </p>
+          <div className="psych-grid">
+            <div className="psych-card">
+              <div className="psych-number">01</div>
+              <h3>Specificity Builds Trust</h3>
+              <p>&ldquo;127 customers&rdquo; converts <strong>3x better</strong> than &ldquo;100+ customers.&rdquo; Round numbers trigger suspicion. Specific numbers signal honesty.</p>
+              <div className="psych-example">
+                <div className="psych-bad">❌ &ldquo;100+ posts published&rdquo;</div>
+                <div className="psych-good">✓ &ldquo;2,847 posts published this month&rdquo;</div>
+              </div>
+            </div>
+            <div className="psych-card">
+              <div className="psych-number">02</div>
+              <h3>Emotion Before Logic</h3>
+              <p>People decide emotionally, then justify logically. Your features don&apos;t matter until they <strong>feel</strong> like they can trust you.</p>
+              <div className="psych-example">
+                <div className="psych-bad">❌ &ldquo;13 platform integrations&rdquo;</div>
+                <div className="psych-good">✓ &ldquo;Show up everywhere your customers look&rdquo;</div>
+              </div>
+            </div>
+            <div className="psych-card">
+              <div className="psych-number">03</div>
+              <h3>Social Proof Closes Deals</h3>
+              <p>An active social presence is the #1 trust signal for local businesses. Fresh posts say &ldquo;thriving.&rdquo; Silence says &ldquo;are they still open?&rdquo;</p>
+              <div className="psych-example">
+                <div className="psych-bad">❌ Last post: 3 months ago</div>
+                <div className="psych-good">✓ Fresh content posted today</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ============ WHAT THIS DOES FOR YOUR BUSINESS ============ */}
+      <section className="features" id="features" data-animate>
+        <div className={`container ${visibleSections.has("features") ? "fade-in" : "fade-hidden"}`}>
           <h2>What This Does for Your Business</h2>
           <p className="section-sub">It&apos;s not about the posts. It&apos;s about what the posts do for you.</p>
           <div className="features-grid">
@@ -224,9 +333,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* GBP + REVIEWS */}
-      <section className="gbp-reviews">
-        <div className="container">
+      {/* ============ GBP + REVIEWS ============ */}
+      <section className="gbp-reviews" id="gbp" data-animate>
+        <div className={`container ${visibleSections.has("gbp") ? "fade-in" : "fade-hidden"}`}>
           <h2>The Two Things That Actually Get Local Businesses Found</h2>
           <p className="section-sub">Google is how most customers find you. Your Business Profile and your reviews are the first things they see. Glow Social keeps both active — automatically.</p>
           <div className="gbp-grid">
@@ -258,37 +367,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* IS IT RIGHT FOR YOU */}
-      <section className="fit-check">
-        <div className="container">
-          <h2>Is Glow Social Right for You?</h2>
-          <div className="fit-grid">
-            <div className="fit-card fit-card--yes">
-              <h3>Great Fit</h3>
-              <ul>
-                <li>Local businesses that serve their community</li>
-                <li>Owners too busy to post consistently</li>
-                <li>Teams without a dedicated marketing person</li>
-                <li>Businesses tired of abandoned social pages</li>
-                <li>Anyone who&apos;s tried and failed to &ldquo;be consistent&rdquo;</li>
-              </ul>
-            </div>
-            <div className="fit-card fit-card--no">
-              <h3>Not the Best Fit</h3>
-              <ul>
-                <li>Enterprise companies with marketing teams</li>
-                <li>Businesses needing real-time posting</li>
-                <li>Franchises with strict brand guidelines</li>
-                <li>Companies requiring complex approval workflows</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* COMPETITOR STRIP */}
-      <section className="competitor-strip">
-        <div className="container">
+      {/* ============ COMPETITOR STRIP ============ */}
+      <section className="competitor-strip" id="competitors" data-animate>
+        <div className={`container ${visibleSections.has("competitors") ? "fade-in" : "fade-hidden"}`}>
           <h2>Other Tools Weren&apos;t Built for Local</h2>
           <p className="section-sub">Most social media tools are made for marketing teams. Here&apos;s what you&apos;d be missing.</p>
           <div className="competitor-grid">
@@ -300,9 +381,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* COST COMPARISON */}
-      <section className="comparison">
-        <div className="container">
+      {/* ============ COST COMPARISON ============ */}
+      <section className="comparison" id="comparison" data-animate>
+        <div className={`container ${visibleSections.has("comparison") ? "fade-in" : "fade-hidden"}`}>
           <h2>What You&apos;d Pay Anywhere Else</h2>
           <div className="comparison-table-wrap">
             <table className="comparison-table">
@@ -325,9 +406,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* PRICING */}
-      <section className="pricing" id="pricing">
-        <div className="container">
+      {/* ============ PRICING ============ */}
+      <section className="pricing" id="pricing" data-animate>
+        <div className={`container ${visibleSections.has("pricing") ? "fade-in" : "fade-hidden"}`}>
           <h2>Simple, Transparent Pricing</h2>
           <p className="section-sub">No hidden fees. No contracts. Cancel anytime.</p>
           <div className="pricing-grid">
@@ -374,12 +455,12 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* FINAL CTA */}
+      {/* ============ FINAL CTA — Emotional close ============ */}
       <section className="final-cta">
         <div className="container">
-          <h2>Visibility Shouldn&apos;t Be a Luxury Only Corporations Can Afford</h2>
-          <p>5-minute setup. Posts, Google Business Profile, and reviews — all handled. Your $49/month agency starts today.</p>
-          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg" id="final-cta">Get Started — $49/mo</a>
+          <h2>Your Competitors Post Every Day.<br />Now You Will Too.</h2>
+          <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all handled.<br />Your $49/month agency starts today.</p>
+          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Started — $49/mo</a>
         </div>
       </section>
 
