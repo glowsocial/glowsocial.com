@@ -27,7 +27,7 @@ export const metadata = {
     template: "%s | Glow Social",
   },
   description:
-    "Affordable done-for-you social media management for local businesses. 12+ posts/month across 13 platforms including Google Business Profile — starting at $49/mo. Setup in 5 minutes.",
+    "Done-for-you social media for local businesses who hate social media. Professional posts, Google Business Profile, and Google Review monitoring — starting at $49/mo. Setup in 5 minutes.",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -35,7 +35,7 @@ export const metadata = {
     siteName: "Glow Social",
     title: "Glow Social | Done-For-You Social Media for Local Businesses",
     description:
-      "Your $49/month social media marketing agency. Glow Social reads your website, creates professional content, and publishes to 13 platforms — so you can run your business.",
+      "$49/month social media — handled. Glow Social reads your website, creates professional content, and publishes to 13 platforms so you never have to think about social media again.",
   },
   twitter: {
     card: "summary_large_image",

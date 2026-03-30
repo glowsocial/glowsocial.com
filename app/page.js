@@ -68,19 +68,19 @@ export default function HomePage() {
             The $49/mo Marketing Agency
           </span>
           <h1>
-            Stop posting into the void.
+            What if social media
             <br />
-            <span className="accent">Start getting noticed.</span>
+            <span className="accent">just wasn&apos;t your problem anymore?</span>
           </h1>
           <p className="hero-sub">
-            Your customers check your social media before they call.
+            The guilt. The dread. The &ldquo;I really should post something&rdquo; loop.
             <br />
-            If your last post was 3 months ago, they call someone else.
+            Gone. Your business stays active and professional. You didn&apos;t do a thing.
           </p>
           <p className="hero-desc">
-            Glow Social creates <strong>12+ professional posts</strong> every month,
+            Glow Social creates <strong>professional posts every month</strong>,
             publishes them across <strong>13 platforms</strong> including Google Business Profile,
-            and monitors your reviews — all for <strong>$49/month</strong>.
+            and handles your reviews — all for <strong>$49/month</strong>.
           </p>
           <div className="hero-ctas-centered">
             <a
@@ -137,30 +137,31 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ============ THE BRAIN PROBLEM — Emotional first ============ */}
+      {/* ============ THE PAIN — Emotional first ============ */}
       <section className="brain-problem" id="brain-problem" data-animate>
         <div className={`container ${visibleSections.has("brain-problem") ? "fade-in" : "fade-hidden"}`}>
-          <h2>Your Website Is Losing Customers<br />Before They Even Call</h2>
+          <h2>You Know You Should Be Posting.<br />That&apos;s the Problem.</h2>
           <p className="section-sub">
-            It&apos;s not your service. It&apos;s not your pricing. It&apos;s what happens
-            when someone checks your social media and sees silence.
+            Every Monday you think &ldquo;this is the week I get consistent.&rdquo; Every time you see a competitor&apos;s feed, there&apos;s a pang.
+            Every networking event ends with &ldquo;I know, I need to be better about social media.&rdquo;
+            That debt never gets paid. It just grows.
           </p>
           <div className="brain-grid">
             <div className="brain-card">
               <div className="brain-card-icon brain-card-icon--red">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
               </div>
-              <h3>What they see now</h3>
-              <p>Your last post was 3 months ago. No reviews responded to. The chain down the street posts every day with professional graphics.</p>
-              <div className="brain-card-verdict">Their brain says: <strong>&ldquo;Are they still open?&rdquo;</strong></div>
+              <h3>Before Glow Social</h3>
+              <p>Social media is a weight you carry everywhere. You avoid opening Instagram because it reminds you of falling behind. You&apos;re great at your job. You feel like a fraud about marketing.</p>
+              <div className="brain-card-verdict">You think: <strong>&ldquo;I should really post something this week.&rdquo;</strong></div>
             </div>
             <div className="brain-card brain-card--after">
               <div className="brain-card-icon brain-card-icon--green">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
               </div>
-              <h3>What they see with Glow</h3>
-              <p>Fresh posts every day. Professional graphics. Review responses within hours. A business that looks alive and thriving.</p>
-              <div className="brain-card-verdict brain-card-verdict--good">Their brain says: <strong>&ldquo;These people are the real deal.&rdquo;</strong></div>
+              <h3>After Glow Social</h3>
+              <p>The voice goes quiet. Fresh, professional posts are live. Your business looks active even on your worst week. You can look someone up and not feel like a fraud — because your presence is handled.</p>
+              <div className="brain-card-verdict brain-card-verdict--good">You think: <strong>&ldquo;Oh right. That&apos;s just... taken care of.&rdquo;</strong></div>
             </div>
           </div>
           <div className="brain-bridge">
@@ -180,8 +181,8 @@ export default function HomePage() {
       {/* ============ HOW IT WORKS — Tabbed ============ */}
       <section className="how" id="how" data-animate>
         <div className={`container ${visibleSections.has("how") ? "fade-in" : "fade-hidden"}`}>
-          <h2>Here&apos;s How Your $49/Month Agency Works</h2>
-          <p className="section-sub">We read 11 pages of your website before writing a single word. Then you pick your favorites and tap publish.</p>
+          <h2>From &ldquo;I Need to Get Around to That&rdquo;<br />to &ldquo;It&apos;s Already Done&rdquo;</h2>
+          <p className="section-sub">Three steps. Five minutes. Then you never have to think about social media again.</p>
 
           <div className="how-tabs">
             <div className="how-tab-buttons">
@@ -259,75 +260,74 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ============ PSYCHOLOGY PROOF STRIP ============ */}
+      {/* ============ TENSION STRIP — The real cost of avoidance ============ */}
       <section className="psych-proof" id="psych-proof" data-animate>
         <div className={`container ${visibleSections.has("psych-proof") ? "fade-in" : "fade-hidden"}`}>
-          <h2>The Science Behind Why This Works</h2>
+          <h2>The Real Cost of &ldquo;I&apos;ll Get to It Eventually&rdquo;</h2>
           <p className="section-sub">
-            Behavioral psychology research shows: people make decisions with their emotions first, then justify with logic.
-            Your social media is the first emotional impression.
+            Not posting isn&apos;t neutral. Every week of silence is a signal your customers are reading.
           </p>
           <div className="psych-grid">
             <div className="psych-card">
               <div className="psych-number">01</div>
-              <h3>Specificity Builds Trust</h3>
-              <p>&ldquo;127 customers&rdquo; converts <strong>3x better</strong> than &ldquo;100+ customers.&rdquo; Round numbers trigger suspicion. Specific numbers signal honesty.</p>
+              <h3>Silence Reads as Uncertainty</h3>
+              <p>When someone finds you through a referral or Google, the first thing they do is check your social media. A quiet feed whispers: <strong>&ldquo;Are they still around?&rdquo;</strong></p>
               <div className="psych-example">
-                <div className="psych-bad">❌ &ldquo;100+ posts published&rdquo;</div>
-                <div className="psych-good">✓ &ldquo;2,847 posts published this month&rdquo;</div>
+                <div className="psych-bad">❌ Last post: 4 months ago</div>
+                <div className="psych-good">✓ Active presence across 13 platforms</div>
               </div>
             </div>
             <div className="psych-card">
               <div className="psych-number">02</div>
-              <h3>Emotion Before Logic</h3>
-              <p>People decide emotionally, then justify logically. Your features don&apos;t matter until they <strong>feel</strong> like they can trust you.</p>
+              <h3>Your Competitor Is Showing Up</h3>
+              <p>You don&apos;t have to love social media. But someone in your market does — and they&apos;re posting every day. Consistency beats talent every time.</p>
               <div className="psych-example">
-                <div className="psych-bad">❌ &ldquo;13 platform integrations&rdquo;</div>
-                <div className="psych-good">✓ &ldquo;Show up everywhere your customers look&rdquo;</div>
+                <div className="psych-bad">❌ You: still meaning to post</div>
+                <div className="psych-good">✓ Glow: already posted for you</div>
               </div>
             </div>
             <div className="psych-card">
               <div className="psych-number">03</div>
-              <h3>Social Proof Closes Deals</h3>
-              <p>An active social presence is the #1 trust signal for local businesses. Fresh posts say &ldquo;thriving.&rdquo; Silence says &ldquo;are they still open?&rdquo;</p>
+              <h3>The Guilt Has a Price</h3>
+              <p>The mental load of &ldquo;I should be doing this&rdquo; is real. It takes up space. It creates avoidance. Getting it off your plate isn&apos;t just about marketing — it&apos;s about <strong>mental bandwidth.</strong></p>
               <div className="psych-example">
-                <div className="psych-bad">❌ Last post: 3 months ago</div>
-                <div className="psych-good">✓ Fresh content posted today</div>
+                <div className="psych-bad">❌ Every Monday: fresh guilt</div>
+                <div className="psych-good">✓ Every Monday: already handled</div>
               </div>
             </div>
           </div>
         </div>
       </section>
 
-      {/* ============ WHAT THIS DOES FOR YOUR BUSINESS ============ */}
+      {/* ============ WHAT HANDLED ACTUALLY FEELS LIKE ============ */}
       <section className="features" id="features" data-animate>
         <div className={`container ${visibleSections.has("features") ? "fade-in" : "fade-hidden"}`}>
-          <h2>What This Does for Your Business</h2>
-          <p className="section-sub">It&apos;s not about the posts. It&apos;s about what the posts do for you.</p>
+          <h2>What &ldquo;Handled&rdquo; Actually Feels Like</h2>
+          <p className="section-sub">This isn&apos;t just about posts. It&apos;s about what disappears when you hand it off.</p>
           <div className="features-grid">
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" /><circle cx="12" cy="7" r="4" /></svg></div>
-              <div><h3>Build Your Personal Brand</h3><p>People recognize you before they walk through the door. You&apos;re not just listed — you&apos;re known.</p></div>
+              <div><h3>The Guilt Loop Stops</h3><p>You don&apos;t start every Monday with &ldquo;I really need to post something this week.&rdquo; It&apos;s already there. Already live. Already done.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></svg></div>
-              <div><h3>Get Found by More Prospects</h3><p>Show up in every feed, on every platform, every day. When someone needs what you do, they see you first.</p></div>
+              <div><h3>You Look Like You Have a Team</h3><p>Professional graphics, consistent voice, fresh posts — every platform, every week. You look established even on your worst, busiest week.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2" /><circle cx="8.5" cy="8.5" r="1.5" /><polyline points="21 15 16 10 5 21" /></svg></div>
-              <div><h3>Look as Polished as the Big Brands</h3><p>Professional graphics, consistent voice, daily presence. Your social pages look like you have a marketing team — because you do.</p></div>
+              <div><h3>Referrals Actually Convert</h3><p>Someone recommends you. They look you up. Instead of a dead feed, they see an active, professional business. That&apos;s what turns a mention into a call.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" /><polyline points="22 4 12 14.01 9 11.01" /></svg></div>
-              <div><h3>Look Open, Active, and Thriving</h3><p>An abandoned social page says &ldquo;are they still in business?&rdquo; A daily one says &ldquo;these people are the real deal.&rdquo;</p></div>
+              <div><h3>You Stop Avoiding Your Own Pages</h3><p>You used to avoid Instagram because opening it felt like a reminder of failing. Now it just looks good. You can send people there with confidence.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg></div>
-              <div><h3>Become the Go-To in Your Area</h3><p>When someone asks &ldquo;who should I call for [what you do]?&rdquo; — your name comes up because they see you everywhere.</p></div>
+              <div><h3>The Mental Load Goes Away</h3><p>&ldquo;I should be posting&rdquo; is a thought that takes up space. When it&apos;s just taken care of, you get that space back — to focus on the work you actually love.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg></div>
-              <div><h3>Get 10+ Hours Back Every Week</h3><p>Stop agonizing over what to post. Stop opening Canva. Stop feeling guilty about your quiet pages. That time is yours again.</p></div>
+              <div><h3>You Network Without the Wince</h3><p>No more &ldquo;I know, I really need to get better at social media.&rdquo; Your presence is polished. Hand someone your card knowing you&apos;ll impress them when they look you up.</p></div>
             </div>
           </div>
         </div>
@@ -376,7 +376,7 @@ export default function HomePage() {
             <div className="competitor-card"><h3>Buffer</h3><div className="verdict">No Google Business Profile</div><div className="detail">No GBP posting. No review management. Not built for local.</div></div>
             <div className="competitor-card"><h3>Later</h3><div className="verdict">No Google Business Profile</div><div className="detail">Instagram-focused. No GBP support at all. No reviews.</div></div>
             <div className="competitor-card"><h3>Sprout Social</h3><div className="verdict">$399+/mo for Reviews</div><div className="detail">Review management locked behind their most expensive plan.</div></div>
-            <div className="competitor-card competitor-card--glow"><h3>Glow Social</h3><div className="verdict">GBP + Reviews Included</div><div className="detail">Posting, GBP, and review monitoring — all starting at $49/mo.</div></div>
+            <div className="competitor-card competitor-card--glow"><h3>Glow Social</h3><div className="verdict">GBP + Reviews Included</div><div className="detail">Posting, GBP, and review monitoring — all starting at $98/mo.</div></div>
           </div>
         </div>
       </section>
@@ -391,7 +391,7 @@ export default function HomePage() {
                 <tr><th></th><th className="highlight-col">Glow Social</th><th>Freelancer</th><th>Agency</th><th>DIY</th></tr>
               </thead>
               <tbody>
-                <tr><td>Monthly cost</td><td className="highlight-col"><strong>$49</strong></td><td>$300–$750</td><td>$2,000+</td><td>Free*</td></tr>
+                <tr><td>Monthly cost</td><td className="highlight-col"><strong>$98</strong></td><td>$300–$750</td><td>$2,000+</td><td>Free*</td></tr>
                 <tr><td>Posts per month</td><td className="highlight-col"><strong>12+</strong></td><td>8–12</td><td>12–20</td><td>2–4</td></tr>
                 <tr><td>GBP posting</td><td className="highlight-col"><strong>Included</strong></td><td>Sometimes</td><td>Extra cost</td><td>Manual</td></tr>
                 <tr><td>Review monitoring</td><td className="highlight-col"><strong>Included</strong></td><td>No</td><td>Extra cost</td><td>Manual</td></tr>
@@ -414,7 +414,7 @@ export default function HomePage() {
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
-              <div className="price"><span className="price-amount">$49</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">$98</span><span className="price-period">/month</span></div>
               <ul>
                 <li><strong>12 posts</strong> per month</li>
                 <li><strong>13 platforms</strong> including GBP</li>
@@ -428,7 +428,7 @@ export default function HomePage() {
             <div className="price-card price-card--featured">
               <span className="popular-badge">Most Popular</span>
               <h3>Glo Pro</h3>
-              <div className="price"><span className="price-amount">$99</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">$198</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Core, plus:</li>
                 <li><strong>20+ posts</strong> per month</li>
@@ -441,7 +441,7 @@ export default function HomePage() {
             </div>
             <div className="price-card">
               <h3>Glo Unlimited</h3>
-              <div className="price"><span className="price-amount">$199</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">$398</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
                 <li><strong>Unlimited</strong> static posts</li>
@@ -458,8 +458,8 @@ export default function HomePage() {
       {/* ============ FINAL CTA — Emotional close ============ */}
       <section className="final-cta">
         <div className="container">
-          <h2>Your Competitors Post Every Day.<br />Now You Will Too.</h2>
-          <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all handled.<br />Your $49/month agency starts today.</p>
+          <h2>Stop Carrying It.<br />Let Us Handle It.</h2>
+          <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all done for you.<br />The guilt goes away. The posts show up. Your $49/month starts today.</p>
           <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Started — $49/mo</a>
         </div>
       </section>
@@ -467,20 +467,20 @@ export default function HomePage() {
       {/* FAQ */}
       <section className="faq" id="faq">
         <div className="container">
-          <h2>Frequently Asked Questions</h2>
+          <h2>Questions From People Who Really Don&apos;t Want to Think About Social Media</h2>
           <div className="faq-list">
-            <details className="faq-item"><summary>Will this get me more customers?</summary><p>Social media isn&apos;t an ad — nobody clicks links in captions. What it does is more powerful. When someone hears about you through word of mouth, Google, or a referral, the first thing they do is check your social media. If your last post was six months ago, they move on. If they see fresh, professional content, they trust you enough to take the next step. Glow Social keeps you looking active and credible so every other way people find you actually converts.</p></details>
+            <details className="faq-item"><summary>Will this get me more customers?</summary><p>It won&apos;t replace advertising. What it does is more important: it converts the customers you&apos;re already almost getting. When someone hears about you through word of mouth, Google, or a referral, the first thing they do is check your social media. If your last post was six months ago, they second-guess themselves and move on. Fresh, professional content turns that curiosity into a call. Glow Social makes sure you never lose a warm lead because your presence looked abandoned.</p></details>
             <details className="faq-item"><summary>How much does Glow Social cost?</summary><p>Glow Social Core costs $49 per month with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for an overseas contractor. You can cancel anytime and keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary>Can I cancel anytime?</summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary>What if I don&apos;t like the content?</summary><p>You have full editorial control. Edit any post before it goes live, regenerate content with different parameters, or write your own. Every piece of content is customized to your brand voice and can be adjusted to your preferences.</p></details>
             <details className="faq-item"><summary>How long does setup take?</summary><p>About 5 minutes. Answer a few questions about your business, connect your social media accounts, and you&apos;re done. No job posting, no interviews, no training required.</p></details>
-            <details className="faq-item"><summary>How is Glow Social different from other social media tools?</summary><p>You&apos;re not buying a tool — you&apos;re hiring a marketing department. Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social creates the posts, designs the graphics, publishes to 13 platforms including Google Business Profile, and monitors your Google reviews — so you can focus on running your business.</p></details>
+            <details className="faq-item"><summary>I&apos;ve tried social media tools before. How is this different?</summary><p>Most tools give you a better way to do the work. Glow Social takes the work away entirely. You don&apos;t schedule, write, or design anything. We read your website, generate content tailored to your business, and publish it to 13 platforms including Google Business Profile. You just approve and move on — or let auto-scheduling handle even that.</p></details>
             <details className="faq-item"><summary>Does Glow Social post to Google Business Profile?</summary><p>Yes — and this is one of the biggest things that sets us apart. Most social media tools skip GBP entirely (Buffer and Later don&apos;t support it at all). We publish directly to your Google Business Profile alongside your other platforms.</p></details>
             <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Once you connect your Google Business Profile, Glow Social monitors your reviews automatically. You&apos;ll see new reviews as they come in and can respond right from your dashboard — no need to log into Google separately. It&apos;s all part of your plan, no extra charge.</p></details>
             <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube, Reddit, Bluesky, Mastodon, Google Business Profile, Pinterest, Discord, Slack, and TikTok.</p></details>
-            <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Solopreneurs, service-based businesses, and local businesses who need a professional social media presence but don&apos;t have time to create content. Our typical customers include roofers, dentists, coaches, photographers, wedding vendors, and local service providers.</p></details>
-            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For $49/month, you get 12+ professionally written and designed posts delivered monthly across all major platforms — without hiring an agency or spending hours creating content yourself.</p></details>
-            <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager costs $300–500/month minimum, requires training, and can quit unexpectedly. Glow Social costs $49/month, never calls in sick, never quits, and delivers consistent content 24/7.</p></details>
+            <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Business owners who are great at what they do and hate that social media is part of running a business. If you&apos;ve ever said &ldquo;I know I should be posting more&rdquo; at a networking event, you&apos;re exactly who this is for. Our customers include roofers, dentists, coaches, photographers, wedding vendors, and local service providers who want to look professional online without it consuming their time.</p></details>
+            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For $49/month, you get professionally written, designed, and published posts every month — across 13 platforms. You never have to think about what to post, when to post it, or how it looks. We handle all of it.</p></details>
+            <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager costs $300–500/month minimum, requires onboarding, and can quit on you. Glow Social costs $49/month, never has an off day, never needs managing, and keeps delivering without you having to think about it.</p></details>
           </div>
         </div>
       </section>
