@@ -20,7 +20,7 @@ export default function FAQ() {
           <p>
             Glow Social is done-for-you social media posting for local
             businesses. We create and publish custom social media content for
-            your business automatically — 12+ posts per month across 13
+            your business automatically — 12+ posts per month across 12
             platforms, starting at $49/month.
           </p>
 
@@ -35,7 +35,7 @@ export default function FAQ() {
 
           <h2>What platforms do you post to?</h2>
           <p>
-            We support 13 platforms including Facebook, Instagram, LinkedIn,
+            We support 12 platforms including Facebook, Instagram, LinkedIn,
             Google Business Profile, TikTok, X (Twitter), Pinterest, and more.
           </p>
 
@@ -87,7 +87,7 @@ export default function FAQ() {
 
           <h2>What about Google Reviews?</h2>
           <p>
-            Every plan includes Google Review monitoring. You'll see new reviews
+            Google Review monitoring is included in Glo Pro and Glo Unlimited plans. You&apos;ll see new reviews
             in your dashboard and can respond to them directly.
           </p>
 

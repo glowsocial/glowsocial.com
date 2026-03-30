@@ -11,7 +11,7 @@ export default function HowItWorks() {
       <section className="blog-hero">
         <div className="container">
           <h1>How Glow Social Works</h1>
-          <p>3 taps. 12 posts. 13 platforms. Every month.</p>
+          <p>3 taps. 12 posts. 12 platforms. Every month.</p>
         </div>
       </section>
       <article className="blog-post">
@@ -27,7 +27,7 @@ export default function HowItWorks() {
           <h2>Step 2: Connect Your Platforms</h2>
           <p>
             Connect Facebook, Instagram, LinkedIn, Google Business Profile,
-            TikTok, and more. We support 13 platforms total. Connect as many or
+            TikTok, and more. We support 12 platforms total. Connect as many or
             as few as you want.
           </p>
 
@@ -44,7 +44,7 @@ export default function HowItWorks() {
           <ul>
             <li><strong>12+ custom posts</strong> written in your brand voice</li>
             <li><strong>Professional graphics</strong> in your brand colors</li>
-            <li><strong>Multi-platform publishing</strong> to up to 13 platforms</li>
+            <li><strong>Multi-platform publishing</strong> to up to 12 platforms</li>
             <li><strong>Google Business Profile posting</strong> — most tools skip this</li>
             <li><strong>Google Review monitoring</strong> — see and respond to reviews</li>
           </ul>

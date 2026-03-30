@@ -35,7 +35,7 @@ export default function AIVisibility() {
             content that AI models can discover and reference. This includes:
           </p>
           <ul>
-            <li><strong>Consistent social media posting</strong> — Regular content across 13 platforms signals to AI that your business is active and relevant</li>
+            <li><strong>Consistent social media posting</strong> — Regular content across 12 platforms signals to AI that your business is active and relevant</li>
             <li><strong>Google Business Profile optimization</strong> — The most crawled local business data source for AI models</li>
             <li><strong>Brand-authority content</strong> — Posts structured using our OBA framework (Offer, Benefit, Authority) that AI can parse and reference</li>
             <li><strong>Review monitoring</strong> — Reviews are a primary trust signal for AI recommendations</li>

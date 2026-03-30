@@ -221,9 +221,9 @@ export default function Agency() {
             </div>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">13</div>
+            <div className="feature-icon">12</div>
             <div>
-              <h3>13 Platforms</h3>
+              <h3>12 Platforms</h3>
               <p>
                 Facebook, Instagram, LinkedIn, TikTok, and more. Unlimited
                 platform connections per client.
