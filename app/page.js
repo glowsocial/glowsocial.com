@@ -132,7 +132,7 @@ export default function HomePage() {
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
-            <div><strong>Google Reviews</strong> included</div>
+            <div><strong>Google Reviews</strong> on Pro+</div>
           </div>
         </div>
       </section>
@@ -391,10 +391,10 @@ export default function HomePage() {
                 <tr><th></th><th className="highlight-col">Glow Social</th><th>Freelancer</th><th>Agency</th><th>DIY</th></tr>
               </thead>
               <tbody>
-                <tr><td>Monthly cost</td><td className="highlight-col"><strong>$98</strong></td><td>$300–$750</td><td>$2,000+</td><td>Free*</td></tr>
+                <tr><td>Monthly cost</td><td className="highlight-col"><strong>$49</strong></td><td>$300–$750</td><td>$2,000+</td><td>Free*</td></tr>
                 <tr><td>Posts per month</td><td className="highlight-col"><strong>12+</strong></td><td>8–12</td><td>12–20</td><td>2–4</td></tr>
                 <tr><td>GBP posting</td><td className="highlight-col"><strong>Included</strong></td><td>Sometimes</td><td>Extra cost</td><td>Manual</td></tr>
-                <tr><td>Review monitoring</td><td className="highlight-col"><strong>Included</strong></td><td>No</td><td>Extra cost</td><td>Manual</td></tr>
+                <tr><td>Review monitoring</td><td className="highlight-col"><strong>Pro+</strong></td><td>No</td><td>Extra cost</td><td>Manual</td></tr>
                 <tr><td>Setup time</td><td className="highlight-col"><strong>5 minutes</strong></td><td>2–3 weeks</td><td>1–2 months</td><td>Ongoing</td></tr>
                 <tr><td>Graphics included</td><td className="highlight-col"><strong>Yes</strong></td><td>Sometimes</td><td>Yes</td><td>No</td></tr>
                 <tr><td>Cancel anytime</td><td className="highlight-col"><strong>Yes</strong></td><td>Contract</td><td>Contract</td><td>Yes</td></tr>
@@ -414,11 +414,10 @@ export default function HomePage() {
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
-              <div className="price"><span className="price-amount">$98</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">$49</span><span className="price-period">/month</span></div>
               <ul>
                 <li><strong>12 posts</strong> per month</li>
                 <li><strong>13 platforms</strong> including GBP</li>
-                <li><strong>Google Review</strong> monitoring</li>
                 <li>Generated from your <strong>website data</strong></li>
                 <li><strong>Automated</strong> scheduling</li>
                 <li><strong>3-tap</strong> approval process</li>
@@ -428,20 +427,21 @@ export default function HomePage() {
             <div className="price-card price-card--featured">
               <span className="popular-badge">Most Popular</span>
               <h3>Glo Pro</h3>
-              <div className="price"><span className="price-amount">$198</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">$99</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Core, plus:</li>
                 <li><strong>20+ posts</strong> per month</li>
                 <li><strong>4 carousel</strong> posts included</li>
                 <li><strong>4 video</strong> posts included</li>
                 <li><strong>8 custom</strong> posts per month</li>
+                <li><strong>Google Review</strong> monitoring</li>
                 <li><strong>Performance analytics</strong></li>
               </ul>
               <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">Get Started</a>
             </div>
             <div className="price-card">
               <h3>Glo Unlimited</h3>
-              <div className="price"><span className="price-amount">$398</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">$199</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
                 <li><strong>Unlimited</strong> static posts</li>
@@ -476,7 +476,7 @@ export default function HomePage() {
             <details className="faq-item"><summary>How long does setup take?</summary><p>About 5 minutes. Answer a few questions about your business, connect your social media accounts, and you&apos;re done. No job posting, no interviews, no training required.</p></details>
             <details className="faq-item"><summary>I&apos;ve tried social media tools before. How is this different?</summary><p>Most tools give you a better way to do the work. Glow Social takes the work away entirely. You don&apos;t schedule, write, or design anything. We read your website, generate content tailored to your business, and publish it to 13 platforms including Google Business Profile. You just approve and move on — or let auto-scheduling handle even that.</p></details>
             <details className="faq-item"><summary>Does Glow Social post to Google Business Profile?</summary><p>Yes — and this is one of the biggest things that sets us apart. Most social media tools skip GBP entirely (Buffer and Later don&apos;t support it at all). We publish directly to your Google Business Profile alongside your other platforms.</p></details>
-            <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Once you connect your Google Business Profile, Glow Social monitors your reviews automatically. You&apos;ll see new reviews as they come in and can respond right from your dashboard — no need to log into Google separately. It&apos;s all part of your plan, no extra charge.</p></details>
+            <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond right from your dashboard — no need to log into Google separately.</p></details>
             <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube, Reddit, Bluesky, Mastodon, Google Business Profile, Pinterest, Discord, Slack, and TikTok.</p></details>
             <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Business owners who are great at what they do and hate that social media is part of running a business. If you&apos;ve ever said &ldquo;I know I should be posting more&rdquo; at a networking event, you&apos;re exactly who this is for. Our customers include roofers, dentists, coaches, photographers, wedding vendors, and local service providers who want to look professional online without it consuming their time.</p></details>
             <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For $49/month, you get professionally written, designed, and published posts every month — across 13 platforms. You never have to think about what to post, when to post it, or how it looks. We handle all of it.</p></details>
