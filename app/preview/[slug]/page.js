@@ -111,7 +111,10 @@ export default async function PreviewLandingPage({ params }) {
               <h2>Get your free preview</h2>
               <p>12 posts, custom images, and a content calendar — in 60 seconds.</p>
               
-              <form action={`https://app.glowsocial.com/preview/${slug}`} method="GET" className="preview-form">
+              {/* Form submits to /preview/{slug}?url=...&email=... which the Next.js
+                  rewrite proxies through to app.glowsocial.com/preview/{slug}.
+                  The app reads url + email from search params and auto-starts generation. */}
+              <form action={`/preview/${slug}`} method="GET" className="preview-form">
                 <div className="form-group">
                   <label htmlFor="url">Your Website URL</label>
                   <input type="url" id="url" name="url" placeholder="https://yourwebsite.com" required className="form-input" />
@@ -129,6 +132,7 @@ export default async function PreviewLandingPage({ params }) {
               </form>
             </div>
           </div>
+
         </div>
       </section>
       

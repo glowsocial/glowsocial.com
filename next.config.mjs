@@ -1,6 +1,33 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   trailingSlash: false,
+
+  // Proxy the preview tool's generation flow back to the app.
+  // This keeps the user on glowsocial.com while app.glowsocial.com
+  // does the actual AI generation.
+  async rewrites() {
+    return [
+      // The generic /preview root (no industry slug) — served entirely by app
+      {
+        source: '/preview',
+        destination: 'https://app.glowsocial.com/preview',
+      },
+      // After form submission: /preview/:slug?url=...&email=... → app
+      // The `has` condition ensures the marketing landing page still renders
+      // normally when there's no url param (i.e. direct navigation).
+      {
+        source: '/preview/:slug',
+        has: [{ type: 'query', key: 'url' }],
+        destination: 'https://app.glowsocial.com/preview/:slug',
+      },
+      // The generation and image APIs
+      {
+        source: '/api/preview/:path*',
+        destination: 'https://app.glowsocial.com/api/preview/:path*',
+      },
+    ]
+  },
+
   async redirects() {
     return [
       // === "Time spent on social media" cluster consolidation ===
