@@ -35,7 +35,7 @@ export const metadata = {
     siteName: "Glow Social",
     title: "Glow Social | Done-For-You Social Media for Local Businesses",
     description:
-      "$49/month social media — handled. Glow Social reads your website, creates professional content, and publishes to 13 platforms so you never have to think about social media again.",
+      "$49/month social media — handled. Glow Social reads your website, creates professional content, and publishes to 12 platforms so you never have to think about social media again.",
   },
   twitter: {
     card: "summary_large_image",

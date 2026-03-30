@@ -79,7 +79,7 @@ export default function HomePage() {
           </p>
           <p className="hero-desc">
             Glow Social creates <strong>professional posts every month</strong>,
-            publishes them across <strong>13 platforms</strong> including Google Business Profile,
+            publishes them across <strong>12 platforms</strong> including Google Business Profile,
             and handles your reviews — all for <strong>$49/month</strong>.
           </p>
           <div className="hero-ctas-centered">
@@ -128,7 +128,7 @@ export default function HomePage() {
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
-            <div><strong>13 platforms</strong> supported</div>
+            <div><strong>12 platforms</strong> supported</div>
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
@@ -274,7 +274,7 @@ export default function HomePage() {
               <p>When someone finds you through a referral or Google, the first thing they do is check your social media. A quiet feed whispers: <strong>&ldquo;Are they still around?&rdquo;</strong></p>
               <div className="psych-example">
                 <div className="psych-bad">❌ Last post: 4 months ago</div>
-                <div className="psych-good">✓ Active presence across 13 platforms</div>
+                <div className="psych-good">✓ Active presence across 12 platforms</div>
               </div>
             </div>
             <div className="psych-card">
@@ -417,7 +417,7 @@ export default function HomePage() {
               <div className="price"><span className="price-amount">$49</span><span className="price-period">/month</span></div>
               <ul>
                 <li><strong>12 posts</strong> per month</li>
-                <li><strong>13 platforms</strong> including GBP</li>
+                <li><strong>12 platforms</strong> including GBP</li>
                 <li>Generated from your <strong>website data</strong></li>
                 <li><strong>Automated</strong> scheduling</li>
                 <li><strong>3-tap</strong> approval process</li>
@@ -474,12 +474,12 @@ export default function HomePage() {
             <details className="faq-item"><summary>Can I cancel anytime?</summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary>What if I don&apos;t like the content?</summary><p>You have full editorial control. Edit any post before it goes live, regenerate content with different parameters, or write your own. Every piece of content is customized to your brand voice and can be adjusted to your preferences.</p></details>
             <details className="faq-item"><summary>How long does setup take?</summary><p>About 5 minutes. Answer a few questions about your business, connect your social media accounts, and you&apos;re done. No job posting, no interviews, no training required.</p></details>
-            <details className="faq-item"><summary>I&apos;ve tried social media tools before. How is this different?</summary><p>Most tools give you a better way to do the work. Glow Social takes the work away entirely. You don&apos;t schedule, write, or design anything. We read your website, generate content tailored to your business, and publish it to 13 platforms including Google Business Profile. You just approve and move on — or let auto-scheduling handle even that.</p></details>
+            <details className="faq-item"><summary>I&apos;ve tried social media tools before. How is this different?</summary><p>Most tools give you a better way to do the work. Glow Social takes the work away entirely. You don&apos;t schedule, write, or design anything. We read your website, generate content tailored to your business, and publish it to 12 platforms including Google Business Profile. You just approve and move on — or let auto-scheduling handle even that.</p></details>
             <details className="faq-item"><summary>Does Glow Social post to Google Business Profile?</summary><p>Yes — and this is one of the biggest things that sets us apart. Most social media tools skip GBP entirely (Buffer and Later don&apos;t support it at all). We publish directly to your Google Business Profile alongside your other platforms.</p></details>
             <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond right from your dashboard — no need to log into Google separately.</p></details>
-            <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube, Reddit, Bluesky, Mastodon, Google Business Profile, Pinterest, Discord, Slack, and TikTok.</p></details>
+            <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube, Bluesky, Mastodon, Google Business Profile, Pinterest, Discord, Slack, and TikTok.</p></details>
             <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Business owners who are great at what they do and hate that social media is part of running a business. If you&apos;ve ever said &ldquo;I know I should be posting more&rdquo; at a networking event, you&apos;re exactly who this is for. Our customers include roofers, dentists, coaches, photographers, wedding vendors, and local service providers who want to look professional online without it consuming their time.</p></details>
-            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For $49/month, you get professionally written, designed, and published posts every month — across 13 platforms. You never have to think about what to post, when to post it, or how it looks. We handle all of it.</p></details>
+            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For $49/month, you get professionally written, designed, and published posts every month — across 12 platforms. You never have to think about what to post, when to post it, or how it looks. We handle all of it.</p></details>
             <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager costs $300–500/month minimum, requires onboarding, and can quit on you. Glow Social costs $49/month, never has an off day, never needs managing, and keeps delivering without you having to think about it.</p></details>
           </div>
         </div>

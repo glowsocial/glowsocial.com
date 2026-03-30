@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for small businesses who see social media as a necessary evil. For $49/month, you get professionally written, designed, and published posts every month — across 13 platforms. You never have to think about what to post, when to post it, or how it looks.",
+          text: "Glow Social is a done-for-you social media service for small businesses who see social media as a necessary evil. For $49/month, you get professionally written, designed, and published posts every month — across 12 platforms. You never have to think about what to post, when to post it, or how it looks.",
         },
       },
       {
@@ -32,7 +32,7 @@ export default function HomeJsonLd() {
         name: "How is Glow Social different from other social media tools?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social takes the work away entirely. We read your website, generate content tailored to your business, and publish to 13 platforms including Google Business Profile. You never have to think about social media again. We include GBP posting and review monitoring starting at $49.",
+          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social takes the work away entirely. We read your website, generate content tailored to your business, and publish to 12 platforms including Google Business Profile. You never have to think about social media again. We include GBP posting and review monitoring starting at $49.",
         },
       },
       {
@@ -84,7 +84,7 @@ export default function HomeJsonLd() {
     operatingSystem: "Web",
     url: "https://glowsocial.com",
     description:
-      "Done-for-you social media posting for local businesses. AI-powered content creation and publishing across 13 platforms including Google Business Profile.",
+      "Done-for-you social media posting for local businesses. AI-powered content creation and publishing across 12 platforms including Google Business Profile.",
     offers: [
       {
         "@type": "Offer",
@@ -93,7 +93,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "12 posts/month, 13 platforms, Google Review monitoring, automated scheduling",
+          "12 posts/month, 12 platforms, Google Review monitoring, automated scheduling",
       },
       {
         "@type": "Offer",
