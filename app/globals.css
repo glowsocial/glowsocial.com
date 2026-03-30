@@ -4,20 +4,22 @@
    Colors: Navy + Olive/Lime + Light Blue-Grey
    ======================================== */
 :root {
-  --navy: #1e2a3a;
-  --navy-light: #2d3d52;
-  --accent: #c5d63d;
-  --accent-dark: #a8b82e;
-  --bg: #eef1f6;
-  --bg-alt: #e2e7ef;
+  --navy: #192734;
+  --navy-light: #243548;
+  --accent: #d7e278;        /* 🌿 Lime */
+  --accent-dark: #d2c964;   /* 🟡 Open Sign — hover/dark accent */
+  --everglow: #9399cc;      /* 💜 Everglow — secondary accent */
+  --bg: #ddecf7;            /* 💨 Skyline */
+  --bg-alt: #d0e5f2;        /* Skyline darker tint */
   --white: #ffffff;
-  --text: #1e2a3a;
-  --text-muted: #5a6a7e;
-  --card-bg: #f5f7fa;
-  --card-border: #dce1e9;
-  --green-soft: rgba(197, 214, 61, 0.15);
-  --shadow: 0 2px 16px rgba(30, 42, 58, 0.06);
-  --shadow-lg: 0 8px 32px rgba(30, 42, 58, 0.10);
+  --paper: #faf8f7;         /* 📜 Paper */
+  --text: #192734;
+  --text-muted: #4a5f72;
+  --card-bg: #faf8f7;
+  --card-border: #d4dfe8;
+  --green-soft: rgba(215, 226, 120, 0.18);
+  --shadow: 0 2px 16px rgba(25, 39, 52, 0.06);
+  --shadow-lg: 0 8px 32px rgba(25, 39, 52, 0.10);
   --radius: 12px;
   --radius-sm: 8px;
   --radius-lg: 20px;
@@ -142,7 +144,7 @@ h2 {
   background: var(--accent-dark);
   border-color: var(--accent-dark);
   transform: translateY(-1px);
-  box-shadow: 0 4px 16px rgba(197, 214, 61, 0.3);
+  box-shadow: 0 4px 16px rgba(215, 226, 120, 0.4);
 }
 
 .btn--outline {

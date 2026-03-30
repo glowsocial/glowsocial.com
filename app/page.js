@@ -91,7 +91,7 @@ export default function HomePage() {
               Get Started — $49/mo
             </a>
             <a
-              href="https://app.glowsocial.com/examples"
+              href="https://glowsocial.com/preview"
               className="btn btn--outline"
               id="hero-cta-secondary"
             >
