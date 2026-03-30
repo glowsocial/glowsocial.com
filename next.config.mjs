@@ -2,30 +2,30 @@
 const nextConfig = {
   trailingSlash: false,
 
-  // Proxy the preview tool's generation flow back to the app.
-  // This keeps the user on glowsocial.com while app.glowsocial.com
-  // does the actual AI generation.
+  // Proxy the preview tool's generation flow to app.glowsocial.com.
+  // /preview is now a real marketing page in this project — no rewrite needed there.
+  // beforeFiles: fires before routing, so slug form submissions proxy even though
+  //              a static page also exists at /preview/:slug.
+  // afterFiles:  proxies the generation + image APIs.
   async rewrites() {
-    return [
-      // The generic /preview root (no industry slug) — served entirely by app
-      {
-        source: '/preview',
-        destination: 'https://app.glowsocial.com/preview',
-      },
-      // After form submission: /preview/:slug?url=...&email=... → app
-      // The `has` condition ensures the marketing landing page still renders
-      // normally when there's no url param (i.e. direct navigation).
-      {
-        source: '/preview/:slug',
-        has: [{ type: 'query', key: 'url' }],
-        destination: 'https://app.glowsocial.com/preview/:slug',
-      },
-      // The generation and image APIs
-      {
-        source: '/api/preview/:path*',
-        destination: 'https://app.glowsocial.com/api/preview/:path*',
-      },
-    ]
+    return {
+      beforeFiles: [
+        // Only proxy when the url param is present (i.e. form was submitted).
+        // Without ?url=, the marketing landing page renders normally.
+        {
+          source: '/preview/:slug',
+          has: [{ type: 'query', key: 'url' }],
+          destination: 'https://app.glowsocial.com/preview/:slug',
+        },
+      ],
+      afterFiles: [
+        {
+          source: '/api/preview/:path*',
+          destination: 'https://app.glowsocial.com/api/preview/:path*',
+        },
+      ],
+      fallback: [],
+    }
   },
 
   async redirects() {
