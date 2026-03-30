@@ -75,7 +75,7 @@ export default function HomePage() {
           <p className="hero-sub">
             The guilt. The dread. The &ldquo;I really should post something&rdquo; loop.
             <br />
-            Gone. Your business stays active and professional. You didn&apos;t do a thing.
+            Gone. Your business stays active and professional.
           </p>
           <p className="hero-desc">
             Glow Social creates <strong>professional posts every month</strong>,
