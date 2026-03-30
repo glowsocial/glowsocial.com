@@ -27,7 +27,7 @@ export default function PreviewPage() {
       <section className="preview-hero">
         <div className="container preview-hero-inner">
           <div className="preview-content">
-            <div className="preview-badge">Free Tool — No Card, No Login</div>
+            <div className="preview-badge">Free for Any Business — No Card, No Login</div>
             <h1 className="preview-hl">
               See a month of done-for-you social media — written for your business
             </h1>
