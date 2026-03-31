@@ -10,14 +10,8 @@ const nextConfig = {
   async rewrites() {
     return {
       beforeFiles: [
-        // Root /preview with ?url= present = form was just submitted from the marketing page.
-        // Proxy the entire rendering to the app so the user stays on glowsocial.com.
-        {
-          source: '/preview',
-          has: [{ type: 'query', key: 'url' }],
-          destination: 'https://app.glowsocial.com/preview',
-        },
-        // /preview/:slug?url= = vertical-specific slug routes (also submitted with a url param).
+        // /preview/:slug?url= — vertical landing pages proxy to the app.
+        // The root /preview is now a native client component on glowsocial.com.
         {
           source: '/preview/:slug',
           has: [{ type: 'query', key: 'url' }],
@@ -25,6 +19,7 @@ const nextConfig = {
         },
       ],
       afterFiles: [
+        // API routes called by PreviewClient on the marketing site.
         {
           source: '/api/preview/:path*',
           destination: 'https://app.glowsocial.com/api/preview/:path*',
