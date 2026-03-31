@@ -69,11 +69,12 @@ export default function PreviewPage() {
               <p>12 posts, custom images, and a content calendar — in 60 seconds.</p>
 
               {/*
-                Form action goes directly to app.glowsocial.com/preview.
-                The app reads ?url= and ?email= from search params and auto-starts generation.
+                Form submits to /preview (same domain).
+                next.config.mjs rewrites requests with ?url= to app.glowsocial.com/preview
+                via beforeFiles so the user never leaves glowsocial.com.
               */}
               <form
-                action="https://app.glowsocial.com/preview"
+                action="/preview"
                 method="GET"
                 className="preview-form"
               >

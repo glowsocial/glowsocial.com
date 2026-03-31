@@ -10,8 +10,14 @@ const nextConfig = {
   async rewrites() {
     return {
       beforeFiles: [
-        // Only proxy when the url param is present (i.e. form was submitted).
-        // Without ?url=, the marketing landing page renders normally.
+        // Root /preview with ?url= present = form was just submitted from the marketing page.
+        // Proxy the entire rendering to the app so the user stays on glowsocial.com.
+        {
+          source: '/preview',
+          has: [{ type: 'query', key: 'url' }],
+          destination: 'https://app.glowsocial.com/preview',
+        },
+        // /preview/:slug?url= = vertical-specific slug routes (also submitted with a url param).
         {
           source: '/preview/:slug',
           has: [{ type: 'query', key: 'url' }],
