@@ -63,56 +63,7 @@ export default function HomePage() {
       {/* ============ HERO — Emotional trigger first ============ */}
       <section className="hero">
         <div className="hero-grid" aria-hidden="true" />
-        <div className="hero-icons" aria-hidden="true">
-          {/* Large hexagon — lime */}
-          <div className="hero-icon">
-            <svg width="52" height="52" viewBox="0 0 60 60" fill="none">
-              <polygon points="30,4 54,17 54,43 30,56 6,43 6,17" fill="#d7e278"/>
-            </svg>
-          </div>
-          {/* Small hexagon — purple */}
-          <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 60 60" fill="none">
-              <polygon points="30,4 54,17 54,43 30,56 6,43 6,17" fill="#9399cc"/>
-            </svg>
-          </div>
-          {/* Medium square (rotated 45°) — lime */}
-          <div className="hero-icon">
-            <svg width="36" height="36" viewBox="0 0 60 60" fill="none">
-              <rect x="12" y="12" width="36" height="36" rx="4" fill="#d7e278" transform="rotate(20 30 30)"/>
-            </svg>
-          </div>
-          {/* Small circle — purple */}
-          <div className="hero-icon">
-            <svg width="22" height="22" viewBox="0 0 40 40" fill="none">
-              <circle cx="20" cy="20" r="20" fill="#9399cc"/>
-            </svg>
-          </div>
-          {/* Large triangle — lime dark */}
-          <div className="hero-icon">
-            <svg width="44" height="44" viewBox="0 0 60 60" fill="none">
-              <polygon points="30,6 56,52 4,52" fill="#d2c964"/>
-            </svg>
-          </div>
-          {/* Tiny hexagon — purple */}
-          <div className="hero-icon">
-            <svg width="18" height="18" viewBox="0 0 60 60" fill="none">
-              <polygon points="30,4 54,17 54,43 30,56 6,43 6,17" fill="#9399cc"/>
-            </svg>
-          </div>
-          {/* Medium circle — lime */}
-          <div className="hero-icon">
-            <svg width="32" height="32" viewBox="0 0 40 40" fill="none">
-              <circle cx="20" cy="20" r="20" fill="#d7e278"/>
-            </svg>
-          </div>
-          {/* Small rotated square — purple */}
-          <div className="hero-icon">
-            <svg width="24" height="24" viewBox="0 0 60 60" fill="none">
-              <rect x="12" y="12" width="36" height="36" rx="3" fill="#9399cc" transform="rotate(15 30 30)"/>
-            </svg>
-          </div>
-        </div>
+
         <div className="container hero-centered">
           <span className="hero-badge">
             <span className="badge-dot"></span>
