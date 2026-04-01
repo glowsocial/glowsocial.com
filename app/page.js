@@ -62,6 +62,17 @@ export default function HomePage() {
 
       {/* ============ HERO — Emotional trigger first ============ */}
       <section className="hero">
+        <div className="hero-grid" aria-hidden="true" />
+        <div className="hero-icons" aria-hidden="true">
+          <div className="hero-icon">📘</div>
+          <div className="hero-icon">📸</div>
+          <div className="hero-icon">💼</div>
+          <div className="hero-icon">🐦</div>
+          <div className="hero-icon">📍</div>
+          <div className="hero-icon">🎵</div>
+          <div className="hero-icon">▶️</div>
+          <div className="hero-icon">🦋</div>
+        </div>
         <div className="container hero-centered">
           <span className="hero-badge">
             <span className="badge-dot"></span>
@@ -97,6 +108,15 @@ export default function HomePage() {
             >
               Preview Your Posts Free
             </a>
+          </div>
+          <div className="hero-social-proof">
+            <div className="proof-avatars">
+              <div className="proof-avatar">JM</div>
+              <div className="proof-avatar">SR</div>
+              <div className="proof-avatar">TK</div>
+              <div className="proof-avatar">AL</div>
+            </div>
+            <p className="proof-text"><strong>1,000+ businesses</strong> already handled</p>
           </div>
           <div className="hero-proof">
             <div className="hero-proof-item">
