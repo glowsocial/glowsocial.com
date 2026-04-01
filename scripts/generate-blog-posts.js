@@ -33,12 +33,40 @@ if (!API_KEY) {
 
 // ─── Target keyword bank ─────────────────────────────────────────────────────
 // Add more here anytime. Script skips slugs that already exist.
+// Sources: GSC query data (April 2026), competitor gap analysis
 const KEYWORDS = [
-  // Social media automation & scheduling
-  "how to automate social media posting for small business",
-  "best social media scheduler for local business 2026",
-  "social media automation tools for real estate agents",
-  "how much does social media management cost for small business",
+  // ── GSC striking distance: high impressions, position 5–25 ──────────────────
+  // These are queries GS already ranks for but isn't winning clicks on
+  "how much time does social media marketing take per week",
+  "how many hours per week does social media management take",
+  "best affordable social media management for small business 2026",
+  "affordable social media management for local business",
+  "how much does a freelance social media manager charge",
+  "real cost of social media management 2026",
+  "ai social media tools vs hiring an agency cost comparison",
+  "social media tools under 50 dollars per month",
+  "later vs buffer 2026 which is better",
+  "how long should social media captions be",
+  // ── GSC query clusters: long-tail questions already driving impressions ──────
+  "how many hours does social media marketing really take small business",
+  "is hiring a social media manager worth it for small business",
+  "how much should I budget for social media management",
+  "what is the average cost of social media management per month",
+  "social media management pricing guide for small business",
+  "how to tell if social media is working for your business",
+  "social media ROI calculator for small business",
+  "why instagram carousel posts get higher engagement than single images",
+  // ── Comparison / alternative intent (confirmed search volume) ────────────────
+  "Metricool vs Hootsuite for small business",
+  "SocialBee alternative for local business",
+  "Later alternative for small business 2026",
+  "Publer vs Buffer which is better",
+  "Zoho Social alternative affordable",
+  "Hootsuite alternative cheaper 2026",
+  "Sprout Social alternative for small business",
+  "Buffer alternative with content creation",
+  // ── Local vertical targeting ─────────────────────────────────────────────────
+  "social media automation for real estate agents",
   "social media posting service for restaurants",
   "social media management for chiropractors",
   "social media management for financial advisors",
@@ -48,41 +76,33 @@ const KEYWORDS = [
   "social media management for electricians",
   "social media for HVAC companies",
   "social media for roofing companies",
-  "done for you social media for small business",
-  "affordable social media management for local business",
-  // AI social media
-  "AI social media content creation for small business",
-  "how AI writes social media posts",
-  "can AI manage your social media",
-  "AI tools for local business social media",
-  "best AI social media tool for coaches",
-  "does AI social media actually work",
-  // Comparison / alternatives
-  "Metricool vs Hootsuite for small business",
-  "SocialBee alternative for local business",
-  "Later alternative for small business 2026",
-  "Publer alternative affordable",
-  "Zoho Social alternative",
-  // Local SEO + GBP
+  "social media for car dealerships",
+  "social media management for dentists",
+  "social media for law firms small practice",
+  "social media for gyms and fitness studios",
+  "social media for med spas and aesthetic clinics",
+  // ── AI social media content ──────────────────────────────────────────────────
+  "how AI writes social media posts for local business",
+  "can AI manage your social media accounts",
+  "best AI social media tool for coaches and consultants",
+  "does AI social media content actually get engagement",
+  "AI content creation for small business social media",
+  // ── Google Business Profile ──────────────────────────────────────────────────
   "how to use Google Business Profile to get more customers",
   "Google Business Profile tips for restaurants",
-  "Google Business Profile for service area businesses",
   "how often should you post on Google Business Profile",
-  "Google Business Profile posts that get clicks",
-  "what to post on Google Business Profile",
-  // Content strategy
-  "what to post on social media when you have nothing to say",
+  "Google Business Profile posts that drive phone calls",
+  "what to post on Google Business Profile weekly",
+  "Google Business Profile for service area businesses",
+  // ── Content strategy ─────────────────────────────────────────────────────────
   "social media content ideas for local business 2026",
   "how many times should a local business post on social media",
   "best time to post on Facebook for local business",
-  "Instagram vs Facebook for local business",
-  "should local businesses use TikTok",
-  // Lead generation / positioning
-  "how social media generates leads for local business",
-  "social media ROI for small business",
-  "how to measure social media results for local business",
+  "Instagram vs Facebook for local business which is better",
+  "should local businesses use TikTok in 2026",
   "why local businesses fail at social media",
-  "social media mistakes local businesses make",
+  "social media mistakes small business owners make",
+  "done for you social media for small business",
 ];
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
