@@ -84,16 +84,10 @@
 
 .hero-icon {
   position: absolute;
-  width: 52px;
-  height: 52px;
-  border-radius: 14px;
-  background: rgba(255,255,255,0.05);
-  border: 1px solid rgba(255,255,255,0.09);
-  backdrop-filter: blur(4px);
   display: flex;
   align-items: center;
   justify-content: center;
-  opacity: 0.7;
+  opacity: 0.65;
 }
 
 .hero-icon:nth-child(1) { top: 12%; left: 6%;  animation: iconDrift1 7s ease-in-out infinite; }
