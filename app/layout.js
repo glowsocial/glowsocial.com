@@ -49,10 +49,55 @@ export const metadata = {
   },
 };
 
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": ["Organization", "SoftwareApplication"],
+  "@id": "https://glowsocial.com/#organization",
+  name: "Glow Social",
+  url: "https://glowsocial.com",
+  logo: "https://glowsocial.com/icon.png",
+  description:
+    "Done-for-you social media management for local businesses. AI creates and publishes professional posts to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — starting at $49/month.",
+  applicationCategory: "SocialMediaApplication",
+  operatingSystem: "Web",
+  offers: {
+    "@type": "Offer",
+    price: "49",
+    priceCurrency: "USD",
+    description: "12 custom posts per month, fully automated",
+  },
+  founder: {
+    "@type": "Person",
+    name: "Kathleen Celmins",
+    url: "https://glowsocial.com/about",
+    sameAs: [
+      "https://www.linkedin.com/in/kathleencelmins/",
+      "https://thewellpaidexpert.com/about/",
+    ],
+  },
+  sameAs: [
+    "https://www.g2.com/products/glow-social",
+    "https://www.capterra.com/p/glow-social",
+    "https://www.linkedin.com/company/glow-social",
+    "https://www.facebook.com/glowsocialhq",
+  ],
+  contactPoint: {
+    "@type": "ContactPoint",
+    email: "hello@glowsocial.com",
+    contactType: "customer support",
+  },
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.variable} ${urbanist.variable}`}>
       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationSchema),
+          }}
+        />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-W571GNWJRB"
           strategy="afterInteractive"
