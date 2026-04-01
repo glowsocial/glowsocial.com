@@ -85,6 +85,20 @@ const nextConfig = {
         permanent: true,
       },
 
+      // === GSC duplicate URL fixes — root-level → /blog/ canonical ===
+      // Root /social-media-caption-length had 1,443 impressions splitting with /blog/ version (5,010 imp)
+      {
+        source: "/social-media-caption-length",
+        destination: "/blog/social-media-caption-length",
+        permanent: true,
+      },
+      // Root /later-vs-buffer had impressions splitting with /blog/ version — /blog/ is canonical
+      {
+        source: "/later-vs-buffer-differences-comparison",
+        destination: "/blog/later-vs-buffer-differences-comparison",
+        permanent: true,
+      },
+
       // === "SM manager cost" cluster consolidation ===
       // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost
       {
