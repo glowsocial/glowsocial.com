@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
       <section className="blog-hero">
         <div className="container">
           <h1>Privacy Policy</h1>
-          <p>Last updated: March 13, 2026</p>
+          <p>Last updated: April 1, 2026</p>
         </div>
       </section>
       <article className="blog-post">
@@ -55,6 +55,7 @@ export default function PrivacyPolicy() {
             <li>Send service-related communications</li>
             <li>Monitor and improve our platform</li>
             <li>Respond to customer support requests</li>
+            <li>Generate anonymized, aggregate insights about how local businesses use social media (no individual business or user is ever identified in any published research or reports)</li>
           </ul>
 
           <h2>Third-Party Services</h2>
