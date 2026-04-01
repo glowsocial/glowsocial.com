@@ -64,61 +64,52 @@ export default function HomePage() {
       <section className="hero">
         <div className="hero-grid" aria-hidden="true" />
         <div className="hero-icons" aria-hidden="true">
-          {/* Wavy line squiggle — lime */}
+          {/* Large hexagon — lime */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <path d="M2 16 C6 8, 10 24, 14 16 C18 8, 22 24, 26 16 C28 12, 30 14, 30 16" stroke="#d7e278" strokeWidth="2.5" strokeLinecap="round" fill="none"/>
+            <svg width="52" height="52" viewBox="0 0 60 60" fill="none">
+              <polygon points="30,4 54,17 54,43 30,56 6,43 6,17" fill="#d7e278"/>
             </svg>
           </div>
-          {/* Asterisk / sparkle — purple */}
+          {/* Small hexagon — purple */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <line x1="16" y1="4" x2="16" y2="28" stroke="#9399cc" strokeWidth="2.5" strokeLinecap="round"/>
-              <line x1="4" y1="16" x2="28" y2="16" stroke="#9399cc" strokeWidth="2.5" strokeLinecap="round"/>
-              <line x1="7" y1="7" x2="25" y2="25" stroke="#9399cc" strokeWidth="2.5" strokeLinecap="round"/>
-              <line x1="25" y1="7" x2="7" y2="25" stroke="#9399cc" strokeWidth="2.5" strokeLinecap="round"/>
+            <svg width="28" height="28" viewBox="0 0 60 60" fill="none">
+              <polygon points="30,4 54,17 54,43 30,56 6,43 6,17" fill="#9399cc"/>
             </svg>
           </div>
-          {/* Zigzag — white */}
+          {/* Medium square (rotated 45°) — lime */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <polyline points="2,22 8,10 14,22 20,10 26,22 30,14" stroke="rgba(255,255,255,0.7)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" fill="none"/>
+            <svg width="36" height="36" viewBox="0 0 60 60" fill="none">
+              <rect x="12" y="12" width="36" height="36" rx="4" fill="#d7e278" transform="rotate(20 30 30)"/>
             </svg>
           </div>
-          {/* Spiral — lime */}
+          {/* Small circle — purple */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <path d="M16 16 C16 12, 20 9, 22 12 C24 15, 22 21, 17 23 C11 25, 6 20, 7 14 C8 7, 15 3, 22 6 C29 9, 30 18, 27 24" stroke="#d7e278" strokeWidth="2.2" strokeLinecap="round" fill="none"/>
+            <svg width="22" height="22" viewBox="0 0 40 40" fill="none">
+              <circle cx="20" cy="20" r="20" fill="#9399cc"/>
             </svg>
           </div>
-          {/* Diamond — purple */}
+          {/* Large triangle — lime dark */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <path d="M16 4 L28 16 L16 28 L4 16 Z" stroke="#9399cc" strokeWidth="2.2" strokeLinejoin="round" fill="none"/>
-              <path d="M16 9 L23 16 L16 23 L9 16 Z" stroke="#9399cc" strokeWidth="1.5" strokeLinejoin="round" fill="none" opacity="0.5"/>
+            <svg width="44" height="44" viewBox="0 0 60 60" fill="none">
+              <polygon points="30,6 56,52 4,52" fill="#d2c964"/>
             </svg>
           </div>
-          {/* Loopy squiggle — white */}
+          {/* Tiny hexagon — purple */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <path d="M4 16 C4 10, 10 6, 14 12 C18 18, 14 26, 10 22 C6 18, 10 10, 16 10 C22 10, 28 16, 24 22 C22 26, 18 24, 20 18" stroke="rgba(255,255,255,0.65)" strokeWidth="2" strokeLinecap="round" fill="none"/>
+            <svg width="18" height="18" viewBox="0 0 60 60" fill="none">
+              <polygon points="30,4 54,17 54,43 30,56 6,43 6,17" fill="#9399cc"/>
             </svg>
           </div>
-          {/* Cross / plus — lime */}
+          {/* Medium circle — lime */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <line x1="16" y1="5" x2="16" y2="27" stroke="#d2c964" strokeWidth="2.5" strokeLinecap="round"/>
-              <line x1="5" y1="16" x2="27" y2="16" stroke="#d2c964" strokeWidth="2.5" strokeLinecap="round"/>
+            <svg width="32" height="32" viewBox="0 0 40 40" fill="none">
+              <circle cx="20" cy="20" r="20" fill="#d7e278"/>
             </svg>
           </div>
-          {/* Scattered dots — purple */}
+          {/* Small rotated square — purple */}
           <div className="hero-icon">
-            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-              <circle cx="8" cy="8" r="2.5" fill="#9399cc"/>
-              <circle cx="22" cy="8" r="1.8" fill="#9399cc" opacity="0.6"/>
-              <circle cx="16" cy="16" r="3" fill="#9399cc" opacity="0.9"/>
-              <circle cx="7" cy="23" r="1.5" fill="#9399cc" opacity="0.5"/>
-              <circle cx="25" cy="22" r="2.2" fill="#9399cc" opacity="0.7"/>
+            <svg width="24" height="24" viewBox="0 0 60 60" fill="none">
+              <rect x="12" y="12" width="36" height="36" rx="3" fill="#9399cc" transform="rotate(15 30 30)"/>
             </svg>
           </div>
         </div>
