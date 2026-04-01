@@ -490,6 +490,40 @@ export default function ResearchPage() {
           </div>
         </div>
 
+        {/* MYTHS BUSTED */}
+        <div style={{ marginTop: "60px", marginBottom: "60px" }}>
+          <h2>3 Social Media Myths Busted by the Data</h2>
+          <p style={{ color: "var(--text-muted)", fontSize: "1.1rem", marginBottom: "40px" }}>
+            The "gurus" tell local businesses they need to post every single day and perform on camera or the algorithm will crush them. Our data reveals a completely different reality.
+          </p>
+          
+          <div style={{ display: "grid", gap: "24px" }}>
+            <div style={{ background: "var(--bg)", padding: "32px", borderRadius: "16px", border: "1px solid var(--card-border)" }}>
+              <div style={{ fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "1px", fontWeight: "700", color: "var(--navy-light)", marginBottom: "8px" }}>Myth 1</div>
+              <h3 style={{ fontSize: "1.3rem", fontWeight: "600", marginBottom: "16px", color: "var(--navy)" }}>"You have to post 7 days a week to stay relevant."</h3>
+              <p style={{ color: "var(--text-muted)", marginBottom: "0" }}>
+                <strong>The Reality:</strong> 78% of local businesses on Glow Social post only 3 days a week. Posting 7 times a week on platforms like Instagram often leads to follower fatigue and mutes your reach, while consistent 3-times-weekly posting strikes the perfect balance for local service providers.
+              </p>
+            </div>
+
+            <div style={{ background: "var(--bg)", padding: "32px", borderRadius: "16px", border: "1px solid var(--card-border)" }}>
+              <div style={{ fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "1px", fontWeight: "700", color: "var(--navy-light)", marginBottom: "8px" }}>Myth 2</div>
+              <h3 style={{ fontSize: "1.3rem", fontWeight: "600", marginBottom: "16px", color: "var(--navy)" }}>"Facebook and Instagram are the only platforms that matter."</h3>
+              <p style={{ color: "var(--text-muted)", marginBottom: "0" }}>
+                <strong>The Reality:</strong> Facebook is the most widely connected platform, but it ranks 5th out of 7 in Engagement Rate (2.01%). Meanwhile, the heavily ignored combination of Pinterest and Google Business Profile generates massive engagement (7.7% and 1.38% but with high-intent search actions). The lowest-competition platforms are where you find the highest intent.
+              </p>
+            </div>
+
+            <div style={{ background: "var(--bg)", padding: "32px", borderRadius: "16px", border: "1px solid var(--card-border)" }}>
+              <div style={{ fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "1px", fontWeight: "700", color: "var(--navy-light)", marginBottom: "8px" }}>Myth 3</div>
+              <h3 style={{ fontSize: "1.3rem", fontWeight: "600", marginBottom: "16px", color: "var(--navy)" }}>"High impressions mean your marketing is working."</h3>
+              <p style={{ color: "var(--text-muted)", marginBottom: "0" }}>
+                <strong>The Reality:</strong> X (Twitter) drives huge impression volume (averaging 9,345 impressions per post) but delivers almost no actual engagement (1.76%). Your content is simply being scrolled past by bots and doom-scrollers. Don't chase vanity views; chase platforms like GBP where 4,000+ impressions actually result in phone calls.
+              </p>
+            </div>
+          </div>
+        </div>
+
         {/* METHODOLOGY */}
         <div className="methodology">
           <strong>Methodology & Disclosure</strong>
