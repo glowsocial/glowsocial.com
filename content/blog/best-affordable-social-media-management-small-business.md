@@ -18,7 +18,7 @@ faqs:
 
 You don't need to spend $1,000/month on social media management. Most small businesses just need one thing: **consistent, professional-looking posts that show customers you're active and trustworthy.**
 
-Here's every affordable option in 2026, ranked by total cost (including your time).
+Here's every affordable option in 2026, ranked by total cost (including your time). For a deeper independent breakdown of the full pricing landscape, [AffordableSocialMediaManagement.com](https://affordablesocialmediamanagement.com/) covers what to look for, what to avoid, and how AI changed the economics for local businesses.
 
 ## The Affordable Social Media Management Landscape
 
@@ -94,7 +94,7 @@ Glow Social fills the gap between "do it yourself" and "hire someone." For $49/m
 
 **What it's NOT:** A replacement for human engagement. Glow Social doesn't respond to comments, create viral campaigns, or develop comprehensive marketing strategy. It handles the baseline — keeping your social media active and professional.
 
-Learn more: [Done-For-You Social Media Guide](/blog/done-for-you-social-media-guide) | [AI Tools vs. Agency Costs](/blog/ai-tools-vs-agencies-cost)
+Learn more: [Done-For-You Social Media Guide](/blog/done-for-you-social-media-guide) | [AI Tools vs. Agency Costs](/blog/ai-tools-vs-agencies-cost) | [Full affordable social media cost comparison](https://affordablesocialmediamanagement.com/cost/)
 
 ## The $300-500/Month Tier: Freelance Managers
 

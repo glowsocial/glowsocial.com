@@ -111,7 +111,7 @@ The question isn't whether social media matters — it's whether doing it yourse
 
 *Assuming your time is worth $15/hour (conservative for a business owner)*
 
-Notice something? **The cheapest option isn't the free one** — it's the one that takes the least of your time.
+Notice something? **The cheapest option isn't the free one** — it's the one that takes the least of your time. [AffordableSocialMediaManagement.com breaks down this math in more detail](https://affordablesocialmediamanagement.com/cost/), including hidden fees and what actually separates affordable services from genuinely cheap ones.
 
 ## How Glow Social Cuts This to Near Zero
 
