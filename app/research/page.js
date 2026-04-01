@@ -4,10 +4,17 @@ export const metadata = {
     "Original research from Glow Social: how local businesses actually use social media in 2026. Platform engagement rates, posting frequency, and the surprising winner no one talks about.",
 };
 
-// Ranked color scale — position 0 = darkest, fades lighter down the list
+// Ranked color scale using brand colors (Navy -> Everglow -> Skyline -> Lime)
 const RANK_COLORS = [
-  "#0a2540", "#1a3a5c", "#1e4d6b", "#1e637a",
-  "#257a82", "#2e9080", "#3aaa7a", "#5ec498", "#8ddcba",
+  "var(--navy)",
+  "var(--navy-light)",
+  "var(--text-muted)",
+  "var(--everglow)",
+  "#b0b5d6", // lighter everglow
+  "var(--bg-alt)",
+  "var(--bg)",
+  "var(--accent)",
+  "var(--accent-dark)",
 ];
 
 const engagementData = [
@@ -57,8 +64,8 @@ export default function ResearchPage() {
     <>
       <style>{`
         .research-hero {
-          background: #0a0f1e;
-          color: #fff;
+          background: var(--navy);
+          color: var(--white);
           padding: 5rem 1.5rem 3rem;
           text-align: center;
         }
@@ -74,13 +81,13 @@ export default function ResearchPage() {
           font-weight: 600;
           letter-spacing: 0.05em;
           text-transform: uppercase;
-          color: #a8edca;
+          color: var(--accent);
           margin-bottom: 1.5rem;
         }
         .research-badge-dot {
           width: 6px;
           height: 6px;
-          background: #a8edca;
+          background: var(--accent);
           border-radius: 50%;
           animation: pulse 2s infinite;
         }
@@ -90,6 +97,7 @@ export default function ResearchPage() {
         }
         .research-hero h1 {
           font-size: clamp(2rem, 5vw, 3.5rem);
+          font-family: var(--font-heading);
           font-weight: 800;
           line-height: 1.1;
           margin-bottom: 1rem;
@@ -98,7 +106,7 @@ export default function ResearchPage() {
           margin-right: auto;
         }
         .research-hero h1 span {
-          color: #a8edca;
+          color: var(--accent);
         }
         .research-hero-sub {
           font-size: 1.1rem;
@@ -132,24 +140,25 @@ export default function ResearchPage() {
           margin: 2rem 0 3.5rem;
         }
         .finding-card {
-          background: #f8f9fc;
-          border: 1px solid #e8ecf4;
-          border-radius: 12px;
+          background: var(--card-bg);
+          border: 1px solid var(--card-border);
+          border-radius: var(--radius);
           padding: 1.25rem 1.5rem;
         }
         .finding-card .stat {
+          font-family: var(--font-heading);
           font-size: 2.2rem;
           font-weight: 800;
-          color: #0a0f1e;
+          color: var(--navy);
           line-height: 1;
           margin-bottom: 0.3rem;
         }
         .finding-card .stat span {
-          color: #3a8a5e;
+          color: var(--accent-dark);
         }
         .finding-card .label {
           font-size: 0.82rem;
-          color: #5a6480;
+          color: var(--text-muted);
           line-height: 1.4;
         }
 
@@ -157,24 +166,25 @@ export default function ResearchPage() {
           margin-bottom: 3.5rem;
         }
         .chart-section h2 {
+          font-family: var(--font-heading);
           font-size: 1.4rem;
           font-weight: 700;
-          color: #0a0f1e;
+          color: var(--navy);
           margin-bottom: 0.4rem;
         }
         .chart-section .chart-desc {
           font-size: 0.9rem;
-          color: #5a6480;
+          color: var(--text-muted);
           margin-bottom: 1.5rem;
           line-height: 1.5;
         }
         .chart-insight {
           font-size: 0.85rem;
-          background: #f0faf5;
-          border-left: 3px solid #3a8a5e;
+          background: var(--bg);
+          border-left: 3px solid var(--accent-dark);
           padding: 0.75rem 1rem;
-          border-radius: 0 8px 8px 0;
-          color: #2a5a3e;
+          border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+          color: var(--navy);
           margin-top: 1rem;
           line-height: 1.5;
         }
@@ -191,21 +201,23 @@ export default function ResearchPage() {
           gap: 0.75rem;
         }
         .bar-label {
-          font-size: 0.82rem;
-          color: #333;
-          font-weight: 500;
+          font-family: var(--font-heading);
+          font-size: 0.85rem;
+          color: var(--text);
+          font-weight: 600;
           text-align: right;
           white-space: nowrap;
         }
         .bar-track {
-          background: #f0f0f5;
+          background: var(--card-bg);
+          border: 1px solid var(--card-border);
           border-radius: 4px;
           height: 28px;
           overflow: hidden;
         }
         .bar-fill {
           height: 100%;
-          border-radius: 4px;
+          border-radius: 3px;
           animation: growBar 1s ease-out forwards;
           transform-origin: left;
         }
@@ -214,17 +226,17 @@ export default function ResearchPage() {
           to { }
         }
         .bar-value {
-          font-size: 0.82rem;
+          font-size: 0.85rem;
           font-weight: 700;
-          color: #0a0f1e;
+          color: var(--navy);
           white-space: nowrap;
         }
         .bar-row.highlight .bar-label {
-          color: #0a0f1e;
-          font-weight: 700;
+          color: var(--navy);
+          font-weight: 800;
         }
         .bar-row.highlight .bar-value {
-          color: #3a8a5e;
+          color: var(--accent-dark);
         }
 
         .schedule-bars {
@@ -240,52 +252,60 @@ export default function ResearchPage() {
         }
 
         .methodology {
-          background: #f8f9fc;
-          border: 1px solid #e8ecf4;
-          border-radius: 12px;
+          background: var(--card-bg);
+          border: 1px solid var(--card-border);
+          border-radius: var(--radius);
           padding: 1.5rem;
           margin-top: 4rem;
-          font-size: 0.83rem;
-          color: #5a6480;
+          font-size: 0.85rem;
+          color: var(--text-muted);
           line-height: 1.7;
         }
         .methodology strong {
-          color: #0a0f1e;
+          color: var(--navy);
           display: block;
           margin-bottom: 0.5rem;
-          font-size: 0.9rem;
+          font-family: var(--font-heading);
+          font-size: 0.95rem;
         }
 
         .research-cta {
           text-align: center;
-          background: #0a0f1e;
-          color: white;
+          background: var(--navy);
+          color: var(--white);
           padding: 3rem 1.5rem;
-          border-radius: 16px;
+          border-radius: var(--radius-lg);
           margin-top: 3rem;
         }
         .research-cta h2 {
+          font-family: var(--font-heading);
           font-size: 1.6rem;
           font-weight: 800;
           margin-bottom: 0.75rem;
         }
         .research-cta p {
-          color: rgba(255,255,255,0.65);
+          color: rgba(255,255,255,0.7);
           margin-bottom: 1.5rem;
-          font-size: 0.95rem;
+          font-size: 1rem;
         }
         .btn-research {
           display: inline-block;
-          background: #a8edca;
-          color: #0a0f1e;
-          font-weight: 700;
-          padding: 0.85rem 2rem;
-          border-radius: 8px;
+          background: var(--accent);
+          color: var(--navy);
+          font-family: var(--font-heading);
+          font-weight: 800;
+          padding: 1rem 2.5rem;
+          border-radius: 50px;
           text-decoration: none;
-          font-size: 0.95rem;
-          transition: opacity 0.2s;
+          font-size: 1rem;
+          text-transform: uppercase;
+          letter-spacing: 1px;
+          transition: transform 0.2s, box-shadow 0.2s;
         }
-        .btn-research:hover { opacity: 0.9; }
+        .btn-research:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 4px 16px rgba(215, 226, 120, 0.4);
+        }
 
         @media (max-width: 600px) {
           .bar-row { grid-template-columns: 100px 1fr 50px; }
@@ -482,7 +502,7 @@ export default function ResearchPage() {
           averages. This dataset will be updated quarterly as the platform grows.
           <br /><br />
           Data collected under Glow Social's{" "}
-          <a href="/privacy" style={{ color: "#3a8a5e" }}>Privacy Policy</a>, which explicitly
+          <a href="/privacy" style={{ color: "var(--accent-dark)", textDecoration: "underline" }}>Privacy Policy</a>, which explicitly
           covers anonymized aggregate research use.
         </div>
 

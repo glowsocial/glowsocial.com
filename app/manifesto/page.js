@@ -159,6 +159,17 @@ export default function Manifesto() {
           <hr />
 
           <p><em>Glow Social. For the locals.</em></p>
+
+          <div className="post-cta-box" style={{ marginTop: '3rem' }}>
+            <h3>The Proof is in the Data</h3>
+            <p>
+              We analyzed over 100,000 posts from local businesses to see what really works. 
+              The results might surprise you.
+            </p>
+            <Link href="/research" className="btn btn--primary">
+              Read Our Original Research
+            </Link>
+          </div>
         </div>
       </article>
     </>
