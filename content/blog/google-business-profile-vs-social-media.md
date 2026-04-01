@@ -61,6 +61,8 @@ GBP gets you found. Social media keeps you visible. Together, they create a comp
 
 Compare also: [Done-For-You vs. DIY Social Media](/blog/done-for-you-vs-diy-social-media) · [Best Platforms for Local Business](/blog/best-platforms-local-business)
 
+**Google Business Profile series:** [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How Google Reviews Affect Local SEO](/blog/how-google-reviews-affect-local-seo) · [How to Respond to Negative Reviews](/blog/how-to-respond-to-negative-google-reviews) · [GBP + Social Media Together](/blog/google-business-profile-social-media-local-business)
+
 <hr>
 
 <strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

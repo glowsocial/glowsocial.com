@@ -109,3 +109,5 @@ Glow Social also posts to your Google Business Profile automatically, keeping it
 ---
 
 **Want to see what Glow Social would post to your Google Business Profile?** [Try the free preview →](https://glowsocial.com/preview) — enter your website URL and see 12 posts generated for your business in 60 seconds.
+
+**Google Business Profile series:** [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How to Respond to Negative Reviews](/blog/how-to-respond-to-negative-google-reviews) · [GBP vs. Social Media: Where to Focus](/blog/google-business-profile-vs-social-media) · [GBP + Social Media Together](/blog/google-business-profile-social-media-local-business)

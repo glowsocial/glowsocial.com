@@ -121,7 +121,7 @@ What actually damages your reputation isn't a bad review. It's [an abandoned soc
 
 Stay visible. Stay responsive. [Stay consistent](https://app.glowsocial.com/).
 
-**Related:** [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [What Makes Customers Trust a Business Online](/blog/what-makes-customers-trust-business-online)
+**Google Business Profile series:** [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How Google Reviews Affect Local SEO](/blog/how-google-reviews-affect-local-seo) · [GBP vs. Social Media: Where to Focus](/blog/google-business-profile-vs-social-media) · [GBP + Social Media Together](/blog/google-business-profile-social-media-local-business)
 
 
 ### Want to see what Glow Social can do for your Salon business?

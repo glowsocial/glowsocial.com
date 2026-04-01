@@ -190,7 +190,7 @@ Your Google Business Profile is the most underutilized free marketing tool avail
 
 If you want to automate the ongoing posting (the part that actually matters long-term), [set up Glow Social in 5 minutes](https://app.glowsocial.com/) and we'll handle your GBP and social media posting for you.
 
-**Related:** [How Customers Check You Online](/blog/what-makes-customers-trust-business-online) · [Best Platforms for Local Business](/blog/best-platforms-local-business) · [Why Customers Check Your Social Media](/blog/why-customers-check-social-media-before-calling)
+**Google Business Profile series:** [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How Google Reviews Affect Local SEO](/blog/how-google-reviews-affect-local-seo) · [How to Respond to Negative Reviews](/blog/how-to-respond-to-negative-google-reviews) · [GBP vs. Social Media: Where to Focus](/blog/google-business-profile-vs-social-media) · [GBP + Social Media Together](/blog/google-business-profile-social-media-local-business)
 
 
 ### Want to see what Glow Social can do for your Roofing business?

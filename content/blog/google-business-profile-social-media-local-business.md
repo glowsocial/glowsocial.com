@@ -116,6 +116,8 @@ Start automated posting at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 Related: [Google Business Profile vs. Social Media](/blog/google-business-profile-vs-social-media) · [Do I Need Social Media?](/blog/do-i-need-social-media-for-my-business) · [Facebook for Small Business](/blog/facebook-for-small-business-minimum-posting-strategy)
 
+**Google Business Profile series:** [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How Google Reviews Affect Local SEO](/blog/how-google-reviews-affect-local-seo) · [How to Respond to Negative Reviews](/blog/how-to-respond-to-negative-google-reviews) · [GBP vs. Social Media: Where to Focus](/blog/google-business-profile-vs-social-media)
+
 <hr>
 
 <strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
