@@ -76,8 +76,8 @@ const organizationSchema = {
     ],
   },
   sameAs: [
-    "https://www.g2.com/products/glow-social",
-    "https://www.capterra.com/p/glow-social",
+    "https://www.g2.com/products/glow-social/reviews",
+    "https://www.capterra.com/p/10033703/Glow-Social/",
     "https://www.linkedin.com/company/glow-social",
     "https://www.facebook.com/glowsocialhq",
   ],
