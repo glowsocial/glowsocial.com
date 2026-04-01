@@ -109,15 +109,6 @@ export default function HomePage() {
               Preview Your Posts Free
             </a>
           </div>
-          <div className="hero-social-proof">
-            <div className="proof-avatars">
-              <div className="proof-avatar">JM</div>
-              <div className="proof-avatar">SR</div>
-              <div className="proof-avatar">TK</div>
-              <div className="proof-avatar">AL</div>
-            </div>
-            <p className="proof-text"><strong>1,000+ businesses</strong> already handled</p>
-          </div>
           <div className="hero-proof">
             <div className="hero-proof-item">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
