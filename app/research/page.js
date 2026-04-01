@@ -4,36 +4,42 @@ export const metadata = {
     "Original research from Glow Social: how local businesses actually use social media in 2026. Platform engagement rates, posting frequency, and the surprising winner no one talks about.",
 };
 
+// Ranked color scale — position 0 = darkest, fades lighter down the list
+const RANK_COLORS = [
+  "#0a2540", "#1a3a5c", "#1e4d6b", "#1e637a",
+  "#257a82", "#2e9080", "#3aaa7a", "#5ec498", "#8ddcba",
+];
+
 const engagementData = [
-  { platform: "Pinterest", rate: 7.7, color: "#e60023", posts: 26 },
-  { platform: "Threads", rate: 2.61, color: "#000000", posts: 100 },
-  { platform: "LinkedIn", rate: 2.24, color: "#0a66c2", posts: 249 },
-  { platform: "Instagram", rate: 2.14, color: "#e1306c", posts: 228 },
-  { platform: "Facebook", rate: 2.01, color: "#1877f2", posts: 258 },
-  { platform: "Twitter / X", rate: 1.76, color: "#14171a", posts: 15 },
-  { platform: "Google Business", rate: 1.38, color: "#4285f4", posts: 100 },
+  { platform: "Pinterest", rate: 7.7, posts: 26 },
+  { platform: "Threads", rate: 2.61, posts: 100 },
+  { platform: "LinkedIn", rate: 2.24, posts: 249 },
+  { platform: "Instagram", rate: 2.14, posts: 228 },
+  { platform: "Facebook", rate: 2.01, posts: 258 },
+  { platform: "Twitter / X", rate: 1.76, posts: 15 },
+  { platform: "Google Business", rate: 1.38, posts: 100 },
 ];
 
 const impressionsData = [
-  { platform: "Twitter / X", impressions: 9345, color: "#14171a" },
-  { platform: "Pinterest", impressions: 6878, color: "#e60023" },
-  { platform: "Google Business", impressions: 4573, color: "#4285f4" },
-  { platform: "Instagram", impressions: 3047, color: "#e1306c" },
-  { platform: "Facebook", impressions: 2955, color: "#1877f2" },
-  { platform: "LinkedIn", impressions: 2704, color: "#0a66c2" },
-  { platform: "Threads", impressions: 2170, color: "#000000" },
+  { platform: "Twitter / X", impressions: 9345 },
+  { platform: "Pinterest", impressions: 6878 },
+  { platform: "Google Business", impressions: 4573 },
+  { platform: "Instagram", impressions: 3047 },
+  { platform: "Facebook", impressions: 2955 },
+  { platform: "LinkedIn", impressions: 2704 },
+  { platform: "Threads", impressions: 2170 },
 ];
 
 const connectedData = [
-  { platform: "Facebook", count: 14, color: "#1877f2" },
-  { platform: "Instagram", count: 11, color: "#e1306c" },
-  { platform: "LinkedIn", count: 7, color: "#0a66c2" },
-  { platform: "Twitter / X", count: 6, color: "#14171a" },
-  { platform: "Google Business", count: 5, color: "#4285f4" },
-  { platform: "Threads", count: 5, color: "#000000" },
-  { platform: "Pinterest", count: 4, color: "#e60023" },
-  { platform: "YouTube", count: 3, color: "#ff0000" },
-  { platform: "TikTok", count: 1, color: "#69c9d0" },
+  { platform: "Facebook", count: 14 },
+  { platform: "Instagram", count: 11 },
+  { platform: "LinkedIn", count: 7 },
+  { platform: "Twitter / X", count: 6 },
+  { platform: "Google Business", count: 5 },
+  { platform: "Threads", count: 5 },
+  { platform: "Pinterest", count: 4 },
+  { platform: "YouTube", count: 3 },
+  { platform: "TikTok", count: 1 },
 ];
 
 const scheduleData = [
@@ -349,8 +355,7 @@ export default function ResearchPage() {
                     className="bar-fill"
                     style={{
                       width: `${(d.rate / maxEngagement) * 100}%`,
-                      background: i === 0 ? "#3a8a5e" : d.color || "#aaa",
-                      opacity: i === 0 ? 1 : 0.7,
+                      background: RANK_COLORS[i] || RANK_COLORS[RANK_COLORS.length - 1],
                       animationDelay: `${i * 0.08}s`,
                     }}
                   />
@@ -382,8 +387,7 @@ export default function ResearchPage() {
                     className="bar-fill"
                     style={{
                       width: `${(d.impressions / maxImpressions) * 100}%`,
-                      background: d.color || "#aaa",
-                      opacity: 0.75,
+                      background: RANK_COLORS[i] || RANK_COLORS[RANK_COLORS.length - 1],
                       animationDelay: `${i * 0.08}s`,
                     }}
                   />
@@ -416,8 +420,7 @@ export default function ResearchPage() {
                     className="bar-fill"
                     style={{
                       width: `${(d.count / maxConnected) * 100}%`,
-                      background: d.color || "#aaa",
-                      opacity: 0.8,
+                      background: RANK_COLORS[i] || RANK_COLORS[RANK_COLORS.length - 1],
                       animationDelay: `${i * 0.08}s`,
                     }}
                   />
@@ -451,7 +454,7 @@ export default function ResearchPage() {
                     className="bar-fill"
                     style={{
                       width: `${d.pct}%`,
-                      background: i === 0 ? "#3a8a5e" : "#94aabb",
+                      background: RANK_COLORS[i] || RANK_COLORS[RANK_COLORS.length - 1],
                       animationDelay: `${i * 0.1}s`,
                     }}
                   />
