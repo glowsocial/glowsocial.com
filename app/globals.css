@@ -698,3 +698,18 @@ h2 {
   line-height: 1.4;
 }
 
+/* Pinterest image block */
+.pinterest-image-block {
+  margin: 48px auto;
+  text-align: center;
+  max-width: 500px;
+}
+
+.pinterest-label {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}

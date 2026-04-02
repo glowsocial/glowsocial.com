@@ -15,6 +15,8 @@ export async function generateMetadata({ params }) {
   const post = getPostBySlug("blog", slug);
   if (!post) return { title: "Post Not Found" };
 
+  const ogImageUrl = `https://glowsocial.com/api/og?title=${encodeURIComponent(post.title)}&description=${encodeURIComponent(post.description || "")}`;
+
   return {
     title: post.title,
     description: post.description || `${post.title} — Glow Social Blog`,
@@ -26,6 +28,11 @@ export async function generateMetadata({ params }) {
       description: post.description,
       type: "article",
       publishedTime: post.date,
+      images: [{ url: ogImageUrl, width: 1000, height: 1500 }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: [ogImageUrl],
     },
   };
 }
@@ -189,6 +196,19 @@ export default async function BlogPostPage({ params }) {
         >
           Get Started — $49/mo
         </a>
+      </div>
+
+      {/* Pinterest image — save-to-Pinterest friendly, 2:3 */}
+      <div className="pinterest-image-block">
+        <p className="pinterest-label">📌 Save this to Pinterest</p>
+        <img
+          src={`/api/og?title=${encodeURIComponent(post.title)}&description=${encodeURIComponent(post.description || "")}`}
+          alt={post.title}
+          width={500}
+          height={750}
+          loading="lazy"
+          style={{ borderRadius: "12px", display: "block", margin: "0 auto" }}
+        />
       </div>
 
       {/* Author Bio */}
