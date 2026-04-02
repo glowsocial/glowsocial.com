@@ -20,7 +20,7 @@ If you have ever felt like your social media posts are being completely ignored,
 
 The immediate assumption is that the algorithm is broken, or that you need to be posting more videos, or that you aren't using the right trending audio.
 
-But when we pulled [aggregate research data](/research) from across the Glow Social platform, the truth was much simpler: **It is entirely about human psychology.**
+But when we pulled [aggregate research data](/research/local-business-social-media-statistics) from across the Glow Social platform, the truth was much simpler: **It is entirely about human psychology.**
 
 Our AI engine generates content across 6 specific psychological hooks: **Myths, Contrarian, Comparisons, How-To, Questions, and Problems**. When we mapped the engagement rates of these 6 categories, a massive divide emerged. 
 
@@ -66,7 +66,7 @@ You shouldn't be posting to sell; you should be posting to disrupt. Stop asking 
 
 If writing scroll-stopping myth-busters doesn't sound like a good use of your time, this is exactly why we built Glow Social. Our AI engine is specifically trained to generate the exact high-engagement psychological hooks (Myths, Contrarian, Comparisons) that the data proves will fix your reach.
 
-*Want to see all the data? Check out the [Glow Social Research Page](/research).*
+*Want to see all the data? Check out the [Glow Social Research Page](/research/local-business-social-media-statistics).*
 
 ---
 
