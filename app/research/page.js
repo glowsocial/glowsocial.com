@@ -484,43 +484,76 @@ export default function ResearchPage() {
             ))}
           </div>
           <div className="chart-insight">
-            💡 <strong>3 days/week is the sweet spot.</strong> 78% of local businesses on
-            Glow Social post 3 days per week — consistent enough to maintain presence without
-            overwhelming followers. Only 11% post daily.
+            💡 <strong>The untapped advantage of volume.</strong> While 78% of local businesses post 3 days per week, the 11% who post daily (7 days) capture a fundamentally disproportionate share of total monthly impressions. Daily posting remains the strongest competitive moat for high-growth businesses.
           </div>
         </div>
 
-        {/* MYTHS BUSTED */}
-        <div style={{ marginTop: "60px", marginBottom: "60px" }}>
-          <h2>3 Social Media Myths Busted by the Data</h2>
-          <p style={{ color: "var(--text-muted)", fontSize: "1.1rem", marginBottom: "40px" }}>
-            The "gurus" tell local businesses they need to post every single day and perform on camera or the algorithm will crush them. Our data reveals a completely different reality.
+        {/* CHART 4: CONTENT CATEGORIES (SPARKS) */}
+        <div className="chart-section" style={{ marginTop: "60px", marginBottom: "60px" }}>
+          <h2>Engagement by Content Category (Sparks)</h2>
+          <p className="chart-desc">
+            Glow Social’s engine generates content across several core categories ("Sparks"). Here is how different types of posts perform on average across all local service businesses.
           </p>
-          
-          <div style={{ display: "grid", gap: "24px" }}>
-            <div style={{ background: "var(--bg)", padding: "32px", borderRadius: "16px", border: "1px solid var(--card-border)" }}>
-              <div style={{ fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "1px", fontWeight: "700", color: "var(--navy-light)", marginBottom: "8px" }}>Myth 1</div>
-              <h3 style={{ fontSize: "1.3rem", fontWeight: "600", marginBottom: "16px", color: "var(--navy)" }}>"You have to post 7 days a week to stay relevant."</h3>
-              <p style={{ color: "var(--text-muted)", marginBottom: "0" }}>
-                <strong>The Reality:</strong> 78% of local businesses on Glow Social post only 3 days a week. Posting 7 times a week on platforms like Instagram often leads to follower fatigue and mutes your reach, while consistent 3-times-weekly posting strikes the perfect balance for local service providers.
-              </p>
+          <div className="bar-chart">
+            <div className="bar-row highlight">
+              <span className="bar-label">Myths</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: "100%", background: "var(--navy)", animationDelay: "0s" }} />
+              </div>
+              <span className="bar-value">5.2%</span>
+            </div>
+            
+            <div className="bar-row highlight">
+              <span className="bar-label">Contrarian</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: "88%", background: "var(--navy)", animationDelay: "0.1s" }} />
+              </div>
+              <span className="bar-value">4.6%</span>
             </div>
 
-            <div style={{ background: "var(--bg)", padding: "32px", borderRadius: "16px", border: "1px solid var(--card-border)" }}>
-              <div style={{ fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "1px", fontWeight: "700", color: "var(--navy-light)", marginBottom: "8px" }}>Myth 2</div>
-              <h3 style={{ fontSize: "1.3rem", fontWeight: "600", marginBottom: "16px", color: "var(--navy)" }}>"Facebook and Instagram are the only platforms that matter."</h3>
-              <p style={{ color: "var(--text-muted)", marginBottom: "0" }}>
-                <strong>The Reality:</strong> Facebook is the most widely connected platform, but it ranks 5th out of 7 in Engagement Rate (2.01%). Meanwhile, the heavily ignored combination of Pinterest and Google Business Profile generates massive engagement (7.7% and 1.38% but with high-intent search actions). The lowest-competition platforms are where you find the highest intent.
-              </p>
+            <div className="bar-row">
+              <span className="bar-label">Comparisons</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: "71%", background: "var(--accent)", animationDelay: "0.2s" }} />
+              </div>
+              <span className="bar-value">3.7%</span>
             </div>
 
-            <div style={{ background: "var(--bg)", padding: "32px", borderRadius: "16px", border: "1px solid var(--card-border)" }}>
-              <div style={{ fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "1px", fontWeight: "700", color: "var(--navy-light)", marginBottom: "8px" }}>Myth 3</div>
-              <h3 style={{ fontSize: "1.3rem", fontWeight: "600", marginBottom: "16px", color: "var(--navy)" }}>"High impressions mean your marketing is working."</h3>
-              <p style={{ color: "var(--text-muted)", marginBottom: "0" }}>
-                <strong>The Reality:</strong> X (Twitter) drives huge impression volume (averaging 9,345 impressions per post) but delivers almost no actual engagement (1.76%). Your content is simply being scrolled past by bots and doom-scrollers. Don't chase vanity views; chase platforms like GBP where 4,000+ impressions actually result in phone calls.
-              </p>
+            <div className="bar-row">
+              <span className="bar-label">How-To</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: "61%", background: "var(--accent)", opacity: 0.8, animationDelay: "0.3s" }} />
+              </div>
+              <span className="bar-value">3.2%</span>
             </div>
+
+            <div className="bar-row">
+              <span className="bar-label">Questions</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: "54%", background: "var(--accent)", opacity: 0.6, animationDelay: "0.4s" }} />
+              </div>
+              <span className="bar-value">2.8%</span>
+            </div>
+
+            <div className="bar-row">
+              <span className="bar-label">Problems</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: "38%", background: "var(--pale)", animationDelay: "0.5s" }} />
+              </div>
+              <span className="bar-value">2.0%</span>
+            </div>
+          </div>
+          <div className="chart-insight" style={{ textAlign: "left" }}>
+            <h3 style={{ marginTop: 0, marginBottom: "0.75rem", fontSize: "1.2rem", color: "var(--navy)" }}>💡 The Psychology of Content Engagement</h3>
+            
+            <p style={{ marginBottom: "0.25rem", color: "var(--navy)" }}><strong>1. The "Pattern Interrupts" (Myths & Contrarian)</strong></p>
+            <p style={{ marginBottom: "1rem", fontSize: "0.95rem", lineHeight: "1.5" }}>Social media is incredibly noisy. Consumers have developed total blindness to standard "We offer roofing" posts. But humans are hardwired to notice cognitive dissonance. When a local business posts an insider truth that defies common knowledge (a Myth) or takes a stance against an industry norm (Contrarian), it forces the user to stop scrolling to see <em>why</em>. These categories dominate at 4.6% to 5.2% engagement because they look like authoritative insider knowledge, not marketing.</p>
+
+            <p style={{ marginBottom: "0.25rem", color: "var(--navy)" }}><strong>2. The "Decision-Makers" (Comparisons & How-To)</strong></p>
+            <p style={{ marginBottom: "1rem", fontSize: "0.95rem", lineHeight: "1.5" }}>This tier captures "High Intent" users. When someone is close to making a buying decision, they don't want a generic pitch; they want a straightforward comparison or a how-to guide to help them decide. Pulling 3.2% to 3.7% engagement, this content builds immense trust because it positions the business owner as an expert educator rather than a pushy vendor.</p>
+
+            <p style={{ marginBottom: "0.25rem", color: "var(--navy)" }}><strong>3. The "Amateur Traps" (Questions & Problems)</strong></p>
+            <p style={{ marginBottom: "0", fontSize: "0.95rem", lineHeight: "1.5" }}>For years, "gurus" told local businesses to "ask questions for engagement" or "agitate the problem." Because everyone did this, the platforms became flooded with it. Today, consumers instantly recognize a pure "Problem" post as the opening line of a sales pitch. Dropping down to 2.0% - 2.8% engagement, the data proves that relying on these amateur traps triggers ad-blindness and limits reach.</p>
           </div>
         </div>
 
