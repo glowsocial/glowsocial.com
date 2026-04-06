@@ -31,6 +31,15 @@ const nextConfig = {
 
   async redirects() {
     return [
+      // === Preview → app.glowsocial.com ===
+      // The preview tool lives on the app. Redirect so visitors get the
+      // full experience (sample cards, generation pipeline, images).
+      {
+        source: '/preview',
+        destination: 'https://app.glowsocial.com/preview',
+        permanent: false,
+      },
+
       // === "Time spent on social media" cluster consolidation ===
       // Merging 5 thin duplicate pages into /blog/average-time-social-media-marketing
       {
