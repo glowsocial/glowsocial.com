@@ -66,6 +66,41 @@
   45% { transform: translateY(16px) translateX(8px); }
 }
 
+/* ---- Announcement Bar ---- */
+.announce-bar {
+  background: var(--navy);
+  border-bottom: 1px solid rgba(215, 226, 120, 0.2);
+  padding: 10px 0;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+}
+
+.announce-bar-inner {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.7);
+  letter-spacing: 0.01em;
+}
+
+.announce-bar-inner strong {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.announce-bar-inner a {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.2s ease;
+}
+
+.announce-bar-inner a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
 /* ---- Hero ---- */
 .hero {
   padding: 100px 0 80px;
