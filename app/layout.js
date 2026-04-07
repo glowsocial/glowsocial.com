@@ -36,9 +36,21 @@ export const metadata = {
     title: "Glow Social | Done-For-You Social Media for Local Businesses",
     description:
       "$49/month social media — handled. Glow Social reads your website, creates professional content, and publishes to 12 platforms so you never have to think about social media again.",
+    images: [
+      {
+        url: "https://glowsocial.com/images/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Glow Social — Done-For-You Social Media for Local Businesses. $49/month, 12 platforms, 5-minute setup.",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
+    title: "Glow Social | Done-For-You Social Media for Local Businesses",
+    description:
+      "$49/month social media — handled. Professional posts across 12 platforms so you never have to think about social media again.",
+    images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
     index: true,
