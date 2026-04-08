@@ -128,20 +128,44 @@ export default function HomePage() {
             publishes them across <strong>12 platforms</strong> including Google Business Profile,
             and handles your reviews — all for <strong>$49/month</strong>.
           </p>
-          <div className="hero-ctas-centered">
+          <form
+            className="hero-url-form"
+            onSubmit={(e) => {
+              e.preventDefault();
+              const url = e.target.elements.website.value.trim();
+              if (url) {
+                const encoded = encodeURIComponent(url);
+                window.location.href = `https://app.glowsocial.com/preview?url=${encoded}`;
+              }
+            }}
+            id="hero-url-form"
+          >
+            <div className="hero-url-input-wrap">
+              <svg className="hero-url-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+              <input
+                type="text"
+                name="website"
+                placeholder="yourwebsite.com"
+                className="hero-url-input"
+                autoComplete="off"
+                id="hero-url-input"
+              />
+              <button type="submit" className="hero-url-btn" id="hero-url-submit">
+                See My Posts Free →
+              </button>
+            </div>
+          </form>
+          <p className="hero-url-hint">
+            We&apos;ll read your website and show you 12 custom posts in under 60 seconds. No signup required.
+          </p>
+          <div className="hero-ctas-centered" style={{ marginTop: 16 }}>
             <a
               href="https://app.glowsocial.com/"
-              className="btn btn--primary btn--lg btn--glow"
-              id="hero-cta-primary"
-            >
-              Get Started — $49/mo
-            </a>
-            <a
-              href="https://glowsocial.com/preview"
               className="btn btn--outline"
               id="hero-cta-secondary"
+              style={{ fontSize: '0.85rem', padding: '10px 24px' }}
             >
-              Preview Your Posts Free
+              Already convinced? Get Started — $49/mo
             </a>
           </div>
           <div className="hero-proof">
