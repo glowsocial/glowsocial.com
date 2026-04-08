@@ -13,11 +13,24 @@ export async function generateMetadata({ params }) {
   const page = getPostBySlug("comparisons", slug);
   if (!page) return { title: "Page Not Found" };
 
+  const ogImageUrl = `https://glowsocial.com/api/og?title=${encodeURIComponent(page.title)}&description=${encodeURIComponent(page.description || "")}`;
+
   return {
     title: page.title,
     description: page.description || `${page.title} — Glow Social`,
     alternates: {
       canonical: `/compare/${slug}`,
+    },
+    openGraph: {
+      title: page.title,
+      description: page.description,
+      type: "article",
+      images: [{ url: ogImageUrl, width: 1000, height: 1500 }],
+    },
+    other: {
+      "pin:media": ogImageUrl,
+      "pin:description": page.description || page.title,
+      "pin:url": `https://glowsocial.com/compare/${slug}`,
     },
   };
 }

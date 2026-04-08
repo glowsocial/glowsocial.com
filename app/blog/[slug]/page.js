@@ -34,6 +34,11 @@ export async function generateMetadata({ params }) {
       card: "summary_large_image",
       images: [ogImageUrl],
     },
+    other: {
+      "pin:media": ogImageUrl,
+      "pin:description": post.description || post.title,
+      "pin:url": `https://glowsocial.com/blog/${slug}`,
+    },
   };
 }
 
