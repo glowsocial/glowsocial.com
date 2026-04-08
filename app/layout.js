@@ -107,6 +107,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.variable} ${urbanist.variable}`}>
       <head>
+        <meta name="p:domain_verify" content="cb7027727e882ade9ae656bc56cbe93c" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
