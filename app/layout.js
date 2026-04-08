@@ -21,6 +21,9 @@ export const metadata = {
   metadataBase: new URL("https://glowsocial.com"),
   alternates: {
     canonical: "./",
+    types: {
+      "application/rss+xml": "https://glowsocial.com/feed.xml",
+    },
   },
   title: {
     default: "Glow Social | Done-For-You Social Media for Local Businesses",
