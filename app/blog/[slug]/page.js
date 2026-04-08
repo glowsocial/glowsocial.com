@@ -27,7 +27,10 @@ export async function generateMetadata({ params }) {
       title: post.title,
       description: post.description,
       type: "article",
+      url: `https://glowsocial.com/blog/${slug}`,
+      siteName: "Glow Social",
       publishedTime: post.date,
+      authors: ["Kathleen Celmins"],
       images: [{ url: ogImageUrl, width: 1000, height: 1500 }],
     },
     twitter: {

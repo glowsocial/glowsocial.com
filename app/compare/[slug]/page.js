@@ -25,6 +25,9 @@ export async function generateMetadata({ params }) {
       title: page.title,
       description: page.description,
       type: "article",
+      url: `https://glowsocial.com/compare/${slug}`,
+      siteName: "Glow Social",
+      authors: ["Kathleen Celmins"],
       images: [{ url: ogImageUrl, width: 1000, height: 1500 }],
     },
     other: {
