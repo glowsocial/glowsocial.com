@@ -34,6 +34,7 @@ export default function Footer() {
 
           <div className="footer-col">
             <h4>Compare</h4>
+            <Link href="/compare/marky-alternative">Marky Alternative</Link>
             <Link href="/compare/later-alternative">Later Alternative</Link>
             <Link href="/blog/buffer-vs-glow-social">Buffer vs. Glow Social</Link>
             <Link href="/compare/chatgpt-alternative">ChatGPT Alternative</Link>
