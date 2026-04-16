@@ -213,10 +213,10 @@ h2 {
 .site-nav {
   display: flex;
   align-items: center;
-  gap: 32px;
+  gap: 28px;
 }
 
-.site-nav a {
+.site-nav > a {
   font-family: var(--font-heading);
   font-size: 0.82rem;
   font-weight: 600;
@@ -226,7 +226,78 @@ h2 {
   transition: color var(--transition);
 }
 
-.site-nav a:hover {
+.site-nav > a:hover {
+  color: var(--navy);
+}
+
+/* Dropdown Nav */
+.nav-dropdown-wrapper {
+  position: relative;
+}
+
+.nav-dropdown-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  transition: color var(--transition);
+  padding: 0;
+}
+
+.nav-dropdown-trigger:hover {
+  color: var(--navy);
+}
+
+.nav-chevron {
+  transition: transform var(--transition);
+}
+
+.nav-dropdown-trigger[aria-expanded="true"] .nav-chevron {
+  transform: rotate(180deg);
+}
+
+.nav-dropdown {
+  position: absolute;
+  top: calc(100% + 12px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--white);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  padding: 8px 0;
+  min-width: 200px;
+  z-index: 200;
+  animation: dropdownIn 0.15s ease-out;
+}
+
+@keyframes dropdownIn {
+  from { opacity: 0; transform: translateX(-50%) translateY(-4px); }
+  to   { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+.nav-dropdown a {
+  display: block;
+  padding: 10px 20px;
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  transition: background var(--transition), color var(--transition);
+}
+
+.nav-dropdown a:hover {
+  background: var(--bg);
   color: var(--navy);
 }
 
@@ -241,13 +312,14 @@ h2 {
   font-size: 0.85rem;
 }
 
-/* Mobile menu toggle */
+/* Mobile menu toggle — hamburger */
 .mobile-menu-toggle {
   display: none;
   background: none;
   border: none;
   cursor: pointer;
   padding: 4px;
+  z-index: 300;
 }
 
 .mobile-menu-toggle span {
@@ -257,6 +329,110 @@ h2 {
   background: var(--navy);
   margin: 5px 0;
   transition: var(--transition);
+  transform-origin: center;
+}
+
+/* Hamburger → X animation */
+.mobile-menu-toggle.is-active span:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.mobile-menu-toggle.is-active span:nth-child(2) {
+  opacity: 0;
+}
+
+.mobile-menu-toggle.is-active span:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
+}
+
+/* Mobile Menu Panel */
+.mobile-menu {
+  position: fixed;
+  inset: 64px 0 0 0;
+  background: var(--white);
+  z-index: 150;
+  overflow-y: auto;
+  animation: mobileSlideIn 0.2s ease-out;
+}
+
+@keyframes mobileSlideIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.mobile-nav {
+  display: flex;
+  flex-direction: column;
+  padding: 16px 24px 32px;
+}
+
+.mobile-nav > a {
+  display: block;
+  padding: 14px 0;
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--navy);
+  border-bottom: 1px solid var(--card-border);
+}
+
+.mobile-nav-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 14px 0;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--card-border);
+  cursor: pointer;
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--navy);
+}
+
+.mobile-nav-section .nav-chevron.is-open {
+  transform: rotate(180deg);
+}
+
+.mobile-nav-sub {
+  display: flex;
+  flex-direction: column;
+  padding: 4px 0 8px 16px;
+  border-bottom: 1px solid var(--card-border);
+}
+
+.mobile-nav-sub a {
+  display: block;
+  padding: 10px 0;
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.mobile-nav-sub a:hover {
+  color: var(--navy);
+}
+
+.mobile-nav-ctas {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.btn--block {
+  display: block;
+  width: 100%;
+  text-align: center;
 }
 
 @media (max-width: 768px) {
