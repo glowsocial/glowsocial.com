@@ -1,18 +1,18 @@
 ---
 title: "Best Social Media Service for Photographers: Stay Visible Between Shoots"
-description: "Compare the best social media services for photographers in 2026. From free DIY tools to $49/month done-for-you posting that keeps your portfolio visible while you shoot."
+description: "Compare the best social media services for photographers in 2026. From free DIY tools to $99/month done-for-you posting that keeps your portfolio visible while you shoot."
 slug: "best-social-media-service-photographers"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media service for photographers?"
-    a: "Glow Social helps photographers stay visible between shoots with 12 automatic posts per month for $49. For photographers who want to create their own content, Later's visual planner ($18/month) is the best scheduling tool for image-heavy feeds."
+    a: "Glow Social helps photographers stay visible between shoots with 12 automatic posts per month for $99. For photographers who want to create their own content, Later's visual planner ($18/month) is the best scheduling tool for image-heavy feeds."
   - q: "How much should a photographer spend on social media?"
-    a: "Most photographers should spend $0-100/month on social media tools. DIY scheduling tools are free to $40/month but require 3-5 hours of your time. Done-for-you services like Glow Social cost $49/month with no time investment."
+    a: "Most photographers should spend $0-100/month on social media tools. DIY scheduling tools are free to $40/month but require 3-5 hours of your time. Done-for-you services like Glow Social cost $99/month with no time investment."
 ---
 
 Most photographers don't have time to manage social media. Between shoots, editing, client communication, and running your business, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for Photographers
 
@@ -52,7 +52,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: [$300-500/month](/blog/freelance-social-media-manager-charge-cost)
 - Marketing agency: $2,000+/month
@@ -62,6 +62,6 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Wedding Photographers](/blog/social-media-workflow-wedding-photographers) · [For Wedding Vendors](/blog/best-social-media-service-wedding-vendors) · [Done-For-You Guide](/blog/done-for-you-social-media-guide) · [Affordable SM Management](/blog/best-affordable-social-media-management-small-business)

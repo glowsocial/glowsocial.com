@@ -9,7 +9,7 @@ faqs:
   - q: "Does social media actually bring in customers for local businesses?"
     a: "Yes. 76% of consumers check a business's social media before visiting or calling. Consistent posting builds trust and keeps your business top-of-mind when customers are ready to buy."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 When a potential customer searches for your type of business, they usually check three things: your Google reviews, your website, and your social media. Each one contributes to a single question in their mind: **"Can I trust this business?"**
@@ -89,7 +89,7 @@ The good news: credibility through social media is one of the easiest problems t
 Set aside 2 hours once a month, create 12 posts, and schedule them. Use Canva for simple graphics. This works if you have the discipline to do it every month without fail.
 
 **Option 2: Automate It**
-[Glow Social](https://glowsocial.com) creates and publishes 12+ professional posts per month, customized to your business, for $49/month. Your social media stays active and credible without any time investment from you.
+[Glow Social](https://glowsocial.com) creates and publishes 12+ professional posts per month, customized to your business, for $99/month. Your social media stays active and credible without any time investment from you.
 
 **Option 3: Hire a Manager**
 Professional social media management runs $1,500-3,000/month. This provides the highest quality but is cost-prohibitive for most local businesses.
@@ -98,7 +98,7 @@ Professional social media management runs $1,500-3,000/month. This provides the 
 
 In 2026, your social media pages are part of your storefront. When customers look through the window and see activity, they walk in. When they see dust, they walk past. Maintaining credibility doesn't take much — just consistency. And that's entirely within your control.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Landscaping business?

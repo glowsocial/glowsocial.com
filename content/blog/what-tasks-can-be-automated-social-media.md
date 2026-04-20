@@ -5,11 +5,11 @@ slug: "what-tasks-can-be-automated-social-media"
 date: "2026-03-17"
 faqs:
   - q: "What is the best social media service for local businesses?"
-    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The word "automation" makes some business owners nervous. It sounds impersonal, robotic, risky. But in social media marketing, automation isn't about removing the human — it's about removing the repetitive tasks so humans can focus on what actually matters.
@@ -112,4 +112,4 @@ If you're doing everything manually today, here's the order to automate:
 
 This approach saves 10-15 hours per month while keeping your social media genuinely personal where it counts.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)

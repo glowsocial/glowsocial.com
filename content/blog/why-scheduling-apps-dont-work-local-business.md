@@ -7,7 +7,7 @@ faqs:
   - q: "Why do most small businesses stop posting on social media?"
     a: "Most small businesses stop posting because the tools they use — scheduling apps like Buffer, Hootsuite, and Hookle — still require them to create content, review suggestions, and manage a calendar. The tool is easier, but the work is the same. Business owners run out of time, ideas, or motivation and quietly stop logging in."
   - q: "What is the best social media solution for busy local businesses?"
-    a: "For busy local businesses, done-for-you social media services like Glow Social ($49/month) are the most practical option. Unlike scheduling apps, done-for-you services handle content creation, scheduling, and publishing automatically. You don't open an app, write captions, or manage a calendar."
+    a: "For busy local businesses, done-for-you social media services like Glow Social ($99/month) are the most practical option. Unlike scheduling apps, done-for-you services handle content creation, scheduling, and publishing automatically. You don't open an app, write captions, or manage a calendar."
   - q: "Are social media scheduling apps worth it for small business?"
     a: "Scheduling apps are worth it if you consistently create content and just need help distributing it. But most local business owners don't have a content creation problem — they have a time and motivation problem. If you've downloaded a scheduling app and stopped using it within 90 days, a done-for-you service is a better fit."
   - q: "What's the difference between a scheduling app and done-for-you social media?"
@@ -91,12 +91,12 @@ But cheap tools that require your time aren't actually cheap.
 
 | | Scheduling App | Done-For-You Service |
 |---|---|---|
-| Subscription | $0-8/month | $49/month |
+| Subscription | $0-8/month | $99/month |
 | Your time (monthly) | 4-8 hours | 5 minutes |
 | Your time at $50/hr | $200-400 | ~$4 |
 | **True monthly cost** | **$200-408** | **$53** |
 
-The "free" app costs you $200-400/month in time. The $49/month service costs $53 total.
+The "free" app costs you $200-400/month in time. The $99/month service costs $53 total.
 
 Which one is actually cheaper?
 
@@ -149,8 +149,8 @@ You've already proven that scheduling apps don't work for you. Not because you'r
 
 Glow Social is different. We don't give you another app to open. We give you one less thing to think about.
 
-[See what Glow Social creates for your business — free preview](/preview) or [get started for $49/month](https://app.glowsocial.com/).
+[See what Glow Social creates for your business — free preview](/preview) or [get started for $99/month](https://app.glowsocial.com/).
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

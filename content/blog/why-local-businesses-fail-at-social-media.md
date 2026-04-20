@@ -63,6 +63,6 @@ The businesses that solve this consistently either hire a social media manager (
 
 [Glow Social](https://glowsocial.com) is built for exactly this situation. It generates local-business-specific social media posts for Facebook, Instagram, and Google Business Profile automatically — no weekly effort required. Not generic templates, but business-specific content based on your services, location, and industry.
 
-At $49/month, it's less than most businesses spend on coffee for the office. And it solves the business owner's real problem: maintaining a consistent, professional social media presence without it requiring their time.
+At $99/month, it's less than most businesses spend on coffee for the office. And it solves the business owner's real problem: maintaining a consistent, professional social media presence without it requiring their time.
 
 [See how Glow Social works →](https://glowsocial.com)

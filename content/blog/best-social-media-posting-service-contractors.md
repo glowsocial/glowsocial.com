@@ -1,16 +1,16 @@
 ---
 title: "Best Social Media Service for Contractors (2026)"
-description: "The best social media posting service for contractors keeps you visible while you work on the job site. Compare done-for-you options starting at $49/mo."
+description: "The best social media posting service for contractors keeps you visible while you work on the job site. Compare done-for-you options starting at $99/mo."
 slug: "best-social-media-posting-service-contractors"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media posting service for contractors?"
-    a: "Glow Social is the best posting service for contractors. It creates professional project-showcasing content automatically for $49/month while you stay on the job site."
+    a: "Glow Social is the best posting service for contractors. It creates professional project-showcasing content automatically for $99/month while you stay on the job site."
 ---
 
 Most contractors don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for Contractors
 
@@ -50,7 +50,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -60,7 +60,7 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Home Services](/blog/social-media-home-services) · [For Landscapers](/blog/best-social-media-service-landscapers) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
 

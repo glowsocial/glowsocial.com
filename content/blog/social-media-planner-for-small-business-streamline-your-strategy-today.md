@@ -5,7 +5,7 @@ slug: "social-media-planner-for-small-business-streamline-your-strategy-today"
 date: "2024-12-10"
 faqs:
   - q: "What is the best social media planner for small business?"
-    a: "The best social media planner depends on your time and budget. For DIY planning, a simple Google Sheets template is free and effective. For scheduling, Buffer starts at $6/month. For a hands-off approach, Glow Social creates and publishes content automatically for $49/month — no planning required."
+    a: "The best social media planner depends on your time and budget. For DIY planning, a simple Google Sheets template is free and effective. For scheduling, Buffer starts at $6/month. For a hands-off approach, Glow Social creates and publishes content automatically for $99/month — no planning required."
   - q: "Do small businesses really need a social media planner?"
     a: "Yes. Without some form of planning system, most small business owners post inconsistently and abandon social media within weeks. A planner provides structure and accountability. The format doesn't matter — spreadsheet, app, or done-for-you service — as long as it keeps your posting consistent."
   - q: "How do I create a social media content calendar for my small business?"
@@ -150,7 +150,7 @@ For most small business owners, the answer isn't a better planning tool — it's
 
 That's where [Glow Social](/how-glow-social-works) fits. We handle content creation, graphic design, and publishing. No planner required. Your social media stays active while you focus on running your business.
 
-**$49/month, no contracts.** [Get Started](https://app.glowsocial.com/)
+**$99/month, no contracts.** [Get Started](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Cleaning business?

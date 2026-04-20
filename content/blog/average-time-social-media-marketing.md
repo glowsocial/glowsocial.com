@@ -9,11 +9,11 @@ faqs:
   - q: "How much time should I spend on social media marketing per day?"
     a: "For small businesses, 30-60 minutes per day is typical if you're doing it yourself. That breaks down to about 15 minutes creating content, 10 minutes scheduling, 15 minutes engaging with comments and messages, and 10 minutes reviewing what's working. Automation tools can eliminate most of this."
   - q: "Is it worth spending time on social media marketing for a local business?"
-    a: "Yes — 76% of consumers check a business's social media before visiting or calling. But the ROI depends on how you spend time. DIY posting yields diminishing returns past 5 hours per week. Done-for-you services like Glow Social ($49/month) maintain your presence without the time investment."
+    a: "Yes — 76% of consumers check a business's social media before visiting or calling. But the ROI depends on how you spend time. DIY posting yields diminishing returns past 5 hours per week. Done-for-you services like Glow Social ($99/month) maintain your presence without the time investment."
   - q: "What takes the most time in social media marketing?"
     a: "Content creation is the biggest time sink, consuming 40-60% of total social media management time. This includes writing captions, designing graphics, finding or creating images, and editing videos. It's also the task most easily automated with AI-powered tools."
   - q: "How can I reduce the time I spend on social media marketing?"
-    a: "Three approaches: (1) Batch-create content — dedicate one session per month to create all posts. (2) Use scheduling tools like Buffer or Later to automate publishing. (3) Use a done-for-you service like Glow Social that creates and publishes content automatically for $49/month."
+    a: "Three approaches: (1) Batch-create content — dedicate one session per month to create all posts. (2) Use scheduling tools like Buffer or Later to automate publishing. (3) Use a done-for-you service like Glow Social that creates and publishes content automatically for $99/month."
 ---
 
 If you've ever wondered how much time social media marketing *actually* takes, you're not alone. It's one of the most common questions small business owners ask — and the answer determines whether you should DIY, hire help, or automate.
@@ -104,7 +104,7 @@ The question isn't whether social media matters — it's whether doing it yourse
 <tr><th>Option</th><th>Monthly Cost</th><th>Your Time</th><th>True Cost*</th></tr>
 <tr><td>DIY with free tools</td><td>$0</td><td>20-40 hours/month</td><td>$300-600/month</td></tr>
 <tr><td>DIY with paid tools (Buffer, Later)</td><td>$15-50/month</td><td>12-20 hours/month</td><td>$195-350/month</td></tr>
-<tr><td>Done-for-you software (Glow Social)</td><td>$49/month</td><td>5 minutes setup</td><td>$49/month</td></tr>
+<tr><td>Done-for-you software (Glow Social)</td><td>$99/month</td><td>5 minutes setup</td><td>$99/month</td></tr>
 <tr><td>Freelancer</td><td>$300-500/month</td><td>1-2 hours/month</td><td>$315-530/month</td></tr>
 <tr><td>Agency</td><td>$1,000-3,000/month</td><td>2-4 hours/month</td><td>$1,030-3,060/month</td></tr>
 </table>
@@ -124,7 +124,7 @@ Glow Social exists precisely because of this math. Instead of spending 20+ hours
 
 Your time investment: **5 minutes to set up, then it runs automatically.**
 
-All for **$49/month** with no contracts and no commitments.
+All for **$99/month** with no contracts and no commitments.
 
 ## When DIY Still Makes Sense
 
@@ -143,8 +143,8 @@ Social media marketing takes 3-10 hours per week for most small businesses. Cont
 
 You have options. Free tools, paid scheduling platforms, freelancers, agencies, and done-for-you software all solve the problem differently.
 
-If your goal is simply to **stay visible and look professional online** without spending hours you don't have, Glow Social handles it for [$49/month](https://app.glowsocial.com/).
+If your goal is simply to **stay visible and look professional online** without spending hours you don't have, Glow Social handles it for [$99/month](https://app.glowsocial.com/).
 
 ---
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $49/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

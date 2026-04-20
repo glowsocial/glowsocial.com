@@ -9,9 +9,9 @@ faqs:
   - q: "Why do social media managers recommend so much posting?"
     a: "More posting means more work, which justifies higher retainers. A social media manager charging $1,500/month needs to demonstrate significant output. However, research shows diminishing returns on engagement after 3-5 posts per week for small business pages. Most local businesses see 90% of their social media value from basic consistency."
   - q: "What's the minimum social media a small business actually needs?"
-    a: "The minimum effective social media presence is: 3 posts per week (12 per month), a complete profile with professional photos, and responses to DMs and tagged mentions. This can be accomplished for $49/month with automated tools like Glow Social or 2-3 hours/month of DIY effort."
+    a: "The minimum effective social media presence is: 3 posts per week (12 per month), a complete profile with professional photos, and responses to DMs and tagged mentions. This can be accomplished for $99/month with automated tools like Glow Social or 2-3 hours/month of DIY effort."
   - q: "Is hiring a social media manager worth it for a small local business?"
-    a: "For most small local businesses with under $500/month to spend on social media, hiring a manager is overkill. A $300-500/month freelancer provides services designed for businesses 10x your size. Done-for-you automation at $49/month covers the core need (consistent posting) at a fraction of the cost."
+    a: "For most small local businesses with under $500/month to spend on social media, hiring a manager is overkill. A $300-500/month freelancer provides services designed for businesses 10x your size. Done-for-you automation at $99/month covers the core need (consistent posting) at a fraction of the cost."
 ---
 
 The social media management industry is a $25 billion market. Most of that money comes from convincing businesses they need elaborate social media strategies.
@@ -111,7 +111,7 @@ What a social media manager charges vs. what most small businesses need:
 
 <table>
 <tr><th>What You're Paying For</th><th>Typical Manager Cost</th><th>What You Need</th><th>Cheapest Solution</th></tr>
-<tr><td>Consistent posting</td><td>$300-500/month</td><td>12 posts/month</td><td>$49/month (Glow Social)</td></tr>
+<tr><td>Consistent posting</td><td>$300-500/month</td><td>12 posts/month</td><td>$99/month (Glow Social)</td></tr>
 <tr><td>Content creation</td><td>Included above</td><td>Simple, on-brand posts</td><td>Included in Glow Social</td></tr>
 <tr><td>Strategy</td><td>$500-1,500/month</td><td>"Post 3x/week, be helpful"</td><td>Free (you just read it)</td></tr>
 <tr><td>Analytics</td><td>$200-500/month</td><td>"Do I have recent posts?"</td><td>Free (look at your page)</td></tr>
@@ -123,7 +123,7 @@ What a social media manager charges vs. what most small businesses need:
 If you're a small local business with under 5,000 followers, you need:
 
 <ol>
-<li><strong>Consistent posting</strong> — Glow Social handles this for $49/month, or DIY for 2-3 hours/month</li>
+<li><strong>Consistent posting</strong> — Glow Social handles this for $99/month, or DIY for 2-3 hours/month</li>
 <li><strong>Reply to DMs and comments</strong> — 10 minutes/week, do it yourself</li>
 <li><strong>Keep your profile info current</strong> — 5 minutes/month</li>
 </ol>
@@ -136,7 +136,7 @@ Related: [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-medi
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

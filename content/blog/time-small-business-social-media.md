@@ -5,14 +5,14 @@ slug: "time-small-business-social-media"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
     a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
 ---
 
-Small business owners typically need 3-5 posts per week on social media to maintain visibility—which translates to 5-10 hours per month if you're doing it yourself. With AI-powered software like <strong>Glow Social</strong>, you can get 12 posts per month for $49 with just 5 minutes of setup, cutting that time investment to nearly zero.
+Small business owners typically need 3-5 posts per week on social media to maintain visibility—which translates to 5-10 hours per month if you're doing it yourself. With AI-powered software like <strong>Glow Social</strong>, you can get 12 posts per month for $99 with just 5 minutes of setup, cutting that time investment to nearly zero.
 
 
 Here's realistic guidance on how much time social media actually takes—and how to reduce it.
@@ -99,7 +99,7 @@ Use tools like ChatGPT or Copy.ai to draft captions, then edit for your voice.
 
 
 ### Strategy 4: Automated Posting (Reduces time to near-zero)
-Use software that creates and posts for you. Glow Social generates 12 posts per month and publishes them automatically for $49/month—setup takes 5 minutes.
+Use software that creates and posts for you. Glow Social generates 12 posts per month and publishes them automatically for $99/month—setup takes 5 minutes.
 
 
 ## The Real Math
@@ -112,10 +112,10 @@ Calculate what your time is worth:
 <ul>
 <li>DIY at 10 hours/month = $500 in time</li>
 <li>DIY with batching at 3 hours/month = $150 in time</li>
-<li>Glow Social at 0 hours = $49/month total</li>
+<li>Glow Social at 0 hours = $99/month total</li>
 </ul>
 
-For most business owners, paying $49 for automated posting costs less than the DIY approach when you factor in time value.
+For most business owners, paying $99 for automated posting costs less than the DIY approach when you factor in time value.
 
 
 ## What's Actually Worth Your Time?
@@ -159,7 +159,7 @@ This keeps you visible and engaged without turning social media into a second jo
 
 ## Getting Started
 
-If you want to cut social media time to near-zero, Glow Social handles posting automatically for $49/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+If you want to cut social media time to near-zero, Glow Social handles posting automatically for $99/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 If you prefer DIY, commit to monthly batching sessions and stick to templates to minimize decision fatigue.
@@ -167,4 +167,4 @@ If you prefer DIY, commit to monthly batching sessions and stick to templates to
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

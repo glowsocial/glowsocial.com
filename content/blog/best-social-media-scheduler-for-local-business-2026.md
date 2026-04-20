@@ -10,7 +10,7 @@ faqs:
   - q: "Can a social media scheduler actually save local business owners time each week?"
     a: "Absolutely. A good scheduler can save 5–10 hours per week by batching content creation and automating publishing across platforms. Instead of posting manually throughout the day, you plan once and let the tool handle it. If you're running a local salon, coffee shop, or service business, that's time you get back to serve customers and grow revenue."
   - q: "How much does a typical social media scheduler cost for small businesses?"
-    a: "Most quality schedulers range from $20–$100/month depending on features. Glow Social, for instance, costs $49/month and includes both scheduling and AI-powered content creation, making it a complete solution rather than just a publishing tool. Cheaper options exist but often lack content creation features, meaning you're still doing the creative work yourself."
+    a: "Most quality schedulers range from $20–$100/month depending on features. Glow Social, for instance, costs $99/month and includes both scheduling and AI-powered content creation, making it a complete solution rather than just a publishing tool. Cheaper options exist but often lack content creation features, meaning you're still doing the creative work yourself."
   - q: "What's the difference between a scheduler and a full social media management platform?"
     a: "A scheduler just publishes posts at specific times. A full management platform handles scheduling, content creation, analytics, community engagement, and sometimes team collaboration. For local business owners wearing multiple hats, a full platform saves way more time because you're not outsourcing content creation to an agency or spending hours creating posts yourself."
   - q: "Should local businesses use AI for social media content creation?"
@@ -64,11 +64,11 @@ Most local businesses have marketing budgets under $300/month total. Your schedu
 
 ## Top Social Media Schedulers for Local Business in 2026
 
-### Glow Social ($49/month)
+### Glow Social ($99/month)
 
 Glow Social is built specifically for this problem. It combines scheduling *and* AI-powered content creation, which is rare at this price point. You can generate 4–8 weeks of content in an afternoon using their AI, customize it to match your voice, and then just let it publish automatically.
 
-What makes it stand out for local businesses: You input your business type, target audience, and goals once, and the AI generates relevant, localized content ideas. It handles Instagram, Facebook, TikTok, and LinkedIn from one dashboard. The analytics show engagement metrics and post performance, and the pricing is transparent—$49/month, no surprises.
+What makes it stand out for local businesses: You input your business type, target audience, and goals once, and the AI generates relevant, localized content ideas. It handles Instagram, Facebook, TikTok, and LinkedIn from one dashboard. The analytics show engagement metrics and post performance, and the pricing is transparent—$99/month, no surprises.
 
 Best for: Solopreneurs and small local businesses that want automation without the $500/month agency price tag.
 
@@ -86,7 +86,7 @@ Best for: Beauty, fitness, retail, and food businesses that live on Instagram an
 
 ### Hootsuite
 
-The big player. Hootsuite does everything—scheduling, analytics, team collaboration, community management. But it's also complex and overkill for most local businesses. Pricing starts at $49/month but goes up fast. You'll end up using 30% of its features.
+The big player. Hootsuite does everything—scheduling, analytics, team collaboration, community management. But it's also complex and overkill for most local businesses. Pricing starts at $99/month but goes up fast. You'll end up using 30% of its features.
 
 Best for: Larger local businesses with teams or complex multi-location management needs.
 
@@ -100,7 +100,7 @@ Ask yourself these questions:
 
 3. **Do I have a team or is this solo?** Team collaboration features add cost but save headaches if multiple people manage accounts.
 
-4. **What's my budget?** Be honest. Don't spend $150/month on a tool when $49/month solves your problem.
+4. **What's my budget?** Be honest. Don't spend $150/month on a tool when $99/month solves your problem.
 
 ## The Bottom Line
 
@@ -111,6 +111,6 @@ The best social media scheduler for your local business is the one you'll actual
 - Powerful enough to handle content creation, not just publishing
 - Focused on your actual business goals (customers, revenue, bookings)
 
-If you're looking for something that checks all these boxes without the complexity of enterprise tools, **[Glow Social](https://glowsocial.com)** is worth trying. At $49/month, it includes both scheduling and AI content creation, saves local business owners 5–10 hours per week, and actually helps you post consistently without burning out.
+If you're looking for something that checks all these boxes without the complexity of enterprise tools, **[Glow Social](https://glowsocial.com)** is worth trying. At $99/month, it includes both scheduling and AI content creation, saves local business owners 5–10 hours per week, and actually helps you post consistently without burning out.
 
 **Ready to take back your time?** [Start your free trial at Glow Social](https://glowsocial.com) and see how much easier social media gets when you have the right tool in your corner.

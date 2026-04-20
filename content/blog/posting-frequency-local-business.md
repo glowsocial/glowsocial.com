@@ -9,7 +9,7 @@ faqs:
   - q: "What happens if you stop posting on social media?"
     a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 One of the most common questions local businesses ask: How often should I post on social media? The short answer: <strong>3 posts per week is enough for most small businesses</strong>. Consistency matters more than frequency, and posting so much that you burn out helps no one.
@@ -41,7 +41,7 @@ Despite what marketing gurus claim, you don't need to post every day. For most l
 <li>Keep your profiles active</li>
 </ul>
 
-That's about 12 posts per month—exactly what Glow Social provides for $49/month automatically.
+That's about 12 posts per month—exactly what Glow Social provides for $99/month automatically.
 
 
 ## Quality and Consistency > Frequency
@@ -137,7 +137,7 @@ For small businesses with limited time and budget:
 <strong>Option B: Automated baseline + occasional additions</strong>
 
 <ul>
-<li>Glow Social: 12 automatic posts/month (~3/week) for $49</li>
+<li>Glow Social: 12 automatic posts/month (~3/week) for $99</li>
 <li>You add: Special content when you have it (events, launches, great photos)</li>
 <li>Time: Near zero</li>
 </ul>
@@ -164,7 +164,7 @@ Pick a frequency you can actually maintain—and maintain it.
 
 ## Getting Started
 
-For consistent 3x/week posting without effort, Glow Social publishes 12 posts automatically for $49/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For consistent 3x/week posting without effort, Glow Social publishes 12 posts automatically for $99/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 For DIY, commit to 3 posts per week maximum and batch-create monthly to stay consistent.
@@ -176,7 +176,7 @@ For DIY, commit to 3 posts per week maximum and batch-create monthly to stay con
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

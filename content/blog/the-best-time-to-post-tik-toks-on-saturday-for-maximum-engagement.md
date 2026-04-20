@@ -5,7 +5,7 @@ slug: "the-best-time-to-post-tik-toks-on-saturday-for-maximum-engagement"
 date: "2025-01-14"
 faqs:
   - q: "What is the best social media service for local businesses?"
-    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "What is the difference between social media tools and done-for-you services?"
@@ -47,7 +47,7 @@ That's why **consistency** matters more than timing. A post at 3 PM every Saturd
 
 Glow Social creates and publishes 12+ posts per month across 13 platforms. We handle the content creation, the graphics, and the scheduling — so your social media stays active even on your busiest days.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Salon business?

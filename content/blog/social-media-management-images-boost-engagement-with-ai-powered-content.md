@@ -5,7 +5,7 @@ slug: "social-media-management-images-boost-engagement-with-ai-powered-content"
 date: "2025-01-08"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
@@ -47,6 +47,6 @@ The result: posts that look like you hired a designer, at a fraction of the cost
 
 - **Hire a designer:** $500-1,000/month
 - **Use design tools (Canva):** Free, but costs 5-10 hours of your time monthly
-- **Done-for-you service (Glow Social):** $49/month, including graphics, captions, and publishing
+- **Done-for-you service (Glow Social):** $99/month, including graphics, captions, and publishing
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)

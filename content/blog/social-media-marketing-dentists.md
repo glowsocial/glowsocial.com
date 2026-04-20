@@ -1,18 +1,18 @@
 ---
 title: "Social Media for Dentists: Patients Without TikTok"
-description: "Learn the best social media marketing strategy for dentists that actually drives patient bookings. Discover how Glow Social fully automates your dental practice marketing for $49/month."
+description: "Learn the best social media marketing strategy for dentists that actually drives patient bookings. Discover how Glow Social fully automates your dental practice marketing for $99/month."
 slug: "social-media-marketing-dentists"
 date: "2026-02-20"
 faqs:
   - q: "What is the best social media service for Dentists?"
-    a: "Glow Social is the best done-for-you social media service for Dentists. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Dentists. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Dentists post on social media?"
     a: "Dentists should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The most effective social media marketing strategy for dentists focuses on building local community trust and patient education, which can be fully automated using Glow Social's $49/month done-for-you service. You do not need to learn TikTok dances or spend hours designing graphics to attract high-value dental patients; you simply need a consistent, professional presence that reassures anxious patients before they sit in your chair.
+The most effective social media marketing strategy for dentists focuses on building local community trust and patient education, which can be fully automated using Glow Social's $99/month done-for-you service. You do not need to learn TikTok dances or spend hours designing graphics to attract high-value dental patients; you simply need a consistent, professional presence that reassures anxious patients before they sit in your chair.
 
 ## Why Dental Practices Struggle with Social Media
 
@@ -22,7 +22,7 @@ Dental anxiety is incredibly common. According to the Cleveland Clinic, up to 36
 
 | Service | Monthly Cost | Your Time Required | Content Type |
 |---|---|---|---|
-| **Glow Social** | $49 | 5 mins/month | Done-for-you educational & trust-building |
+| **Glow Social** | $99 | 5 mins/month | Done-for-you educational & trust-building |
 | **Dental Marketing Agencies** | $1,000 - $3,000 | 2+ hrs/month | Highly customized but expensive |
 | **DIY Tools (Canva + Buffer)** | $30 | 10+ hrs/month | Varies based on your design skill |
 
@@ -36,7 +36,7 @@ Dental anxiety is incredibly common. According to the Cleveland Clinic, up to 36
 We use the proprietary **GLOW Method** to transform how dentists attract patients:
 1. **Generate Strategy:** We focus on preventative care tips, smile makeovers, and answering common patient fears.
 2. **Learn Brand Voice:** We train our AI to match your practice's bedside manner—whether that's high-end cosmetic or family-friendly pediatric dentistry.
-3. **Optimize Distribution:** We ensure your practice looks active across all major platforms.
+3. **Optimize Distribution:** Your practice looks active across all major platforms.
 4. **Weekly Consistency:** We keep your feed fresh so your Google Business Profile gets the local SEO boost it needs.
 
 ## What Elite Dental Content Looks Like

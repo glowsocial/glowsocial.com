@@ -85,7 +85,7 @@ This isn't a discipline problem — it's a time problem. You're a dentist, not a
 **Two solutions:**
 
 1. **Batch-create content.** Spend one hour on Sunday creating all 3 posts for the week and schedule them using a free tool like [Buffer or Later](/blog/boost-your-engagement-discover-the-benefits-of-social-media-schedulers).
-2. **Automate it entirely.** [Glow Social](https://glowsocial.com) creates and publishes dental-specific content automatically — [12+ posts per month across Instagram, Facebook, LinkedIn, and Google Business Profile for $49/month](/blog/best-social-media-posting-service-dentists). No content creation required on your end.
+2. **Automate it entirely.** [Glow Social](https://glowsocial.com) creates and publishes dental-specific content automatically — [12+ posts per month across Instagram, Facebook, LinkedIn, and Google Business Profile for $99/month](/blog/best-social-media-posting-service-dentists). No content creation required on your end.
 
 The worst option is doing nothing. An Instagram page with no posts since July tells potential patients you might not even be open anymore.
 

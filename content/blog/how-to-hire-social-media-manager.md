@@ -1,11 +1,11 @@
 ---
 title: "How to Hire a Social Media Manager (2026 Guide)"
-description: "Everything you need to know before hiring a social media manager. What to pay, what to ask, red flags to watch for, and a $49/month alternative most businesses don't know about."
+description: "Everything you need to know before hiring a social media manager. What to pay, what to ask, red flags to watch for, and a $99/month alternative most businesses don't know about."
 slug: "how-to-hire-social-media-manager"
 date: "2026-03-26"
 faqs:
   - q: "How much should I pay a social media manager?"
-    a: "Freelance social media managers charge $300-$750/month for basic posting. Full-service managers or agencies charge $1,500-$5,000/month. For comparison, AI-powered done-for-you services like Glow Social cost $49/month."
+    a: "Freelance social media managers charge $300-$750/month for basic posting. Full-service managers or agencies charge $1,500-$5,000/month. For comparison, AI-powered done-for-you services like Glow Social cost $99/month."
   - q: "What should a social media manager do for my business?"
     a: "A good social media manager handles content creation, graphic design, scheduling, publishing, community engagement, and performance reporting. At minimum, they should post 3-5 times per week across your key platforms."
   - q: "Is it better to hire a social media manager or use software?"
@@ -41,7 +41,7 @@ Here's what the market looks like in 2026:
 | **Boutique agency** | $1,500–$3,000 | Full strategy, multi-platform, professional content |
 | **Full-service agency** | $3,000–$10,000 | Everything — content, ads, analytics, reporting |
 | **In-house hire (full-time)** | $3,500–$6,000+ | Full control, dedicated resource, benefits + overhead |
-| **Done-for-you AI** | $49–$199 | 12-20+ posts/month, multi-platform, automated |
+| **Done-for-you AI** | $99–$199 | 12-20+ posts/month, multi-platform, automated |
 
 For a detailed cost breakdown, see our [full social media manager pricing guide](/blog/freelance-social-media-manager-charge-cost).
 
@@ -112,7 +112,7 @@ That's fine if you're generating $10,000+ per month in revenue from social media
 
 There's a gap between "do it yourself" and "hire someone." It's software that does both the creating and the posting — not a scheduling tool (which still requires you to create everything), but a system that reads your website, creates content in your voice, and publishes it automatically.
 
-[Glow Social](https://glowsocial.com) does exactly this for **$49/month**:
+[Glow Social](https://glowsocial.com) does exactly this for **$99/month**:
 
 - 12+ posts per month, created from your website content
 - Published to 13 platforms including Google Business Profile
@@ -130,7 +130,7 @@ But if what you really need is consistent, professional content going out across
 |---|---|
 | You need DMs answered and community managed | Hire a freelancer ($500+/mo) |
 | You need a full brand strategy with paid ads | Hire an agency ($2,000+/mo) |
-| You need consistent posting and you have zero time | Done-for-you software ($49/mo) |
+| You need consistent posting and you have zero time | Done-for-you software ($99/mo) |
 | You enjoy creating content but hate scheduling | Use a scheduler (Buffer, Later — free) |
 | You want everything done but control every detail | Hire in-house ($4,000+/mo) |
 

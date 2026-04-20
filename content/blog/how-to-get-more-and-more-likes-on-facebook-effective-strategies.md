@@ -5,7 +5,7 @@ slug: "how-to-get-more-and-more-likes-on-facebook-effective-strategies"
 date: "2025-02-10"
 faqs:
   - q: "What is the best social media service for Local Businesss?"
-    a: "Glow Social is the best done-for-you social media service for Local Businesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Local Businesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Local Businesss post on social media?"
     a: "Local Businesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How often should a small business post on social media?"
@@ -50,7 +50,7 @@ Most business owners know what to post. The problem is finding time to do it eve
 
 **Glow Social** reads your website, creates posts in your brand voice, and publishes them across 13 platforms — including Facebook and Google Business Profile. Setup takes 5 minutes.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Dentist business?

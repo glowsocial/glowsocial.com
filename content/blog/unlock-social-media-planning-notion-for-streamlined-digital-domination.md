@@ -9,7 +9,7 @@ faqs:
   - q: "How do I set up a social media planner in Notion?"
     a: "Create a database with properties for date, platform, content type, caption, image status, and published status. Add a calendar view for schedule visualization and a kanban board for workflow tracking. Use templates for recurring content types to speed up content creation."
   - q: "What are alternatives to Notion for social media planning?"
-    a: "Alternatives include Google Sheets (free, simple), Trello (visual kanban boards), Buffer ($6/month, includes scheduling), and done-for-you services like Glow Social ($49/month, handles everything including content creation and publishing). The best choice depends on how much of the work you want to do yourself."
+    a: "Alternatives include Google Sheets (free, simple), Trello (visual kanban boards), Buffer ($6/month, includes scheduling), and done-for-you services like Glow Social ($99/month, handles everything including content creation and publishing). The best choice depends on how much of the work you want to do yourself."
 ---
 
 Notion is one of the best tools for organizing anything — including social media content. Its flexible databases, multiple views, and customizable templates make it a powerful planning hub. But for local business owners, there's a crucial gap between having a planning tool and actually executing the plan consistently.
@@ -96,7 +96,7 @@ Use Notion's recurring task feature to create weekly planning sessions:
 Here's what using Notion for social media actually looks like in practice:
 
 **Sunday Evening (30 minutes):**
-Review your content calendar for the week. Ensure you have posts planned for each publishing day. Move any unfinished drafts forward or fill gaps with new ideas.
+Review your content calendar for the week. Check that you have posts planned for each publishing day. Move any unfinished drafts forward or fill gaps with new ideas.
 
 **Monday (45 minutes):**
 Write captions for the week's posts. Use your templates to start. Draft 3-5 captions and move them from "Idea" to "Drafting."
@@ -158,7 +158,7 @@ What you get:
 
 What you don't get: the creative control and customization of a hands-on planning system. This trade-off works for most local businesses because the alternative — an empty Notion board and silent social media pages — isn't really control at all.
 
-**$49/month, no contracts.** [Get Started](https://app.glowsocial.com/)
+**$99/month, no contracts.** [Get Started](https://app.glowsocial.com/)
 
 For more on finding the right tool, see our guide to [social media planners for small business](/blog/social-media-planner-for-small-business-streamline-your-strategy-today) or explore [social media automation options](/blog/automated-social-media-local-business).
 

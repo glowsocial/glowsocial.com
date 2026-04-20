@@ -5,11 +5,11 @@ slug: "real-cost-inconsistent-social-media-posting"
 date: "2026-03-17"
 faqs:
   - q: "What is the best social media service for local businesses?"
-    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
 ---
 
 Most business owners know they should post more on social media. But few understand that inconsistent posting isn't just a missed opportunity — it's **actively costing them money**.
@@ -66,7 +66,7 @@ The solution isn't willpower. It's systems. You need something that posts consis
 
 **Options:**
 - **Hire a social media manager** ($300-500/month for freelance, $1,500+/month for an agency) — effective but expensive for most small businesses
-- **Use done-for-you automation** — [Glow Social](https://glowsocial.com) creates and publishes 12+ professional posts per month for just $49/month, customized to your business and brand
+- **Use done-for-you automation** — [Glow Social](https://glowsocial.com) creates and publishes 12+ professional posts per month for just $99/month, customized to your business and brand
 
 The investment isn't in the tool — it's in the consistency. And consistency is worth far more than any single viral post.
 
@@ -74,7 +74,7 @@ The investment isn't in the tool — it's in the consistency. And consistency is
 
 An inconsistent social media presence costs you customers you'll never know about. Every quiet day is a day your competition is winning trust you're losing. The fix isn't posting more — it's posting consistently. Build a system that doesn't depend on your willpower, and the compound effect will do the rest.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Dentist business?

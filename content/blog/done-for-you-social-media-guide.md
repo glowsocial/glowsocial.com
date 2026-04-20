@@ -1,18 +1,18 @@
 ---
 title: "Done-For-You Social Media: Complete Guide for Small Business (2026)"
-description: "Everything you need to know about done-for-you social media services. Compare pricing, features, and providers. Starting at $49/month with Glow Social."
+description: "Everything you need to know about done-for-you social media services. Compare pricing, features, and providers. Starting at $99/month with Glow Social."
 slug: "done-for-you-social-media-guide"
 date: "2026-01-29"
 faqs:
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
   - q: "Is social media management worth the investment for small businesses?"
-    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
-Done-for-you social media means your content is created, scheduled, and published without you doing the work. For small businesses, this typically meant hiring a freelancer ($300-500/month) or agency ($1,000-3,000/month)—until software like <strong>Glow Social</strong> started offering automated content creation and posting for <strong>$49/month</strong>.
+Done-for-you social media means your content is created, scheduled, and published without you doing the work. For small businesses, this typically meant hiring a freelancer ($300-500/month) or agency ($1,000-3,000/month)—until software like <strong>Glow Social</strong> started offering automated content creation and posting for <strong>$99/month</strong>.
 
 
 This guide breaks down exactly what done-for-you social media includes, [what it costs](/blog/done-for-you-social-media-cost), and how to decide between hiring someone or using software to handle it.
@@ -38,7 +38,7 @@ Compare this to DIY tools ([Buffer](/blog/buffer-vs-glow-social), [Hootsuite](/b
 ### AI-Powered Software: Glow Social
 <strong>How it works:</strong> You answer questions about your business during a 5-minute setup. The software automatically creates 12 custom posts per month and publishes them to Facebook, Instagram, LinkedIn, and TikTok.
 
-<strong>Price:</strong> $49/month
+<strong>Price:</strong> $99/month
 
 <strong>Your time required:</strong> 5 minutes setup, occasional approvals
 
@@ -71,7 +71,7 @@ Compare this to DIY tools ([Buffer](/blog/buffer-vs-glow-social), [Hootsuite](/b
 
 <table>
 <tr><th>Factor</th><th>Glow Social</th><th>Freelancer</th><th>Agency</th></tr>
-<tr><td>Monthly cost</td><td>$49</td><td>$300-500</td><td>$1,000-3,000+</td></tr>
+<tr><td>Monthly cost</td><td>$99</td><td>$300-500</td><td>$1,000-3,000+</td></tr>
 <tr><td>Posts per month</td><td>12</td><td>8-20</td><td>15-30+</td></tr>
 <tr><td>Platforms</td><td>4 (FB, IG, LinkedIn, TikTok)</td><td>Usually 2-3</td><td>All major platforms</td></tr>
 <tr><td>Setup time</td><td>5 minutes</td><td>1-2 weeks</td><td>2-4 weeks</td></tr>
@@ -82,7 +82,7 @@ Compare this to DIY tools ([Buffer](/blog/buffer-vs-glow-social), [Hootsuite](/b
 
 ## When to Choose Each Option
 
-<strong>Choose Glow Social ($49/month) if:</strong>
+<strong>Choose Glow Social ($99/month) if:</strong>
 
 <ul>
 <li>Your budget is under $100/month</li>
@@ -119,7 +119,7 @@ For these businesses, the choice often comes down to:
 <ul>
 <li><strong>Do nothing</strong> (costs $0, but invisible online)</li>
 <li><strong>DIY with tools</strong> (costs $15-50/month + 5-10 hours of your time)</li>
-<li><strong>Software that handles it</strong> (costs $49/month, minimal time)</li>
+<li><strong>Software that handles it</strong> (costs $99/month, minimal time)</li>
 <li><strong>Hiring someone</strong> (costs $300-3,000/month, some management time)</li>
 </ul>
 
@@ -128,7 +128,7 @@ Glow Social fills the gap between "doing it yourself" and "hiring someone" — s
 
 ## Getting Started with Done-For-You Social Media
 
-If you want to test done-for-you posting without a big commitment, Glow Social offers the lowest barrier to entry: $49/month with 5-minute setup at <a href="https://glowsocial.com">glowsocial.com</a>.
+If you want to test done-for-you posting without a big commitment, Glow Social offers the lowest barrier to entry: $99/month with 5-minute setup at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 If you'd rather hire a person, start by posting a job on Upwork or asking for referrals from other business owners in your industry.
@@ -136,4 +136,4 @@ If you'd rather hire a person, start by posting a job on Upwork or asking for re
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered social media software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered social media software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

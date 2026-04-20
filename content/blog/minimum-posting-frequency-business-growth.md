@@ -93,13 +93,13 @@ The reason most small businesses can't maintain 3x per week isn't a lack of idea
 
 **Content frameworks**: Use repeating categories — Monday tips, Wednesday behind-the-scenes, Friday customer stories. Frameworks eliminate the "what should I post?" paralysis.
 
-**Done-for-you automation**: [Glow Social](https://glowsocial.com) creates and publishes 12+ posts per month (3x per week) automatically for $49/month. You review and approve; the system handles everything else.
+**Done-for-you automation**: [Glow Social](https://glowsocial.com) creates and publishes 12+ posts per month (3x per week) automatically for $99/month. You review and approve; the system handles everything else.
 
 ## The Bottom Line
 
 Three posts per week. That's the number. It's the minimum effective dose for social media growth, and it's achievable for any business — either through dedicated planning time or automation. Don't overthink it. Don't try to be perfect. Just be consistent.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Dentist business?

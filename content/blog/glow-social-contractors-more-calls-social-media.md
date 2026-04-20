@@ -99,9 +99,9 @@ The entire setup takes about 5 minutes. After that, your social media runs consi
 | DIY posting | Free | 5-10 hrs/month | Low (most quit in weeks) |
 | Freelancer | $300-500 | 1-2 hrs/month | Moderate |
 | Marketing agency | $2,000+ | 1-2 hrs/month | High |
-| Glow Social | $49 | 5 min setup | High |
+| Glow Social | $99 | 5 min setup | High |
 
-At $49/month, Glow Social costs less than a single hour of most contractors' billable time — and it keeps your social media presence active year-round.
+At $99/month, Glow Social costs less than a single hour of most contractors' billable time — and it keeps your social media presence active year-round.
 
 ## The ROI for Contractors
 
@@ -119,7 +119,7 @@ The homeowners who check your social media before calling are the warmest leads 
 
 You don't need a marketing degree or a graphic designer. You need consistent, professional posts going out on the platforms where your customers are looking.
 
-[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month, no contracts](https://app.glowsocial.com/)
 
 Your next customer is checking your social media right now. Make sure there's something to see.
 

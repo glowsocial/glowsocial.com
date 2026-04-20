@@ -11,7 +11,7 @@ faqs:
   - q: "Can I grow on Instagram without making Reels?"
     a: "Yes. While Reels get more reach for growth, local businesses don't need massive reach — they need trust. Static posts, carousels, and simple photos are still effective for maintaining a professional presence. If your goal is 'look active and trustworthy' rather than 'become an influencer,' standard posts work fine."
   - q: "What's the easiest way to handle Instagram for my business?"
-    a: "The easiest approach is done-for-you software like Glow Social ($49/month), which automatically creates and posts Instagram content. For DIY, batch-create posts monthly using Canva templates and schedule them with Later or Buffer. Avoid trying to post in real-time — batch creation saves 80% of the time."
+    a: "The easiest approach is done-for-you software like Glow Social ($99/month), which automatically creates and posts Instagram content. For DIY, batch-create posts monthly using Canva templates and schedule them with Later or Buffer. Avoid trying to post in real-time — batch creation saves 80% of the time."
 ---
 
 Every Instagram guide for businesses tells you to: post Reels daily, create Stories with polls and questions, establish a consistent color palette, use 20 hashtags per post, engage for 30 minutes daily, and "build your personal brand."
@@ -120,12 +120,12 @@ You need:
 
 ## The Zero-Effort Option
 
-If even 2 hours per month is too much, <a href="https://glowsocial.com">Glow Social</a> creates and publishes Instagram content automatically for $49/month. It generates posts with custom images based on your business — no photography, no writing, no scheduling.
+If even 2 hours per month is too much, <a href="https://glowsocial.com">Glow Social</a> creates and publishes Instagram content automatically for $99/month. It generates posts with custom images based on your business — no photography, no writing, no scheduling.
 
 <table>
 <tr><th>Approach</th><th>Cost</th><th>Your Time</th><th>Content Quality</th></tr>
 <tr><td>DIY smartphone photos + scheduler</td><td>$0-25/month</td><td>2-3 hours/month</td><td>Authentic, personal</td></tr>
-<tr><td><strong>Glow Social (done-for-you)</strong></td><td>$49/month</td><td>5 minutes</td><td>Professional, consistent</td></tr>
+<tr><td><strong>Glow Social (done-for-you)</strong></td><td>$99/month</td><td>5 minutes</td><td>Professional, consistent</td></tr>
 <tr><td>Hire a photographer + manager</td><td>$500-2,000/month</td><td>2-4 hours/month</td><td>High quality</td></tr>
 </table>
 
@@ -144,7 +144,7 @@ None of these require going viral, dancing on camera, or posting 3 Reels a day.
 
 ## Bottom Line
 
-Instagram for local businesses is about **showing up consistently**, not becoming a content creator. Three posts per week, phone photos, simple captions, 2 hours per month. Or $49/month for a service that handles it automatically.
+Instagram for local businesses is about **showing up consistently**, not becoming a content creator. Three posts per week, phone photos, simple captions, 2 hours per month. Or $99/month for a service that handles it automatically.
 
 Start at <a href="https://glowsocial.com">glowsocial.com</a>.
 
@@ -152,7 +152,7 @@ Related: [Facebook for Small Business](/blog/facebook-for-small-business-minimum
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

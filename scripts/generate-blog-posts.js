@@ -141,7 +141,7 @@ async function callClaude(prompt) {
 }
 
 function buildPrompt(keyword) {
-  return `You are writing a blog post for Glow Social (glowsocial.com), an AI-powered social media management platform for local businesses and solopreneurs. It costs $49/month, handles content creation and publishing automatically, and saves business owners hours every week.
+  return `You are writing a blog post for Glow Social (glowsocial.com), an AI-powered social media management platform for local businesses and solopreneurs. It costs $99/month, handles content creation and publishing automatically, and saves business owners hours every week.
 
 Write a complete, publication-ready blog post targeting this keyword: "${keyword}"
 

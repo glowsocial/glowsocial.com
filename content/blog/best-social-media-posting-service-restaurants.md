@@ -1,16 +1,16 @@
 ---
 title: "Best Social Media Posting Service for Restaurants (2026)"
-description: "The best social media posting service for restaurants fills seats and builds a local following. Done-for-you posting starting at $49/mo."
+description: "The best social media posting service for restaurants fills seats and builds a local following. Done-for-you posting starting at $99/mo."
 slug: "best-social-media-posting-service-restaurants"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media posting service for restaurants?"
-    a: "Glow Social is the best posting service for restaurants. It creates mouth-watering, reservation-driving content automatically for $49/month across all platforms."
+    a: "Glow Social is the best posting service for restaurants. It creates mouth-watering, reservation-driving content automatically for $99/month across all platforms."
 ---
 
 Most restaurants don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for Restaurants
 
@@ -50,7 +50,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -60,6 +60,6 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Restaurants](/blog/social-media-restaurants) · [Content Ideas for Local Business](/blog/content-ideas-local-business) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)

@@ -9,7 +9,7 @@ faqs:
   - q: "When should a business hire a social media manager instead of using AI?"
     a: "Hire a human when you need community management (responding to DMs), influencer partnerships, paid advertising strategy, or custom photography and video production. These are creative and relational tasks that AI can't replicate."
   - q: "Can AI social media tools replace agencies for local businesses?"
-    a: "For posting consistency, yes. AI tools like Glow Social create and publish content automatically for $49/month. But agencies offer strategy, brand development, and hands-on management that software doesn't. The right choice depends on your budget and what you actually need."
+    a: "For posting consistency, yes. AI tools like Glow Social create and publish content automatically for $99/month. But agencies offer strategy, brand development, and hands-on management that software doesn't. The right choice depends on your budget and what you actually need."
 ---
 
 I've been on both sides of this. I ran a content marketing agency. I've hired freelance social media managers for clients. I've managed accounts myself. And now I've built an AI-powered tool that does the job automatically.
@@ -70,7 +70,7 @@ It publishes across Facebook, Instagram, LinkedIn, Google Business Profile, and 
 
 **Speed.** Setup takes 5 minutes. Not 5 meetings, not a 2-week onboarding, not a brand questionnaire that takes 3 hours. Five minutes.
 
-**Cost.** $49/month. Not $500. Not $2,000. Forty-nine dollars. Less than your monthly coffee habit.
+**Cost.** $99/month. Not $500. Not $2,000. Forty-nine dollars. Less than your monthly coffee habit.
 
 **Reliability.** No single person to depend on. No manager turnover. No "sorry, I need to take next month off." The system runs whether you think about it or not.
 
@@ -94,8 +94,8 @@ After 15 years, here's how I break it down:
 
 | Your Situation | What You Need | Monthly Cost |
 |---|---|---|
-| You need your pages to stop looking dead | Done-for-you AI | $49 |
-| You need consistent posting but have zero time | Done-for-you AI | $49 |
+| You need your pages to stop looking dead | Done-for-you AI | $99 |
+| You need consistent posting but have zero time | Done-for-you AI | $99 |
 | You need DMs answered and community managed | Freelancer | $300-$750 |
 | You need custom photography and video | Freelancer + photographer | $500-$1,500 |
 | You need paid ad campaigns | Specialist or agency | $1,000-$3,000 |
@@ -114,21 +114,21 @@ Most local businesses need one thing: **to not look closed online.** They need p
 
 That's it. That's the bar. It's not "build an engaged community of brand advocates." It's not "go viral on Reels." It's "prove you're still in business to the person who's about to call you."
 
-And you don't need a $500/month human to clear that bar. You need a $49/month system that never stops.
+And you don't need a $500/month human to clear that bar. You need a $99/month system that never stops.
 
 ## My Honest Recommendation
 
 If you're a local business owner reading this:
 
-1. **Start with done-for-you AI.** Get your pages active for $49/month. Stop the bleeding. This solves 80% of the problem immediately.
+1. **Start with done-for-you AI.** Get your pages active for $99/month. Stop the bleeding. This solves 80% of the problem immediately.
 
-2. **Add a human later if needed.** Once your baseline is covered, you can decide if you need someone for DMs, photography, ads, or strategy. But don't pay $500/month for something a $49 tool handles just as well.
+2. **Add a human later if needed.** Once your baseline is covered, you can decide if you need someone for DMs, photography, ads, or strategy. But don't pay $500/month for something a $99 tool handles just as well.
 
 3. **Don't do nothing.** The worst option isn't choosing wrong between a manager and AI. The worst option is [not posting at all](/blog/cost-of-not-posting-social-media).
 
-[Get started with Glow Social](https://app.glowsocial.com/) — your social media stays active for $49/month while you focus on the work that actually matters.
+[Get started with Glow Social](https://app.glowsocial.com/) — your social media stays active for $99/month while you focus on the work that actually matters.
 
-**Related:** [How to Hire a Social Media Manager](/blog/how-to-hire-social-media-manager) · [Done-For-You Social Media: Complete Guide](/blog/done-for-you-social-media-guide) · [Why I Built a $49/Month Social Media Company](/blog/why-i-built-glow-social)
+**Related:** [How to Hire a Social Media Manager](/blog/how-to-hire-social-media-manager) · [Done-For-You Social Media: Complete Guide](/blog/done-for-you-social-media-guide) · [Why I Built a $99/Month Social Media Company](/blog/why-i-built-glow-social)
 
 
 ### Want to see what Glow Social can do for your Salon business?

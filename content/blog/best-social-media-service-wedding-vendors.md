@@ -1,16 +1,16 @@
 ---
 title: "Best Social Media for Wedding Vendors (2026)"
-description: "The best social media service for wedding vendors attracts brides and builds your portfolio presence. Done-for-you posting starting at $49/mo."
+description: "The best social media service for wedding vendors attracts brides and builds your portfolio presence. Done-for-you posting starting at $99/mo."
 slug: "best-social-media-service-wedding-vendors"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media service for wedding vendors?"
-    a: "Glow Social helps wedding vendors stay visible year-round — not just during wedding season. It creates aspirational, booking-driving content for $49/month on autopilot."
+    a: "Glow Social helps wedding vendors stay visible year-round — not just during wedding season. It creates aspirational, booking-driving content for $99/month on autopilot."
 ---
 
 Most wedding vendors don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for Wedding vendors
 
@@ -50,7 +50,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -60,6 +60,6 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Wedding Photographers](/blog/social-media-workflow-wedding-photographers) · [For Photographers](/blog/best-social-media-service-photographers) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)

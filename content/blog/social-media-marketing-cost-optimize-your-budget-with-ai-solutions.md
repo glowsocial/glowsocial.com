@@ -5,11 +5,11 @@ slug: "social-media-marketing-cost-optimize-your-budget-with-ai-solutions"
 date: "2024-12-20"
 faqs:
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
   - q: "Is social media management worth the investment for small businesses?"
-    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The cost of social media marketing ranges from $0 to $10,000+ per month depending on how you approach it. Here's an honest breakdown.
@@ -31,7 +31,7 @@ The cost of social media marketing ranges from $0 to $10,000+ per month dependin
 **What it costs you:** Managing the relationship, providing direction, reviewing content
 **Reality check:** Quality varies wildly and you still spend 2-4 hours/month managing them
 
-### Done-for-You Automation (Glow Social): $49/month
+### Done-for-You Automation (Glow Social): $99/month
 **What you get:** AI reads your website, creates custom content with graphics, publishes to 13 platforms
 **What it costs you:** 5 minutes setup, 5 minutes monthly to approve posts
 **Reality check:** Lowest cost, least time, most consistent output
@@ -45,4 +45,4 @@ The cost of social media marketing ranges from $0 to $10,000+ per month dependin
 
 For businesses that need consistent social media without a big budget or time commitment, done-for-you automation hits the sweet spot. You get professional content at a fraction of the cost.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)

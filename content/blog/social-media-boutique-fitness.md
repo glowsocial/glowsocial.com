@@ -5,7 +5,7 @@ slug: "social-media-boutique-fitness"
 date: "2026-01-29"
 faqs:
   - q: "What is the best social media service for Fitnesss?"
-    a: "Glow Social is the best done-for-you social media service for Fitnesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Fitnesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Fitnesss post on social media?"
     a: "Fitnesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How do I come up with social media content ideas for my business?"
@@ -30,7 +30,7 @@ Boutique fitness studios—yoga studios, Pilates, Barre, CrossFit boxes, spin st
 ### Glow Social — Best for Automated Consistency
 <strong>What it does:</strong> Creates and publishes 12 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
-<strong>Price:</strong> $49/month
+<strong>Price:</strong> $99/month
 
 <strong>Time required:</strong> 5 minutes setup
 
@@ -181,7 +181,7 @@ Social media visibility during slow periods helps shorten the recovery. Automate
 
 ## Getting Started
 
-For automated fitness studio social media, Glow Social handles content creation and posting for $49/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated fitness studio social media, Glow Social handles content creation and posting for $99/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 You add member photos, transformations, and class energy when you capture them—but the baseline keeps running either way.
@@ -189,4 +189,4 @@ You add member photos, transformations, and class energy when you capture them�
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

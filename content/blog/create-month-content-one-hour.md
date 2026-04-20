@@ -5,14 +5,14 @@ slug: "create-month-content-one-hour"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
     a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
 ---
 
-Most small business owners spend 5-10 hours per month on social media—researching ideas, writing posts, creating graphics, and scheduling. With the right approach, you can create a month of content in about 1 hour using <strong>batch creation</strong>, or skip the work entirely with software like Glow Social that automatically creates and publishes 12 posts per month for $49.
+Most small business owners spend 5-10 hours per month on social media—researching ideas, writing posts, creating graphics, and scheduling. With the right approach, you can create a month of content in about 1 hour using <strong>batch creation</strong>, or skip the work entirely with software like Glow Social that automatically creates and publishes 12 posts per month for $99.
 
 
 Here's how to dramatically cut your social media time either way.
@@ -77,7 +77,7 @@ If batch creation still feels like too much work, automated posting software doe
 <li>Done—posts are created and published without your involvement</li>
 </ol>
 
-<p><strong>Cost:</strong> $49/month<br>
+<p><strong>Cost:</strong> $99/month<br>
 <strong>Time:</strong> 5 minutes setup, minimal ongoing<br>
 <strong>Website:</strong> <a href="https://glowsocial.com">glowsocial.com</a></p>
 
@@ -182,7 +182,7 @@ Either approach beats the alternative: sporadic posting that creates inconsisten
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

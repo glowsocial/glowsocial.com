@@ -148,7 +148,7 @@ This is exactly why done-for-you services exist. [Glow Social](/how-glow-social-
 
 For more on how different execution approaches compare, see our guide to [automated social media for local businesses](/blog/automated-social-media-local-business) or our [complete done-for-you social media guide](/blog/done-for-you-social-media-guide).
 
-**$49/month.** Your strategy, on schedule, without the time investment.
+**$99/month.** Your strategy, on schedule, without the time investment.
 
 [Get Started](https://app.glowsocial.com/)
 

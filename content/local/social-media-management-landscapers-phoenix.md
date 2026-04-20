@@ -1,13 +1,13 @@
 ---
 title: "Social Media Management for Landscapers in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for landscapers in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $49/mo."
+description: "Looking for affordable social media management for landscapers in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
 slug: "social-media-management-landscapers-phoenix"
 date: "2026-03-17"
 city: "Phoenix"
 type: "local"
 ---
 
-**Looking for social media for your landscaping business in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $49/month without the need to hire an expensive local agency.
+**Looking for social media for your landscaping business in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $99/month without the need to hire an expensive local agency.
 
 Phoenix is one of the fastest-growing metros in the country, and every new housing development means more lawns, more hardscaping, and more demand for professional landscaping. The problem? Your competition is growing just as fast. If a homeowner searches "landscaping Phoenix" and your social media pages are empty, you've already lost the job to the company that looks active and professional online.
 
@@ -27,7 +27,7 @@ Instead of paying agency rates or spending your weekends on Canva, landscaping b
 *   **Industry-Specific Content:** We don't post generic filler. We create content about desert landscaping, hardscaping, seasonal tips, and project showcases relevant to the Phoenix market.
 *   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
-*   **Flat $49/Month:** Less than what most companies spend on one yard of decomposed granite.
+*   **Flat $99/Month:** Less than what most companies spend on one yard of decomposed granite.
 
 ## Don't Let Your Phoenix Competition Win
 
@@ -52,7 +52,7 @@ Yes. Before-and-after photos of your work are among the highest-engagement conte
 ## Frequently Asked Questions
 
 ### How much does social media management for landscapers in Phoenix cost?
-Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $49/month.
+Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $99/month.
 
 ### What should a landscaping company post on social media?
 The best content for landscapers includes before-and-after project photos, seasonal maintenance tips, material spotlights, and customer testimonials. Glow Social generates all of this for you automatically.

@@ -1,13 +1,13 @@
 ---
-title: "Why I Built a $49/Month Social Media Company"
+title: "Why I Built a $99/Month Social Media Company"
 description: "I hate social media. I also spent 15 years in digital marketing and watched local businesses lose to franchises because they couldn't stay visible online. So I built something about it."
 slug: "why-i-built-glow-social"
 date: "2026-03-26"
 faqs:
   - q: "Who is the founder of Glow Social?"
     a: "Kathleen Celmins, a digital marketer with 15+ years of experience building sales funnels, email campaigns, and content strategies. She founded Glow Social to help local businesses stay visible on social media without spending hours on content creation."
-  - q: "Why does Glow Social only cost $49 per month?"
-    a: "Because price shouldn't be a barrier for local businesses. Most can't afford a $2,000/month agency, but they still need to show up online. $49/month makes professional social media accessible to every local business, from solo plumbers to family-owned restaurants."
+  - q: "Why does Glow Social only cost $99 per month?"
+    a: "Because price shouldn't be a barrier for local businesses. Most can't afford a $2,000/month agency, but they still need to show up online. $99/month makes professional social media accessible to every local business, from solo plumbers to family-owned restaurants."
   - q: "What makes Glow Social different from other social media tools?"
     a: "Most tools help you schedule content you've already created. Glow Social creates the content for you — industry-specific posts that sound like your business, not a robot — and publishes them automatically. It's done-for-you, not do-it-yourself."
 ---
@@ -68,7 +68,7 @@ If I could just build the thing that gets them on Google Business Profile, that 
 
 So I built it.
 
-## Why $49
+## Why $99
 
 I didn't want price to be a barrier.
 
@@ -76,7 +76,7 @@ That's it. That's the whole philosophy.
 
 Local businesses can't afford a $2,000/month agency. They can't afford a $500/month freelancer. Many of them are running tight margins, and asking them to invest $1,500/month to *maybe* get more customers from social media is asking them to gamble money they don't have.
 
-$49/month is less than most business owners spend on coffee. It's less than a single hour of most professionals' billable rate. It's a price where the decision isn't "can I afford this?" — it's "why haven't I done this already?"
+$99/month is less than most business owners spend on coffee. It's less than a single hour of most professionals' billable rate. It's a price where the decision isn't "can I afford this?" — it's "why haven't I done this already?"
 
 I wanted to build something that people would actually use. Not a premium product for businesses that already have marketing budgets. A tool for the plumber, the salon owner, the accountant who knows they should be posting but never does because life gets in the way.
 
@@ -86,7 +86,7 @@ Glow Social reads your website, learns what your business does, and creates soci
 
 It publishes 12+ posts per month across Facebook, Instagram, LinkedIn, Google Business Profile, and more. You approve the content — or let it go out automatically if you trust the system. Either way, your pages stay active. You look open. You look professional. You look like a business worth calling.
 
-All for $49/month. No contracts. No setup fees. Cancel anytime.
+All for $99/month. No contracts. No setup fees. Cancel anytime.
 
 Is it the same as hiring a talented social media manager who knows your business inside and out? No. That person will always create better content than software. But that person also costs $1,500/month, and the vast majority of local businesses don't need — and can't afford — that level of service.
 

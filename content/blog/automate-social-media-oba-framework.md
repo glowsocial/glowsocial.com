@@ -127,7 +127,7 @@ Give your content system (from Step 2) to a freelancer and let them execute. The
 Services like [Glow Social](/how-glow-social-works) automate the entire process. We read your website, learn your brand voice and services, and create professional posts with custom graphics — published across 13 platforms automatically.
 
 **Time investment:** 5 minutes for initial setup
-**Cost:** $49/month
+**Cost:** $99/month
 **Best for:** Business owners who want the results of consistent social media without any ongoing time investment
 
 For more on how these options compare, see our [complete guide to done-for-you social media](/blog/done-for-you-social-media-guide).
@@ -169,7 +169,7 @@ The OBA framework works because it respects the correct order of operations. Obs
 
 The result: a social media presence that runs itself while still sounding like your business — not a robot, not a template, but you on your best day.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Plumbing business?

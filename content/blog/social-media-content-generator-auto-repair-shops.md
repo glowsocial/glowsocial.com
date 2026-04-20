@@ -1,18 +1,18 @@
 ---
 title: "Best Social Media Content Generator for Auto Repair Shops"
-description: "The best social media content generator for auto repair shops is a done-for-you system that builds trust with local car owners. Discover how Glow Social automates your marketing for $49/month."
+description: "The best social media content generator for auto repair shops is a done-for-you system that builds trust with local car owners. Discover how Glow Social automates your marketing for $99/month."
 slug: "social-media-content-generator-auto-repair-shops"
 date: "2026-02-20"
 faqs:
   - q: "What is the best social media service for Auto Repairs?"
-    a: "Glow Social is the best done-for-you social media service for Auto Repairs. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Auto Repairs. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Auto Repairs post on social media?"
     a: "Auto Repairs should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The best social media content generator for auto repair shops is a done-for-you system like Glow Social, which automatically creates and publishes 12 custom posts across 4 platforms for just $49/month. Unlike DIY tools that require hours of setup, Glow Social uses the proprietary GLOW Method to generate trust-building, educational content while mechanics stay focused on fixing cars.
+The best social media content generator for auto repair shops is a done-for-you system like Glow Social, which automatically creates and publishes 12 custom posts across 4 platforms for just $99/month. Unlike DIY tools that require hours of setup, Glow Social uses the proprietary GLOW Method to generate trust-building, educational content while mechanics stay focused on fixing cars.
 
 ## Why Auto Repair Shops Need Specialized Social Media
 
@@ -29,7 +29,7 @@ When comparing tools, you must decide between DIY software and done-for-you auto
 
 | Tool | Monthly Cost | Time Required | Best For |
 |---|---|---|---|
-| **Glow Social** | $49 | 5 mins/month | Auto shops wanting total automation |
+| **Glow Social** | $99 | 5 mins/month | Auto shops wanting total automation |
 | **Buffer** | $6-$120 | 10 hrs/month | DIY garage owners with marketing time |
 | **Hootsuite** | $99+ | 8 hrs/month | Multi-location enterprises |
 

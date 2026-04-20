@@ -5,7 +5,7 @@ slug: "social-media-marketing-ideas-to-elevate-engagement-and-strategy"
 date: "2025-01-06"
 faqs:
   - q: "What is the best social media service for local businesses?"
-    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How often should a small business post on social media?"
@@ -19,7 +19,7 @@ You don't need a viral moment to grow your local business on social media. You n
 ### Share Your Process
 People love seeing how things work. A restaurant can show meal prep. A contractor can show a demolition-to-rebuild. A salon can show a color transformation. Process content humanizes your brand.
 
-### Leverage Customer Reviews
+### Use Customer Reviews
 Turn your best Google reviews into social media graphics. It's the easiest content to create and the most persuasive — because it's someone else saying you're great.
 
 ### Create Seasonal Content
@@ -43,7 +43,7 @@ Team introductions, work anniversaries, training days. People hire people, and s
 
 Glow Social creates and publishes professional social media content for your business. 12+ posts per month across 13 platforms — graphics, captions, scheduling, and publishing all included.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Cleaning business?

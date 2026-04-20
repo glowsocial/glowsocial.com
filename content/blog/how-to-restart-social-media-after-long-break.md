@@ -9,7 +9,7 @@ faqs:
   - q: "Does social media actually bring in customers for local businesses?"
     a: "Yes. 76% of consumers check a business's social media before visiting or calling. Consistent posting builds trust and keeps your business top-of-mind when customers are ready to buy."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 You haven't posted in months. Maybe longer. Every time you think about opening Instagram, you feel a wave of guilt followed by "what's the point?" So the silence continues, and the gap between your last post and today grows wider.
@@ -63,7 +63,7 @@ Here's the uncomfortable truth: if your social media fell off before, it'll fall
 
 - **Batch creation**: Set aside 2 hours once a month to create all your content in advance, then schedule it
 - **Content calendar**: Plan your topics in advance so you never face the "what do I post?" paralysis
-- **Done-for-you tools**: Services like [Glow Social](https://glowsocial.com) create and publish content automatically for $49/month — your social media stays active even when you're buried in work
+- **Done-for-you tools**: Services like [Glow Social](https://glowsocial.com) create and publish content automatically for $99/month — your social media stays active even when you're buried in work
 
 The businesses that maintain consistent social media aren't more disciplined than you. They just have better systems.
 
@@ -89,4 +89,4 @@ Most of the business value comes from simply **not looking abandoned** — and t
 
 Coming back to social media after a long break is simpler than you think. Don't apologize, don't start over, don't try to be perfect. Just post something today, then post again in a few days. Build a system that keeps it going. That's it.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)

@@ -8,7 +8,7 @@ faqs:
   - q: "Is Glow Social a good Buffer alternative for a small business that doesn't want to create content?"
     a: "Yes. Buffer is a scheduling tool — you write every caption and design every image yourself, then Buffer posts them for you. Glow Social handles content creation end-to-end: AI generates captions in your voice, creates custom images, and publishes automatically. If content creation is the bottleneck, Glow Social solves it. Buffer does not."
   - q: "What does Buffer cost compared to Glow Social?"
-    a: "Buffer's paid plans start at $6/month per channel (so $30/month for 5 channels). Glow Social starts at $49/month for all supported platforms. The key difference: Buffer's $30 still requires 15+ hours/month of your time to create content. Glow Social's $49 includes content creation and takes less than one hour of your time per month."
+    a: "Buffer's paid plans start at $6/month per channel (so $30/month for 5 channels). Glow Social starts at $99/month for all supported platforms. The key difference: Buffer's $30 still requires 15+ hours/month of your time to create content. Glow Social's $99 includes content creation and takes less than one hour of your time per month."
   - q: "Does Buffer create social media content for you automatically?"
     a: "No. Buffer is a scheduling tool. It queues and publishes content you've already created. Buffer does have some AI assistance features for refining captions, but you still have to write the initial draft and supply all images. If you want content created automatically without your input, you need a done-for-you service like Glow Social."
   - q: "When does it make sense to use Buffer instead of Glow Social?"
@@ -38,7 +38,7 @@ The bottleneck for most small business owners isn't publishing. It's **creating 
 
 | Feature | Buffer | Glow Social |
 |---|---|---|
-| Monthly cost | $6/channel ($30 for 5) | $49 flat |
+| Monthly cost | $6/channel ($30 for 5) | $99 flat |
 | Caption writing | ❌ You write it | ✅ AI writes it |
 | Image creation | ❌ You design it | ✅ AI creates it |
 | Content ideas | ❌ You think of them | ✅ AI generates them |
@@ -58,6 +58,8 @@ Choose Buffer if:
 
 ## When Glow Social Is the Right Choice
 
+Glow Social is a done-for-you social media service that automatically creates and publishes posts for local businesses — $99/month, no marketing team required.
+
 Choose Glow Social if:
 - You don't have time to create 12+ pieces of content every month
 - Content creation is the reason you're not posting consistently
@@ -70,7 +72,7 @@ Buffer's free plan covers 3 channels and 10 posts per channel. That's genuinely 
 
 At $75/hour for your time, that's $1,125–$1,500/month in opportunity cost to fill a free tool.
 
-Glow Social at $49/month includes that content creation. The math isn't close.
+Glow Social at $99/month includes that content creation. The math isn't close.
 
 ---
 

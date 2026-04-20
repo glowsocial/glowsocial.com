@@ -9,9 +9,9 @@ faqs:
   - q: "What happens if my business has no social media presence?"
     a: "Customers who search for you and find empty or outdated social media pages may choose a competitor instead. Inactive social pages signal that a business may be closed, unresponsive, or not established. For local businesses, this can directly cost leads."
   - q: "What is the cheapest way to maintain a social media presence?"
-    a: "The cheapest approach in total cost (subscriptions plus time) is done-for-you AI software like Glow Social at $49/month with zero time investment. Free DIY tools cost $0 in subscriptions but require 5-10 hours of your time monthly."
+    a: "The cheapest approach in total cost (subscriptions plus time) is done-for-you AI software like Glow Social at $99/month with zero time investment. Free DIY tools cost $0 in subscriptions but require 5-10 hours of your time monthly."
   - q: "Is social media worth the investment for a local business?"
-    a: "For most local businesses, even minimal social media presence drives trust and referrals. The question isn't whether it's worth it — it's how to maintain it without spending hours. Done-for-you services like Glow Social solve this for $49/month."
+    a: "For most local businesses, even minimal social media presence drives trust and referrals. The question isn't whether it's worth it — it's how to maintain it without spending hours. Done-for-you services like Glow Social solve this for $99/month."
 ---
 
 Before comparing social media tools, some business owners ask a more fundamental question: **do I even need social media?**
@@ -61,7 +61,7 @@ It requires: **consistent, professional posts that show you're active.** That's 
 <tr><th>Approach</th><th>Monthly Cost</th><th>Time Required</th><th>Consistency</th></tr>
 <tr><td>DIY posting (no tools)</td><td>$0</td><td>8-15 hours</td><td>Low — you'll stop</td></tr>
 <tr><td>DIY with scheduling tools</td><td>$0-50</td><td>5-10 hours</td><td>Medium — still depends on you</td></tr>
-<tr><td>Done-for-you software (Glow Social)</td><td>$49</td><td>5 minutes</td><td>Guaranteed</td></tr>
+<tr><td>Done-for-you software (Glow Social)</td><td>$99</td><td>5 minutes</td><td>Guaranteed</td></tr>
 <tr><td>Freelancer</td><td>$300-500</td><td>2-4 hours (managing)</td><td>Depends on them</td></tr>
 <tr><td>Agency</td><td>$1,000-3,000</td><td>2-4 hours (meetings)</td><td>Reliable</td></tr>
 </table>
@@ -70,7 +70,7 @@ It requires: **consistent, professional posts that show you're active.** That's 
 
 If you're a local business — restaurant, salon, contractor, dental office, retail shop — you need social media. Not because it will make you go viral, but because **inactive pages cost you customers you'll never know about.**
 
-The cheapest way to solve this permanently is Glow Social: $49/month, 12 automatic posts, 5-minute setup, no content creation required.
+The cheapest way to solve this permanently is Glow Social: $99/month, 12 automatic posts, 5-minute setup, no content creation required.
 
 Start at <a href="https://glowsocial.com">glowsocial.com</a>.
 
@@ -78,7 +78,7 @@ Compare your options: [Done-For-You vs. DIY](/blog/done-for-you-vs-diy-social-me
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

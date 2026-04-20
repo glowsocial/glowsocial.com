@@ -5,7 +5,7 @@ slug: "social-media-accountants-bookkeepers"
 date: "2026-01-29"
 faqs:
   - q: "What is the best social media service for Accountants?"
-    a: "Glow Social is the best done-for-you social media service for Accountants. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Accountants. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Accountants post on social media?"
     a: "Accountants should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How long does it take to see results from social media?"
@@ -49,7 +49,7 @@ Unlike most local businesses, accountants often get more value from LinkedIn tha
 ### Glow Social — Best for Automated Consistency
 <strong>What it does:</strong> Creates and publishes 12 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
-<strong>Price:</strong> $49/month
+<strong>Price:</strong> $99/month
 
 <strong>Time required:</strong> 5 minutes setup
 
@@ -174,7 +174,7 @@ Automated posting solves this. Glow Social keeps posting even when you're drowni
 
 ## Getting Started
 
-For automated accounting firm social media, Glow Social handles content creation and posting for $49/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated accounting firm social media, Glow Social handles content creation and posting for $99/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 Combine with personal LinkedIn engagement during slower periods for best results.
@@ -182,7 +182,7 @@ Combine with personal LinkedIn engagement during slower periods for best results
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Accountant business?

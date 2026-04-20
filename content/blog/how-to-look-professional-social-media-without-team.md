@@ -5,9 +5,9 @@ slug: "how-to-look-professional-social-media-without-team"
 date: "2026-03-17"
 faqs:
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
   - q: "Is social media management worth the investment for small businesses?"
-    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "How long does it take to see results from social media?"
     a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
@@ -60,7 +60,7 @@ Here's the realistic time commitment for a solo business owner:
 |----------|-------------|-------------|--------|
 | DIY everything | 10-15 hours | Free | Inconsistent, eventually falls off |
 | Batch + schedule | 4-6 hours | $0-20/month | Good if you maintain discipline |
-| Done-for-you automation | 15-30 minutes | $49/month | Consistent without willpower |
+| Done-for-you automation | 15-30 minutes | $99/month | Consistent without willpower |
 | Full agency | 2-3 hours (review/approve) | $1,500+/month | Premium but expensive |
 
 For most solo operators, the sweet spot is done-for-you automation that keeps the baseline professional while you add personal touches when time allows.
@@ -69,7 +69,7 @@ For most solo operators, the sweet spot is done-for-you automation that keeps th
 
 You don't need a team. You need tools:
 
-- **[Glow Social](https://glowsocial.com)** ($49/month) — Creates and publishes professional content automatically. You approve it; it handles everything else.
+- **[Glow Social](https://glowsocial.com)** ($99/month) — Creates and publishes professional content automatically. You approve it; it handles everything else.
 - **Canva Free** — Simple graphic design for cover photos, occasional branded graphics
 - **Your phone camera** — Good lighting + simple composition = professional enough
 
@@ -83,4 +83,4 @@ A business that posts three times a week with simple, genuine content looks infi
 
 Your customers don't expect you to look like Nike. They expect you to look like an active, trustworthy business that cares about what they do. That bar is entirely achievable — even if it's just you.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)

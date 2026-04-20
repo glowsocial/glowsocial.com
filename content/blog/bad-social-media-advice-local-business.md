@@ -9,7 +9,7 @@ faqs:
   - q: "Can AI create good social media content?"
     a: "Yes. Modern AI analyzes your website, brand voice, and industry to create relevant, professional content. Done-for-you services like Glow Social create custom posts with matching graphics — not generic templates."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Local businesses often get similar social media advice that works for big brands but fails for small ones. The reality: what works for a national company with a marketing team doesn't work for a local business owner doing everything themselves. Here's what to avoid and what to do instead.
@@ -92,7 +92,7 @@ Local businesses often get similar social media advice that works for big brands
 <strong>Why it fails:</strong> Social media costs time, which isn't free. If you spend 10 hours/month on social media and your time is worth $50/hour, you're "spending" $500/month.
 
 
-<strong>What to do instead:</strong> Either invest the time intentionally (knowing it's a real cost) or automate it. Glow Social handles social media posting for $49/month—less than one hour of most business owners' time.
+<strong>What to do instead:</strong> Either invest the time intentionally (knowing it's a real cost) or automate it. Glow Social handles social media posting for $99/month—less than one hour of most business owners' time.
 
 
 ## What Actually Works for Local Businesses
@@ -113,9 +113,9 @@ Local businesses often get similar social media advice that works for big brands
 
 ## Getting Started
 
-For automated consistent posting, Glow Social handles 12 posts/month for $49. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated consistent posting, Glow Social handles 12 posts/month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

@@ -5,7 +5,7 @@ slug: "automated-social-media-local-business"
 date: "2025-01-12"
 faqs:
   - q: "What is automated social media for local businesses?"
-    a: "Automated social media uses technology to handle content creation, scheduling, and publishing with minimal manual effort. For local businesses, this ranges from basic scheduling tools like Buffer to full done-for-you services like Glow Social that handle everything from content creation to publishing for $49/month."
+    a: "Automated social media uses technology to handle content creation, scheduling, and publishing with minimal manual effort. For local businesses, this ranges from basic scheduling tools like Buffer to full done-for-you services like Glow Social that handle everything from content creation to publishing for $99/month."
   - q: "Is automated social media worth it for a small business?"
     a: "Yes. Consistent social media presence drives 2-4x more leads than inconsistent posting. Since most small business owners abandon manual posting within weeks, automation is the only realistic path to consistency. Done-for-you services like Glow Social cost less than a single hour of most business owners' time."
   - q: "Will automated social media posts sound generic?"
@@ -54,7 +54,7 @@ Everything is handled — content creation, graphic design, platform formatting,
 **What it doesn't solve:** Real-time engagement (responding to comments and DMs), paid advertising, and crisis management. These still require human attention.
 
 **Time required:** 5 minutes for setup, minimal ongoing
-**Cost:** $49/month
+**Cost:** $99/month
 
 For most local business owners, Level 3 is the only option that actually gets used consistently — because it doesn't require finding extra hours that don't exist.
 
@@ -133,9 +133,9 @@ When comparing automation options, factor in the true cost — not just the tool
 - **True monthly cost: $389-539**
 
 ### Done-for-You Cost
-- Glow Social: $49/month
+- Glow Social: $99/month
 - Your time: 5 minutes
-- **True monthly cost: $49**
+- **True monthly cost: $99**
 
 When you account for the value of your time, [done-for-you social media](/blog/done-for-you-social-media-guide) costs a fraction of the DIY approach — not more.
 
@@ -159,7 +159,7 @@ The best time to start posting consistently was six months ago. The second best 
 
 For more on choosing the right approach, see our [comparison of social media tools for local businesses](/blog/social-media-tools-local-business) or explore how the [OBA framework](/blog/automate-social-media-oba-framework) can help you build a system from scratch.
 
-[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month, no contracts](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Plumbing business?

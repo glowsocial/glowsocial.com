@@ -1,13 +1,13 @@
 ---
 title: "Social Media Management for Hair Salons in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for hair salons in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $49/mo."
+description: "Looking for affordable social media management for hair salons in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
 slug: "social-media-management-hair-salons-phoenix"
 date: "2026-03-17"
 city: "Phoenix"
 type: "local"
 ---
 
-**Looking for social media for your hair salon in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $49/month without the need to hire an expensive local agency.
+**Looking for social media for your hair salon in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $99/month without the need to hire an expensive local agency.
 
 Phoenix has thousands of hair salons — from luxury suites in Scottsdale to neighborhood shops in Mesa and Chandler. The salons consistently booking new clients aren't always the ones with the highest-rated stylists. They're the ones that look alive online. When someone searches "hair salon near me" and clicks through to your Instagram, what do they see? If your last post is from three months ago, they're already booking with someone else.
 
@@ -27,7 +27,7 @@ Instead of paying agency rates or staying up late trying to make Reels, salons a
 *   **Industry-Specific Content:** We create content about haircare tips, trending styles, seasonal color inspiration, and behind-the-chair moments — not generic beauty fluff.
 *   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
-*   **Flat $49/Month:** About the price of one cut and color — but it fills chairs all month long.
+*   **Flat $99/Month:** About the price of one cut and color — but it fills chairs all month long.
 
 ## Don't Let Your Phoenix Competition Win
 
@@ -52,7 +52,7 @@ At least 3 times per week. Salon searches on social media peak on weekday evenin
 ## Frequently Asked Questions
 
 ### How much does social media management for hair salons in Phoenix cost?
-Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $49/month.
+Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $99/month.
 
 ### What should a hair salon post on social media?
 The best salon content includes transformation photos, style trend breakdowns, product recommendations, team spotlights, and seasonal hair care tips. Glow Social generates all of this automatically.

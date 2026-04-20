@@ -5,7 +5,7 @@ slug: "oba-social-media-framework-local-business"
 date: "2026-02-20"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How long does it take to see results from social media?"
@@ -24,7 +24,7 @@ OBA stands for **Offer**, **Behind-the-Scenes**, and **Authority**. It’s a sim
 *   **Behind-the-Scenes:** Posts that show the people and work behind your business—like your team, your process, or a day in your shop.
 *   **Authority:** Posts that show your expertise, like tips, answers to common questions, or examples of your work.
 
-**Want to use the OBA framework without writing the posts yourself?** Glow Social's AI engine is pre-built on the OBA framework and automatically generates 12 posts a month for your business for $49. **[See how it works here](https://glowsocial.com/pricing/)**.
+**Want to use the OBA framework without writing the posts yourself?** Glow Social's AI engine is pre-built on the OBA framework and automatically generates 12 posts a month for your business for $99. **[See how it works here](https://glowsocial.com/pricing/)**.
 
 ## How to Start Using OBA Right Away
 
@@ -42,7 +42,7 @@ You don’t need a complicated plan. Just follow these steps to get started quic
 
 If you want the benefits of the OBA framework but don't have the time to sit down and write "Authority" posts or think of "Behind-the-Scenes" captions, you don't have to DIY it. 
 
-You can completely outsource your social media using a done for you social media service. For example, Glow Social leverages AI to automatically follow the OBA method for you. You just answer a few questions about your business, and the system automatically generates and publishes your perfectly balanced Offer, Behind-the-Scenes, and Authority posts every single month. 
+You can completely outsource your social media using a done for you social media service. For example, Glow Social uses AI to automatically follow the OBA method for you. You just answer a few questions about your business, and the system automatically generates and publishes your perfectly balanced Offer, Behind-the-Scenes, and Authority posts every single month. 
 
 ## Examples of OBA Posts for Different Businesses
 

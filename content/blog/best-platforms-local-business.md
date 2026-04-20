@@ -9,7 +9,7 @@ faqs:
   - q: "What happens if you stop posting on social media?"
     a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Local businesses often feel pressure to be everywhere—Facebook, Instagram, TikTok, LinkedIn, YouTube, Pinterest, X. The reality: most local businesses only need 2-3 platforms, and choosing the right ones matters more than being everywhere. Here's how to pick.
@@ -166,7 +166,7 @@ Once you've chosen platforms, the challenge is staying consistent. Options:
 <strong>Automated approach:</strong>
 
 <ul>
-<li>Use Glow Social ($49/month) to publish 12 posts automatically across Facebook, Instagram, LinkedIn, and TikTok</li>
+<li>Use Glow Social ($99/month) to publish 12 posts automatically across Facebook, Instagram, LinkedIn, and TikTok</li>
 <li>Add manual posts when you have great content</li>
 </ul>
 
@@ -182,7 +182,7 @@ The best platform choice doesn't matter if you can't post consistently.
 <li>Commit to consistency over presence everywhere</li>
 </ol>
 
-For automated posting across Facebook, Instagram, LinkedIn, and TikTok, Glow Social handles 12 posts/month for $49. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated posting across Facebook, Instagram, LinkedIn, and TikTok, Glow Social handles 12 posts/month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>
@@ -191,7 +191,7 @@ For automated posting across Facebook, Instagram, LinkedIn, and TikTok, Glow Soc
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Real Estate business?

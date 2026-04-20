@@ -99,7 +99,7 @@ If you're tired of staring at a blinking cursor trying to figure out what to say
 
 [Set up Glow Social for your business in 5 minutes](https://app.glowsocial.com/) and let it write your next 101 posts.
 
-**Related:** [Social Media Manager vs. Done-For-You AI](/blog/social-media-manager-vs-done-for-you-ai) · [Why I Built a $49/Month Social Media Company](/blog/why-i-built-glow-social)
+**Related:** [Social Media Manager vs. Done-For-You AI](/blog/social-media-manager-vs-done-for-you-ai) · [Why I Built a $99/Month Social Media Company](/blog/why-i-built-glow-social)
 
 
 ### Want to see what Glow Social can do for your Hvac business?

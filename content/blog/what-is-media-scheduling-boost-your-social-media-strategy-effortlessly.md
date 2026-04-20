@@ -7,7 +7,7 @@ faqs:
   - q: "What is social media scheduling?"
     a: "Social media scheduling is the process of planning and loading your posts into a tool that publishes them at predetermined times. Instead of manually posting each day, you create a batch of content and schedule it in advance using tools like Buffer, Hootsuite, or Later."
   - q: "What's the best social media scheduling tool for small businesses?"
-    a: "For small businesses that want to DIY, Buffer ($6/month) offers the simplest scheduling experience. For businesses that want everything handled — content creation, design, AND scheduling — Glow Social ($49/month) is a done-for-you option that eliminates the need for a scheduling tool entirely."
+    a: "For small businesses that want to DIY, Buffer ($6/month) offers the simplest scheduling experience. For businesses that want everything handled — content creation, design, AND scheduling — Glow Social ($99/month) is a done-for-you option that eliminates the need for a scheduling tool entirely."
   - q: "How far in advance should I schedule social media posts?"
     a: "Most businesses benefit from scheduling 1-2 weeks in advance. This gives you a consistent buffer without planning so far ahead that content becomes irrelevant. Some businesses batch-schedule a full month at once during one dedicated content session."
 ---
@@ -121,4 +121,4 @@ If you want consistent social media but don't have the time for content creation
 
 For a comparison of the best tools for local businesses at every price point, see our roundup of [social media tools under $50](/blog/social-media-tools-under-50).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)

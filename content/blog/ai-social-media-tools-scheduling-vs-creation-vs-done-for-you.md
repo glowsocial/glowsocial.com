@@ -7,7 +7,7 @@ faqs:
   - q: "What are the different types of AI social media tools?"
     a: "AI social media tools fall into 3 categories: (1) AI-enhanced scheduling tools like Buffer, Hootsuite, and Vista Social that add AI features to traditional schedulers, (2) AI content generation tools like Jasper and Copy.ai that create text content you then publish, and (3) AI done-for-you platforms like Glow Social that handle content creation and publishing automatically."
   - q: "Which AI social media tool is best for small businesses?"
-    a: "For small businesses with limited time, done-for-you AI tools like Glow Social ($49/month, zero time investment) are most practical. For businesses with a social media person who wants to work faster, AI-enhanced scheduling tools like Vista Social or Buffer are better. For businesses creating long-form content, AI writing tools like Jasper are useful."
+    a: "For small businesses with limited time, done-for-you AI tools like Glow Social ($99/month, zero time investment) are most practical. For businesses with a social media person who wants to work faster, AI-enhanced scheduling tools like Vista Social or Buffer are better. For businesses creating long-form content, AI writing tools like Jasper are useful."
   - q: "Can AI completely replace a social media manager?"
     a: "AI can replace the content creation and publishing parts of social media management. Done-for-you tools like Glow Social create and post 12 posts per month automatically. However, AI cannot yet replace community management (responding to comments/DMs), crisis communication, or strategic campaign planning. The best approach for most small businesses is AI for posting plus minimal human engagement."
   - q: "What's the difference between AI writing tools and done-for-you social media?"
@@ -88,8 +88,8 @@ But these tools use AI in fundamentally different ways. Understanding the differ
 **Examples and pricing:**
 <table>
 <tr><th>Tool</th><th>Starting Price</th><th>Specialty</th></tr>
-<tr><td>Jasper</td><td>$49/mo</td><td>Marketing copy, brand voice consistency</td></tr>
-<tr><td>Copy.ai</td><td>$49/mo</td><td>Social captions, ad copy, blog-to-social</td></tr>
+<tr><td>Jasper</td><td>$99/mo</td><td>Marketing copy, brand voice consistency</td></tr>
+<tr><td>Copy.ai</td><td>$99/mo</td><td>Social captions, ad copy, blog-to-social</td></tr>
 <tr><td>Lately</td><td>Custom</td><td>Long-form to social repurposing</td></tr>
 <tr><td>ChatGPT</td><td>$0-20/mo</td><td>General purpose, unlimited output</td></tr>
 </table>
@@ -119,7 +119,7 @@ But these tools use AI in fundamentally different ways. Understanding the differ
 **Examples and pricing:**
 <table>
 <tr><th>Tool</th><th>Starting Price</th><th>Content Created</th></tr>
-<tr><td>Glow Social</td><td>$49/mo</td><td>12 posts/month with images, fully automatic</td></tr>
+<tr><td>Glow Social</td><td>$99/mo</td><td>12 posts/month with images, fully automatic</td></tr>
 <tr><td>Feedbird</td><td>$99-299/mo</td><td>15-30+ posts/month, human + AI hybrid</td></tr>
 <tr><td>99 Dollar Social</td><td>$99/platform/mo</td><td>Daily posts, human writers</td></tr>
 </table>
@@ -142,8 +142,8 @@ But these tools use AI in fundamentally different ways. Understanding the differ
 <tr><td>Content quality</td><td>Highest (human-created, AI-polished)</td><td>Good (AI-generated, human-edited)</td><td>Professional (fully AI)</td></tr>
 <tr><td>Personalization</td><td>High</td><td>Medium</td><td>Lower</td></tr>
 <tr><td>Time required</td><td>5-8 hours/month</td><td>4-6 hours/month</td><td>5 minutes</td></tr>
-<tr><td>Cost (tool only)</td><td>$0-249/month</td><td>$0-49/month</td><td>$49-299/month</td></tr>
-<tr><td>True cost (tool + time)</td><td>$250-650/month</td><td>$200-350/month</td><td>$49-299/month</td></tr>
+<tr><td>Cost (tool only)</td><td>$0-249/month</td><td>$0-49/month</td><td>$99-299/month</td></tr>
+<tr><td>True cost (tool + time)</td><td>$250-650/month</td><td>$200-350/month</td><td>$99-299/month</td></tr>
 <tr><td>Consistency</td><td>Depends on you</td><td>Depends on you</td><td>Guaranteed</td></tr>
 </table>
 
@@ -151,10 +151,10 @@ But these tools use AI in fundamentally different ways. Understanding the differ
 
 Not all "AI social media tools" solve the same problem. If you love creating content, get better scheduling tools. If you write blogs, get category 2 tools. If you just want social media handled — get AI done-for-you.
 
-Glow Social is the most affordable AI done-for-you option at $49/month. <a href="https://glowsocial.com">Start at glowsocial.com</a>.
+Glow Social is the most affordable AI done-for-you option at $99/month. <a href="https://glowsocial.com">Start at glowsocial.com</a>.
 
 Related: [Best Automation Tools That Create Content](/blog/best-social-media-automation-tools-create-content) · [Social Media Manager vs. AI](/blog/social-media-manager-vs-ai) · [Compare All Solutions](/blog/compare)
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

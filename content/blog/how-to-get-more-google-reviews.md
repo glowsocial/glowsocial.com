@@ -161,7 +161,7 @@ Beyond that, keep it simple. You don't need a fancy review management platform. 
 
 The system is free. The results are priceless.
 
-[Get started with Glow Social](https://app.glowsocial.com/) — social media posting and Google Review monitoring included for $49/month.
+[Get started with Glow Social](https://app.glowsocial.com/) — social media posting and Google Review monitoring included for $99/month.
 
 **Google Business Profile series:** [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [How Google Reviews Affect Local SEO](/blog/how-google-reviews-affect-local-seo) · [How to Respond to Negative Reviews](/blog/how-to-respond-to-negative-google-reviews) · [GBP vs. Social Media: Where to Focus](/blog/google-business-profile-vs-social-media) · [GBP + Social Media Together](/blog/google-business-profile-social-media-local-business)
 

@@ -7,7 +7,7 @@ faqs:
   - q: "How is AI used in social media marketing?"
     a: "AI is used in social media for content creation (writing captions and generating ideas), graphic design (creating branded visuals), scheduling optimization (determining the best posting times), analytics (identifying engagement patterns), and audience targeting (for paid campaigns). Done-for-you AI services combine all of these."
   - q: "Should local businesses use AI for social media?"
-    a: "Yes. AI makes professional social media accessible to businesses that couldn't afford agencies or didn't have time for DIY. Services like Glow Social provide agency-quality content creation and publishing for $49/month — a fraction of the cost of hiring even a part-time freelancer."
+    a: "Yes. AI makes professional social media accessible to businesses that couldn't afford agencies or didn't have time for DIY. Services like Glow Social provide agency-quality content creation and publishing for $99/month — a fraction of the cost of hiring even a part-time freelancer."
   - q: "Will AI-generated social media content seem fake?"
     a: "Good AI content shouldn't seem fake because it draws from your actual business information. Services like Glow Social read your website to learn your brand voice, services, and location. The content reflects your specific business — not generic templates. Most followers can't tell the difference between AI-assisted and human-written posts."
 ---
@@ -77,7 +77,7 @@ These are built specifically for marketing content. They understand social media
 
 **Best for:** Marketing managers or freelancers who create content for multiple clients.
 
-### Tier 3: Done-for-You AI Services ($49-200/month)
+### Tier 3: Done-for-You AI Services ($99-200/month)
 **Tools:** Glow Social
 
 These combine AI content creation, graphic design, and publishing into a single service. You set up once, and content flows automatically across your platforms.
@@ -92,7 +92,7 @@ These combine AI content creation, graphic design, and publishing into a single 
 | Scheduling/publishing | Not included | Not included | Included |
 | Brand voice learning | You teach it | Basic training | Reads your website |
 | Monthly time required | 5-8 hours | 3-5 hours | 5 minutes |
-| Monthly cost | $0-20 | $20-100 | $49 |
+| Monthly cost | $0-20 | $20-100 | $99 |
 
 ## What AI Does Well (and What It Doesn't)
 
@@ -118,7 +118,7 @@ For local businesses, the math is straightforward:
 
 **The cost of DIY:** Your time at 7-10 hours/month. If you value your time at $50/hour, that's $4,200-6,000/year in time investment plus $300-500/year in tools.
 
-**The cost of AI done-for-you:** $588/year ($49/month) plus about 5 minutes of setup time.
+**The cost of AI done-for-you:** $588/year ($99/month) plus about 5 minutes of setup time.
 
 The ROI case is overwhelming. AI-powered social media costs less per year than most business owners spend in a single month of DIY effort.
 
@@ -134,4 +134,4 @@ If you're ready to try AI-powered social media, here are your options from simpl
 
 For more on building a sustainable social media system, see our [OBA framework guide](/blog/automate-social-media-oba-framework) or explore the [best social media tools for local businesses](/blog/social-media-tools-local-business).
 
-[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month, no contracts](https://app.glowsocial.com/)

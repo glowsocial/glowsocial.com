@@ -40,8 +40,8 @@ function slugToTitle(slug) {
       if (w === 'linkedin') return 'LinkedIn';
       if (w === 'hootsuite') return 'Hootsuite';
       if (w === '2025' || w === '2026') return w;
-      if (w === '49month') return '$49/Month';
-      if (w === '49') return '$49';
+      if (w === '49month') return '$99/Month';
+      if (w === '49') return '$99';
       if (w === '24') return '24';
       if (w === '7') return '7';
       return w.charAt(0).toUpperCase() + w.slice(1);
@@ -67,7 +67,7 @@ date: "2025-01-15"
 
 Most ${industry} don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for ${industry.charAt(0).toUpperCase() + industry.slice(1)}
 
@@ -107,7 +107,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -117,7 +117,7 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -143,7 +143,7 @@ If you're looking for a **${competitor} alternative**, you're probably frustrate
 
 Most social media tools — ${competitor} included — are scheduling platforms. They help you post, but you still have to write every caption, design every graphic, and manage every content calendar yourself.
 
-**Glow Social** takes a different approach: it creates and publishes your content automatically. For **$49/month**, you get 12+ custom posts per month across 13 platforms — including Google Business Profile, which most tools skip entirely.
+**Glow Social** takes a different approach: it creates and publishes your content automatically. For **$99/month**, you get 12+ custom posts per month across 13 platforms — including Google Business Profile, which most tools skip entirely.
 
 ## ${competitor} vs Glow Social: Quick Comparison
 
@@ -154,7 +154,7 @@ Most social media tools — ${competitor} included — are scheduling platforms.
 | Monthly time | 5-10 hours | 5 minutes setup |
 | Google Business Profile | Limited or none | Included |
 | Review monitoring | No | Included |
-| Price | Varies | $49/month |
+| Price | Varies | $99/month |
 
 ## Why Small Businesses Switch from ${competitor}
 
@@ -194,9 +194,9 @@ Glow Social is built for you if:
 
 ## Get Started
 
-Try Glow Social for $49/month. Setup takes 5 minutes, no contracts, cancel anytime.
+Try Glow Social for $99/month. Setup takes 5 minutes, no contracts, cancel anytime.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -213,7 +213,7 @@ function generateGenericPost(slug) {
   
   if (slug.includes('glow-social-work-')) {
     const industry = slug.replace('glow-social-work-', '').replace(/-/g, ' ');
-    description = `How Glow Social works for ${industry}. Automated social media posting customized to your industry for $49/month.`;
+    description = `How Glow Social works for ${industry}. Automated social media posting customized to your industry for $99/month.`;
   }
 
   // Generate a reasonable placeholder body
@@ -276,13 +276,13 @@ If you value your time at even $25/hour, 10 hours of DIY social media costs $250
 - **13 platforms** including Google Business Profile (most tools skip this)
 - **Google Review monitoring** included in every plan
 - **Custom graphics** in your brand colors
-- **$49/month** with no contracts
+- **$99/month** with no contracts
 
 ## Which Should You Choose?
 
 Choose a DIY tool if you enjoy content creation and have time for it. Choose Glow Social if you want posting handled without your ongoing involvement.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -319,11 +319,11 @@ Glow Social removes the execution burden entirely. Posts go out whether you're b
 
 ## Pricing
 
-Glow Social Core starts at **$49/month**. No contracts, no commitments, cancel anytime.
+Glow Social Core starts at **$99/month**. No contracts, no commitments, cancel anytime.
 
 Compare that to a freelance social media manager ($300-500/month) or an agency ($2,000+/month).
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -333,7 +333,7 @@ function generateDoneForYouBody(industry, title) {
 
 The result? Empty pages, outdated posts, and potential customers who wonder if you're still in business.
 
-**Done-for-you social media** fixes this. Instead of hiring an agency or spending hours creating content yourself, Glow Social handles everything for **$49/month**.
+**Done-for-you social media** fixes this. Instead of hiring an agency or spending hours creating content yourself, Glow Social handles everything for **$99/month**.
 
 ## Why ${capIndustry} Need Consistent Social Media
 
@@ -365,11 +365,11 @@ That's it. Your social media is handled.
 
 ## Pricing
 
-**$49/month** for the Core plan. No contracts, cancel anytime.
+**$99/month** for the Core plan. No contracts, cancel anytime.
 
 That's less than a single hour of an agency's time — and it covers your entire social media presence.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 `;
 }
 
@@ -392,7 +392,7 @@ Use tools like Buffer or Later to schedule posts. You'll spend 5-10 hours per mo
 **Hire a freelancer ($300-500/month):**
 Get human creativity and custom strategy, but you'll still need to manage the relationship and provide direction.
 
-**Use done-for-you software ($49/month):**
+**Use done-for-you software ($99/month):**
 Glow Social creates and publishes 12+ posts per month automatically. Setup takes 5 minutes, and posts are customized to your business — not generic templates.
 
 **Hire an agency ($2,000+/month):**
@@ -407,13 +407,13 @@ Most social media tools are scheduling platforms — they help you post, but you
 - We publish to 13 platforms including Google Business Profile
 - We monitor your Google Reviews so you never miss one
 
-All for **$49/month** with no contracts.
+All for **$99/month** with no contracts.
 
 ## Getting Started
 
 If you're tired of empty social media pages and don't have hours to spend on content creation, try Glow Social. Setup takes 5 minutes.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 `;
 }
 

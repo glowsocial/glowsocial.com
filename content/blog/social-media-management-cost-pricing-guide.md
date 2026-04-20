@@ -5,13 +5,13 @@ slug: "social-media-management-cost-pricing-guide"
 date: "2026-03-23"
 faqs:
   - q: "How much should a small business spend on social media management?"
-    a: "Most small businesses should spend $49-300/month on social media, depending on their needs and available time. Done-for-you AI tools like Glow Social cost $49/month with zero time investment. Freelancers charge $300-500/month for basic management. The right budget depends on whether you value your time or want full creative control."
+    a: "Most small businesses should spend $99-300/month on social media, depending on their needs and available time. Done-for-you AI tools like Glow Social cost $99/month with zero time investment. Freelancers charge $300-500/month for basic management. The right budget depends on whether you value your time or want full creative control."
   - q: "How much does a social media manager charge?"
     a: "Freelance social media managers typically charge $300-500/month for basic posting (8-15 posts), $500-1,500/month for posting plus engagement and strategy, and $1,500-3,000/month for comprehensive management including ads and analytics. Agency pricing starts at $1,000-3,000/month minimum."
   - q: "What's the cheapest way to manage social media for a business?"
-    a: "The cheapest option by subscription cost is DIY with free tools like Buffer ($0/month), but this requires 8-15 hours of your time monthly. The cheapest option by total cost (subscription + time value) is done-for-you AI software like Glow Social at $49/month with no time investment."
+    a: "The cheapest option by subscription cost is DIY with free tools like Buffer ($0/month), but this requires 8-15 hours of your time monthly. The cheapest option by total cost (subscription + time value) is done-for-you AI software like Glow Social at $99/month with no time investment."
   - q: "Is it worth paying for social media management?"
-    a: "Yes, if your time is worth more than $5/hour. DIY social media takes 5-15 hours/month. At $50/hour (a reasonable rate for business owners), that's $250-750 in time cost. A done-for-you service at $49-99/month saves that time while maintaining consistent posting."
+    a: "Yes, if your time is worth more than $5/hour. DIY social media takes 5-15 hours/month. At $50/hour (a reasonable rate for business owners), that's $250-750 in time cost. A done-for-you service at $99-99/month saves that time while maintaining consistent posting."
 ---
 
 The most common question small business owners ask about social media isn't "what should I post?" It's **"how much is this going to cost me?"**
@@ -24,7 +24,7 @@ The honest answer: anywhere from $0 to $3,000+ per month. But the price you see 
 <tr><th>Approach</th><th>Subscription Cost</th><th>Your Time/Month</th><th>Time Value @ $50/hr</th><th>True Monthly Cost</th></tr>
 <tr><td>DIY (no tools)</td><td>$0</td><td>8-15 hours</td><td>$400-750</td><td><strong>$400-750</strong></td></tr>
 <tr><td>DIY + scheduling tool</td><td>$0-50</td><td>5-10 hours</td><td>$250-500</td><td><strong>$250-550</strong></td></tr>
-<tr><td>Done-for-you AI (Glow Social)</td><td>$49</td><td>~0 hours</td><td>$0</td><td><strong>$49</strong></td></tr>
+<tr><td>Done-for-you AI (Glow Social)</td><td>$99</td><td>~0 hours</td><td>$0</td><td><strong>$99</strong></td></tr>
 <tr><td>Freelancer</td><td>$300-2,000</td><td>2-4 hours</td><td>$100-200</td><td><strong>$400-2,200</strong></td></tr>
 <tr><td>Agency</td><td>$1,000-3,000+</td><td>2-4 hours</td><td>$100-200</td><td><strong>$1,100-3,200+</strong></td></tr>
 </table>
@@ -72,7 +72,7 @@ You still create content, but scheduling tools save time on publishing.
 
 **Reality check:** Scheduling tools reduce friction but don't solve the core problem — you still need to create content.
 
-## Approach 3: Done-For-You AI ($49 subscription, $49 true cost)
+## Approach 3: Done-For-You AI ($99 subscription, $99 true cost)
 
 AI-powered services create and publish content automatically.
 
@@ -84,11 +84,11 @@ AI-powered services create and publish content automatically.
 <li>No content calendar, no brainstorming, no design work</li>
 </ul>
 
-**What you pay:** $49/month
+**What you pay:** $99/month
 
 **Your time:** ~5 minutes (one-time setup)
 
-**True cost:** $49/month
+**True cost:** $99/month
 
 **Trade-offs:** Fixed at 12 posts/month. AI content is professional but not deeply personal. No engagement management. Best for maintaining presence, not building a massive following.
 
@@ -143,7 +143,7 @@ A team manages your social media with dedicated strategists, designers, and comm
 
 <table>
 <tr><th>If your situation is...</th><th>Choose this approach</th><th>Budget this much</th></tr>
-<tr><td>Budget under $100, no time</td><td><strong>Glow Social</strong></td><td>$49/month</td></tr>
+<tr><td>Budget under $100, no time</td><td><strong>Glow Social</strong></td><td>$99/month</td></tr>
 <tr><td>Budget under $50, some time available</td><td>DIY + Buffer (free)</td><td>$0 + 5-10 hours</td></tr>
 <tr><td>Budget $100-300, want human touch</td><td>Feedbird or 99 Dollar Social</td><td>$99-299/month</td></tr>
 <tr><td>Budget $300-1,500, want full management</td><td>Freelancer</td><td>$300-1,500/month</td></tr>
@@ -152,9 +152,9 @@ A team manages your social media with dedicated strategists, designers, and comm
 
 ## Bottom Line
 
-The cheapest social media management by subscription cost is free (DIY). The cheapest by true cost is Glow Social at $49/month. The right choice depends on your budget, available time, and how important social media is to your business.
+The cheapest social media management by subscription cost is free (DIY). The cheapest by true cost is Glow Social at $99/month. The right choice depends on your budget, available time, and how important social media is to your business.
 
-For most small local businesses, the question isn't "can I afford social media management?" It's "can I afford to have empty social media pages?" At $49/month, the answer is almost always no.
+For most small local businesses, the question isn't "can I afford social media management?" It's "can I afford to have empty social media pages?" At $99/month, the answer is almost always no.
 
 Start at <a href="https://glowsocial.com">glowsocial.com</a>.
 
@@ -162,4 +162,4 @@ Related: [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-medi
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

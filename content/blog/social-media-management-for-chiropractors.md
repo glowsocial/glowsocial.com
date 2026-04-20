@@ -14,7 +14,7 @@ faqs:
   - q: "What is the best social media platform for a chiropractic clinic to focus on?"
     a: "Facebook is typically the highest-ROI platform for chiropractic practices because your core demographic (adults 30-55 dealing with back and neck pain) is most active there. Instagram works well for visual content like posture tips, stretching demonstrations, and before/after case studies. Google Business Profile posts are often overlooked but directly impact local search rankings and new patient discovery."
   - q: "How can a busy chiropractor manage social media consistently without spending hours every week on it?"
-    a: "The most practical solution for a busy practitioner is a done-for-you social media service that creates and publishes content automatically. Glow Social generates chiropractor-specific posts across Facebook, Instagram, and Google Business Profile for $49/month with no weekly time investment. This lets you maintain a consistent, professional presence while staying focused on patient care."
+    a: "The most practical solution for a busy practitioner is a done-for-you social media service that creates and publishes content automatically. Glow Social generates chiropractor-specific posts across Facebook, Instagram, and Google Business Profile for $99/month with no weekly time investment. This lets you maintain a consistent, professional presence while staying focused on patient care."
 ---
 
 # Social Media Management for Chiropractors: Get More Patients Without Paid Ads
@@ -74,6 +74,6 @@ A 30-review practice with consistent social media will outperform a 5-review pra
 
 The strategy above works. The challenge is executing it every single week without dropping it when the schedule gets full (which it always does).
 
-The solution most practices land on is automation. Glow Social creates and publishes chiropractor-specific social media content automatically across Facebook, Instagram, and Google Business Profile — no writing, no scheduling, no weekly effort required. At $49/month, it costs less than one missed new patient appointment.
+The solution most practices land on is automation. Glow Social creates and publishes chiropractor-specific social media content automatically across Facebook, Instagram, and Google Business Profile — no writing, no scheduling, no weekly effort required. At $99/month, it costs less than one missed new patient appointment.
 
 Your job is to take great care of patients. [Glow Social](https://glowsocial.com) handles the rest. [See how it works →](https://glowsocial.com)

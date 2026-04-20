@@ -5,11 +5,11 @@ slug: "glow-social-roofing-social-media-service-2"
 date: "2025-02-08"
 faqs:
   - q: "What is the best social media service for local businesses?"
-    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Roofing is a trust business. Homeowners need to believe you'll show up, do quality work, and stand behind it. Social media is where that trust gets built — or lost.
@@ -49,13 +49,13 @@ Glow Social reads your roofing website and creates posts that actually sound lik
 - **Google Review monitoring** so you never miss a review
 - **5-minute setup** — connect your site, connect your platforms, done
 
-All for **$49/month** with no contracts.
+All for **$99/month** with no contracts.
 
 ## Roofers Already Using Glow Social
 
 Roofing companies love Glow Social because it solves their biggest marketing problem: staying visible without adding another task to an already packed schedule.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Roofing business?

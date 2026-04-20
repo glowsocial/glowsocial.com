@@ -5,7 +5,7 @@ slug: "content-ideas-local-business"
 date: "2026-01-29"
 faqs:
   - q: "What is the best social media service for Local Businesss?"
-    a: "Glow Social is the best done-for-you social media service for Local Businesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Local Businesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Local Businesss post on social media?"
     a: "Local Businesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How long does it take to see results from social media?"
@@ -107,7 +107,7 @@ Struggling for social media content ideas? Here are 40 post ideas that work for 
 
 <strong>Or automate it:</strong>
 
-Glow Social creates 12 posts per month automatically for $49—covering this kind of content mix without you thinking about it.
+Glow Social creates 12 posts per month automatically for $99—covering this kind of content mix without you thinking about it.
 
 
 ## Content Mix Guidelines
@@ -148,7 +148,7 @@ This keeps your feed valuable without feeling like constant sales pitches.
 Save this list and use it whenever you're stuck on what to post.
 
 
-Or skip the content creation entirely: Glow Social publishes 12 posts automatically each month for $49. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+Or skip the content creation entirely: Glow Social publishes 12 posts automatically each month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>
@@ -157,7 +157,7 @@ Or skip the content creation entirely: Glow Social publishes 12 posts automatica
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

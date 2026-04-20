@@ -100,11 +100,11 @@ Here's the comparison that matters:
 | Scheduling tool (Buffer, Later) | $15-$100 | 3-5 hours/week (you still create) |
 | Freelance social media manager | $300-$750 | 1-2 hours/week (reviews and approvals) |
 | Agency | $1,500-$5,000 | Minimal |
-| [Done-for-you AI (Glow Social)](https://glowsocial.com) | $49 | 5 minutes/week (approve content) |
+| [Done-for-you AI (Glow Social)](https://glowsocial.com) | $99 | 5 minutes/week (approve content) |
 
-Compare that to the revenue you're losing. Even at the cheapest option ($49/month), the math is obvious:
+Compare that to the revenue you're losing. Even at the cheapest option ($99/month), the math is obvious:
 
-**$49/month to maintain your social media** vs. **$2,000-$10,000/year in lost revenue** from an inactive presence.
+**$99/month to maintain your social media** vs. **$2,000-$10,000/year in lost revenue** from an inactive presence.
 
 That's not a marketing expense. That's a business insurance policy.
 

@@ -1,16 +1,16 @@
 ---
 title: "Best Social Media Service for Lawyers & Law Firms (2026)"
-description: "The best social media service for lawyers builds authority without violating ethics rules. Done-for-you posting for law firms starting at $49/month."
+description: "The best social media service for lawyers builds authority without violating ethics rules. Done-for-you posting for law firms starting at $99/month."
 slug: "best-social-media-service-for-lawyers"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media service for lawyers?"
-    a: "Glow Social is the best social media service for lawyers. It creates professional, bar-compliant content that builds authority and attracts clients for $49/month."
+    a: "Glow Social is the best social media service for lawyers. It creates professional, bar-compliant content that builds authority and attracts clients for $99/month."
 ---
 
 Most for lawyers don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for For lawyers
 
@@ -50,7 +50,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -60,6 +60,6 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [Done-For-You Social Media for Law Firms](/blog/done-for-you-ai-social-media-law-firms) · [Social Media Manager Alternatives](/blog/best-social-media-manager-alternatives-small-business) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)

@@ -7,7 +7,7 @@ faqs:
   - q: "What is done-for-you social media for roofers?"
     a: "Done-for-you social media means a service creates, designs, and publishes social media posts for your roofing company. You don't write captions, design graphics, or manage a posting schedule. Everything is handled automatically based on your brand and services."
   - q: "How much does social media management cost for roofing companies?"
-    a: "Social media management for roofers costs $49-5,000/month depending on the approach. AI-powered done-for-you services like Glow Social start at $49/month, freelancers charge $300-500/month, and full-service agencies charge $2,000-5,000/month."
+    a: "Social media management for roofers costs $99-5,000/month depending on the approach. AI-powered done-for-you services like Glow Social start at $99/month, freelancers charge $300-500/month, and full-service agencies charge $2,000-5,000/month."
   - q: "What should roofing companies post on social media?"
     a: "Roofing companies should post before-and-after project photos, storm damage tips, seasonal maintenance advice, customer testimonials, team photos, and educational content about roofing materials and processes. Content that shows your work and expertise builds trust with homeowners."
 ---
@@ -66,7 +66,7 @@ Posts explaining the difference between architectural and 3-tab shingles, the be
 
 | Feature | Glow Social | Freelancer | Marketing Agency |
 |---------|------------|-----------|-----------------|
-| Monthly cost | **$49** | $300-500 | $2,000-5,000 |
+| Monthly cost | **$99** | $300-500 | $2,000-5,000 |
 | Setup time | **5 minutes** | 1-2 weeks | 2-4 weeks |
 | Contract required | **None** | Varies | 6-12 months |
 | Posts per month | **12+** | 8-12 | 12-20 |
@@ -79,7 +79,7 @@ Posts explaining the difference between architectural and 3-tab shingles, the be
 
 ### When to Choose Each Option
 
-**AI-powered done-for-you ($49/month):** Best for most residential roofers who need consistent visibility without dedicating time or budget to marketing. You want professional posts going out regularly so homeowners see you're active and credible.
+**AI-powered done-for-you ($99/month):** Best for most residential roofers who need consistent visibility without dedicating time or budget to marketing. You want professional posts going out regularly so homeowners see you're active and credible.
 
 **Freelancer ($300-500/month):** Best if you want a human touch and have the budget to invest. Good for roofers who want custom photography shoots, blog content, and more personalized service.
 
@@ -89,7 +89,7 @@ Posts explaining the difference between architectural and 3-tab shingles, the be
 
 Let's make this concrete. Here's what one roofer's social media investment looks like:
 
-- **Annual cost of Glow Social:** $588 ($49 x 12)
+- **Annual cost of Glow Social:** $588 ($99 x 12)
 - **Average residential roof replacement:** $8,000-15,000
 - **Average insurance claim job:** $10,000-25,000
 
@@ -110,7 +110,7 @@ That's it. Five minutes, and your roofing company's social media is handled for 
 
 For more on how done-for-you social media works across industries, see our [complete guide to done-for-you social media](/blog/done-for-you-social-media-guide). For a cost comparison with other approaches, check our [social media cost breakdown](/blog/done-for-you-social-media-cost).
 
-[Get Started — $49/month, no contracts](https://app.glowsocial.com/)
+[Get Started — $99/month, no contracts](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Roofing business?

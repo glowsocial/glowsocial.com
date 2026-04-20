@@ -1,13 +1,13 @@
 ---
 title: "Social Media Management for Insurance Agents in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for insurance agents in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $49/mo."
+description: "Looking for affordable social media management for insurance agents in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
 slug: "social-media-management-insurance-agents-phoenix"
 date: "2026-03-17"
 city: "Phoenix"
 type: "local"
 ---
 
-**Looking for social media for your insurance agency in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $49/month without the need to hire an expensive local agency.
+**Looking for social media for your insurance agency in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $99/month without the need to hire an expensive local agency.
 
 The Phoenix metro has thousands of insurance agents — State Farm, Allstate, Farmers, and independent agencies all competing for the same pool of homeowners, drivers, and business owners. Referrals and door-knocking used to be enough. In 2026, the agents building a social media presence are adding a pipeline that works while they sleep.
 
@@ -27,7 +27,7 @@ Instead of paying agency rates or letting their social media go stale, insurance
 *   **Industry-Specific Content:** We create content about coverage tips, policy reviews, seasonal risk awareness, and consumer education — not generic financial posts.
 *   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
-*   **Flat $49/Month:** Less than most monthly policy premiums.
+*   **Flat $99/Month:** Less than most monthly policy premiums.
 
 ## Don't Let Your Phoenix Competition Win
 
@@ -52,7 +52,7 @@ Risk prevention tips, seasonal safety reminders, life event triggers (new home, 
 ## Frequently Asked Questions
 
 ### How much does social media management for insurance agents in Phoenix cost?
-Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $49/month.
+Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $99/month.
 
 ### What should an insurance agent post on social media?
 Effective content for insurance agents includes coverage education, claims prevention tips, seasonal risk reminders, community involvement, and policy review nudges. Glow Social generates all of this automatically.

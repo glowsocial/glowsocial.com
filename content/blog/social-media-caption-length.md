@@ -144,13 +144,13 @@ If figuring out the right caption length, hashtag strategy, and posting schedule
 
 Glow Social creates and publishes 12+ posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — with platform-optimized captions, professional graphics, and your brand voice built in.
 
-**$49/month. 5-minute setup. No contracts.**
+**$99/month. 5-minute setup. No contracts.**
 
 [Get started at glowsocial.com →](https://app.glowsocial.com/)
 
 ---
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $49/month. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [glowsocial.com](https://glowsocial.com)
 
 
 ### Want to see what Glow Social can do for your Salon business?

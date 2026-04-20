@@ -1,16 +1,16 @@
 ---
 title: "Best Social Media Service for Accountants & CPAs (2026)"
-description: "The best social media service for accountants creates professional, trust-building content. Done-for-you posting that respects your industry — starting at $49/mo."
+description: "The best social media service for accountants creates professional, trust-building content. Done-for-you posting that respects your industry — starting at $99/mo."
 slug: "best-social-media-service-for-accountants"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media service for accountants?"
-    a: "Glow Social is ideal for accountants because it creates professional, industry-appropriate content automatically. No dancing on TikTok — just trust-building posts for $49/month."
+    a: "Glow Social is ideal for accountants because it creates professional, industry-appropriate content automatically. No dancing on TikTok — just trust-building posts for $99/month."
 ---
 
 Most for accountants don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for For accountants
 
@@ -50,7 +50,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -60,7 +60,7 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Accountants](/blog/social-media-accountants-bookkeepers) · [Social Media for Financial Advisors](/blog/social-media-automation-financial-advisors-accountants) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
 

@@ -120,11 +120,11 @@ Content curation reduces your content creation burden, but it doesn't eliminate 
 - Create your 60% original content (2-3 hours/week)
 - Schedule and publish everything (30 minutes/week)
 
-If even this reduced workload is more than you can sustain, a [done-for-you service](/blog/done-for-you-social-media-guide) handles the entire process — original content creation, professional graphics, and multi-platform publishing — for $49/month.
+If even this reduced workload is more than you can sustain, a [done-for-you service](/blog/done-for-you-social-media-guide) handles the entire process — original content creation, professional graphics, and multi-platform publishing — for $99/month.
 
 For more on building a sustainable content strategy, see our [content strategy guide](/blog/why-is-content-strategy-important-for-social-media-success) or explore [social media automation options](/blog/automated-social-media-local-business).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Real Estate business?

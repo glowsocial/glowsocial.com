@@ -106,13 +106,13 @@ A [freelance social media manager](/blog/how-to-hire-social-media-manager) creat
 **Pros:** Professional quality. Saves your time.
 **Cons:** Expensive. Freelancers start at $300-$500/month; agencies at $1,500+. For a business that hasn't been doing social media at all, this is a big investment before seeing results.
 
-### Option 3: Done-For-You Automation ($49/month)
+### Option 3: Done-For-You Automation ($99/month)
 Tools like [Glow Social](https://glowsocial.com) create industry-specific content, design graphics in your brand colors, and publish automatically across multiple platforms — including Google Business Profile.
 
-**Pros:** $49/month. Setup in 5 minutes. 12+ posts/month created for you. Zero content creation on your end.
+**Pros:** $99/month. Setup in 5 minutes. 12+ posts/month created for you. Zero content creation on your end.
 **Cons:** Less customization than a human manager. Content is AI-generated (though reviewed before publishing).
 
-For a business starting from zero, Option 3 is the lowest-risk way to get started. You're investing $49/month instead of $500/month, and you're getting content posted consistently while you figure out if social media is working for your business.
+For a business starting from zero, Option 3 is the lowest-risk way to get started. You're investing $99/month instead of $500/month, and you're getting content posted consistently while you figure out if social media is working for your business.
 
 ## What Platforms to Start With
 

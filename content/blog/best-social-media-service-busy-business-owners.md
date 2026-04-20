@@ -1,16 +1,16 @@
 ---
 title: "Best Social Media Service for Busy Business Owners (2026)"
-description: "Busy running your business? The best social media services handle posting while you work. Compare done-for-you options starting at $49/month."
+description: "Busy running your business? The best social media services handle posting while you work. Compare done-for-you options starting at $99/month."
 slug: "best-social-media-service-busy-business-owners"
 date: "2025-01-15"
 faqs:
   - q: "How can busy business owners maintain social media?"
-    a: "Done-for-you services like Glow Social handle everything — content creation, design, and publishing — for $49/month with 5-minute setup. No ongoing time commitment."
+    a: "Done-for-you services like Glow Social handle everything — content creation, design, and publishing — for $99/month with 5-minute setup. No ongoing time commitment."
 ---
 
 Most busy business owners don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for Busy business owners
 
@@ -50,7 +50,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -60,6 +60,6 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [How Many Hours Does Social Media Take?](/blog/hours-per-week-social-media) · [Best Tools Under $100/Mo](/blog/best-social-media-service-local-businesses-under-100-month) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)

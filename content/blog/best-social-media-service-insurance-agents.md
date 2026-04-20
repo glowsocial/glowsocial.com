@@ -1,16 +1,16 @@
 ---
 title: "Best Social Media Service for Insurance Agents (2026)"
-description: "The best social media service for insurance agents builds trust and generates referrals. Done-for-you posting starting at $49/month."
+description: "The best social media service for insurance agents builds trust and generates referrals. Done-for-you posting starting at $99/month."
 slug: "best-social-media-service-insurance-agents"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media service for insurance agents?"
-    a: "Glow Social is ideal for insurance agents because it creates educational, trust-building content automatically. Stay visible in your community for $49/month."
+    a: "Glow Social is ideal for insurance agents because it creates educational, trust-building content automatically. Stay visible in your community for $99/month."
 ---
 
 Most insurance agents don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$49/month**.
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
 
 ## What to Look for in a Social Media Service for Insurance agents
 
@@ -50,7 +50,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## Pricing
 
-Glow Social starts at **$49/month** for the Core plan. Compare that to:
+Glow Social starts at **$99/month** for the Core plan. Compare that to:
 
 - Freelance social media manager: $300-500/month
 - Marketing agency: $2,000+/month
@@ -60,7 +60,7 @@ Glow Social starts at **$49/month** for the Core plan. Compare that to:
 
 Stop letting your social media pages collect dust. Set up Glow Social in 5 minutes and have your first posts ready to publish today.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 **Related:** [Social Media for Financial Advisors](/blog/social-media-automation-financial-advisors-accountants) · [Social Media Manager vs AI](/blog/social-media-manager-vs-ai) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
 

@@ -5,11 +5,11 @@ slug: "what-makes-customers-trust-business-online"
 date: "2026-03-17"
 faqs:
   - q: "What is the best social media service for local businesses?"
-    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
 ---
 
 Every purchasing decision is a trust decision. When someone searches for a dentist, a contractor, or a landscaper, they're not just comparing prices — they're evaluating who they can trust with their money, their home, or their health.
@@ -73,13 +73,13 @@ The good news: building online trust isn't about putting in more hours. It's abo
 2. **Respond to every review** within 48 hours — a two-sentence response is enough
 3. **Keep your profiles complete** — accurate hours, contact info, and current photos
 
-If creating 3 posts per week feels impossible alongside running your business, done-for-you automation tools like [Glow Social](https://glowsocial.com) handle this for $49/month. You approve the content, and it posts automatically. The trust builds itself.
+If creating 3 posts per week feels impossible alongside running your business, done-for-you automation tools like [Glow Social](https://glowsocial.com) handle this for $99/month. You approve the content, and it posts automatically. The trust builds itself.
 
 ## The Bottom Line
 
 Customers don't trust businesses that look absent online. They trust businesses that show up consistently, respond to their community, and present themselves professionally. None of this requires marketing expertise — just consistency.
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Dentist business?

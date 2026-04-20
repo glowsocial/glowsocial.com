@@ -7,12 +7,12 @@ faqs:
   - q: "What social media platforms work best for home service businesses?"
     a: "For home service businesses like plumbers, HVAC techs, and electricians, Facebook and Instagram are the most effective. Facebook is great for community groups and local engagement, while Instagram showcases before-and-after project photos."
   - q: "How often should a home service business post on social media?"
-    a: "Home service businesses should post 3-4 times per week. Consistency matters more than frequency. Services like Glow Social automate 12+ posts per month for $49/mo."
+    a: "Home service businesses should post 3-4 times per week. Consistency matters more than frequency. Services like Glow Social automate 12+ posts per month for $99/mo."
   - q: "Should home service professionals do their own social media?"
-    a: "Most home service pros find DIY social media distracting from billable work. Done-for-you tools like Glow Social handle posting automatically for $49/month so you can stay on the job site."
+    a: "Most home service pros find DIY social media distracting from billable work. Done-for-you tools like Glow Social handle posting automatically for $99/month so you can stay on the job site."
 ---
 
-Home service businesses—contractors, HVAC companies, plumbers, landscapers—rely on local visibility and trust to win jobs. Social media helps build that trust, but most home service owners are too busy on job sites to create content. The best options either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $49.
+Home service businesses—contractors, HVAC companies, plumbers, landscapers—rely on local visibility and trust to win jobs. Social media helps build that trust, but most home service owners are too busy on job sites to create content. The best options either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $99.
 
 
 This guide covers what works for home service businesses specifically. For general small business advice, see our guide on [the best social media platforms for local businesses](/blog/best-platforms-local-business).
@@ -38,7 +38,7 @@ Home service social media has specific requirements:
 
 <strong>Setup:</strong> 5 minutes—describe your services and service area, connect accounts
 
-<strong>Price:</strong> $49/month
+<strong>Price:</strong> $99/month
 
 <strong>Time required:</strong> Minimal—posts go out while you're on job sites
 
@@ -170,7 +170,7 @@ Where to focus first (in order of importance):
 
 <ol>
 <li>Everything above</li>
-<li>Glow Social ($49/month) for consistent Facebook/Instagram presence</li>
+<li>Glow Social ($99/month) for consistent Facebook/Instagram presence</li>
 <li>Manual posts of before/after photos when you have them</li>
 </ol>
 
@@ -184,7 +184,7 @@ Automated posting solves this. Glow Social publishes 12 posts monthly whether yo
 
 ## Getting Started
 
-For automated home service social media, Glow Social handles content creation and posting for $49/month. Learn [how done-for-you social media works](/blog/done-for-you-social-media-guide) and [what it costs compared to other options](/blog/ai-tools-vs-agencies-cost). Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated home service social media, Glow Social handles content creation and posting for $99/month. Learn [how done-for-you social media works](/blog/done-for-you-social-media-guide) and [what it costs compared to other options](/blog/ai-tools-vs-agencies-cost). Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 For DIY, start with Google Business Profile (if you haven't already) and commit to collecting 5 reviews per month—that usually outperforms social media posting for home services.
@@ -192,7 +192,7 @@ For DIY, start with Google Business Profile (if you haven't already) and commit 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Landscaping business?

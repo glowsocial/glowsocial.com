@@ -5,7 +5,7 @@ slug: "social-media-healthcare-practices"
 date: "2026-01-29"
 faqs:
   - q: "What is the best social media service for Healthcares?"
-    a: "Glow Social is the best done-for-you social media service for Healthcares. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Healthcares. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Healthcares post on social media?"
     a: "Healthcares should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How long does it take to see results from social media?"
@@ -30,7 +30,7 @@ Dentists, chiropractors, med spas, therapists, and other healthcare providers ne
 ### Glow Social — Best for Automated Consistency
 <strong>What it does:</strong> Creates and publishes 12 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
-<strong>Price:</strong> $49/month
+<strong>Price:</strong> $99/month
 
 <strong>Time required:</strong> 5 minutes setup
 
@@ -208,7 +208,7 @@ Many healthcare practices over-invest in social media and under-invest in Google
 
 ## Getting Started
 
-For automated healthcare practice social media, Glow Social handles content creation and posting for $49/month. Content focuses on business visibility and general education—not medical claims. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated healthcare practice social media, Glow Social handles content creation and posting for $99/month. Content focuses on business visibility and general education—not medical claims. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 Combine with manual posts for patient testimonials (with proper consent) and specific practice updates.
@@ -216,7 +216,7 @@ Combine with manual posts for patient testimonials (with proper consent) and spe
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

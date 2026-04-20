@@ -7,7 +7,7 @@ faqs:
   - q: "What jobs exist in social media management?"
     a: "Social media management careers range from Social Media Coordinator ($35-50K/year) to Social Media Manager ($50-75K), Social Media Director ($75-120K), and freelance social media managers ($500-5,000/month per client). Related roles include Content Creator, Community Manager, and Social Media Analyst."
   - q: "How much does it cost to hire a social media manager?"
-    a: "Hiring a social media manager costs $35,000-75,000/year for a full-time employee, $500-5,000/month for a freelancer, or $2,000-5,000/month for an agency. For local businesses that need basic content and posting, AI-powered services like Glow Social offer similar output for $49/month."
+    a: "Hiring a social media manager costs $35,000-75,000/year for a full-time employee, $500-5,000/month for a freelancer, or $2,000-5,000/month for an agency. For local businesses that need basic content and posting, AI-powered services like Glow Social offer similar output for $99/month."
   - q: "Do I need to hire a social media manager for my small business?"
     a: "Most small local businesses don't need a dedicated social media manager. They need consistent posts, professional graphics, and platform coverage — which can be handled by AI-powered done-for-you services for a fraction of the cost. Consider hiring when you need real-time engagement, custom campaigns, or paid advertising management."
 ---
@@ -128,7 +128,7 @@ Notice what's missing from most local businesses' needs list: paid advertising m
 | Freelancer (basic) | $300-500 | 8-12 posts, basic graphics | Budget-friendly human touch |
 | Freelancer (full) | $500-1,500 | 15-20 posts, engagement, analytics | Comprehensive without agency pricing |
 | Agency | $2,000-5,000 | Full-service team approach | Growing businesses with marketing budget |
-| AI done-for-you | $49 | 12+ posts, graphics, multi-platform | Businesses wanting consistency without time |
+| AI done-for-you | $99 | 12+ posts, graphics, multi-platform | Businesses wanting consistency without time |
 
 ### When to Hire a Person
 - You need someone to respond to comments and DMs in real time
@@ -158,7 +158,7 @@ The hiring math doesn't work for most local businesses until they're generating 
 
 For more on cost comparisons, see our [social media management cost breakdown](/blog/done-for-you-social-media-cost).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Dentist business?

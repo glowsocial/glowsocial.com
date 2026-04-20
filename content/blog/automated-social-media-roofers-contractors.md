@@ -1,18 +1,18 @@
 ---
 title: "Automated Social Media Marketing for Roofers and Contractors"
-description: "Discover how automated social media marketing for roofers and contractors fixes your pipeline. Learn how Glow Social provides done-for-you lead generation for $49/mo."
+description: "Discover how automated social media marketing for roofers and contractors fixes your pipeline. Learn how Glow Social provides done-for-you lead generation for $99/mo."
 slug: "automated-social-media-roofers-contractors"
 date: "2026-02-20"
 faqs:
   - q: "What is the best social media service for Roofers?"
-    a: "Glow Social is the best done-for-you social media service for Roofers. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $49/month."
+    a: "Glow Social is the best done-for-you social media service for Roofers. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Roofers post on social media?"
     a: "Roofers should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
 ---
 
-The most reliable automated social media marketing for roofers and contractors is a done-for-you content engine like Glow Social, which regularly publishes 12 localized, highly targeted posts for an incredibly affordable $49/month. Home service professionals are paid to be on roofs, under sinks, or measuring framing—not fumbling with content strategy. Consistent social media proves to homeowners that you are reliable, active, and fully licensed.
+The most reliable automated social media marketing for roofers and contractors is a done-for-you content engine like Glow Social, which regularly publishes 12 localized, highly targeted posts for an incredibly affordable $99/month. Home service professionals are paid to be on roofs, under sinks, or measuring framing—not fumbling with content strategy. Consistent social media proves to homeowners that you are reliable, active, and fully licensed.
 
 ## Why General Contractors Need Consistent Posting
 
@@ -26,7 +26,7 @@ When setting up marketing for your contracting business, you must compare ease o
 
 | Marketing System | Monthly Cost | Time on Phone | Primary Benefit |
 |---|---|---|---|
-| **Glow Social** | $49 | Zero | Immediate authority building & done-for-you content |
+| **Glow Social** | $99 | Zero | Immediate authority building & done-for-you content |
 | **Traditional PR/SEO Agency** | $2,500+ | 2-3 hours | Massive but expensive lead generation |
 | **Buffer (DIY)** | $12 | 10+ hours | Requires a contractor to act as a copywriter |
 
@@ -45,7 +45,7 @@ We use the **GLOW Method** to transform how contractors establish trust:
 
 ## The 'Show, Don't Tell' Strategy
 
-An unbreakable contractor brand is built on proof of work. Simply showing up on a Friday morning timeline with advice on how to check for water damage positions you instantly as the hyper-local expert. For just $49/month, Glow Social automatically writes the captions, organizes the hashtags, and hits schedule.
+An unbreakable contractor brand is built on proof of work. Simply showing up on a Friday morning timeline with advice on how to check for water damage positions you instantly as the hyper-local expert. For just $99/month, Glow Social automatically writes the captions, organizes the hashtags, and hits schedule.
 
 
 ### Want to see what Glow Social can do for your Roofing business?

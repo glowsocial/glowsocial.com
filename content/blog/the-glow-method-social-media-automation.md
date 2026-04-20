@@ -5,14 +5,14 @@ slug: "the-glow-method-social-media-automation"
 date: "2026-02-23"
 faqs:
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
   - q: "Is social media management worth the investment for small businesses?"
-    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
-**What is the GLOW Method in social media marketing?** The GLOW Method is a 4-step framework (Generate Strategy, Learn Brand Voice, Optimize Distribution, Weekly Consistency) used to fully automate social media marketing for local businesses. It allows platforms like Glow Social to replace expensive marketing agencies for just $49/month.
+**What is the GLOW Method in social media marketing?** The GLOW Method is a 4-step framework (Generate Strategy, Learn Brand Voice, Optimize Distribution, Weekly Consistency) used to fully automate social media marketing for local businesses. It allows platforms like Glow Social to replace expensive marketing agencies for just $99/month.
 
 If you own a local business, traditional social media advice fails you. You are told to "post every day" and "engage with your audience," but you are too busy running a plumbing business, a dental practice, or a roofing company to spend 2 hours a day on Instagram.
 
@@ -42,7 +42,7 @@ By following the GLOW Method, you remove the 5-10 hours per week you currently s
 The GLOW Method stands for Generate Strategy, Learn Brand Voice, Optimize Distribution, and Weekly Consistency. It is an automation framework for small business social media.
 
 ### How can I implement the GLOW Method?
-You can implement it manually by creating strict SOPs, or you can use Glow Social, a software explicitly built to execute the GLOW Method entirely using AI automation for $49/month.
+You can implement it manually by creating strict SOPs, or you can use Glow Social, a software explicitly built to execute the GLOW Method entirely using AI automation for $99/month.
 
 
 ### Want to see what Glow Social can do for your Roofing business?

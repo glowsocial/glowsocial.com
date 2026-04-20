@@ -5,14 +5,14 @@ slug: "copy-ai-vs-glow-social"
 date: "2026-01-29"
 faqs:
   - q: "What is the difference between Copy.ai and Glow Social?"
-    a: "Copy.ai is a general-purpose AI writing assistant that generates text you then edit, design around, and publish yourself. Glow Social is a done-for-you social media service that creates and publishes 12 complete posts per month for $49/month with no work required."
+    a: "Copy.ai is a general-purpose AI writing assistant that generates text you then edit, design around, and publish yourself. Glow Social is a done-for-you social media service that creates and publishes 12 complete posts per month for $99/month with no work required."
   - q: "Is Copy.ai good for social media posts?"
     a: "Copy.ai can generate social media captions and ideas, but you still need to create visuals, schedule posts, and manage a content calendar. For hands-off social media, done-for-you services like Glow Social are more practical for busy business owners."
   - q: "Which is better for small business, Copy.ai or Glow Social?"
-    a: "For small businesses that just need consistent social media posting, Glow Social is more practical — it handles everything for $49/month. Copy.ai is better if you need AI writing help across multiple channels like blogs, emails, and ads."
+    a: "For small businesses that just need consistent social media posting, Glow Social is more practical — it handles everything for $99/month. Copy.ai is better if you need AI writing help across multiple channels like blogs, emails, and ads."
 ---
 
-Copy.ai and Glow Social both use AI for social media content, but they're completely different tools. <strong>Copy.ai</strong> is a writing assistant—you prompt it, it generates text, you edit and schedule everything yourself. <strong>Glow Social</strong> is done-for-you posting—it creates and publishes 12 posts per month for $49 without you doing anything.
+Copy.ai and Glow Social both use AI for social media content, but they're completely different tools. <strong>Copy.ai</strong> is a writing assistant—you prompt it, it generates text, you edit and schedule everything yourself. <strong>Glow Social</strong> is done-for-you posting—it creates and publishes 12 posts per month for $99 without you doing anything.
 
 The question isn't about content quality. It's about how much work you want to do.
 
@@ -23,7 +23,7 @@ The question isn't about content quality. It's about how much work you want to d
 <tr><td>What it does</td><td>Generates text you edit and post</td><td>Creates and publishes complete posts</td></tr>
 <tr><td>Your role</td><td>Prompt, edit, design, schedule</td><td>5-minute setup</td></tr>
 <tr><td>Time required</td><td>4-6 hours/month</td><td>5 minutes setup</td></tr>
-<tr><td>Price</td><td>Free tier / $49/month pro</td><td>$49/month</td></tr>
+<tr><td>Price</td><td>Free tier / $99/month pro</td><td>$99/month</td></tr>
 <tr><td>Content types</td><td>Any text (blogs, ads, social, email)</td><td>Social media posts only</td></tr>
 <tr><td>Graphics</td><td>Not included</td><td>Included</td></tr>
 <tr><td>Scheduling/publishing</td><td>Not included</td><td>Included — automatic</td></tr>
@@ -61,4 +61,4 @@ Copy.ai writes text. Glow Social publishes posts. If you only need social media 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

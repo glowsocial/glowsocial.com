@@ -50,7 +50,7 @@ These pillars tell the automation platform what territory to stay in.
 ### Step 2: Pick the right platform for your needs
 
 - **You have time to write but not to schedule:** Buffer, Later, or Hootsuite
-- **You have zero time to write or schedule:** Glow Social ($49/month, fully automated)
+- **You have zero time to write or schedule:** Glow Social ($99/month, fully automated)
 - **You have a social media person who needs to work faster:** Metricool or Vista Social
 
 Most local businesses I talk to fall firmly in the third category — nobody on staff with time to do this consistently.
@@ -83,6 +83,6 @@ Think of automation as your baseline floor. Everything above that floor is bonus
 
 ## Ready to Stop Thinking About This?
 
-If the goal is to get off the content creation treadmill entirely, [Glow Social](https://glowsocial.com) is built exactly for this. It generates and publishes 12+ posts per month across your social platforms automatically — no weekly effort required. For $49/month, most small business owners find it's one of the easiest ROI calculations they make all year.
+If the goal is to get off the content creation treadmill entirely, [Glow Social](https://glowsocial.com) is built exactly for this. It generates and publishes 12+ posts per month across your social platforms automatically — no weekly effort required. For $99/month, most small business owners find it's one of the easiest ROI calculations they make all year.
 
 Consistent social presence. Zero hours per week. [See how it works →](https://glowsocial.com)

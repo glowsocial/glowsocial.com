@@ -5,11 +5,11 @@ slug: "roi-social-media-local-business"
 date: "2026-01-29"
 faqs:
   - q: "How much does done-for-you social media cost?"
-    a: "Done-for-you social media services range from $49/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
+    a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
   - q: "Is social media management worth the investment for small businesses?"
-    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $49/month."
+    a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Before you invest in social media tools—or automated posting like Glow Social—it's worth understanding what social media can and can't do for a local business. Spoiler: It's usually not the biggest lever for getting customers, but it does play an important supporting role.
@@ -106,7 +106,7 @@ For most local businesses, social media should be a low-cost, low-time-investmen
 
 <ul>
 <li>DIY: 2-4 hours/month max (using batching)</li>
-<li>Automated: 5 minutes setup (using Glow Social at $49/month)</li>
+<li>Automated: 5 minutes setup (using Glow Social at $99/month)</li>
 </ul>
 
 <strong>Mental investment:</strong>
@@ -121,7 +121,7 @@ For most local businesses, social media should be a low-cost, low-time-investmen
 
 <ul>
 <li>DIY tools: $0-50/month</li>
-<li>Automated posting: $49/month</li>
+<li>Automated posting: $99/month</li>
 <li>Full-service management: Only if you have $500+/month budget</li>
 </ul>
 
@@ -158,7 +158,7 @@ None of this shows up in week one. It accumulates.
 
 ## Getting Started
 
-For consistent social posting without significant time investment, Glow Social handles 12 posts/month for $49. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For consistent social posting without significant time investment, Glow Social handles 12 posts/month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 The key is maintaining presence long enough to see results—not expecting instant payoff.
@@ -170,7 +170,7 @@ The key is maintaining presence long enough to see results—not expecting insta
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Plumbing business?

@@ -5,7 +5,7 @@ slug: "consistent-social-media-without-burnout"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
@@ -111,7 +111,7 @@ Consistent 3x/week beats ambitious 7x/week that collapses after two weeks.
 If consistency is the goal and creating content is the problem, remove yourself from the equation:
 
 
-<strong>Glow Social</strong> creates and publishes 12 posts per month automatically for $49. You set it up once (5 minutes), and posts go out whether you're busy, on vacation, or just don't feel like thinking about social media.
+<strong>Glow Social</strong> creates and publishes 12 posts per month automatically for $99. You set it up once (5 minutes), and posts go out whether you're busy, on vacation, or just don't feel like thinking about social media.
 
 
 No batching needed. No content calendar to manage. No "what should I post?" ever again.
@@ -161,7 +161,7 @@ Neither answer is wrong. But choosing the approach that matches your preference 
 
 ## Getting Started
 
-For automated consistency, Glow Social handles posting for $49/month with 5-minute setup at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated consistency, Glow Social handles posting for $99/month with 5-minute setup at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 For DIY consistency, start with monthly batching: block 3 hours on the first of next month and create everything then.
@@ -173,4 +173,4 @@ For DIY consistency, start with monthly batching: block 3 hours on the first of 
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

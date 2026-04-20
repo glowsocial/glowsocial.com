@@ -56,7 +56,7 @@ Sometimes you need a reminder about why social media matters for your business. 
 
 **Takeaway:** Good content gets amplified by social media algorithms because people engage with it, share it, and save it. Bad content stays invisible no matter how many platforms you post to. Quality matters — a single helpful tip post will outperform ten generic "Happy Monday" graphics.
 
-**In practice:** Before publishing any post, ask: "Would my ideal customer find this useful, interesting, or entertaining?" If the answer is no, rethink it. The [5-category content framework](/blog/why-is-content-strategy-important-for-social-media-success) helps ensure every post has purpose.
+**In practice:** Before publishing any post, ask: "Would my ideal customer find this useful, interesting, or entertaining?" If the answer is no, rethink it. The [5-category content framework](/blog/why-is-content-strategy-important-for-social-media-success) gives every post a clear purpose.
 
 > "In a world full of ads, be a conversation."
 
@@ -82,7 +82,7 @@ Sometimes you need a reminder about why social media matters for your business. 
 
 **Takeaway:** Every potential customer who checks your Facebook page and sees silence is a potential customer lost. The financial cost of inactive social media is invisible but real — lost leads, lost trust, lost business to competitors who show up consistently.
 
-**In practice:** Calculate what one lost customer costs your business. For most local businesses, it's $200-2,000 per customer. Now compare that to $49/month for consistent social media. The math makes the decision obvious.
+**In practice:** Calculate what one lost customer costs your business. For most local businesses, it's $200-2,000 per customer. Now compare that to $99/month for consistent social media. The math makes the decision obvious.
 
 > "The secret of getting ahead is getting started." — Mark Twain
 
@@ -112,7 +112,7 @@ That's exactly why systems exist. Whether it's the [OBA framework](/blog/automat
 
 [Glow Social](/how-glow-social-works) is the system that runs without your ongoing effort. We create professional content, design graphics, and publish across 13 platforms — so you stay inspired without spending hours on execution.
 
-**$49/month.** [Get Started](https://app.glowsocial.com/)
+**$99/month.** [Get Started](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Plumbing business?

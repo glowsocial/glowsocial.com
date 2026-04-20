@@ -11,7 +11,7 @@ faqs:
   - q: "Is Facebook still worth it for small businesses in 2026?"
     a: "Yes. Facebook has 3.07 billion monthly active users and remains the #1 platform where customers look up local businesses. An empty or outdated Facebook page can cost you customers — 78% of consumers check a business's social media before making a purchase decision."
   - q: "How can I post on Facebook without spending hours?"
-    a: "The fastest approach is done-for-you posting software like Glow Social ($49/month, 12 automatic posts). For DIY, batch-create a month of posts in 2-3 hours using templates, then schedule them with a free tool like Buffer. The key is doing it all at once rather than trying to post daily."
+    a: "The fastest approach is done-for-you posting software like Glow Social ($99/month, 12 automatic posts). For DIY, batch-create a month of posts in 2-3 hours using templates, then schedule them with a free tool like Buffer. The key is doing it all at once rather than trying to post daily."
 ---
 
 Most Facebook guides tell you to post daily, engage with every comment, run Facebook Ads, go live weekly, and join every relevant group.
@@ -92,14 +92,14 @@ Don't try to post in real-time. Instead:
 
 Total time: 2 hours per month. Compare that to the 10-15 hours most guides recommend.
 
-## The Even Easier Option: $49/Month, Zero Hours
+## The Even Easier Option: $99/Month, Zero Hours
 
 If 2 hours per month is still more than you want to spend, done-for-you services handle everything:
 
 <table>
 <tr><th>Approach</th><th>Monthly Cost</th><th>Your Time</th><th>Posts/Month</th></tr>
 <tr><td>DIY with free scheduler</td><td>$0</td><td>2-3 hours</td><td>12</td></tr>
-<tr><td><strong>Glow Social (done-for-you)</strong></td><td>$49</td><td>5 minutes</td><td>12</td></tr>
+<tr><td><strong>Glow Social (done-for-you)</strong></td><td>$99</td><td>5 minutes</td><td>12</td></tr>
 <tr><td>Freelance social media manager</td><td>$300-500</td><td>1-2 hours (managing them)</td><td>15-20</td></tr>
 </table>
 
@@ -119,13 +119,13 @@ Glow Social creates posts based on your business, generates images, and publishe
 
 Facebook for small business isn't about becoming a content creator. It's about keeping your business looking active and trustworthy online. Three posts per week, rotated across 4 categories, batched in 2 hours per month.
 
-If even that's too much, <a href="https://glowsocial.com">Glow Social handles it for $49/month</a>.
+If even that's too much, <a href="https://glowsocial.com">Glow Social handles it for $99/month</a>.
 
 Related: [Do I Even Need Social Media?](/blog/do-i-need-social-media-for-my-business) · [Done-For-You vs. DIY](/blog/done-for-you-vs-diy-social-media) · [Compare All Solutions](/blog/compare)
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Accountant business?

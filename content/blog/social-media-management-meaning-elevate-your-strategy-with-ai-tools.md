@@ -7,9 +7,9 @@ faqs:
   - q: "What does social media management mean?"
     a: "Social media management is the process of creating, scheduling, publishing, and monitoring content across social media platforms for a business. It includes content strategy, graphic design, community engagement, analytics tracking, and reputation management."
   - q: "How much does social media management cost for a small business?"
-    a: "Social media management costs range from $49/month for AI-powered done-for-you services like Glow Social, to $300-500/month for a freelancer, to $2,000-5,000/month for a full-service agency. DIY costs $0-100/month in tools but 5-10 hours of your time."
+    a: "Social media management costs range from $99/month for AI-powered done-for-you services like Glow Social, to $300-500/month for a freelancer, to $2,000-5,000/month for a full-service agency. DIY costs $0-100/month in tools but 5-10 hours of your time."
   - q: "Can I manage social media for my business myself?"
-    a: "Yes, but it typically requires 5-10 hours per month for content creation, design, scheduling, and monitoring. Most small business owners find this unsustainable alongside running their business. Done-for-you services like Glow Social handle everything for $49/month."
+    a: "Yes, but it typically requires 5-10 hours per month for content creation, design, scheduling, and monitoring. Most small business owners find this unsustainable alongside running their business. Done-for-you services like Glow Social handle everything for $99/month."
 ---
 
 Social media management is the process of creating, scheduling, publishing, and monitoring content across social media platforms. For local businesses, it's how you stay visible to customers who spend hours every day on their phones — and it's more involved than most business owners realize when they first sign up for a Facebook page.
@@ -89,13 +89,13 @@ A social media agency provides team-based service — strategy, content, design,
 **Reality check:** Excellent service, but expensive for most local businesses. Common contracts run 6-12 months, which means a significant commitment.
 
 ### 4. Done-for-You AI Service
-**Cost:** $49/month
+**Cost:** $99/month
 **Time:** 5 minutes setup, minimal ongoing
 **Best for:** Local businesses that want consistent posting without significant time or budget
 
 Services like [Glow Social](/how-glow-social-works) use AI to read your website, create custom content with professional graphics, and publish across multiple platforms automatically. You review and approve — that's your total involvement.
 
-**Reality check:** You won't get the custom photography and real-time engagement of an agency. But for most local businesses, consistent professional content at $49/month solves the core problem: keeping your pages active and credible.
+**Reality check:** You won't get the custom photography and real-time engagement of an agency. But for most local businesses, consistent professional content at $99/month solves the core problem: keeping your pages active and credible.
 
 ## Choosing What to Manage vs. What to Automate
 
@@ -127,9 +127,9 @@ That means doing nothing costs $2,400-24,000 per year in lost business. Compare 
 You don't need to master every aspect of social media management from day one. Start with the approach that matches your current time and budget:
 
 - **No budget, some time:** Start DIY with our [content strategy guide](/blog/why-is-content-strategy-important-for-social-media-success)
-- **Some budget, no time:** Try [Glow Social at $49/month](/how-glow-social-works) for done-for-you basics
+- **Some budget, no time:** Try [Glow Social at $99/month](/how-glow-social-works) for done-for-you basics
 - **Larger budget, growth goals:** Consider a freelancer or agency for comprehensive service
 
 For a detailed cost comparison across all options, see our [done-for-you social media cost breakdown](/blog/done-for-you-social-media-cost).
 
-[Get Started with Glow Social — $49/month](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month](https://app.glowsocial.com/)

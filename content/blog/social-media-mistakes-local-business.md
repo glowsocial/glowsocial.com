@@ -9,7 +9,7 @@ faqs:
   - q: "What happens if you stop posting on social media?"
     a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $49/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Most small business owners know they should post consistently on social media, but something always gets in the way. The usual pattern: Start strong, get busy with work, stop posting, feel guilty, repeat. If social media isn't working for your business, it's probably one of these common mistakes—and most of them have simple fixes.
@@ -23,7 +23,7 @@ Most small business owners know they should post consistently on social media, b
 <strong>Why it happens:</strong> Social media feels urgent until business gets busy, then it drops to the bottom of the list.
 
 
-<strong>The fix:</strong> Either batch-create content monthly or use automated posting software. Glow Social publishes 12 posts per month automatically for $49—no matter how busy you get.
+<strong>The fix:</strong> Either batch-create content monthly or use automated posting software. Glow Social publishes 12 posts per month automatically for $99—no matter how busy you get.
 
 
 ## 2. Only Posting When You Need Customers
@@ -111,7 +111,7 @@ Most small business owners know they should post consistently on social media, b
 <strong>Why it happens:</strong> Perfectionism, overthinking, or inefficient workflow.
 
 
-<strong>The fix:</strong> Use batch creation (all content in one session) or automated posting. You shouldn't spend more than 2-3 hours per month on social media—or $49/month for Glow Social to handle it automatically.
+<strong>The fix:</strong> Use batch creation (all content in one session) or automated posting. You shouldn't spend more than 2-3 hours per month on social media—or $99/month for Glow Social to handle it automatically.
 
 
 ## 10. Ignoring Google Business Profile
@@ -136,7 +136,7 @@ Two solutions:
 <strong>System approach:</strong> Batch-create content monthly, use templates, and make it part of your routine.
 
 
-<strong>Automation approach:</strong> Use software like Glow Social ($49/month) to handle posting automatically, so you can focus on the activities that actually generate revenue.
+<strong>Automation approach:</strong> Use software like Glow Social ($99/month) to handle posting automatically, so you can focus on the activities that actually generate revenue.
 
 
 Either way, the goal is consistency without burnout.
@@ -165,7 +165,7 @@ Fix the checked items and your social media will improve significantly.
 
 ## Getting Started
 
-For automated, consistent posting, Glow Social handles content creation and publishing for $49/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For automated, consistent posting, Glow Social handles content creation and publishing for $99/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>
@@ -174,4 +174,4 @@ For automated, consistent posting, Glow Social handles content creation and publ
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

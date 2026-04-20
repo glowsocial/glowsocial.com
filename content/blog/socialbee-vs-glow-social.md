@@ -7,12 +7,12 @@ faqs:
   - q: "What is the difference between SocialBee and Glow Social?"
     a: "SocialBee is a DIY scheduling tool for managing content queues and categories. Glow Social is a done-for-you service that creates, designs, and publishes content automatically. SocialBee requires hours of your time; Glow Social requires minutes."
   - q: "Is SocialBee or Glow Social better for local businesses?"
-    a: "Glow Social is better for local businesses because it handles everything — content creation, graphic design, and publishing — for $49/month. SocialBee requires you to create all content yourself."
+    a: "Glow Social is better for local businesses because it handles everything — content creation, graphic design, and publishing — for $99/month. SocialBee requires you to create all content yourself."
   - q: "Can Glow Social replace SocialBee?"
     a: "Yes. If your goal is a professional social media presence without writing posts yourself, Glow Social replaces both your scheduling tool and your content creation process for one flat monthly fee."
 ---
 
-SocialBee and Glow Social both promise to simplify social media, but they work differently. <strong>SocialBee</strong> is a scheduling and management tool with AI features—you still create content, it helps organize and recycle it. <strong>Glow Social</strong> creates and publishes content automatically—12 posts per month for $49 without requiring you to write or schedule anything.
+SocialBee and Glow Social both promise to simplify social media, but they work differently. <strong>SocialBee</strong> is a scheduling and management tool with AI features—you still create content, it helps organize and recycle it. <strong>Glow Social</strong> creates and publishes content automatically—12 posts per month for $99 without requiring you to write or schedule anything.
 
 
 The choice depends on how much of the work you want to do yourself.
@@ -25,7 +25,7 @@ The choice depends on how much of the work you want to do yourself.
 <tr><td>What it does</td><td>Scheduling + AI content assistance</td><td>Automated content creation + publishing</td></tr>
 <tr><td>Your role</td><td>Create/curate content, organize, manage calendar</td><td>5-minute setup, occasional approvals</td></tr>
 <tr><td>Time required</td><td>2-4 hours/month</td><td>5 minutes setup, minimal ongoing</td></tr>
-<tr><td>Price</td><td>$29-99/month depending on features</td><td>$49/month</td></tr>
+<tr><td>Price</td><td>$29-99/month depending on features</td><td>$99/month</td></tr>
 <tr><td>AI features</td><td>AI Copilot for content generation</td><td>Full auto-creation</td></tr>
 <tr><td>Content recycling</td><td>Yes, evergreen content reposting</td><td>Fresh content each month</td></tr>
 </table>
@@ -139,7 +139,7 @@ Choose based on how you want to work: hands-on management (SocialBee) or hands-o
 SocialBee is a powerful tool for people who want to manage their social media strategy with AI assistance. Glow Social is for people who want social media handled automatically without ongoing involvement.
 
 
-If you want to manage content with help, SocialBee is excellent. If you want posting handled for you, Glow Social does that for $49/month with 5 minutes of setup at <a href="https://glowsocial.com">glowsocial.com</a>.
+If you want to manage content with help, SocialBee is excellent. If you want posting handled for you, Glow Social does that for $99/month with 5 minutes of setup at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>
@@ -148,4 +148,4 @@ If you want to manage content with help, SocialBee is excellent. If you want pos
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $49/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

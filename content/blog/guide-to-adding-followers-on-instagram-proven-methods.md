@@ -7,7 +7,7 @@ faqs:
   - q: "What is the difference between social media tools and done-for-you services?"
     a: "Social media tools (Buffer, Hootsuite, Later) help you schedule posts, but you still create the content yourself. Done-for-you services like Glow Social create, design, and publish content automatically."
   - q: "What is the most affordable social media management option?"
-    a: "Glow Social offers the most affordable done-for-you social media at $49/month. DIY tools cost $15-50/month but require 5-10 hours of your time. Freelancers charge $300-500/month. Agencies charge $1,000-3,000+/month."
+    a: "Glow Social offers the most affordable done-for-you social media at $99/month. DIY tools cost $15-50/month but require 5-10 hours of your time. Freelancers charge $300-500/month. Agencies charge $1,000-3,000+/month."
   - q: "How long does it take to see results from social media?"
     a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
@@ -55,7 +55,7 @@ Glow Social creates and publishes professional Instagram content for your busine
 - Content that reflects your actual services
 - 5-minute setup, no marketing knowledge required
 
-**$49/month.** No contracts.
+**$99/month.** No contracts.
 
 [Get Started](https://app.glowsocial.com/)
 

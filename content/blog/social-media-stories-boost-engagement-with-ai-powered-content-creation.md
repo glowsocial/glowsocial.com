@@ -5,7 +5,7 @@ slug: "social-media-stories-boost-engagement-with-ai-powered-content-creation"
 date: "2025-01-16"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $49/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
@@ -47,7 +47,7 @@ Glow Social handles your social media content end-to-end. We read your website, 
 
 While Stories require real-time content, Glow Social ensures your **feed posts** are always active — so even when you're too busy for Stories, your business looks alive and professional.
 
-[Get Started — $49/month](https://app.glowsocial.com/)
+[Get Started — $99/month](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Roofing business?

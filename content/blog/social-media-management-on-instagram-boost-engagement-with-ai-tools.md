@@ -5,7 +5,7 @@ slug: "social-media-management-on-instagram-boost-engagement-with-ai-tools"
 date: "2024-12-24"
 faqs:
   - q: "How should a local business manage Instagram?"
-    a: "Local businesses should focus on visual content showcasing their work, maintain a consistent posting schedule of 3-5 times per week, use Instagram Stories for behind-the-scenes content, optimize their bio with a clear CTA, and engage with comments and DMs promptly. AI tools can handle content creation and posting for as little as $49/month."
+    a: "Local businesses should focus on visual content showcasing their work, maintain a consistent posting schedule of 3-5 times per week, use Instagram Stories for behind-the-scenes content, optimize their bio with a clear CTA, and engage with comments and DMs promptly. AI tools can handle content creation and posting for as little as $99/month."
   - q: "How often should a small business post on Instagram?"
     a: "Small businesses should aim for 3-5 feed posts per week and 3-7 Stories per week. Consistency is more important than frequency — posting 3 times per week every week is better than posting daily for a week and then going quiet for a month."
   - q: "Is Instagram worth it for local businesses?"
@@ -153,7 +153,7 @@ You don't need to master Instagram overnight. Start with what's sustainable:
 
 For a hands-off approach, [Glow Social](/how-glow-social-works) creates Instagram-ready posts with professional graphics and publishes them automatically. 12+ posts per month, custom graphics, all platforms included.
 
-**$49/month.** [Get Started](https://app.glowsocial.com/)
+**$99/month.** [Get Started](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Plumbing business?

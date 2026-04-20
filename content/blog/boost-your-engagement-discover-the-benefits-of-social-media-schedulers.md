@@ -7,7 +7,7 @@ faqs:
   - q: "What are the benefits of using a social media scheduler?"
     a: "Social media schedulers provide 5 key benefits: consistency without daily effort, optimal posting times based on audience data, multi-platform management from one dashboard, analytics and performance insights, and team collaboration features. They save 1-2 hours per month compared to manual posting."
   - q: "Which social media scheduler is best for small businesses?"
-    a: "Buffer ($6/month) is the best value for small businesses wanting simple scheduling. Later ($25/month) is ideal for visual planning and Instagram. Hootsuite ($99/month) offers the most features. For businesses wanting everything handled — not just scheduling — Glow Social ($49/month) includes content creation, design, AND publishing."
+    a: "Buffer ($6/month) is the best value for small businesses wanting simple scheduling. Later ($25/month) is ideal for visual planning and Instagram. Hootsuite ($99/month) offers the most features. For businesses wanting everything handled — not just scheduling — Glow Social ($99/month) includes content creation, design, AND publishing."
   - q: "Is a social media scheduler the same as social media management?"
     a: "No. A scheduler handles only the publishing portion — setting posts to go live at specific times. Social media management also includes content creation, graphic design, strategy, community engagement, and analytics. Schedulers handle about 20% of the total social media management process."
 ---
@@ -141,7 +141,7 @@ Hire someone to handle content creation, design, and scheduling. You focus on ap
 Services like [Glow Social](/how-glow-social-works) handle everything — content creation, graphic design, platform formatting, and publishing. No scheduling tool needed because there's nothing for you to schedule.
 
 **Time savings:** 5 minutes setup, minimal ongoing involvement
-**Monthly cost:** $49
+**Monthly cost:** $99
 **Trade-off:** Less creative control than DIY, but actual consistency instead of aspirational consistency
 
 For a deeper comparison of these options, see our [complete guide to automated social media](/blog/automated-social-media-local-business) or our [scheduling tools vs. done-for-you analysis](/blog/what-is-media-scheduling-boost-your-social-media-strategy-effortlessly).
@@ -152,7 +152,7 @@ Social media schedulers are useful tools that solve a real problem. If you alrea
 
 But if your challenge is creating the content — not distributing it — then a scheduler alone won't solve your social media problem. Look at the full picture and choose the approach that matches your actual bandwidth.
 
-[Get Started with Glow Social — $49/month, no contracts](https://app.glowsocial.com/)
+[Get Started with Glow Social — $99/month, no contracts](https://app.glowsocial.com/)
 
 
 ### Want to see what Glow Social can do for your Salon business?

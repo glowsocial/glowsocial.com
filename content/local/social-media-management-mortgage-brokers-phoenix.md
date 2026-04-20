@@ -1,13 +1,13 @@
 ---
 title: "Social Media Management for Mortgage Brokers in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for mortgage brokers in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $49/mo."
+description: "Looking for affordable social media management for mortgage brokers in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
 slug: "social-media-management-mortgage-brokers-phoenix"
 date: "2026-03-17"
 city: "Phoenix"
 type: "local"
 ---
 
-**Looking for social media for your mortgage brokerage in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $49/month without the need to hire an expensive local agency.
+**Looking for social media for your mortgage brokerage in Phoenix?** Glow Social is a completely done-for-you social media management system that automatically creates and publishes highly-converting content for $99/month without the need to hire an expensive local agency.
 
 Phoenix real estate is booming, and every home purchase needs a lender. But most mortgage brokers rely entirely on referral relationships with real estate agents. That works — until it doesn't. When referrals slow down, the brokers with a visible social media presence are the ones who still have a pipeline.
 
@@ -27,7 +27,7 @@ Instead of paying agency rates or letting your social media go dark between clos
 *   **Industry-Specific Content:** We create content about rate trends, homebuyer tips, first-time buyer education, and refinancing strategies — not generic finance fluff.
 *   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
-*   **Flat $49/Month:** Less than a single loan origination fee.
+*   **Flat $99/Month:** Less than a single loan origination fee.
 
 ## Don't Let Your Phoenix Competition Win
 
@@ -52,7 +52,7 @@ Absolutely. Home purchasing decisions start 12–18 months before the actual tra
 ## Frequently Asked Questions
 
 ### How much does social media management for mortgage brokers in Phoenix cost?
-Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $49/month.
+Local agencies in Phoenix typically charge $1,500+ per month. Glow Social provides automated, done-for-you social media management across 4 platforms for just $99/month.
 
 ### What should a mortgage broker post on social media?
 Effective content for mortgage professionals includes rate update commentary, homebuyer tips, closing day celebrations, market insights, and educational content about loan types. Glow Social generates this automatically.

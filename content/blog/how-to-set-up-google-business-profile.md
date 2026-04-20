@@ -9,7 +9,7 @@ faqs:
   - q: "Is Google Business Profile free?"
     a: "Yes. Google Business Profile is completely free to create and maintain. There are no paid tiers. You can also post updates and respond to reviews at no cost."
   - q: "Can I post to Google Business Profile automatically?"
-    a: "Yes. Tools like Glow Social publish posts directly to your Google Business Profile alongside your other social media platforms for $49/month. Most scheduling tools like Buffer and Later don't support GBP at all."
+    a: "Yes. Tools like Glow Social publish posts directly to your Google Business Profile alongside your other social media platforms for $99/month. Most scheduling tools like Buffer and Later don't support GBP at all."
 ---
 
 Google Business Profile (formerly Google My Business) is the single most important free tool for local businesses. It's the box that shows up when someone Googles your business name — with your hours, photos, reviews, and a link to call you.
@@ -149,7 +149,7 @@ If this sounds like you, there are two options:
 
 **Option 1: DIY posting.** Set a calendar reminder every Monday to create and publish a GBP post. It takes about 15 minutes. Most people do this for 3-4 weeks before it falls off.
 
-**Option 2: Automate it.** Tools like [Glow Social](/blog/done-for-you-social-media-guide) publish posts directly to your Google Business Profile alongside Facebook, Instagram, LinkedIn, and 10 other platforms — automatically. You approve the content, and it handles the rest for [$49/month](/blog/done-for-you-social-media-cost).
+**Option 2: Automate it.** Tools like [Glow Social](/blog/done-for-you-social-media-guide) publish posts directly to your Google Business Profile alongside Facebook, Instagram, LinkedIn, and 10 other platforms — automatically. You approve the content, and it handles the rest for [$99/month](/blog/done-for-you-social-media-cost).
 
 Most social media tools (Buffer, Later, Hootsuite) [don't support Google Business Profile at all](/blog/buffer-vs-glow-social). That's a problem, because GBP posts directly influence your local search ranking in a way that Instagram posts never will.
 
@@ -182,7 +182,7 @@ GBP and social media serve different functions:
 
 The answer isn't one or the other — it's both. Your Google Business Profile gets you found. Your [social media proves you're worth calling](/blog/why-customers-check-social-media-before-calling).
 
-That's why we built [Glow Social](https://glowsocial.com) to handle both simultaneously — GBP posts and social media posts from the same dashboard, same content, same $49/month.
+That's why we built [Glow Social](https://glowsocial.com) to handle both simultaneously — GBP posts and social media posts from the same dashboard, same content, same $99/month.
 
 ## Get Started
 
