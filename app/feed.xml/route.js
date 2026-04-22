@@ -19,15 +19,11 @@ function escapeXml(str) {
 }
 
 /**
- * Build a Pinterest-optimized OG image URL for a post.
- * Uses the live /api/og route — 1000×1500, 2:3 ratio.
+ * Build a Pinterest-optimized static image URL for a post.
+ * Uses pre-generated static PNGs in /pins/ — 1000×1500, 2:3 ratio.
  */
 function buildImageUrl(post) {
-  const params = new URLSearchParams({
-    title: post.title || "",
-    description: post.description || "",
-  });
-  return `${BASE_URL}/api/og?${params.toString()}`;
+  return `${BASE_URL}/pins/${post.slug}.png`;
 }
 
 /**

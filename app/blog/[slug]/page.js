@@ -210,7 +210,7 @@ export default async function BlogPostPage({ params }) {
       <div className="pinterest-image-block">
         <p className="pinterest-label">📌 Save this to Pinterest</p>
         <img
-          src={`/api/og?title=${encodeURIComponent(post.title)}&description=${encodeURIComponent(post.description || "")}`}
+          src={`/pins/${post.slug}.png`}
           alt={post.title}
           width={500}
           height={750}
