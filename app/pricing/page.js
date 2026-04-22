@@ -105,6 +105,31 @@ export default function PricingPage() {
         </div>
       </section>
 
+      {/* ============ SEE HOW IT WORKS ============ */}
+      <section className="pricing-compare" style={{ paddingBottom: 0 }}>
+        <div className="container">
+          <h2>See How It Works</h2>
+          <p className="section-sub">From signup to your first posts in under 5 minutes.</p>
+          <div style={{
+            maxWidth: 720,
+            margin: '0 auto',
+            borderRadius: 16,
+            overflow: 'hidden',
+            boxShadow: '0 4px 24px rgba(0,0,0,0.10)'
+          }}>
+            <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0 }}>
+              <iframe
+                style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 'none' }}
+                src="https://www.youtube.com/embed/zwLom-42Y8E"
+                title="Getting Started with Glow Social"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* ============ FEATURE COMPARISON TABLE ============ */}
       <section className="pricing-compare">
         <div className="container">
