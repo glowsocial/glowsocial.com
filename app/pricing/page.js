@@ -26,63 +26,6 @@ export default function PricingPage() {
         </div>
       </section>
 
-      {/* ============ QUICK START SERVICES ============ */}
-      <section className="pricing" style={{ paddingBottom: 0 }}>
-        <div className="container">
-          <div style={{ textAlign: 'center', marginBottom: 32 }}>
-            <h2>Need Help Getting Started?</h2>
-            <p className="section-sub">
-              Not sure about the tech side? We&apos;ll handle it for you.
-            </p>
-          </div>
-          <div className="pricing-grid" style={{ maxWidth: 720, margin: '0 auto' }}>
-            {/* Website Quick Start */}
-            <div className="price-card">
-              <h3>Website Quick Start</h3>
-              <div className="price">
-                <span className="price-amount">$999</span>
-                <span className="price-period">one-time</span>
-              </div>
-              <ul>
-                <li>Up to <strong>5-page</strong> professional website</li>
-                <li><strong>Mobile responsive</strong> design</li>
-                <li>Ready in <strong>48 hours</strong></li>
-                <li>Built to work with <strong>Glow Social</strong></li>
-              </ul>
-              <a
-                href="https://app.glowsocial.com/quick-start"
-                className="btn btn--outline"
-                id="pricing-website-quickstart-cta"
-              >
-                Get Started
-              </a>
-            </div>
-
-            {/* Profile Quick Start */}
-            <div className="price-card">
-              <h3>Profile Quick Start</h3>
-              <div className="price">
-                <span className="price-amount">$299</span>
-                <span className="price-period">one-time</span>
-              </div>
-              <ul>
-                <li><strong>Facebook</strong> business profile setup</li>
-                <li>Professional <strong>bio &amp; about</strong> section</li>
-                <li>Cover &amp; profile <strong>images</strong> configured</li>
-                <li>Ready in <strong>72 hours</strong></li>
-              </ul>
-              <a
-                href="https://app.glowsocial.com/quick-start"
-                className="btn btn--outline"
-                id="pricing-profile-quickstart-cta"
-              >
-                Get Started
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* ============ PRICING CARDS ============ */}
       <section className="pricing" style={{ paddingTop: 40 }}>
         <div className="container">
@@ -154,6 +97,61 @@ export default function PricingPage() {
                 href="https://app.glowsocial.com/checkout?plan=unlimited"
                 className="btn btn--outline"
                 id="pricing-unlimited-cta"
+              >
+                Get Started
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ============ QUICK START SERVICES ============ */}
+      <section className="comparison">
+        <div className="container">
+          <h2>Need Help Getting Started?</h2>
+          <p className="section-sub">
+            Not sure about the tech side? We&apos;ll handle it for you.
+          </p>
+          <div className="pricing-grid" style={{ maxWidth: 800, margin: '0 auto', gap: 32 }}>
+            {/* Website Quick Start */}
+            <div className="price-card">
+              <h3>Website Quick Start</h3>
+              <div className="price">
+                <span className="price-amount">$999</span>
+                <span className="price-period">one-time</span>
+              </div>
+              <ul>
+                <li>Up to <strong>5-page</strong> professional website</li>
+                <li><strong>Mobile responsive</strong> design</li>
+                <li>Ready in <strong>48 hours</strong></li>
+                <li>Built to work with <strong>Glow Social</strong></li>
+              </ul>
+              <a
+                href="https://app.glowsocial.com/quick-start"
+                className="btn btn--outline"
+                id="pricing-website-quickstart-cta"
+              >
+                Get Started
+              </a>
+            </div>
+
+            {/* Profile Quick Start */}
+            <div className="price-card">
+              <h3>Profile Quick Start</h3>
+              <div className="price">
+                <span className="price-amount">$299</span>
+                <span className="price-period">one-time</span>
+              </div>
+              <ul>
+                <li><strong>Facebook</strong> business profile setup</li>
+                <li>Professional <strong>bio &amp; about</strong> section</li>
+                <li>Cover &amp; profile <strong>images</strong> configured</li>
+                <li>Ready in <strong>72 hours</strong></li>
+              </ul>
+              <a
+                href="https://app.glowsocial.com/quick-start"
+                className="btn btn--outline"
+                id="pricing-profile-quickstart-cta"
               >
                 Get Started
               </a>
