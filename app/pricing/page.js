@@ -108,53 +108,63 @@ export default function PricingPage() {
       {/* ============ QUICK START SERVICES ============ */}
       <section className="comparison">
         <div className="container">
-          <h2>Need Help Getting Started?</h2>
-          <p className="section-sub">
-            Not sure about the tech side? We&apos;ll handle it for you.
-          </p>
-          <div className="pricing-grid" style={{ maxWidth: 800, margin: '0 auto', gap: 32 }}>
-            {/* Website Quick Start */}
-            <div className="price-card">
-              <h3>Website Quick Start</h3>
-              <div className="price">
-                <span className="price-amount">$999</span>
-                <span className="price-period">one-time</span>
+          <div style={{
+            maxWidth: 720,
+            margin: '0 auto',
+            background: '#fff',
+            borderRadius: 16,
+            border: '1px solid #dde6ee',
+            padding: '40px 48px',
+            boxShadow: '0 2px 12px rgba(0,0,0,0.06)'
+          }}>
+            <h2 style={{ fontSize: '1.4rem', marginBottom: 4 }}>Need Help Getting Started?</h2>
+            <p className="section-sub" style={{ marginBottom: 32 }}>
+              Not sure about the tech side? We&apos;ll set everything up for you.
+            </p>
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 32 }}>
+              {/* Website Quick Start */}
+              <div>
+                <h3 style={{ fontSize: '1rem', letterSpacing: '0.08em', marginBottom: 8 }}>Website Quick Start</h3>
+                <p style={{ fontSize: '1.6rem', fontWeight: 700, color: '#192734', marginBottom: 12 }}>
+                  $999 <span style={{ fontSize: '0.85rem', fontWeight: 400, opacity: 0.6 }}>one-time</span>
+                </p>
+                <ul style={{ fontSize: '0.9rem', marginBottom: 20 }}>
+                  <li>Up to <strong>5-page</strong> professional website</li>
+                  <li><strong>Mobile responsive</strong> design</li>
+                  <li>Ready in <strong>48 hours</strong></li>
+                  <li>Built to work with <strong>Glow Social</strong></li>
+                </ul>
+                <a
+                  href="https://app.glowsocial.com/quick-start"
+                  className="btn btn--outline"
+                  id="pricing-website-quickstart-cta"
+                  style={{ fontSize: '0.8rem', padding: '10px 24px' }}
+                >
+                  Get Started
+                </a>
               </div>
-              <ul>
-                <li>Up to <strong>5-page</strong> professional website</li>
-                <li><strong>Mobile responsive</strong> design</li>
-                <li>Ready in <strong>48 hours</strong></li>
-                <li>Built to work with <strong>Glow Social</strong></li>
-              </ul>
-              <a
-                href="https://app.glowsocial.com/quick-start"
-                className="btn btn--outline"
-                id="pricing-website-quickstart-cta"
-              >
-                Get Started
-              </a>
-            </div>
 
-            {/* Profile Quick Start */}
-            <div className="price-card">
-              <h3>Profile Quick Start</h3>
-              <div className="price">
-                <span className="price-amount">$299</span>
-                <span className="price-period">one-time</span>
+              {/* Profile Quick Start */}
+              <div>
+                <h3 style={{ fontSize: '1rem', letterSpacing: '0.08em', marginBottom: 8 }}>Profile Quick Start</h3>
+                <p style={{ fontSize: '1.6rem', fontWeight: 700, color: '#192734', marginBottom: 12 }}>
+                  $299 <span style={{ fontSize: '0.85rem', fontWeight: 400, opacity: 0.6 }}>one-time</span>
+                </p>
+                <ul style={{ fontSize: '0.9rem', marginBottom: 20 }}>
+                  <li><strong>Facebook</strong> business profile setup</li>
+                  <li>Professional <strong>bio &amp; about</strong> section</li>
+                  <li>Cover &amp; profile <strong>images</strong> configured</li>
+                  <li>Ready in <strong>72 hours</strong></li>
+                </ul>
+                <a
+                  href="https://app.glowsocial.com/quick-start"
+                  className="btn btn--outline"
+                  id="pricing-profile-quickstart-cta"
+                  style={{ fontSize: '0.8rem', padding: '10px 24px' }}
+                >
+                  Get Started
+                </a>
               </div>
-              <ul>
-                <li><strong>Facebook</strong> business profile setup</li>
-                <li>Professional <strong>bio &amp; about</strong> section</li>
-                <li>Cover &amp; profile <strong>images</strong> configured</li>
-                <li>Ready in <strong>72 hours</strong></li>
-              </ul>
-              <a
-                href="https://app.glowsocial.com/quick-start"
-                className="btn btn--outline"
-                id="pricing-profile-quickstart-cta"
-              >
-                Get Started
-              </a>
             </div>
           </div>
         </div>
