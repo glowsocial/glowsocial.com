@@ -94,7 +94,7 @@ export default function About() {
           </p>
 
           <div className="about-cta">
-            <p className="about-cta-price">$49/month. No contracts. Cancel anytime.</p>
+            <p className="about-cta-price">No contracts. Cancel anytime.</p>
             <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg">
               Start Your Glow Social Account →
             </a>
