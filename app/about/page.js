@@ -57,21 +57,6 @@ export default function About() {
             </div>
           </section>
 
-          <h2>For the Locals</h2>
-          <p>
-            Glow Social exists because the best businesses in your town are
-            invisible online — and the worst ones have marketing departments.
-          </p>
-          <p>
-            We watched local business owners try to keep up with social media.
-            They'd post for a few weeks, get busy serving customers, and their
-            pages would go dark. Meanwhile, the chain across the street posted
-            daily because they have someone whose entire job is content.
-          </p>
-          <p>
-            That's not a fair fight. So we built something to fix it.
-          </p>
-
           <h2>What We Do</h2>
           <p>
             Glow Social creates and publishes social media content for local
@@ -80,8 +65,8 @@ export default function About() {
             your best day.
           </p>
           <p>
-            No templates. No generic content. No hours spent creating posts.
-            Just consistent, professional social media presence for $49/month.
+            No templates. No generic content. No hours spent staring at a blank
+            screen wondering what to post.
           </p>
 
           <h2>How It Works</h2>
@@ -103,24 +88,17 @@ export default function About() {
             If you live where you work and your success makes your community
             better — you're who we built this for.
           </p>
-
-          <h2>What We Believe</h2>
-          <p>Visibility shouldn't be a luxury only corporations can afford.</p>
           <p>
-            A business shouldn't lose customers because the owner was too busy
-            actually serving customers to post on social media.
-          </p>
-          <p>
-            Read our full <Link href="/manifesto">manifesto</Link>.
+            Visibility shouldn't be a luxury only corporations can afford.{" "}
+            <Link href="/manifesto">Read our manifesto</Link>.
           </p>
 
-          <h2>Get Started</h2>
-          <p>
-            $49/month. No contracts. Cancel anytime. Setup takes 5 minutes.
-          </p>
-          <p>
-            <a href="https://app.glowsocial.com/">Start your Glow Social account →</a>
-          </p>
+          <div className="about-cta">
+            <p className="about-cta-price">$49/month. No contracts. Cancel anytime.</p>
+            <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg">
+              Start Your Glow Social Account →
+            </a>
+          </div>
         </div>
       </article>
     </>

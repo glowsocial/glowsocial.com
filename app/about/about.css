@@ -55,6 +55,24 @@
   color: var(--navy) !important;
 }
 
+/* About CTA */
+.about-cta {
+  text-align: center;
+  margin-top: 56px;
+  padding: 48px 32px;
+  background: var(--navy);
+  border-radius: var(--radius-lg);
+}
+
+.about-cta-price {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: rgba(255,255,255,.8);
+  margin-bottom: 20px;
+  letter-spacing: 0.5px;
+}
+
 @media (max-width: 768px) {
   .founder-section {
     grid-template-columns: 1fr;
