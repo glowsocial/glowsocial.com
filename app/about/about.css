@@ -73,6 +73,12 @@
   letter-spacing: 0.5px;
 }
 
+.about-cta .btn {
+  color: var(--navy);
+  text-decoration: none;
+  font-weight: 600;
+}
+
 @media (max-width: 768px) {
   .founder-section {
     grid-template-columns: 1fr;
