@@ -39,7 +39,7 @@ export default function About() {
                 sizes grow their online presence.
               </p>
               <p>
-                But at a "local first" conference in 2023, I saw something that stuck
+                But at a <a href="https://www.localfirstaz.com" target="_blank" rel="noopener noreferrer">local first</a> conference in 2024, I saw something that stuck
                 with me: <strong>local business owners who were incredible at their
                 craft but completely invisible online.</strong>
               </p>
