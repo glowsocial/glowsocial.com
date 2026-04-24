@@ -64,7 +64,7 @@
   border-radius: var(--radius-lg);
 }
 
-.about-cta-price {
+.about-cta .about-cta-price {
   font-family: var(--font-heading);
   font-size: 1.15rem;
   font-weight: 600;
