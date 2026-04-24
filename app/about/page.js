@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
+import "./about.css";
 
 export const metadata = {
   title: "About Glow Social",
@@ -11,10 +13,49 @@ export default function About() {
       <section className="blog-hero">
         <div className="container">
           <h1>About Glow Social</h1>
+          <p>The marketing department local businesses deserve — but could never afford. Until now.</p>
         </div>
       </section>
+
       <article className="blog-post">
         <div className="blog-post-content">
+
+          <section className="founder-section">
+            <div className="founder-photo-wrap">
+              <Image
+                src="/images/kathleen-celmins-founder.jpg"
+                alt="Kathleen Celmins, founder of Glow Social, smiling at her desk"
+                width={400}
+                height={530}
+                className="founder-photo"
+                priority
+              />
+            </div>
+            <div className="founder-text">
+              <p className="founder-label">Meet the Founder</p>
+              <h2>Hi, I'm Kathleen.</h2>
+              <p>
+                I've spent 15+ years in digital marketing, helping businesses of all
+                sizes grow their online presence.
+              </p>
+              <p>
+                But at a "local first" conference in 2023, I saw something that stuck
+                with me: <strong>local business owners who were incredible at their
+                craft but completely invisible online.</strong>
+              </p>
+              <p>
+                The roofer who'd been in business 20 years — losing jobs to a franchise
+                with better social media. The wedding photographer whose stunning work
+                nobody could find. The coach with transformational results and zero
+                online presence.
+              </p>
+              <p>
+                They didn't need another tool to learn. They needed someone to
+                just <em>do it</em> for them.
+              </p>
+              <p className="founder-punchline">So I built Glow Social.</p>
+            </div>
+          </section>
 
           <h2>For the Locals</h2>
           <p>
