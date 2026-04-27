@@ -139,4 +139,6 @@ If you want to start posting consistently without spending hours you don't have:
 
 ---
 
+**Related guides:** [Best tools under $50/month](/blog/social-media-tools-under-50) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer Alternative](/compare/buffer-alternative) · [Hootsuite Alternative](/compare/hootsuite-alternative)
+
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
