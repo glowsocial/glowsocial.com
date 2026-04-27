@@ -1,6 +1,6 @@
 ---
-title: "Social Media Management for Hair Salons in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for hair salons in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
+title: "Social Media for Hair Salons in Phoenix — $99/Mo, Fill More Chairs"
+description: "Skip the $1,500/mo agency. Glow Social creates 12 salon-specific posts/month — style trends, transformations, and seasonal tips — published to Instagram, Facebook, and Google. $99/mo."
 slug: "social-media-management-hair-salons-phoenix"
 date: "2026-03-17"
 city: "Phoenix"

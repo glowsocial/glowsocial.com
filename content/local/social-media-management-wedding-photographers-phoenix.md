@@ -1,6 +1,6 @@
 ---
-title: "Social Media Management for Wedding Photographers in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for wedding photographers in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
+title: "Social Media for Wedding Photographers in Phoenix — $99/Mo, Stay Booked"
+description: "Too busy shooting to post? Glow Social creates 12 photographer-specific posts/month and publishes them to Instagram, Facebook, and Google — $99/mo, set up in 5 minutes."
 slug: "social-media-management-wedding-photographers-phoenix"
 date: "2026-02-23"
 city: "Phoenix"

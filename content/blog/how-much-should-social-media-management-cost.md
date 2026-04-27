@@ -1,6 +1,6 @@
 ---
-title: "How Much Should Social Media Management Cost? (The Real Numbers, Not Agency Math)"
-description: "Social media management costs range from $0 to $5,000+/month depending on what you actually get. Here's an honest breakdown of what's worth paying for — and what you're really comparing."
+title: "How Much Should Social Media Management Cost? $99 to $5,000 — Here's Why"
+description: "The same service costs $99/mo (AI) or $5,000/mo (agency). Here's an honest breakdown of what you actually get at each price point — and which one matches your business."
 slug: "how-much-should-social-media-management-cost"
 date: "2026-04-01"
 tags: ["pricing", "social-media-management", "small-business"]

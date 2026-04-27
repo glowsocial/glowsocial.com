@@ -1,6 +1,6 @@
 ---
-title: "Social Media Management Cost: Full Pricing Guide"
-description: "Social media management costs $0-3,000+/month depending on your approach. Compare true costs of DIY, scheduling tools, done-for-you AI, freelancers, and agencies — including the hidden cost of your time."
+title: "Social Media Management Pricing: DIY vs AI vs Agency (2026 Cost Breakdown)"
+description: "Complete pricing comparison: DIY tools ($0-50/mo + your time), AI done-for-you ($99/mo), freelancers ($300-800/mo), and agencies ($2,000+/mo). Includes hidden time costs most guides ignore."
 slug: "social-media-management-cost-pricing-guide"
 date: "2026-03-23"
 faqs:

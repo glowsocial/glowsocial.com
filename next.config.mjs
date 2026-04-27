@@ -94,6 +94,14 @@ const nextConfig = {
         permanent: true,
       },
 
+      // === "Social media manager cost" consolidation ===
+      // Thin (41 lines) page competing with the established cost guide (16,263 imp)
+      {
+        source: "/blog/how-much-does-a-social-media-manager-cost-2026",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+
       // === GSC duplicate URL fixes — root-level → /blog/ canonical ===
       // Root /social-media-caption-length had 1,443 impressions splitting with /blog/ version (5,010 imp)
       {

@@ -1,6 +1,6 @@
 ---
-title: "Social Media Management for Landscapers in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for landscapers in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
+title: "Social Media for Landscapers in Phoenix — $99/Mo, Posted For You"
+description: "Skip the $1,500/mo agency. Glow Social creates and publishes 12 landscaping posts/month to Facebook, Instagram, and Google Business Profile — all for $99/mo with 5-minute setup."
 slug: "social-media-management-landscapers-phoenix"
 date: "2026-03-17"
 city: "Phoenix"

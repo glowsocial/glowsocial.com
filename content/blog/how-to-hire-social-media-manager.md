@@ -1,6 +1,6 @@
 ---
-title: "How to Hire a Social Media Manager (2026 Guide)"
-description: "Everything you need to know before hiring a social media manager. What to pay, what to ask, red flags to watch for, and a $99/month alternative most businesses don't know about."
+title: "How to Hire a Social Media Manager in 2026: What to Pay, Ask & Avoid"
+description: "Freelancers charge $300-800/mo, agencies $2,000+. Here's how to vet candidates, 5 questions to ask before hiring, red flags that signal a bad fit, and a $99/mo alternative most businesses miss."
 slug: "how-to-hire-social-media-manager"
 date: "2026-03-26"
 faqs:

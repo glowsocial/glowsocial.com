@@ -1,6 +1,6 @@
 ---
-title: "Social Media Management for Dentists in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for dentists in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
+title: "Social Media for Dentists in Phoenix — $99/Mo, Zero Effort"
+description: "Skip the $1,500/mo agency. Glow Social creates and publishes 12 dental-specific posts/month to Facebook, Instagram, and Google Business Profile — $99/mo, 5-minute setup."
 slug: "social-media-management-dentists-phoenix"
 date: "2026-02-23"
 city: "Phoenix"
