@@ -1,6 +1,6 @@
 ---
-title: "Social Media Caption Length: Guide for Every Platform"
-description: "The perfect caption length for Instagram, Facebook, LinkedIn, TikTok, and Google Business Profile — backed by data. Plus tips on formatting, emojis, and hashtags."
+title: "Social Media Caption Length Guide 2026: Ideal Length for Every Platform"
+description: "Exact character limits and ideal caption lengths for Instagram (2,200 max), TikTok (4,000 max), Facebook, LinkedIn & more — updated for 2026 with engagement data and best practices."
 slug: "social-media-caption-length"
 date: "2026-03-23"
 faqs:

@@ -1,6 +1,6 @@
 ---
-title: "How Much Time Does Social Media Marketing Actually Take? (2026 Data)"
-description: "Small businesses spend 3-10 hours per week on social media. Here's the real breakdown by task, platform, and industry — plus how to cut that time to near zero."
+title: "How Much Time Does Social Media Take? 3-10 Hours/Week (2026 Data)"
+description: "Small businesses spend 3-10 hours per week on social media — here's exactly where that time goes, broken down by task and platform. Plus how to cut it to near zero."
 slug: "average-time-social-media-marketing"
 date: "2026-03-23"
 faqs:

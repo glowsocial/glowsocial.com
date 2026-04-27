@@ -107,6 +107,48 @@ const nextConfig = {
         destination: "/blog/later-vs-buffer-differences-comparison",
         permanent: true,
       },
+      // Root /freelance-social-media-manager-charge-cost — 671 impressions splitting with /blog/ (15,592 imp)
+      {
+        source: "/freelance-social-media-manager-charge-cost",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      // Root /ai-tools-vs-agencies-cost — 4,573 impressions splitting with /blog/ (581 imp)
+      {
+        source: "/ai-tools-vs-agencies-cost",
+        destination: "/blog/ai-tools-vs-agencies-cost",
+        permanent: true,
+      },
+      // Root /social-media-tools-under-50 — 3,284 impressions splitting with /blog/ (135 imp)
+      {
+        source: "/social-media-tools-under-50",
+        destination: "/blog/social-media-tools-under-50",
+        permanent: true,
+      },
+      // Root /best-affordable-social-media-management-small-business — 6,400 imp at position 21.99
+      {
+        source: "/best-affordable-social-media-management-small-business",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      // Root /social-media-restaurants — 1,169 imp splitting with /blog/
+      {
+        source: "/social-media-restaurants",
+        destination: "/blog/social-media-restaurants",
+        permanent: true,
+      },
+      // Root /social-media-home-services — 759 imp splitting with /blog/
+      {
+        source: "/social-media-home-services",
+        destination: "/blog/social-media-home-services",
+        permanent: true,
+      },
+      // Root /best-ai-social-media-content-generators — 701 imp splitting with /blog/ (652 imp)
+      {
+        source: "/best-ai-social-media-content-generators",
+        destination: "/blog/best-ai-social-media-content-generators",
+        permanent: true,
+      },
 
       // === "SM manager cost" cluster consolidation ===
       // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost

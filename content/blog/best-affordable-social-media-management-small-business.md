@@ -1,6 +1,6 @@
 ---
-title: "Best Affordable Social Media Management for Small Business (2026)"
-description: "The most affordable social media management options for small businesses, from free DIY tools to $99/month done-for-you services. Compare pricing, features, and time required for each option."
+title: "Affordable Social Media Management for Small Business: $0 to $99/mo (2026)"
+description: "Every affordable social media option ranked by true cost — free DIY tools ($0 + your time), scheduling apps ($15-50/mo), and done-for-you AI software ($99/mo). See which actually saves money."
 slug: "best-affordable-social-media-management-small-business"
 date: "2026-03-23"
 faqs:

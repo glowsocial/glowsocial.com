@@ -1,6 +1,6 @@
 ---
-title: "How Much Does a Social Media Manager Cost in 2026? (Full Pricing Guide)"
-description: "Social media manager pricing for small businesses: freelancers ($300-500/mo), agencies ($1,000-3,000/mo), and done-for-you software ($99/mo). Compare the real cost including your time."
+title: "How Much Does a Social Media Manager Cost? Freelance, Agency & Software Rates (2026)"
+description: "Freelance social media manager rates ($15-150/hr), agency retainers ($1,000-5,000/mo), and done-for-you software ($99/mo). Full 2026 pricing guide with real cost comparisons."
 slug: "freelance-social-media-manager-charge-cost"
 date: "2026-03-23"
 faqs:
