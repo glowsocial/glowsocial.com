@@ -347,8 +347,11 @@ h2 {
 
 /* Mobile Menu Panel */
 .mobile-menu {
-  position: fixed;
-  inset: 64px 0 0 0;
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
+  height: calc(100vh - 64px);
   background: var(--white);
   z-index: 150;
   overflow-y: auto;
