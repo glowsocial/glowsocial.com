@@ -139,7 +139,7 @@ export default async function ComparePage({ params }) {
           href="https://app.glowsocial.com/"
           className="btn btn--primary"
         >
-          Get Started — $49/mo
+          Get Started — $99/mo
         </a>
       </div>
     </article>
