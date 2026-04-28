@@ -1,17 +1,22 @@
 import "../home.css";
+import { getPricing } from "../pricing-config";
+
+// Force dynamic rendering so pricing is evaluated at request time, not build time
+export const dynamic = 'force-dynamic';
 
 export const metadata = {
-  title: "Pricing — Glow Social | Done-For-You Social Media from $49/mo",
+  title: "Pricing — Glow Social | Done-For-You Social Media",
   description:
-    "Simple, transparent pricing. No contracts, no hidden fees. Glow Social creates professional posts, publishes to 12 platforms including Google Business Profile, and monitors your reviews — starting at $49/month.",
+    "Simple, transparent pricing. No contracts, no hidden fees. Glow Social creates professional posts, publishes to 12 platforms including Google Business Profile, and monitors your reviews.",
   openGraph: {
     title: "Pricing — Glow Social",
     description:
-      "$49/mo social media — handled. 12 posts, 12 platforms, professional images. No contracts. Cancel anytime.",
+      "Done-for-you social media — handled. 12 posts, 12 platforms, professional images. No contracts. Cancel anytime.",
   },
 };
 
 export default function PricingPage() {
+  const pricing = getPricing();
   return (
     <>
       {/* ============ HERO ============ */}
@@ -34,7 +39,7 @@ export default function PricingPage() {
             <div className="price-card">
               <h3>Glo Core</h3>
               <div className="price">
-                <span className="price-amount">$49</span>
+                <span className="price-amount">{pricing.core.display}</span>
                 <span className="price-period">/month</span>
               </div>
               <ul>
@@ -58,7 +63,7 @@ export default function PricingPage() {
               <span className="popular-badge">Most Popular</span>
               <h3>Glo Pro</h3>
               <div className="price">
-                <span className="price-amount">$99</span>
+                <span className="price-amount">{pricing.pro.display}</span>
                 <span className="price-period">/month</span>
               </div>
               <ul>
@@ -83,7 +88,7 @@ export default function PricingPage() {
             <div className="price-card">
               <h3>Glo Unlimited</h3>
               <div className="price">
-                <span className="price-amount">$199</span>
+                <span className="price-amount">{pricing.unlimited.display}</span>
                 <span className="price-period">/month</span>
               </div>
               <ul>
@@ -213,9 +218,9 @@ export default function PricingPage() {
               <tbody>
                 <tr>
                   <td>Monthly price</td>
-                  <td>$49</td>
-                  <td className="highlight-col"><strong>$99</strong></td>
-                  <td>$199</td>
+                  <td>{pricing.core.display}</td>
+                  <td className="highlight-col"><strong>{pricing.pro.display}</strong></td>
+                  <td>{pricing.unlimited.display}</td>
                 </tr>
                 <tr>
                   <td>Posts per month</td>
@@ -301,7 +306,7 @@ export default function PricingPage() {
               <tbody>
                 <tr>
                   <td>Monthly cost</td>
-                  <td className="highlight-col"><strong>$49</strong></td>
+                  <td className="highlight-col"><strong>{pricing.core.display}</strong></td>
                   <td>$300–$750</td>
                   <td>$2,000+</td>
                   <td>Free*</td>
@@ -373,7 +378,7 @@ export default function PricingPage() {
             <details className="faq-item">
               <summary>How much does Glow Social cost?</summary>
               <p>
-                Glow Social Core costs $49 per month with no contracts or
+                Glow Social Core costs {pricing.startingAtFull} with no contracts or
                 commitments. Compare that to $3,000+/month for a marketing
                 agency or $300+/month for an overseas contractor. You can cancel
                 anytime and keep access through the end of your paid period.
@@ -420,7 +425,7 @@ export default function PricingPage() {
               </summary>
               <p>
                 A social media manager costs $300–500/month minimum, requires
-                onboarding, and can quit on you. Glow Social costs $49/month,
+                onboarding, and can quit on you. Glow Social costs {pricing.startingAtFull},
                 never has an off day, never needs managing, and keeps
                 delivering without you having to think about it.
               </p>
@@ -457,7 +462,7 @@ export default function PricingPage() {
             5-minute setup. Professional posts, Google Business Profile, and
             reviews — all done for you.
             <br />
-            The guilt goes away. The posts show up. Your $49/month starts
+            The guilt goes away. The posts show up. Your {pricing.startingAtFull} starts
             today.
           </p>
           <a
@@ -465,7 +470,7 @@ export default function PricingPage() {
             className="btn btn--primary btn--lg btn--glow"
             id="pricing-final-cta"
           >
-            Get Started — $49/mo
+            Get Started — {pricing.startingAtShort}
           </a>
         </div>
       </section>

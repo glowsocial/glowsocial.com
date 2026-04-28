@@ -1,14 +1,16 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useMemo } from "react";
 import Link from "next/link";
 import HomeJsonLd from "./components/HomeJsonLd";
+import { getPricing, isPriceIncreaseActive } from "./pricing-config";
 import "./home.css";
 
 export default function HomePage() {
   const [activeTab, setActiveTab] = useState("connect");
   const [visibleSections, setVisibleSections] = useState(new Set());
   const [activeStat, setActiveStat] = useState(0);
+  const pricing = useMemo(() => getPricing(), []);
 
   // Animate stats counter
   useEffect(() => {
@@ -60,15 +62,17 @@ export default function HomePage() {
     <>
       <HomeJsonLd />
 
-      {/* ============ ANNOUNCEMENT BAR — Price increase urgency ============ */}
-      <div className="announce-bar">
-        <div className="container announce-bar-inner">
-          <span>
-            <strong>Current pricing ends April 30.</strong>{" "}
-            <a href="#pricing">Lock in $49/mo before prices increase →</a>
-          </span>
+      {/* ============ ANNOUNCEMENT BAR — Price increase urgency (hidden after May 1) ============ */}
+      {!isPriceIncreaseActive() && (
+        <div className="announce-bar">
+          <div className="container announce-bar-inner">
+            <span>
+              <strong>Current pricing ends April 30.</strong>{" "}
+              <a href="#pricing">Lock in {pricing.startingAtShort} before prices increase →</a>
+            </span>
+          </div>
         </div>
-      </div>
+      )}
 
       {/* ============ HERO — Emotional trigger first ============ */}
       <section className="hero">
@@ -111,7 +115,7 @@ export default function HomePage() {
         <div className="container hero-centered">
           <span className="hero-badge">
             <span className="badge-dot"></span>
-            The $49/mo Marketing Agency
+            The {pricing.startingAtShort} Marketing Agency
           </span>
           <h1>
             What if social media
@@ -126,7 +130,7 @@ export default function HomePage() {
           <p className="hero-desc">
             Glow Social creates <strong>professional posts every month</strong>,
             publishes them across <strong>12 platforms</strong> including Google Business Profile,
-            and handles your reviews — all for <strong>$49/month</strong>.
+            and handles your reviews — all for <strong>{pricing.startingAtFull}</strong>.
           </p>
           <form
             className="hero-url-form"
@@ -165,7 +169,7 @@ export default function HomePage() {
               id="hero-cta-secondary"
               style={{ fontSize: '0.85rem', padding: '10px 24px' }}
             >
-              Already convinced? Get Started — $49/mo
+              Already convinced? Get Started — {pricing.startingAtShort}
             </a>
           </div>
           <div className="hero-proof">
@@ -446,7 +450,7 @@ export default function HomePage() {
             <div className="competitor-card"><h3>Buffer</h3><div className="verdict">No Google Business Profile</div><div className="detail">No GBP posting. No review management. Not built for local.</div></div>
             <div className="competitor-card"><h3>Later</h3><div className="verdict">No Google Business Profile</div><div className="detail">Instagram-focused. No GBP support at all. No reviews.</div></div>
             <div className="competitor-card"><h3>Sprout Social</h3><div className="verdict">$399+/mo for Reviews</div><div className="detail">Review management locked behind their most expensive plan.</div></div>
-            <div className="competitor-card competitor-card--glow"><h3>Glow Social</h3><div className="verdict">GBP + Reviews Included</div><div className="detail">Posting, GBP, and review monitoring — all starting at $98/mo.</div></div>
+            <div className="competitor-card competitor-card--glow"><h3>Glow Social</h3><div className="verdict">GBP + Reviews Included</div><div className="detail">Posting, GBP, and review monitoring — all starting at {pricing.startingAtShort}.</div></div>
           </div>
         </div>
       </section>
@@ -461,7 +465,7 @@ export default function HomePage() {
                 <tr><th></th><th className="highlight-col">Glow Social</th><th>Freelancer</th><th>Agency</th><th>DIY</th></tr>
               </thead>
               <tbody>
-                <tr><td>Monthly cost</td><td className="highlight-col"><strong>$49</strong></td><td>$300–$750</td><td>$2,000+</td><td>Free*</td></tr>
+                <tr><td>Monthly cost</td><td className="highlight-col"><strong>{pricing.core.display}</strong></td><td>$300–$750</td><td>$2,000+</td><td>Free*</td></tr>
                 <tr><td>Posts per month</td><td className="highlight-col"><strong>12+</strong></td><td>8–12</td><td>12–20</td><td>2–4</td></tr>
                 <tr><td>GBP posting</td><td className="highlight-col"><strong>Included</strong></td><td>Sometimes</td><td>Extra cost</td><td>Manual</td></tr>
                 <tr><td>Review monitoring</td><td className="highlight-col"><strong>Pro+</strong></td><td>No</td><td>Extra cost</td><td>Manual</td></tr>
@@ -484,7 +488,7 @@ export default function HomePage() {
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
-              <div className="price"><span className="price-amount">$49</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li><strong>12 posts</strong> per month</li>
                 <li><strong>12 platforms</strong> including GBP</li>
@@ -497,7 +501,7 @@ export default function HomePage() {
             <div className="price-card price-card--featured">
               <span className="popular-badge">Most Popular</span>
               <h3>Glo Pro</h3>
-              <div className="price"><span className="price-amount">$99</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">{pricing.pro.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Core, plus:</li>
                 <li><strong>20+ posts</strong> per month</li>
@@ -511,7 +515,7 @@ export default function HomePage() {
             </div>
             <div className="price-card">
               <h3>Glo Unlimited</h3>
-              <div className="price"><span className="price-amount">$199</span><span className="price-period">/month</span></div>
+              <div className="price"><span className="price-amount">{pricing.unlimited.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
                 <li><strong>Unlimited</strong> static posts</li>
@@ -529,8 +533,8 @@ export default function HomePage() {
       <section className="final-cta">
         <div className="container">
           <h2>Stop Carrying It.<br />Let Us Handle It.</h2>
-          <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all done for you.<br />The guilt goes away. The posts show up. Your $49/month starts today.</p>
-          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Started — $49/mo</a>
+          <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all done for you.<br />The guilt goes away. The posts show up. Your {pricing.startingAtFull} starts today.</p>
+          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Started — {pricing.startingAtShort}</a>
         </div>
       </section>
 
@@ -540,7 +544,7 @@ export default function HomePage() {
           <h2>Questions From People Who Really Don&apos;t Want to Think About Social Media</h2>
           <div className="faq-list">
             <details className="faq-item"><summary>Will this get me more customers?</summary><p>It won&apos;t replace advertising. What it does is more important: it converts the customers you&apos;re already almost getting. When someone hears about you through word of mouth, Google, or a referral, the first thing they do is check your social media. If your last post was six months ago, they second-guess themselves and move on. Fresh, professional content turns that curiosity into a call. Glow Social makes sure you never lose a warm lead because your presence looked abandoned.</p></details>
-            <details className="faq-item"><summary>How much does Glow Social cost?</summary><p>Glow Social Core costs $49 per month with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for an overseas contractor. You can cancel anytime and keep access through the end of your paid period.</p></details>
+            <details className="faq-item"><summary>How much does Glow Social cost?</summary><p>Glow Social Core costs {pricing.startingAtFull} with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for an overseas contractor. You can cancel anytime and keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary>Can I cancel anytime?</summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary>What if I don&apos;t like the content?</summary><p>You have full editorial control. Edit any post before it goes live, regenerate content with different parameters, or write your own. Every piece of content is customized to your brand voice and can be adjusted to your preferences.</p></details>
             <details className="faq-item"><summary>How long does setup take?</summary><p>About 5 minutes. Answer a few questions about your business, connect your social media accounts, and you&apos;re done. No job posting, no interviews, no training required.</p></details>
@@ -550,15 +554,15 @@ export default function HomePage() {
             <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond right from your dashboard — no need to log into Google separately.</p></details>
             <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube, Bluesky, Mastodon, Google Business Profile, Pinterest, Discord, Slack, and TikTok.</p></details>
             <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Business owners who are great at what they do and hate that social media is part of running a business. If you&apos;ve ever said &ldquo;I know I should be posting more&rdquo; at a networking event, you&apos;re exactly who this is for. Our customers include roofers, dentists, coaches, photographers, wedding vendors, and local service providers who want to look professional online without it consuming their time.</p></details>
-            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For $49/month, you get professionally written, designed, and published posts every month — across 12 platforms. You never have to think about what to post, when to post it, or how it looks. We handle all of it.</p></details>
-            <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager costs $300–500/month minimum, requires onboarding, and can quit on you. Glow Social costs $49/month, never has an off day, never needs managing, and keeps delivering without you having to think about it.</p></details>
+            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For {pricing.startingAtFull}, you get professionally written, designed, and published posts every month — across 12 platforms. You never have to think about what to post, when to post it, or how it looks. We handle all of it.</p></details>
+            <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager costs $300–500/month minimum, requires onboarding, and can quit on you. Glow Social costs {pricing.startingAtFull}, never has an off day, never needs managing, and keeps delivering without you having to think about it.</p></details>
           </div>
         </div>
       </section>
 
       {/* STICKY MOBILE CTA */}
       <div className="sticky-mobile-cta" id="stickyCta">
-        <a href="https://app.glowsocial.com/">Get Started — $49/mo</a>
+        <a href="https://app.glowsocial.com/">Get Started — {pricing.startingAtShort}</a>
       </div>
     </>
   );

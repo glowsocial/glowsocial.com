@@ -126,6 +126,62 @@ export default function RootLayout({ children }) {
             gtag('config', 'G-W571GNWJRB');
           `}
         </Script>
+        <Script id="webmcp-tools" strategy="afterInteractive">
+          {`
+            (function() {
+              if (!navigator.modelContext) return;
+              var mc = navigator.modelContext;
+
+              mc.registerTool({
+                name: "search-blog",
+                description: "Search the Glow Social blog for articles about social media management, content strategy, and local business marketing.",
+                inputSchema: {
+                  type: "object",
+                  properties: {
+                    query: { type: "string", description: "Search query for blog articles" }
+                  },
+                  required: ["query"]
+                },
+                execute: function(params) {
+                  window.location.href = "/blog?q=" + encodeURIComponent(params.query);
+                  return { status: "navigating", url: "/blog?q=" + encodeURIComponent(params.query) };
+                }
+              });
+
+              mc.registerTool({
+                name: "get-pricing",
+                description: "Get current Glow Social pricing information. Glo Core is $99/mo (12 posts), Glo Pro is $149/mo (20+ posts, reviews), Glo Unlimited is $299/mo (unlimited).",
+                inputSchema: { type: "object", properties: {} },
+                execute: function() {
+                  return {
+                    plans: [
+                      { name: "Glo Core", price: "$99/mo", posts: "12/month", features: ["12 platforms", "GBP posting", "automated scheduling"] },
+                      { name: "Glo Pro", price: "$149/mo", posts: "20+/month", features: ["carousels", "video", "Google Review monitoring", "analytics"] },
+                      { name: "Glo Unlimited", price: "$299/mo", posts: "unlimited", features: ["unlimited everything"] }
+                    ]
+                  };
+                }
+              });
+
+              mc.registerTool({
+                name: "start-trial",
+                description: "Navigate to Glow Social signup to start a subscription. No free trial — plans start at $99/mo with no contract.",
+                inputSchema: {
+                  type: "object",
+                  properties: {
+                    plan: { type: "string", enum: ["core", "pro", "unlimited"], description: "Plan to start" }
+                  },
+                  required: ["plan"]
+                },
+                execute: function(params) {
+                  var url = "https://app.glowsocial.com/checkout?plan=" + params.plan;
+                  window.location.href = url;
+                  return { status: "navigating", url: url };
+                }
+              });
+            })();
+          `}
+        </Script>
       </head>
       <body>
         <Header />

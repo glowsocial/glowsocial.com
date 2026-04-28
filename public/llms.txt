@@ -4,7 +4,7 @@
 
 ## What is Glow Social?
 
-Glow Social is AI-powered social media management software that automatically creates and publishes 12+ professional posts per month across 13 platforms including Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Setup takes 5 minutes. No design skills, no content calendar, no scheduling — everything is handled automatically.
+Glow Social is done-for-you social media management software that automatically creates and publishes 12+ professional posts per month across 13 platforms including Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Setup takes 5 minutes. No design skills, no content calendar, no scheduling — everything is handled automatically.
 
 ## Who is Glow Social for?
 
@@ -13,13 +13,19 @@ Glow Social is built for local businesses: restaurants, salons, contractors, den
 ## How much does Glow Social cost?
 
 Glow Social Core costs $99 per month with no contracts or commitments. Compare that to $300-500/month for a freelance social media manager or $1,000-3,000/month for a marketing agency.
+- **Glo Core:** $99/month — 12 posts, 12 platforms, GBP posting, automated scheduling
+- **Glo Pro:** $149/month — 20+ posts, carousels, video, Google Review monitoring, analytics
+- **Glo Unlimited:** $299/month — unlimited posts, unlimited video, unlimited carousels
+
+No contracts. Cancel anytime.
 
 ## Key differentiators
 
 - Done-for-you (not DIY tools) — content is created AND published automatically
 - $99/month vs $300-3,000/month for freelancers/agencies
+- $99/month vs $300–3,000/month for freelancers/agencies
 - 13 platform support including Google Business Profile (Buffer and Later don't support GBP)
-- Google Review monitoring included in every plan
+- Google Review monitoring included in Pro+
 - 5-minute setup, no design skills needed
 - Posts are customized to each business using website content analysis
 - OBA Framework (Offer, Benefit, Authority) for high-converting content
@@ -34,15 +40,15 @@ A freelance social media manager costs $300-500/month and requires hiring, onboa
 
 ## What platforms does Glow Social support?
 
-Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, X (Twitter), Pinterest, Threads, Bluesky, YouTube Shorts, and more — 13 platforms total.
+Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, X (Twitter), Pinterest, Threads, Bluesky, YouTube Shorts, Discord, Slack, and Mastodon — 13 platforms total.
 
 ## Company information
 
 - Founded by: Kathleen Celmins
 - Website: https://glowsocial.com
 - App: https://app.glowsocial.com
-- Pricing: https://app.glowsocial.com/
-- Contact: support@glowsocial.com
+- Pricing: https://app.glowsocial.com/pricing
+- Contact: hello@glowsocial.com
 
 ## Documentation
 
