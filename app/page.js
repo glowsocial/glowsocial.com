@@ -334,6 +334,77 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ============ TESTIMONIAL TICKER ============ */}
+      <section className="testimonial-ticker" id="testimonials" aria-label="Customer testimonials">
+        <div className="ticker-track">
+          <div className="ticker-slide">
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I love the carousels.&rdquo;</span>
+              <span className="ticker-author">— Life Coach</span>
+            </div>
+            <div className="ticker-dot" aria-hidden="true">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I forgot I even had social media. That&apos;s the point.&rdquo;</span>
+              <span className="ticker-author">— Tax Preparer</span>
+            </div>
+            <div className="ticker-dot" aria-hidden="true">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;My clients think I hired a marketing team.&rdquo;</span>
+              <span className="ticker-author">— Wellness Spa Owner</span>
+            </div>
+            <div className="ticker-dot" aria-hidden="true">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I&apos;m getting traction on profiles I didn&apos;t even have before I signed up.&rdquo;</span>
+              <span className="ticker-author">— Home Care Provider</span>
+            </div>
+            <div className="ticker-dot" aria-hidden="true">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I used to dread Mondays. Now I don&apos;t even think about it.&rdquo;</span>
+              <span className="ticker-author">— Mortgage Broker</span>
+            </div>
+            <div className="ticker-dot" aria-hidden="true">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;It just quietly works. That&apos;s all I wanted.&rdquo;</span>
+              <span className="ticker-author">— Real Estate Agent</span>
+            </div>
+            <div className="ticker-dot" aria-hidden="true">✦</div>
+          </div>
+          {/* Duplicate for seamless loop */}
+          <div className="ticker-slide" aria-hidden="true">
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I love the carousels.&rdquo;</span>
+              <span className="ticker-author">— Life Coach</span>
+            </div>
+            <div className="ticker-dot">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I forgot I even had social media. That&apos;s the point.&rdquo;</span>
+              <span className="ticker-author">— Tax Preparer</span>
+            </div>
+            <div className="ticker-dot">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;My clients think I hired a marketing team.&rdquo;</span>
+              <span className="ticker-author">— Wellness Spa Owner</span>
+            </div>
+            <div className="ticker-dot">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I&apos;m getting traction on profiles I didn&apos;t even have before I signed up.&rdquo;</span>
+              <span className="ticker-author">— Home Care Provider</span>
+            </div>
+            <div className="ticker-dot">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;I used to dread Mondays. Now I don&apos;t even think about it.&rdquo;</span>
+              <span className="ticker-author">— Mortgage Broker</span>
+            </div>
+            <div className="ticker-dot">✦</div>
+            <div className="ticker-quote">
+              <span className="ticker-text">&ldquo;It just quietly works. That&apos;s all I wanted.&rdquo;</span>
+              <span className="ticker-author">— Real Estate Agent</span>
+            </div>
+            <div className="ticker-dot">✦</div>
+          </div>
+        </div>
+      </section>
+
       {/* ============ TENSION STRIP — The real cost of avoidance ============ */}
       <section className="psych-proof" id="psych-proof" data-animate>
         <div className={`container ${visibleSections.has("psych-proof") ? "fade-in" : "fade-hidden"}`}>

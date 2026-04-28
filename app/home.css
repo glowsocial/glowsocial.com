@@ -671,6 +671,99 @@
   border: 1px solid var(--card-border);
 }
 
+/* ---- Testimonial Ticker ---- */
+@keyframes tickerScroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+.testimonial-ticker {
+  background: var(--navy);
+  padding: 28px 0;
+  overflow: hidden;
+  position: relative;
+  border-top: 1px solid rgba(215, 226, 120, 0.1);
+  border-bottom: 1px solid rgba(215, 226, 120, 0.1);
+}
+
+.testimonial-ticker::before,
+.testimonial-ticker::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 80px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.testimonial-ticker::before {
+  left: 0;
+  background: linear-gradient(90deg, var(--navy) 0%, transparent 100%);
+}
+
+.testimonial-ticker::after {
+  right: 0;
+  background: linear-gradient(-90deg, var(--navy) 0%, transparent 100%);
+}
+
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: tickerScroll 35s linear infinite;
+}
+
+.ticker-track:hover {
+  animation-play-state: paused;
+}
+
+.ticker-slide {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  flex-shrink: 0;
+}
+
+.ticker-quote {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 0 12px;
+  white-space: nowrap;
+}
+
+.ticker-text {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.85);
+  font-style: italic;
+  letter-spacing: -0.01em;
+}
+
+.ticker-author {
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+}
+
+.ticker-dot {
+  color: rgba(215, 226, 120, 0.25);
+  font-size: 0.7rem;
+  padding: 0 20px;
+  flex-shrink: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track {
+    animation: none;
+  }
+}
+
 .section-cta { text-align: center; margin-top: 36px; }
 
 /* ---- Features ---- */

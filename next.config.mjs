@@ -24,6 +24,17 @@ const nextConfig = {
           source: '/api/preview/:path*',
           destination: 'https://app.glowsocial.com/api/preview/:path*',
         },
+
+        // ── .well-known agent discovery endpoints ──
+        // Next.js ignores dot-prefixed folders, so we rewrite to /api/well-known/*
+        { source: '/.well-known/api-catalog', destination: '/api/well-known/api-catalog' },
+        { source: '/.well-known/openid-configuration', destination: '/api/well-known/openid-configuration' },
+        { source: '/.well-known/oauth-protected-resource', destination: '/api/well-known/oauth-protected-resource' },
+        { source: '/.well-known/mcp/server-card.json', destination: '/api/well-known/mcp-server-card' },
+        { source: '/.well-known/agent-skills/index.json', destination: '/api/well-known/agent-skills-index' },
+        { source: '/.well-known/agent-skills/SKILL.md', destination: '/api/well-known/agent-skills-md' },
+        { source: '/.well-known/ucp', destination: '/api/well-known/ucp' },
+        { source: '/.well-known/acp.json', destination: '/api/well-known/acp' },
       ],
       fallback: [],
     }
