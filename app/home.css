@@ -710,7 +710,7 @@
 .ticker-track {
   display: flex;
   width: max-content;
-  animation: tickerScroll 35s linear infinite;
+  animation: tickerScroll 80s linear infinite;
 }
 
 .ticker-track:hover {
