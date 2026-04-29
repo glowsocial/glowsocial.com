@@ -1,8 +1,9 @@
 /**
  * /.well-known/agent-card.json — A2A Agent Card
  *
- * Google A2A (Agent-to-Agent) protocol agent card.
+ * Google A2A (Agent-to-Agent) protocol agent card with AP2 payment extension.
  * Spec: https://google.github.io/A2A/specification/
+ * AP2: https://ap2-protocol.org/ap2/specification/
  */
 export function GET() {
   const agentCard = {
@@ -52,6 +53,21 @@ export function GET() {
         tags: ["reviews", "reputation-management", "google-business"],
       },
     ],
+    // AP2 (Agent Payments Protocol) extension
+    extensions: {
+      ap2: {
+        version: "0.2",
+        paymentMethods: ["card", "stripe"],
+        capabilities: ["checkout", "subscription"],
+        checkoutUrl: "https://app.glowsocial.com/checkout",
+        currency: "USD",
+        merchantInfo: {
+          name: "Glow Social",
+          url: "https://glowsocial.com",
+          category: "software",
+        },
+      },
+    },
   };
 
   return new Response(JSON.stringify(agentCard, null, 2), {
