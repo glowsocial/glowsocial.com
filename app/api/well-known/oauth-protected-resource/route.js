@@ -4,9 +4,11 @@
  */
 export function GET() {
   const metadata = {
-    resource: "https://app.glowsocial.com/api",
+    resource: "https://glowsocial.com",
     authorization_servers: ["https://app.glowsocial.com"],
     scopes_supported: ["openid", "profile", "content:read", "content:write"],
+    bearer_methods_supported: ["header"],
+    resource_documentation: "https://glowsocial.com/faq",
   };
 
   return new Response(JSON.stringify(metadata, null, 2), {

@@ -102,6 +102,12 @@ export function middleware(request) {
         '</.well-known/agent-skills/index.json>; rel="describedby"',
       ].join(", ")
     );
+
+    // RFC 9728 — point agents to OAuth Protected Resource Metadata
+    response.headers.set(
+      "WWW-Authenticate",
+      'Bearer resource_metadata="https://glowsocial.com/.well-known/oauth-protected-resource"'
+    );
   }
 
   // x402 signal on API routes (advertise payment support)

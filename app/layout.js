@@ -30,7 +30,7 @@ export const metadata = {
     template: "%s | Glow Social",
   },
   description:
-    "Done-for-you social media for local businesses who hate social media. Professional posts, Google Business Profile, and Google Review monitoring — starting at $49/mo. Setup in 5 minutes.",
+    "Done-for-you social media for local businesses who hate social media. Professional posts, Google Business Profile, and Google Review monitoring — starting at $99/mo. Setup in 5 minutes.",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -38,13 +38,13 @@ export const metadata = {
     siteName: "Glow Social",
     title: "Glow Social | Done-For-You Social Media for Local Businesses",
     description:
-      "$49/month social media — handled. Glow Social reads your website, creates professional content, and publishes to 12 platforms so you never have to think about social media again.",
+      "$99/month social media — handled. Glow Social reads your website, creates professional content, and publishes to 13 platforms so you never have to think about social media again.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Glow Social — Done-For-You Social Media for Local Businesses. $49/month, 12 platforms, 5-minute setup.",
+        alt: "Glow Social — Done-For-You Social Media for Local Businesses. $99/month, 13 platforms, 5-minute setup.",
       },
     ],
   },
@@ -52,7 +52,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Glow Social | Done-For-You Social Media for Local Businesses",
     description:
-      "$49/month social media — handled. Professional posts across 12 platforms so you never have to think about social media again.",
+      "$99/month social media — handled. Professional posts across 13 platforms so you never have to think about social media again.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
@@ -72,12 +72,12 @@ const organizationSchema = {
   url: "https://glowsocial.com",
   logo: "https://glowsocial.com/icon.png",
   description:
-    "Done-for-you social media management for local businesses. AI creates and publishes professional posts to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — starting at $49/month.",
+    "Done-for-you social media management for local businesses. Glow Social creates and publishes professional posts to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — starting at $99/month.",
   applicationCategory: "SocialMediaApplication",
   operatingSystem: "Web",
   offers: {
     "@type": "Offer",
-    price: "49",
+    price: "99",
     priceCurrency: "USD",
     description: "12 custom posts per month, fully automated",
   },

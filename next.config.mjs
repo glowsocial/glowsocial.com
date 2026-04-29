@@ -35,6 +35,7 @@ const nextConfig = {
         { source: '/.well-known/agent-skills/SKILL.md', destination: '/api/well-known/agent-skills-md' },
         { source: '/.well-known/ucp', destination: '/api/well-known/ucp' },
         { source: '/.well-known/acp.json', destination: '/api/well-known/acp' },
+        { source: '/.well-known/agent-card.json', destination: '/api/well-known/agent-card' },
       ],
       fallback: [],
     }
