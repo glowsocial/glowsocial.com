@@ -26,6 +26,20 @@ export function GET() {
       streaming: false,
       pushNotifications: false,
       stateTransitionHistory: false,
+      extensions: {
+        "ap2-protocol": {
+          version: "0.2",
+          paymentMethods: ["card", "stripe"],
+          capabilities: ["checkout", "subscription"],
+          checkoutUrl: "https://app.glowsocial.com/checkout",
+          currency: "USD",
+          merchantInfo: {
+            name: "Glow Social",
+            url: "https://glowsocial.com",
+            category: "software",
+          },
+        },
+      },
     },
     authentication: {
       schemes: ["Bearer"],
@@ -53,19 +67,11 @@ export function GET() {
         tags: ["reviews", "reputation-management", "google-business"],
       },
     ],
-    // AP2 (Agent Payments Protocol) extension
+    // Top-level extensions for broader scanner compatibility
     extensions: {
-      ap2: {
+      "ap2-protocol": {
         version: "0.2",
         paymentMethods: ["card", "stripe"],
-        capabilities: ["checkout", "subscription"],
-        checkoutUrl: "https://app.glowsocial.com/checkout",
-        currency: "USD",
-        merchantInfo: {
-          name: "Glow Social",
-          url: "https://glowsocial.com",
-          category: "software",
-        },
       },
     },
   };
