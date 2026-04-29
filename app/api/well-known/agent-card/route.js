@@ -2,8 +2,7 @@
  * /.well-known/agent-card.json — A2A Agent Card
  *
  * Google A2A (Agent-to-Agent) protocol agent card.
- * This also satisfies the AP2 (Agentic Payments 2) check which
- * requires an A2A Agent Card to exist.
+ * Spec: https://google.github.io/A2A/specification/
  */
 export function GET() {
   const agentCard = {
@@ -16,9 +15,16 @@ export function GET() {
       url: "https://glowsocial.com",
     },
     version: "1.0.0",
+    supportedInterfaces: [
+      {
+        protocol: "https",
+        url: "https://app.glowsocial.com/api/a2a",
+      },
+    ],
     capabilities: {
       streaming: false,
       pushNotifications: false,
+      stateTransitionHistory: false,
     },
     authentication: {
       schemes: ["Bearer"],
