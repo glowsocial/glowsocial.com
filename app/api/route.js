@@ -1,48 +1,47 @@
 /**
  * /api — x402 payment gateway
  *
- * Returns HTTP 402 with x402 payment headers.
- * x402 V2: PAYMENT-REQUIRED header + JSON body
+ * Returns HTTP 402 with x402 V2 payment headers matching the
+ * official @x402/core PaymentRequiredV2Schema exactly.
  */
+import { encodePaymentRequiredHeader } from "@x402/core/http";
+
 export function GET() {
+  // Must match PaymentRequiredV2Schema from @x402/core
   const paymentRequired = {
     x402Version: 2,
-    schemes: [
+    resource: {
+      url: "https://app.glowsocial.com/api",
+      description:
+        "Glow Social API — social media content generation and management",
+      mimeType: "application/json",
+    },
+    accepts: [
       {
-        schemeId: "exact",
-        network: "base-sepolia",
-        maxAmountRequired: "100000",
-        resource: "https://app.glowsocial.com/api",
-        description:
-          "Access to the Glow Social API for content generation and management.",
-        mimeType: "application/json",
+        scheme: "exact",
+        network: "eip155:84532",
+        amount: "100000",
+        asset: "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
         payTo: "0x0000000000000000000000000000000000000000",
         maxTimeoutSeconds: 300,
-        asset: "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
         extra: {
-          name: "Glow Social API Access",
+          name: "USDC",
           description:
-            "Done-for-you social media management API — starting at $99/month",
+            "Glow Social API access — starting at $99/month",
         },
       },
     ],
   };
 
-  // Base64-encode the requirements per x402 V2 spec
-  const base64Payload = Buffer.from(
-    JSON.stringify(paymentRequired)
-  ).toString("base64");
+  // Use the official @x402/core encoder for exact header format
+  const encodedHeader = encodePaymentRequiredHeader(paymentRequired);
 
   return new Response(JSON.stringify(paymentRequired, null, 2), {
     status: 402,
     statusText: "Payment Required",
     headers: {
       "Content-Type": "application/json",
-      "PAYMENT-REQUIRED": base64Payload,
-      "X-Payment": base64Payload,
-      "X-PAYMENT": base64Payload,
-      "X-Payment-Required": "x402",
-      "X-Payment-Facilitator": "https://facilitator.x402.org",
+      "PAYMENT-REQUIRED": encodedHeader,
     },
   });
 }
