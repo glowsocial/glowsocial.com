@@ -26,20 +26,17 @@ export function GET() {
       streaming: false,
       pushNotifications: false,
       stateTransitionHistory: false,
-      extensions: {
-        "ap2-protocol": {
-          version: "0.2",
-          paymentMethods: ["card", "stripe"],
-          capabilities: ["checkout", "subscription"],
-          checkoutUrl: "https://app.glowsocial.com/checkout",
-          currency: "USD",
-          merchantInfo: {
-            name: "Glow Social",
-            url: "https://glowsocial.com",
-            category: "software",
+      extensions: [
+        {
+          uri: "https://github.com/google-agentic-commerce/ap2/tree/v0.1",
+          description:
+            "This agent supports AP2 payment processing for social media management subscriptions.",
+          required: true,
+          params: {
+            roles: ["merchant"],
           },
         },
-      },
+      ],
     },
     authentication: {
       schemes: ["Bearer"],
@@ -67,13 +64,6 @@ export function GET() {
         tags: ["reviews", "reputation-management", "google-business"],
       },
     ],
-    // Top-level extensions for broader scanner compatibility
-    extensions: {
-      "ap2-protocol": {
-        version: "0.2",
-        paymentMethods: ["card", "stripe"],
-      },
-    },
   };
 
   return new Response(JSON.stringify(agentCard, null, 2), {
