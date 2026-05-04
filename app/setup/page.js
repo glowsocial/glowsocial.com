@@ -200,22 +200,22 @@ export default function SetupPage() {
                 */}
                 <img
                   src="/images/setup/slide-1.png"
-                  alt="Enter your website URL to scan your business"
+                  alt="Welcome screen — Set up every social media platform in 15 minutes"
                   className="setup-slide"
                 />
                 <img
                   src="/images/setup/slide-2.png"
-                  alt="AI generates platform-specific bios for your business"
+                  alt="Enter your website URL to scan your business"
                   className="setup-slide"
                 />
                 <img
                   src="/images/setup/slide-3.png"
-                  alt="Copy your bio with one click and paste into any platform"
+                  alt="Scan results showing 3 of 8 platforms found with score bar"
                   className="setup-slide"
                 />
                 <img
                   src="/images/setup/slide-4.png"
-                  alt="Download your logo and images as PNGs"
+                  alt="Step-by-step Google Business Profile setup guide with numbered instructions"
                   className="setup-slide"
                 />
               </div>
