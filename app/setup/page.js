@@ -117,7 +117,33 @@ export default function SetupPage() {
         <div className="setup-hero-grid"></div>
         <div className="container">
           <div className="setup-hero-layout">
-            {/* Left: copy + form */}
+            {/* Left: auto-rotating slideshow */}
+            <div className="setup-hero-right">
+              <div className="setup-slideshow">
+                <img
+                  src="/images/setup/slide-1.png"
+                  alt="Welcome screen — Set up every social media platform in 15 minutes"
+                  className="setup-slide"
+                />
+                <img
+                  src="/images/setup/slide-2.png"
+                  alt="Enter your website URL to scan your business"
+                  className="setup-slide"
+                />
+                <img
+                  src="/images/setup/slide-3.png"
+                  alt="Scan results showing 3 of 8 platforms found with score bar"
+                  className="setup-slide"
+                />
+                <img
+                  src="/images/setup/slide-4.png"
+                  alt="Step-by-step Google Business Profile setup guide with numbered instructions"
+                  className="setup-slide"
+                />
+              </div>
+            </div>
+
+            {/* Right: copy + form */}
             <div className="setup-hero-left">
               <div className="setup-badge">
                 <span className="badge-dot"></span>
@@ -187,37 +213,6 @@ export default function SetupPage() {
                     </p>
                   </div>
                 )}
-              </div>
-            </div>
-
-            {/* Right: auto-rotating slideshow */}
-            <div className="setup-hero-right">
-              <div className="setup-slideshow">
-                {/* 
-                  Drop your screenshots into /public/images/setup/ and update paths below.
-                  The slideshow auto-cycles every 3s with a smooth crossfade.
-                  Recommended: 4 screenshots at ~800px wide, showing different steps of the wizard.
-                */}
-                <img
-                  src="/images/setup/slide-1.png"
-                  alt="Welcome screen — Set up every social media platform in 15 minutes"
-                  className="setup-slide"
-                />
-                <img
-                  src="/images/setup/slide-2.png"
-                  alt="Enter your website URL to scan your business"
-                  className="setup-slide"
-                />
-                <img
-                  src="/images/setup/slide-3.png"
-                  alt="Scan results showing 3 of 8 platforms found with score bar"
-                  className="setup-slide"
-                />
-                <img
-                  src="/images/setup/slide-4.png"
-                  alt="Step-by-step Google Business Profile setup guide with numbered instructions"
-                  className="setup-slide"
-                />
               </div>
             </div>
           </div>
