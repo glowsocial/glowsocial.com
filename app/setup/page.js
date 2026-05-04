@@ -190,13 +190,35 @@ export default function SetupPage() {
               </div>
             </div>
 
-            {/* Right: image */}
+            {/* Right: auto-rotating slideshow */}
             <div className="setup-hero-right">
-              <img
-                src="/images/setup-preview.png"
-                alt="Social Profile Kit preview — platform-specific bios generated from your website"
-                className="setup-hero-img"
-              />
+              <div className="setup-slideshow">
+                {/* 
+                  Drop your screenshots into /public/images/setup/ and update paths below.
+                  The slideshow auto-cycles every 3s with a smooth crossfade.
+                  Recommended: 4 screenshots at ~800px wide, showing different steps of the wizard.
+                */}
+                <img
+                  src="/images/setup/slide-1.png"
+                  alt="Enter your website URL to scan your business"
+                  className="setup-slide"
+                />
+                <img
+                  src="/images/setup/slide-2.png"
+                  alt="AI generates platform-specific bios for your business"
+                  className="setup-slide"
+                />
+                <img
+                  src="/images/setup/slide-3.png"
+                  alt="Copy your bio with one click and paste into any platform"
+                  className="setup-slide"
+                />
+                <img
+                  src="/images/setup/slide-4.png"
+                  alt="Download your logo and images as PNGs"
+                  className="setup-slide"
+                />
+              </div>
             </div>
           </div>
         </div>
