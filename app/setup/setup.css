@@ -3,9 +3,9 @@
    Lead magnet for setup.glowsocial.com
    ======================================== */
 
-/* ---- Hero ---- */
+/* ---- Hero (form above the fold) ---- */
 .setup-hero {
-  padding: 100px 0 80px;
+  padding: 72px 0 80px;
   background: var(--navy);
   position: relative;
   overflow: hidden;
@@ -22,12 +22,16 @@
   mask-image: radial-gradient(ellipse 80% 80% at 50% 50%, black 20%, transparent 80%);
 }
 
-.setup-hero-content {
-  text-align: center;
-  max-width: 780px;
-  margin: 0 auto;
+.setup-hero-layout {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 48px;
+  align-items: center;
   position: relative;
   z-index: 1;
+}
+
+.setup-hero-left {
   animation: heroReveal 0.9s ease both;
 }
 
@@ -50,80 +54,42 @@
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   backdrop-filter: blur(8px);
 }
 
 .setup-hero h1 {
-  font-size: clamp(2.2rem, 5vw, 3.6rem);
-  margin-bottom: 24px;
-  line-height: 1.06;
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-bottom: 16px;
+  line-height: 1.08;
   text-transform: none;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
   font-weight: 800;
   color: #fff;
 }
 
 .setup-hero-sub {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 400;
-  margin-bottom: 16px;
-  color: rgba(255,255,255,0.6);
-  line-height: 1.65;
-  max-width: 640px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.setup-hero-desc {
-  font-size: 1rem;
-  color: rgba(255,255,255,0.45);
+  margin-bottom: 28px;
+  color: rgba(255,255,255,0.55);
   line-height: 1.6;
+  max-width: 540px;
 }
 
-.setup-hero-desc strong {
-  color: rgba(255,255,255,0.85);
-}
-
-/* ---- Email Gate ---- */
-.setup-gate {
-  padding: 0 0 80px;
-  margin-top: -40px;
-  position: relative;
-  z-index: 2;
-}
-
-.setup-gate-card {
-  max-width: 680px;
-  margin: 0 auto;
-  background: var(--white);
+/* ---- Inline form in hero ---- */
+.setup-hero-form-wrap {
+  background: #ffffff;
   border-radius: var(--radius-lg);
-  padding: 48px 40px;
-  box-shadow: var(--shadow-lg), 0 0 60px rgba(25, 39, 52, 0.08);
-  border: 1px solid var(--card-border);
-}
-
-.setup-gate-card h2 {
-  font-size: 1.6rem;
-  text-transform: none;
-  letter-spacing: -0.3px;
-  margin-bottom: 12px;
-}
-
-.setup-gate-sub {
-  color: var(--text-muted);
-  font-size: 0.95rem;
-  line-height: 1.6;
-  text-align: center;
-  max-width: 520px;
-  margin: 0 auto 32px;
+  padding: 28px 28px 24px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.2);
 }
 
 .setup-form-row {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 16px;
-  margin-bottom: 20px;
+  gap: 12px;
+  margin-bottom: 16px;
 }
 
 .setup-input-group {
@@ -132,20 +98,11 @@
   gap: 6px;
 }
 
-.setup-input-group label {
-  font-family: var(--font-heading);
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  color: var(--text-muted);
-}
-
 .setup-input-group input {
-  padding: 14px 16px;
+  padding: 13px 14px;
   border: 2px solid var(--card-border);
   border-radius: var(--radius-sm);
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-family: var(--font-body);
   color: var(--text);
   background: var(--white);
@@ -163,8 +120,8 @@
 
 .setup-submit {
   width: 100%;
-  padding: 16px 32px;
-  font-size: 1.05rem;
+  padding: 14px 32px;
+  font-size: 0.95rem;
 }
 
 .setup-submit:disabled {
@@ -176,14 +133,14 @@
   color: #c0392b;
   font-size: 0.9rem;
   text-align: center;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 .setup-fine-print {
   text-align: center;
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   color: var(--text-muted);
-  margin-top: 12px;
+  margin-top: 10px;
 }
 
 /* Success state */
@@ -192,31 +149,47 @@
 }
 
 .setup-success-icon {
-  width: 64px;
-  height: 64px;
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
   background: var(--accent);
   color: var(--navy);
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: 800;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 auto 20px;
+  margin: 0 auto 16px;
 }
 
 .setup-success h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-transform: none;
   letter-spacing: -0.3px;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 .setup-success p {
   color: var(--text-muted);
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   line-height: 1.6;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
+}
+
+/* ---- Hero image (right side) ---- */
+.setup-hero-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: heroReveal 0.9s ease 0.15s both;
+}
+
+.setup-hero-img {
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  border-radius: var(--radius-lg);
+  box-shadow: 0 16px 60px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.06);
 }
 
 /* ---- How It Works ---- */
@@ -304,9 +277,15 @@
 }
 
 .setup-platform-icon {
-  font-size: 2rem;
-  display: block;
-  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: var(--navy);
+  color: var(--accent);
+  margin-bottom: 16px;
 }
 
 .setup-platform-card h3 {
@@ -391,7 +370,7 @@
 }
 
 .setup-pain-card--before li::before {
-  content: "✗";
+  content: "\2717";
   position: absolute;
   left: 0;
   color: #c0392b;
@@ -399,7 +378,7 @@
 }
 
 .setup-pain-card--after li::before {
-  content: "✓";
+  content: "\2713";
   position: absolute;
   left: 0;
   color: var(--accent-dark);
@@ -473,6 +452,19 @@
 
 /* ---- Responsive ---- */
 @media (max-width: 900px) {
+  .setup-hero-layout {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .setup-hero-right {
+    order: -1;
+  }
+
+  .setup-hero-img {
+    max-width: 400px;
+  }
+
   .setup-steps {
     grid-template-columns: 1fr;
   }
@@ -484,11 +476,11 @@
 
 @media (max-width: 640px) {
   .setup-hero {
-    padding: 60px 0 60px;
+    padding: 48px 0 56px;
   }
 
-  .setup-gate-card {
-    padding: 32px 24px;
+  .setup-hero-form-wrap {
+    padding: 20px 20px 18px;
   }
 
   .setup-form-row {
