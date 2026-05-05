@@ -112,13 +112,13 @@ export default function SetupPage() {
 
   return (
     <>
-      {/* Hero with form inline — everything above the fold */}
+      {/* Hero — centered slideshow + badge, then copy + form */}
       <section className="setup-hero" id="get-started">
         <div className="setup-hero-grid"></div>
         <div className="container">
-          <div className="setup-hero-layout">
-            {/* Left: auto-rotating slideshow */}
-            <div className="setup-hero-right">
+          <div className="setup-hero-center">
+            {/* Slideshow + Free Tool badge — centered as a unit */}
+            <div className="setup-hero-showcase">
               <div className="setup-slideshow">
                 <img
                   src="/images/setup/slide-1.png"
@@ -141,79 +141,77 @@ export default function SetupPage() {
                   className="setup-slide"
                 />
               </div>
-            </div>
-
-            {/* Right: copy + form */}
-            <div className="setup-hero-left">
               <div className="setup-badge">
                 <span className="badge-dot"></span>
                 Free Tool
               </div>
-              <h1>
-                Set up your business on <span className="accent">every social platform</span> in 15 minutes
-              </h1>
-              <p className="setup-hero-sub">
-                Enter your website. We'll generate platform-perfect bios, pull your logo and images, 
-                and give you a copy-paste kit for Google, Facebook, Instagram, LinkedIn, and more.
-              </p>
+            </div>
 
-              {/* Inline form */}
-              <div className="setup-hero-form-wrap">
-                {!submitted ? (
-                  <form onSubmit={handleSubmit} className="setup-form">
-                    <div className="setup-form-row">
-                      <div className="setup-input-group">
-                        <input
-                          id="setup-website"
-                          type="url"
-                          placeholder="https://yourbusiness.com"
-                          value={website}
-                          onChange={(e) => setWebsite(e.target.value)}
-                          required
-                          aria-label="Your website"
-                        />
-                      </div>
-                      <div className="setup-input-group">
-                        <input
-                          id="setup-email"
-                          type="email"
-                          placeholder="you@yourbusiness.com"
-                          value={email}
-                          onChange={(e) => setEmail(e.target.value)}
-                          required
-                          aria-label="Your email"
-                        />
-                      </div>
+            {/* Copy + form */}
+            <h1>
+              Set up your business on <span className="accent">every social platform</span> in 15 minutes
+            </h1>
+            <p className="setup-hero-sub">
+              Enter your website. We'll generate platform-perfect bios, pull your logo and images, 
+              and give you a copy-paste kit for Google, Facebook, Instagram, LinkedIn, and more.
+            </p>
+
+            {/* Inline form */}
+            <div className="setup-hero-form-wrap">
+              {!submitted ? (
+                <form onSubmit={handleSubmit} className="setup-form">
+                  <div className="setup-form-row">
+                    <div className="setup-input-group">
+                      <input
+                        id="setup-website"
+                        type="url"
+                        placeholder="https://yourbusiness.com"
+                        value={website}
+                        onChange={(e) => setWebsite(e.target.value)}
+                        required
+                        aria-label="Your website"
+                      />
                     </div>
-                    {error && <p className="setup-error">{error}</p>}
-                    <button type="submit" className="btn btn--primary btn--lg setup-submit" disabled={loading}>
-                      {loading ? "Generating..." : "Generate My Profile Kit"}
-                    </button>
-                    <p className="setup-fine-print">
-                      Free forever. No credit card. We'll email you the results.
-                    </p>
-                  </form>
-                ) : (
-                  <div className="setup-success">
-                    <div className="setup-success-icon">&#10003;</div>
-                    <h2>Your Social Profile Kit is ready!</h2>
-                    <p>
-                      We're generating your custom bios and pulling images from <strong>{website}</strong>.
-                    </p>
-                    <a
-                      href={`https://setup.glowsocial.com?url=${encodeURIComponent(website)}`}
-                      className="btn btn--primary btn--lg"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Open My Profile Kit
-                    </a>
-                    <p className="setup-fine-print" style={{ marginTop: 12 }}>
-                      We also sent a copy to <strong>{email}</strong>.
-                    </p>
+                    <div className="setup-input-group">
+                      <input
+                        id="setup-email"
+                        type="email"
+                        placeholder="you@yourbusiness.com"
+                        value={email}
+                        onChange={(e) => setEmail(e.target.value)}
+                        required
+                        aria-label="Your email"
+                      />
+                    </div>
                   </div>
-                )}
-              </div>
+                  {error && <p className="setup-error">{error}</p>}
+                  <button type="submit" className="btn btn--primary btn--lg setup-submit" disabled={loading}>
+                    {loading ? "Generating..." : "Generate My Profile Kit"}
+                  </button>
+                  <p className="setup-fine-print">
+                    Free forever. No credit card. We'll email you the results.
+                  </p>
+                </form>
+              ) : (
+                <div className="setup-success">
+                  <div className="setup-success-icon">&#10003;</div>
+                  <h2>Your Social Profile Kit is ready!</h2>
+                  <p>
+                    We're generating your custom bios and pulling images from <strong>{website}</strong>.
+                  </p>
+                  <a
+                    href={`https://setup.glowsocial.com?url=${encodeURIComponent(website)}`}
+                    className="btn btn--primary btn--lg"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Open My Profile Kit
+                  </a>
+                  <p className="setup-fine-print" style={{ marginTop: 12 }}>
+                    We also sent a copy to <strong>{email}</strong>.
+                  </p>
+                </div>
+              )}
             </div>
           </div>
         </div>
