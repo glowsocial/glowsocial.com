@@ -193,13 +193,15 @@
 .setup-how {
   padding: 80px 0;
   background: var(--bg);
+  text-align: center;
 }
 
 /* ---- Slideshow (inside How It Works, big + centered) ---- */
 .setup-slideshow-wrap {
   display: flex;
   justify-content: center;
-  margin: 40px 0 48px;
+  align-items: center;
+  margin: 40px auto 48px;
 }
 
 .setup-slideshow {
@@ -209,6 +211,7 @@
   aspect-ratio: 16 / 10;
   border-radius: var(--radius-lg);
   overflow: hidden;
+  margin: 0 auto;
   box-shadow:
     0 20px 80px rgba(0,0,0,0.15),
     0 0 0 1px rgba(0,0,0,0.06);
