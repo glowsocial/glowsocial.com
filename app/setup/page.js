@@ -112,42 +112,15 @@ export default function SetupPage() {
 
   return (
     <>
-      {/* Hero — centered slideshow + badge, then copy + form */}
+      {/* Hero — copy + form only */}
       <section className="setup-hero" id="get-started">
         <div className="setup-hero-grid"></div>
         <div className="container">
           <div className="setup-hero-center">
-            {/* Slideshow + Free Tool badge — centered as a unit */}
-            <div className="setup-hero-showcase">
-              <div className="setup-slideshow">
-                <img
-                  src="/images/setup/slide-1.png"
-                  alt="Welcome screen — Set up every social media platform in 15 minutes"
-                  className="setup-slide"
-                />
-                <img
-                  src="/images/setup/slide-2.png"
-                  alt="Enter your website URL to scan your business"
-                  className="setup-slide"
-                />
-                <img
-                  src="/images/setup/slide-3.png"
-                  alt="Scan results showing 3 of 8 platforms found with score bar"
-                  className="setup-slide"
-                />
-                <img
-                  src="/images/setup/slide-4.png"
-                  alt="Step-by-step Google Business Profile setup guide with numbered instructions"
-                  className="setup-slide"
-                />
-              </div>
-              <div className="setup-badge">
-                <span className="badge-dot"></span>
-                Free Tool
-              </div>
+            <div className="setup-badge">
+              <span className="badge-dot"></span>
+              Free Tool
             </div>
-
-            {/* Copy + form */}
             <h1>
               Set up your business on <span className="accent">every social platform</span> in 15 minutes
             </h1>
@@ -217,10 +190,37 @@ export default function SetupPage() {
         </div>
       </section>
 
-      {/* How it works */}
+      {/* How it works — slideshow lives here now */}
       <section className="setup-how">
         <div className="container">
           <span className="section-badge">How It Works</span>
+
+          {/* Slideshow between badge and heading */}
+          <div className="setup-slideshow-wrap">
+            <div className="setup-slideshow">
+              <img
+                src="/images/setup/slide-1.png"
+                alt="Welcome screen — Set up every social media platform in 15 minutes"
+                className="setup-slide"
+              />
+              <img
+                src="/images/setup/slide-2.png"
+                alt="Enter your website URL to scan your business"
+                className="setup-slide"
+              />
+              <img
+                src="/images/setup/slide-3.png"
+                alt="Scan results showing 3 of 8 platforms found with score bar"
+                className="setup-slide"
+              />
+              <img
+                src="/images/setup/slide-4.png"
+                alt="Step-by-step Google Business Profile setup guide with numbered instructions"
+                className="setup-slide"
+              />
+            </div>
+          </div>
+
           <h2>Three steps. Zero guesswork.</h2>
           <div className="setup-steps">
             {STEPS.map((step) => (
