@@ -19,6 +19,8 @@ A bakery owner sets her posting schedule once at the beginning of the month. She
 ## What Most People Get Wrong
 Auto-scheduling without auto-creation just moves the bottleneck. If your tool only schedules, you still have to spend hours writing the posts and finding images before you can fill that calendar. 
 
+Upgrade your scheduling strategy by letting AI create the posts for you. Get started with our free [Social Profile Kit](/setup).
+
 ## Related Questions
 - [What's the best way to automate social media posting?](/blog/whats-the-best-way-to-automate-social-media-posting)
 - [How often should small businesses post on social media?](/blog/how-often-should-small-businesses-post)

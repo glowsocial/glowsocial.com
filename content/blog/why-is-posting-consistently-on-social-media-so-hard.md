@@ -19,6 +19,8 @@ A solo landscaper we work with had 47 followers and posted once in three months.
 ## What Most People Get Wrong
 Batching content on Sundays doesn't solve this problem. You still need to come up with the ideas to batch. The true bottleneck is staring at a blank page, not the act of scheduling the posts.
 
+Stop staring at a blank page. Create your free [Social Profile Kit](/setup) to generate a month of ideas instantly.
+
 ## Related Questions
 - [How to create social media content faster?](/blog/how-to-create-social-media-content-faster)
 - [How often should small businesses post on social media?](/blog/how-often-should-small-businesses-post)

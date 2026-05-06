@@ -19,6 +19,8 @@ A mobile pet groomer told us she knows exactly what to post and has a folder ful
 ## What Most People Get Wrong
 Ironically, the businesses that need organic social media the most—local, service-based providers who rely on community trust—are exactly the ones with the least amount of free time to actually execute it.
 
+Don't let time be your bottleneck. Claim your free [Social Profile Kit](/setup) and establish a consistent posting cadence today.
+
 ## Related Questions
 - [Why is posting consistently on social media so hard?](/blog/why-is-posting-consistently-on-social-media-so-hard)
 - [What happens if you don't post on social media regularly?](/blog/what-happens-not-posting-regularly)

@@ -19,6 +19,8 @@ Instead of a boutique hotel owner spending an hour trying to coax ChatGPT into w
 ## What Most People Get Wrong
 Generating the text is only half the battle. If your AI tool doesn't also generate the accompanying visual graphics or format the post for scheduling, you still have a manual, time-consuming workflow ahead of you.
 
+Want to see exactly what AI can generate for your specific industry? Enter your details into our free [Social Profile Kit](/setup) to find out.
+
 ## Related Questions
 - [Can AI write good social media posts?](/blog/can-ai-write-good-social-media-posts)
 - [What's the best way to automate social media posting?](/blog/whats-the-best-way-to-automate-social-media-posting)

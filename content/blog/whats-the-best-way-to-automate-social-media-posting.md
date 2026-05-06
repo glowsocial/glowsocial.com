@@ -19,6 +19,8 @@ A local gym owner using a traditional scheduler still spent six hours every mont
 ## What Most People Get Wrong
 Full automation only works if the AI knows your specific business context. If you use a generic AI generator without brand guidelines, you'll end up with robotic content that sounds exactly like your competitors and alienates your local audience.
 
+Stop paying for empty calendars. Set up full end-to-end automation with our free [Social Profile Kit](/setup).
+
 ## Related Questions
 - [How to schedule social media posts automatically?](/blog/how-to-schedule-social-media-posts-automatically)
 - [What is the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)
