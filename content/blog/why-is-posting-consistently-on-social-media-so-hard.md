@@ -22,6 +22,6 @@ Batching content on Sundays doesn't solve this problem. You still need to come u
 Stop staring at a blank page. Create your free [Social Profile Kit](/setup) to generate a month of ideas instantly.
 
 ## Related Questions
-- [How to create social media content faster?](/blog/how-to-create-social-media-content-faster)
-- [How often should small businesses post on social media?](/blog/how-often-should-small-businesses-post)
-- [What happens if you don't post on social media regularly?](/blog/what-happens-not-posting-regularly)
+- [What's the biggest challenge with social media marketing?](/blog/whats-the-biggest-challenge-with-social-media-marketing)
+- [How long does it take to manage social media?](/blog/how-long-does-it-take-to-manage-social-media)
+- [What's the best way to automate social media posting?](/blog/whats-the-best-way-to-automate-social-media-posting)

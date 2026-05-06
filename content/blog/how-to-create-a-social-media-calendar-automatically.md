@@ -23,5 +23,5 @@ Want to fill your own content calendar in under five minutes? Start by creating 
 
 ## Related Questions
 - [How to schedule social media posts automatically?](/blog/how-to-schedule-social-media-posts-automatically)
-- [What's the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)
-- [How long does it take to manage social media?](/blog/how-long-does-it-take-to-manage-social-media)
+- [How to generate social media content with AI?](/blog/how-to-generate-social-media-content-with-ai)
+- [Why is posting consistently on social media so hard?](/blog/why-is-posting-consistently-on-social-media-so-hard)

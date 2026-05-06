@@ -23,5 +23,5 @@ Want to see exactly what AI can generate for your specific industry? Enter your 
 
 ## Related Questions
 - [Can AI write good social media posts?](/blog/can-ai-write-good-social-media-posts)
+- [How to create a social media calendar automatically?](/blog/how-to-create-a-social-media-calendar-automatically)
 - [What's the best way to automate social media posting?](/blog/whats-the-best-way-to-automate-social-media-posting)
-- [What's the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)

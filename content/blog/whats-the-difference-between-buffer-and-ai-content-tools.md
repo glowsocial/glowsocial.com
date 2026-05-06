@@ -22,6 +22,6 @@ People often compare the price of a $15/month scheduler to a $99/month AI creati
 Stop paying for empty calendars. Get your business configured for automated creation today with our free [Social Profile Kit](/setup).
 
 ## Related Questions
+- [How to generate social media content with AI?](/blog/how-to-generate-social-media-content-with-ai)
+- [Can AI write good social media posts?](/blog/can-ai-write-good-social-media-posts)
 - [What's the best way to automate social media posting?](/blog/whats-the-best-way-to-automate-social-media-posting)
-- [How to schedule social media posts automatically?](/blog/how-to-schedule-social-media-posts-automatically)
-- [How to create a social media calendar automatically?](/blog/how-to-create-a-social-media-calendar-automatically)

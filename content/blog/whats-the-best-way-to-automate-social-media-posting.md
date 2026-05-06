@@ -23,5 +23,5 @@ Stop paying for empty calendars. Set up full end-to-end automation with our free
 
 ## Related Questions
 - [How to schedule social media posts automatically?](/blog/how-to-schedule-social-media-posts-automatically)
-- [What is the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)
-- [How to create social media content faster?](/blog/how-to-create-social-media-content-faster)
+- [What's the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)
+- [How to generate social media content with AI?](/blog/how-to-generate-social-media-content-with-ai)

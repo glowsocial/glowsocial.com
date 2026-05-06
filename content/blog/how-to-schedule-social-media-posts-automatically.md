@@ -23,5 +23,5 @@ Upgrade your scheduling strategy by letting AI create the posts for you. Get sta
 
 ## Related Questions
 - [What's the best way to automate social media posting?](/blog/whats-the-best-way-to-automate-social-media-posting)
-- [How often should small businesses post on social media?](/blog/how-often-should-small-businesses-post)
-- [What happens if you don't post on social media regularly?](/blog/what-happens-not-posting-regularly)
+- [How to create a social media calendar automatically?](/blog/how-to-create-a-social-media-calendar-automatically)
+- [What's the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)

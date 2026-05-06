@@ -23,5 +23,5 @@ Don't let time be your bottleneck. Claim your free [Social Profile Kit](/setup) 
 
 ## Related Questions
 - [Why is posting consistently on social media so hard?](/blog/why-is-posting-consistently-on-social-media-so-hard)
-- [What happens if you don't post on social media regularly?](/blog/what-happens-not-posting-regularly)
-- [How to restart social media after a long break?](/blog/how-to-restart-social-media-after-long-break)
+- [How long does it take to manage social media?](/blog/how-long-does-it-take-to-manage-social-media)
+- [Can AI write good social media posts?](/blog/can-ai-write-good-social-media-posts)

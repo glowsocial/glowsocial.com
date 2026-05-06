@@ -23,5 +23,5 @@ Ready to see what AI can do for your specific brand voice? Grab our free [Social
 
 ## Related Questions
 - [How to generate social media content with AI?](/blog/how-to-generate-social-media-content-with-ai)
-- [Can AI replace a social media manager?](/blog/can-ai-replace-social-media-manager)
 - [What's the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)
+- [How long does it take to manage social media?](/blog/how-long-does-it-take-to-manage-social-media)
