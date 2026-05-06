@@ -10,9 +10,13 @@ Your social media bio is the most-read and least-optimized piece of copy most bu
 A mobile dog groomer had the same Instagram bio for 2 years: "🐕 Dog lover | Grooming with love 💕 | DM for appts." She rewrote it to: "Mobile dog grooming in Scottsdale & Tempe. I come to you — no crate anxiety, no car rides. Book at [link]." Inquiry DMs increased 3x in the first month. The difference wasn't copywriting talent — it was clarity about what, where, and how.
 
 ## What Most People Get Wrong
-Writing one bio and pasting it everywhere. Instagram rewards brevity and emoji. LinkedIn rewards professional depth and keyword density. Google Business Profile rewards location keywords and service specificity. A free social media setup tool can generate platform-optimized versions from your website in seconds — which is faster and more accurate than guessing at each platform's conventions yourself.
+Writing one bio and pasting it everywhere. Instagram rewards brevity and emoji. LinkedIn rewards professional depth and keyword density. Google Business Profile rewards location keywords and service specificity. A [free social media setup tool](/setup) can generate platform-optimized versions from your website in seconds — which is faster and more accurate than guessing at each platform's conventions yourself.
+
+**👉 [Get your free Profile Kit — bios for all 8 platforms in 60 seconds →](/setup)**
 
 ## Related Questions
-- [How do I set up social media for my small business?](how-to-set-up-social-media-small-business.md)
-- [What social media platforms should a local business be on?](what-platforms-should-local-business-be-on.md)
-- [How to get more customers from social media](how-to-get-more-customers-from-social-media.md)
+- [How do I set up social media for my small business?](/blog/how-to-set-up-social-media-small-business)
+- [What social media platforms should a local business be on?](/blog/what-platforms-should-local-business-be-on)
+- [How to get more customers from social media](/blog/how-to-get-more-customers-from-social-media)
+- [Instagram bio for business — the complete formula](/blog/instagram-bio-for-business)
+- [Free social media bio generator](/blog/social-media-bio-generator-free)

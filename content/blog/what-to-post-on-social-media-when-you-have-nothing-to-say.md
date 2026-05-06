@@ -103,3 +103,12 @@ If even a monthly content session feels like too much — which is understandabl
 [Glow Social](https://glowsocial.com) creates and publishes business-specific social media posts automatically. You answer a few questions about your business once, and posts go out consistently across your Facebook, Instagram, and Google Business Profile without weekly effort.
 
 The blank-page problem disappears when there's no page to stare at. [See how it works →](https://glowsocial.com)
+
+**Not sure your profiles are even set up right?** Before worrying about what to post, make sure your bios, images, and accounts are dialed in across all platforms.
+
+[**Get your free Social Profile Kit →**](/setup)
+
+## Related Reading
+- [How to create a social media calendar automatically](/blog/how-to-create-a-social-media-calendar-automatically)
+- [Content pillars for a daily social media strategy](/blog/content-pillars-daily-social-media-strategy)
+- [Why is posting consistently on social media so hard?](/blog/why-is-posting-consistently-on-social-media-so-hard)

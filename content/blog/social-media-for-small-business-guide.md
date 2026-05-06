@@ -133,10 +133,12 @@ Here's what happens when you stop posting:
 
 ## Quick-Start Action Plan
 
-1. **Today:** Pick 2 platforms (Facebook + Instagram for most)
+1. **Today:** [Set up your profiles on every platform in 15 minutes (free) →](/setup)
 2. **This week:** Write 12 posts using our [47 content ideas](/blog/social-media-content-ideas-small-business)
 3. **This month:** Schedule those 12 posts (3 per week for 4 weeks)
 4. **Next month:** Repeat — or [automate it for $99/month](https://glowsocial.com)
+
+**Step 0 is free:** Our [Social Profile Kit](/setup) scans your website and generates professional bios, images, and direct signup links for all 8 major platforms. No login required.
 
 The businesses that grow aren't the ones with the biggest budgets. They're the ones that show up consistently. Start today.
 

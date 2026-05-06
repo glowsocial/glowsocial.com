@@ -72,7 +72,9 @@ If you're a local business — restaurant, salon, contractor, dental office, ret
 
 The cheapest way to solve this permanently is Glow Social: $99/month, 12 automatic posts, 5-minute setup, no content creation required.
 
-Start at <a href="https://glowsocial.com">glowsocial.com</a>.
+**Not ready for $99/month yet?** Start with our free Profile Kit — it sets up all your social media profiles in 15 minutes, no credit card needed.
+
+[**Get your free Social Profile Kit →**](/setup)
 
 Compare your options: [Done-For-You vs. DIY](/blog/done-for-you-vs-diy-social-media) · [Social Media Manager vs. AI](/blog/social-media-manager-vs-ai) · [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-media-manager)
 
