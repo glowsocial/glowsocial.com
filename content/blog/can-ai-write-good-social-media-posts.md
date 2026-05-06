@@ -11,7 +11,7 @@ authors: ["Kathleen Celmins"]
 Yes, AI can write excellent social media posts, but only if it is fed deep, specific context about your business, your target audience, and your unique brand voice. If you use raw AI without this context, the posts will sound generic and robotic.
 
 ## Why This Matters
-The quality of AI output is entirely dependent on the quality of the input. When you ask a general AI like ChatGPT to "write a post about a bakery," it relies on generic internet averages. It uses emojis excessively and phrases like "In today's digital landscape." However, purpose-built AI marketing tools use complex background prompts to inject your specific business details—like your location, your services, and your tone of voice—resulting in content that actually sounds like it was written by you.
+The quality of AI output is entirely dependent on the quality of the input. When you ask a general AI like ChatGPT to "write a post about a bakery," it relies on generic internet averages. It uses emojis excessively and phrases like "In today's digital landscape." However, purpose-built AI marketing tools use complex background prompts to inject your specific business details—like your location, your services, and [your tone of voice](/blog/social-media-content-brand-voice-ai)—resulting in content that actually sounds like it was written by you.
 
 ## Real-World Example
 A local real estate agent tried using standard AI to write posts and got captions full of generic house emojis and phrases like "Unlocking the door to your dreams!" She switched to a specialized AI platform that she trained on her specific neighborhood expertise and professional tone. The AI began generating highly specific posts about local market trends and specific property features that resonated with her actual buyers.
@@ -25,3 +25,5 @@ Ready to see what AI can do for your specific brand voice? Grab our free [Social
 - [How to generate social media content with AI?](/blog/how-to-generate-social-media-content-with-ai)
 - [What's the difference between Buffer and AI content tools?](/blog/whats-the-difference-between-buffer-and-ai-content-tools)
 - [How long does it take to manage social media?](/blog/how-long-does-it-take-to-manage-social-media)
+- [Social media manager vs AI: which is better?](/blog/social-media-manager-vs-ai)
+- [How to match your brand voice with AI content](/blog/social-media-content-brand-voice-ai)

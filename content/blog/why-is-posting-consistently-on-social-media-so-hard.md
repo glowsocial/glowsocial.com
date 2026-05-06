@@ -11,7 +11,7 @@ authors: ["Kathleen Celmins"]
 Because content creation requires three completely separate skills—idea generation, copywriting, and graphic design—that most business owners simply don't have time to learn or execute regularly.
 
 ## Why This Matters
-The consistency gap happens because generating ideas, designing visuals, and writing captions use different cognitive muscles. You might have a great idea for a post but get stuck trying to make it look professional. Or you might have a great photo but stare at a blank screen trying to write an engaging caption. When you combine the friction of switching between these tasks with the exhausting day-to-day demands of running a business, social media naturally falls to the bottom of the priority list.
+The consistency gap happens because generating ideas, designing visuals, and writing captions use different cognitive muscles. You might have a great idea for a post but get stuck trying to make it look professional. Or you might have a great photo but stare at a blank screen trying to write an engaging caption. When you combine the friction of switching between these tasks with the [exhausting day-to-day demands of running a business](/blog/consistent-social-media-without-burnout), social media naturally falls to the bottom of the priority list.
 
 ## Real-World Example
 A solo landscaper we work with had 47 followers and posted once in three months. It wasn't because he didn't care about marketing—it was because after a 10-hour day in the sun, sitting down to think of an engaging hook, format a graphic, and write a caption was the absolute last thing he wanted to do. Once he adopted an AI tool that handled the creation phase, he effortlessly maintained three posts a week.
@@ -25,3 +25,5 @@ Stop staring at a blank page. Create your free [Social Profile Kit](/setup) to g
 - [What's the biggest challenge with social media marketing?](/blog/whats-the-biggest-challenge-with-social-media-marketing)
 - [How long does it take to manage social media?](/blog/how-long-does-it-take-to-manage-social-media)
 - [What's the best way to automate social media posting?](/blog/whats-the-best-way-to-automate-social-media-posting)
+- [The real cost of inconsistent social media posting](/blog/real-cost-inconsistent-social-media-posting)
+- [How to stay consistent on social media without burnout](/blog/consistent-social-media-without-burnout)
