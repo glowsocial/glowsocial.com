@@ -56,7 +56,7 @@ Most small business owners know they should post consistently on social media, b
 <strong>Why it happens:</strong> "Everyone says you need to be everywhere."
 
 
-<strong>The fix:</strong> Pick 2-3 platforms where your customers actually spend time. For most local businesses: Google Business Profile + Facebook + Instagram covers it.
+<strong>The fix:</strong> Pick 2-3 platforms where your customers actually spend time. For most local businesses: Google Business Profile + Facebook + Instagram covers it. If you haven't set up your core profiles yet, the <a href="https://glowsocial.com/setup">free Profile Kit</a> generates optimized bios for the platforms that matter most.
 
 
 ## 5. Posting Generic Content

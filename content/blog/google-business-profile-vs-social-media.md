@@ -50,8 +50,9 @@ The answer isn't one or the other. It's both, with the right priorities.
 ## The Ideal Strategy for Local Businesses
 
 1. **Optimize GBP first** (1-2 hours one-time): Complete profile, add photos, respond to reviews
-2. **Automate social media** ($99/month): Use Glow Social for consistent posting without time investment
-3. **Maintain GBP ongoing** (15 min/week): Respond to new reviews, update photos seasonally
+2. **Set up your profiles right** (15 minutes, free): Use the [free Social Profile Kit](https://glowsocial.com/setup) to generate optimized bios and content for Google Business Profile + 7 other platforms
+3. **Automate social media** ($99/month): Use Glow Social for consistent posting without time investment
+4. **Maintain GBP ongoing** (15 min/week): Respond to new reviews, update photos seasonally
 
 Total time: about 30 minutes per month for both channels.
 

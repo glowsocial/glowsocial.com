@@ -128,6 +128,8 @@ Glow Social fills the gap between "doing it yourself" and "hiring someone" — s
 
 ## Getting Started with Done-For-You Social Media
 
+Before you commit to any done-for-you service, make sure your profiles are set up right. The <a href="https://glowsocial.com/setup">free Social Profile Kit</a> generates optimized bios, images, and platform-specific content for all 8 major platforms in under 15 minutes — no login required.
+
 If you want to test done-for-you posting without a big commitment, Glow Social offers the lowest barrier to entry: $99/month with 5-minute setup at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 

@@ -16,7 +16,7 @@ Google Business Profile (formerly Google My Business) is the single most importa
 
 If you don't have one set up, you're invisible in local search. If you have one but haven't touched it in months, you're almost as invisible.
 
-Here's how to set it up properly in about 15 minutes, and — more importantly — how to keep it working for you after the initial setup.
+Here's how to set it up properly in about 15 minutes, and — more importantly — how to keep it working for you after the initial setup. (Want to set up all your social platforms at once? The [free Social Profile Kit](https://glowsocial.com/setup) generates optimized bios and handles the setup for all 8 major platforms in minutes).
 
 ## Before You Start
 

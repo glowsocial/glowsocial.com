@@ -1,40 +1,13 @@
----
-title: "Should I Hire a Social Media Manager or Do It Myself?"
-description: "If your business earns under $500K/year, start with an AI tool. Over $500K with active customer engagement, hire a human. Match the solution to the bottleneck."
-slug: "should-i-hire-social-media-manager-or-diy"
-date: "2026-04-22"
-tags: ["social media manager", "DIY", "hiring", "small business", "AI tools"]
-schema_type: "Article"
-faqs:
-  - q: "Should I hire a social media manager or do it myself?"
-    a: "If your business earns under $500K per year and your primary need is consistent posting, use an AI tool like Glow Social ($99/month). If you earn over $500K and need active community management, hire a part-time social media manager ($300-$800/month)."
-  - q: "How much does it cost to hire a social media manager?"
-    a: "Freelance social media managers charge $300-$800 per month for small business accounts, typically delivering 8-12 posts per month with basic reporting. Full-time hires cost $35,000-$55,000 per year."
----
+# Should I hire a social media manager or do it myself?
 
 ## Direct Answer
-
-If your business earns under $500K per year and your primary need is consistent posting, use an AI tool ($99 per month). If you earn over $500K and need active community management, influencer outreach, or ad campaign management, hire a part-time social media manager ($300-$800 per month).
+If your revenue is under $500K and you don't have a dedicated marketing budget, do it yourself with an AI-powered tool. Hire a human when you need community management, DM-based sales, or influencer outreach that AI cannot handle yet.
 
 ## Why This Matters
-
-The decision framework is simpler than most people make it. Your social media needs fall into two buckets: production (creating and publishing posts) and interaction (responding to comments, managing DMs, handling PR situations). If your bottleneck is production, an AI tool solves it at a fraction of the cost of a human hire. If your bottleneck is interaction, you need a person. Most small businesses under 1,000 followers have a production bottleneck, not an interaction bottleneck. They don't need someone managing a community that doesn't exist yet. They need posts going out consistently so a community can form.
+The real question is which tasks you're trying to offload. Content creation and scheduling are fully automatable now. Community management (responding to DMs, handling complaints, building relationships in comments) still requires a human. Most small business owners conflate these two jobs into one hire, paying $400-$800 per month for someone who spends 70% of their time on tasks a $99 tool handles better. The remaining 30% (engagement, customer service, strategic conversations) is where human judgment matters. Separating these roles saves money and improves results.
 
 ## Real-World Example
-
-A solo mortgage broker spent 3 months interviewing freelance social media managers. He wanted someone who understood financial services, could write compliance-friendly content, and charged under $500 per month. He found nobody who fit all three criteria. He tried Glow Social instead, generated 12 mortgage-specific posts per month covering rate updates, first-time buyer tips, and refinancing education, and spent 10 minutes per month reviewing them. Problem solved in 10 minutes instead of 3 months.
+A solo real estate agent was debating between a $500 per month freelancer and doing it herself. She chose a done-for-you AI tool for $99 per month that generated listing-adjacent content (home staging tips, neighborhood guides, market updates) and scheduled it across Instagram and Facebook. She spent the $400 she saved on a part-time virtual assistant for 5 hours per month to handle DM responses and comment engagement. Better content, better engagement, lower total cost.
 
 ## What Most People Get Wrong
-
-"Doing it myself" is not actually the alternative to hiring. The real alternative to hiring is doing nothing, because "I'll do it myself" almost always means "I'll do it for 2 weeks, get busy, and stop." If you're honest about your bandwidth, the choice is between paying for help (human or AI) or having an inactive social media presence.
-
----
-
-**Related reading:**
-
-- [How to Hire a Social Media Manager](/blog/how-to-hire-social-media-manager)
-- [Glow Social vs. Freelance Social Media Manager](/blog/glow-social-vs-freelance-social-media-manager)
-- [How Much Should Social Media Management Cost?](/blog/how-much-should-social-media-management-cost)
-- [Can AI Replace a Social Media Manager?](/blog/can-ai-replace-social-media-manager)
-
-**→ [Skip the hiring process — see your content preview](https://glowsocial.com/preview)**
+"Doing it myself" doesn't mean writing every post manually. It means choosing tools that eliminate the creative bottleneck. The business owners who burn out on social media are the ones treating "DIY" as "open a blank document and stare at it." That's not DIY. That's unnecessary suffering.

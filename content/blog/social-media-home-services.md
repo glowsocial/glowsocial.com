@@ -166,6 +166,8 @@ Where to focus first (in order of importance):
 <li>Facebook page (even if less active)</li>
 </ol>
 
+Want to set up all your profiles at once? The <a href="https://glowsocial.com/setup">free Social Profile Kit</a> generates optimized bios and signup links for every platform in under 15 minutes.
+
 <strong>Better stack:</strong>
 
 <ol>

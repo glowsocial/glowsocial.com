@@ -177,7 +177,7 @@ The best platform choice doesn't matter if you can't post consistently.
 
 <ol>
 <li>Pick 2-3 platforms based on your business type (use the guide above)</li>
-<li>Set up or optimize profiles on those platforms</li>
+<li>Set up or optimize profiles on those platforms — use the <a href="https://glowsocial.com/setup">free Social Profile Kit</a> to generate platform-specific bios and signup links for all 8 major platforms in one sitting</li>
 <li>Choose your approach: DIY batching or automated posting</li>
 <li>Commit to consistency over presence everywhere</li>
 </ol>

@@ -211,6 +211,7 @@ export default function HomePage() {
         </div>
       </section>
 
+
       {/* ============ THE PAIN — Emotional first ============ */}
       <section className="brain-problem" id="brain-problem" data-animate>
         <div className={`container ${visibleSections.has("brain-problem") ? "fade-in" : "fade-hidden"}`}>
@@ -630,6 +631,19 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* ============ BACKED BY ============ */}
+      <div className="backed-by">
+        <a href="https://elevenlabs.io/startup-grants" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://eleven-public-cdn.elevenlabs.io/payloadcms/cy7rxce8uki-IIElevenLabsGrants%201.webp"
+            alt="ElevenLabs Startup Grant Recipient"
+            width={250}
+            height={50}
+            style={{ display: 'block' }}
+          />
+        </a>
+      </div>
 
       {/* STICKY MOBILE CTA */}
       <div className="sticky-mobile-cta" id="stickyCta">
