@@ -28,7 +28,7 @@ There is a better way. You can automatically post to all social media platforms 
 When business owners decide they want to "post everywhere at once," they usually face three options, and they all come with drastically different price tags and time commitments.
 
 ### Option 1: The DIY Scheduling Tool (The "Buffer" Approach)
-Tools like Buffer, Later, or Hootsuite allow you to connect all your accounts to one dashboard. You write the post once, attach the image, and click "Schedule." The software then blasts it out to Facebook, Instagram, and LinkedIn.
+Tools like [Buffer](https://buffer.com/), [Later](https://later.com/), or [Hootsuite](https://hootsuite.com/) allow you to connect all your accounts to one dashboard. You write the post once, attach the image, and click "Schedule." The software then blasts it out to Facebook, Instagram, and LinkedIn. (Check out our [best Sprout Social alternatives for local businesses](/blog/best-sprout-social-alternatives) to see a full comparison).
 
 *   **The Cost:** Free to $99/month.
 *   **The Catch:** You still have to do all the work. You have to take the photo, write the caption, remember to log into the dashboard, and manually schedule the posts. It solves the distribution problem, but it doesn't solve the *creation* problem. If you stare at a blank screen on Sunday night with writer's block, a scheduling tool won't help you.

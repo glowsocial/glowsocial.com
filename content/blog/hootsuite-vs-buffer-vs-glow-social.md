@@ -11,9 +11,9 @@ tags: ["software reviews", "social media management", "small business marketing"
 
 # Hootsuite vs. Buffer vs. Glow Social: Which is Best for Local Businesses?
 
-If you are a local business owner trying to get a handle on your social media, you’ve almost certainly run into **Hootsuite** and **Buffer**. They are two of the oldest, most established tools in the industry.
+If you are a local business owner trying to get a handle on your social media, you’ve almost certainly run into **[Hootsuite](https://hootsuite.com/)** and **[Buffer](https://buffer.com/)**. They are two of the oldest, most established tools in the industry.
 
-More recently, platforms like **Glow Social** have emerged, offering a completely different approach to the problem. 
+More recently, platforms like **[Glow Social](https://glowsocial.com/)** have emerged, offering a completely different approach to the problem. (If you're coming from Sprout Social, check out our [best Sprout Social alternatives guide](/blog/best-sprout-social-alternatives)).
 
 The question isn't which of these tools is "the best." They are all excellent pieces of software. The real question is: **Which tool is built to solve the specific bottleneck your local business is facing?**
 
@@ -82,4 +82,4 @@ Your choice comes down to your budget, your team, and your biggest roadblock.
 
 *   **Choose Buffer if:** You love creating content, you have plenty of ideas, and you just want a cheap, simple way to schedule posts in advance. 
 *   **Choose Hootsuite if:** You have a dedicated marketing team, you need deep analytics, and you want to monitor complex social listening streams.
-*   **Choose Glow Social if:** You are busy running your business, you hate staring at a blank screen, and you want your social media handled professionally without paying $1,500/month for a marketing agency.
+*   **Choose Glow Social if:** You are busy running your business, you hate staring at a blank screen, and you want your social media handled professionally without paying $1,500/month for a marketing agency. Ready to save hours each week? Learn [how to automatically post to all your social media platforms at once](/blog/how-to-automatically-post-to-all-social-media-platforms).
