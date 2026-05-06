@@ -118,19 +118,19 @@ export default function HomePage() {
             The {pricing.startingAtShort} Marketing Agency
           </span>
           <h1>
-            What if social media
+            You have a business to run.
             <br />
-            <span className="accent">just wasn&apos;t your problem anymore?</span>
+            <span className="accent">Not a feed to manage.</span>
           </h1>
           <p className="hero-sub">
-            The guilt. The dread. The &ldquo;I really should post something&rdquo; loop.
+            An agency costs $2,000/mo. Yours is {pricing.startingAtShort}.
             <br />
-            Gone. Your business stays active and professional.
+            The guilt, the dread, and the "I really should post" loop are gone.
           </p>
           <p className="hero-desc">
             Glow Social creates <strong>professional posts every month</strong>,
-            publishes them across <strong>12 platforms</strong> including Google Business Profile,
-            and handles your reviews — all for <strong>{pricing.startingAtFull}</strong>.
+            formats them for the room (short for X, professional for LinkedIn),
+            and publishes them across <strong>12 platforms</strong> — all for <strong>{pricing.startingAtFull}</strong>.
           </p>
           <form
             className="hero-url-form"
@@ -257,7 +257,7 @@ export default function HomePage() {
       <section className="how" id="how" data-animate>
         <div className={`container ${visibleSections.has("how") ? "fade-in" : "fade-hidden"}`}>
           <h2>From &ldquo;I Need to Get Around to That&rdquo;<br />to &ldquo;It&apos;s Already Done&rdquo;</h2>
-          <p className="section-sub">Three steps. Five minutes. Then you never have to think about social media again.</p>
+          <p className="section-sub">A &ldquo;set-it-and-forget-it&rdquo; experience. Three steps. Five minutes. Then you never have to think about social media again.</p>
 
           <div className="how-tabs">
             <div className="how-tab-buttons">
@@ -516,8 +516,8 @@ export default function HomePage() {
       {/* ============ COMPETITOR STRIP ============ */}
       <section className="competitor-strip" id="competitors" data-animate>
         <div className={`container ${visibleSections.has("competitors") ? "fade-in" : "fade-hidden"}`}>
-          <h2>Other Tools Weren&apos;t Built for Local</h2>
-          <p className="section-sub">Most social media tools are made for marketing teams. Here&apos;s what you&apos;d be missing.</p>
+          <h2>Other Tools Give You More Work. We Give You Less.</h2>
+          <p className="section-sub">Most social media tools are made for marketing teams to manage feeds. We built Glow Social for business owners to run businesses.</p>
           <div className="competitor-grid">
             <div className="competitor-card"><h3>Buffer</h3><div className="verdict">No Google Business Profile</div><div className="detail">No GBP posting. No review management. Not built for local.</div></div>
             <div className="competitor-card"><h3>Later</h3><div className="verdict">No Google Business Profile</div><div className="detail">Instagram-focused. No GBP support at all. No reviews.</div></div>
