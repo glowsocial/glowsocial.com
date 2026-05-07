@@ -156,6 +156,7 @@ export default function SetupPage() {
                         aria-label="Your email"
                       />
                     </div>
+
                   </div>
                   {error && <p className="setup-error">{error}</p>}
                   <button type="submit" className="btn btn--primary btn--lg setup-submit" disabled={loading}>
@@ -173,7 +174,7 @@ export default function SetupPage() {
                     We're generating your custom bios and pulling images from <strong>{website}</strong>.
                   </p>
                   <a
-                    href={`https://setup.glowsocial.com?url=${encodeURIComponent(website)}`}
+                    href={`https://setup.glowsocial.com?url=${encodeURIComponent(website)}&email=${encodeURIComponent(email)}`}
                     className="btn btn--primary btn--lg"
                     target="_blank"
                     rel="noopener noreferrer"
