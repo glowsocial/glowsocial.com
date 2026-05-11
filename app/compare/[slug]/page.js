@@ -82,8 +82,7 @@ function BreadcrumbJsonLd({ title, slug }) {
       {
         "@type": "ListItem",
         position: 3,
-        name: title,
-        item: `https://glowsocial.com/compare/${slug}`,
+        name: title || slug,
       },
     ],
   };
