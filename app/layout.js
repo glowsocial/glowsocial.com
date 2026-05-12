@@ -30,7 +30,7 @@ export const metadata = {
     template: "%s | Glow Social",
   },
   description:
-    "Done-for-you social media for local businesses who hate social media. Professional posts, Google Business Profile, and Google Review monitoring — starting at $99/mo. Setup in 5 minutes.",
+    "Done-for-you social media for local businesses. Professional posts, Google Business Profile, brand-matched voice, and Google Review monitoring — starting at $99/mo.",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -38,13 +38,13 @@ export const metadata = {
     siteName: "Glow Social",
     title: "Glow Social | Done-For-You Social Media for Local Businesses",
     description:
-      "$99/month social media — handled. Glow Social reads your website, creates professional content, and publishes to 13 platforms so you never have to think about social media again.",
+      "$99/month social media — handled. Glow Social reads your website, mirrors your voice, creates professional content, and keeps your online storefront active.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Glow Social — Done-For-You Social Media for Local Businesses. $99/month, 13 platforms, 5-minute setup.",
+        alt: "Glow Social — Done-For-You Social Media for Local Businesses. $99/month, professional posts, 5-minute setup.",
       },
     ],
   },
@@ -52,7 +52,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Glow Social | Done-For-You Social Media for Local Businesses",
     description:
-      "$99/month social media — handled. Professional posts across 13 platforms so you never have to think about social media again.",
+      "$99/month social media — handled. Professional posts, brand-matched voice, Google Business Profile, and reviews.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
@@ -155,9 +155,9 @@ export default function RootLayout({ children }) {
                 execute: function() {
                   return {
                     plans: [
-                      { name: "Glo Core", price: "$99/mo", posts: "12/month", features: ["12 platforms", "GBP posting", "automated scheduling"] },
-                      { name: "Glo Pro", price: "$149/mo", posts: "20+/month", features: ["carousels", "video", "Google Review monitoring", "analytics"] },
-                      { name: "Glo Unlimited", price: "$299/mo", posts: "unlimited", features: ["unlimited everything"] }
+                      { name: "Glo Core", price: "$99/mo", posts: "12/month", features: ["Total Coverage", "Zero Maintenance", "Brand Protection", "Google Business visibility", "Zero-Login approvals"] },
+                      { name: "Glo Pro", price: "$149/mo", posts: "20+/month", features: ["More Momentum", "Scroll-Stopping Formats", "Google Review monitoring", "Performance Clarity"] },
+                      { name: "Glo Unlimited", price: "$299/mo", posts: "unlimited", features: ["Always-On Coverage", "Unlimited Reach Assets", "Full Brand Protection"] }
                     ]
                   };
                 }

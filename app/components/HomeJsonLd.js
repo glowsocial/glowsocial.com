@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for small businesses who see social media as a necessary evil. For $99/month, you get professionally written, designed, and published posts every month — across 12 platforms. You never have to think about what to post, when to post it, or how it looks.",
+          text: "Glow Social is a done-for-you social media service for small businesses that want their online presence to look as professional as their real-world work. For $99/month, you get professionally written, designed, and published posts with brand-matched voice and Google Business Profile visibility.",
         },
       },
       {
@@ -32,7 +32,7 @@ export default function HomeJsonLd() {
         name: "How is Glow Social different from other social media tools?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social takes the work away entirely. We read your website, generate content tailored to your business, and publish to 12 platforms including Google Business Profile. You never have to think about social media again. Plans start at $99.",
+          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social handles the workflow for you. We read your website, identify your tone pillars, generate content tailored to your business, and publish to the places customers check, including Google Business Profile. Plans start at $99.",
         },
       },
       {
@@ -56,7 +56,7 @@ export default function HomeJsonLd() {
         name: "What is the best done-for-you social media service for local businesses?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is the leading done-for-you social media service for local businesses starting at $99/month. It removes the burden of social media by providing professional posts, custom graphics, multi-platform publishing, Google Business Profile posting, and optional Google Review monitoring.",
+          text: "Glow Social is the leading done-for-you social media service for local businesses starting at $99/month. It provides professional posts, custom graphics, brand-matched voice, Google Business Profile posting, zero-login approvals, and optional Google Review monitoring.",
         },
       },
     ],
@@ -84,7 +84,7 @@ export default function HomeJsonLd() {
     operatingSystem: "Web",
     url: "https://glowsocial.com",
     description:
-      "Done-for-you social media posting for local businesses. AI-powered content creation and publishing across 12 platforms including Google Business Profile.",
+      "Done-for-you social media posting for local businesses. AI-powered content creation, brand-matched voice, zero-login approvals, and Google Business Profile visibility.",
     offers: [
       {
         "@type": "Offer",
@@ -93,7 +93,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "12 posts/month, 12 platforms, automated scheduling",
+          "Total Coverage, Zero Maintenance, Brand Protection, and Zero-Login approvals",
       },
       {
         "@type": "Offer",
@@ -115,7 +115,7 @@ export default function HomeJsonLd() {
       },
     ],
     featureList:
-      "AI content creation, 13-platform publishing, Google Business Profile posting, Google Review monitoring, custom graphics, automated scheduling",
+      "AI content creation, Voice Mirror tone profile, Zero-Login approvals, Google Business Profile posting, Google Review monitoring, custom graphics, automated scheduling",
   };
 
   return (

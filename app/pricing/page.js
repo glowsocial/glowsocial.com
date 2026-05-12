@@ -7,11 +7,11 @@ export const dynamic = 'force-dynamic';
 export const metadata = {
   title: "Pricing — Glow Social | Done-For-You Social Media",
   description:
-    "Simple, transparent pricing. No contracts, no hidden fees. Glow Social creates professional posts, publishes to 12 platforms including Google Business Profile, and monitors your reviews.",
+    "Simple, transparent pricing. No contracts, no hidden fees. Glow Social creates professional posts, handles total coverage including Google Business Profile, and monitors your reviews.",
   openGraph: {
     title: "Pricing — Glow Social",
     description:
-      "Done-for-you social media — handled. 12 posts, 12 platforms, professional images. No contracts. Cancel anytime.",
+      "Done-for-you social media — handled. Total coverage, zero maintenance, brand protection. No contracts. Cancel anytime.",
   },
 };
 
@@ -43,11 +43,11 @@ export default function PricingPage() {
                 <span className="price-period">/month</span>
               </div>
               <ul>
-                <li><strong>12 posts</strong> per month</li>
-                <li><strong>12 platforms</strong> including GBP</li>
-                <li>Generated from your <strong>website data</strong></li>
-                <li><strong>Automated</strong> scheduling</li>
-                <li><strong>3-tap</strong> approval process</li>
+                <li><strong>Total Coverage</strong> for your core social storefront</li>
+                <li><strong>Zero Maintenance</strong> posting rhythm</li>
+                <li><strong>Brand Protection</strong> from website-informed voice</li>
+                <li><strong>Google Business</strong> visibility included</li>
+                <li><strong>Zero-Login</strong> weekly approvals</li>
               </ul>
               <a
                 href="https://app.glowsocial.com/checkout?plan=core"
@@ -68,12 +68,11 @@ export default function PricingPage() {
               </div>
               <ul>
                 <li>Everything in Core, plus:</li>
-                <li><strong>20+ posts</strong> per month</li>
-                <li><strong>4 carousel</strong> posts included</li>
-                <li><strong>4 video</strong> posts included</li>
-                <li><strong>8 custom</strong> posts per month</li>
-                <li><strong>Google Review</strong> monitoring</li>
-                <li><strong>Performance analytics</strong></li>
+                <li><strong>More Momentum</strong> with higher posting volume</li>
+                <li><strong>Scroll-Stopping Formats</strong> for carousels and video</li>
+                <li><strong>On-Demand Campaigns</strong> for promos and events</li>
+                <li><strong>Reputation Awareness</strong> with Google Review monitoring</li>
+                <li><strong>Performance Clarity</strong> on what is working</li>
               </ul>
               <a
                 href="https://app.glowsocial.com/checkout?plan=pro"
@@ -93,10 +92,10 @@ export default function PricingPage() {
               </div>
               <ul>
                 <li>Everything in Pro, plus:</li>
-                <li><strong>Unlimited</strong> static posts</li>
-                <li><strong>Unlimited</strong> video posts</li>
-                <li><strong>Unlimited</strong> carousel posts</li>
-                <li><strong>Unlimited</strong> custom posts</li>
+                <li><strong>Always-On Coverage</strong> for every content need</li>
+                <li><strong>Unlimited Reach Assets</strong> across formats</li>
+                <li><strong>No Content Ceiling</strong> when your calendar gets busy</li>
+                <li><strong>Full Brand Protection</strong> across every campaign</li>
               </ul>
               <a
                 href="https://app.glowsocial.com/checkout?plan=unlimited"
@@ -395,11 +394,11 @@ export default function PricingPage() {
             <details className="faq-item">
               <summary>What&apos;s the difference between Core and Pro?</summary>
               <p>
-                Core gives you 12 professionally written and designed posts per
-                month across 12 platforms. Pro adds carousel posts, video
-                posts, custom posts on any topic you choose, Google Review
-                monitoring, and performance analytics — plus more posts per
-                month (20+).
+                Core gives you a steady, professional social storefront with
+                brand-matched posts, Google Business Profile visibility, and
+                zero-login approvals. Pro adds more publishing momentum,
+                carousel and video formats, custom campaign posts, Google
+                Review monitoring, and performance analytics.
               </p>
             </details>
             <details className="faq-item">
@@ -407,7 +406,7 @@ export default function PricingPage() {
               <p>
                 No. All plans are month-to-month. Cancel whenever you want,
                 keep access through the end of your billing period, and
-                you&apos;re done. No cancellation fees, no guilt trips.
+                you&apos;re done. No cancellation fees, no games.
               </p>
             </details>
             <details className="faq-item">
@@ -454,16 +453,15 @@ export default function PricingPage() {
       <section className="final-cta">
         <div className="container">
           <h2>
-            Stop Carrying It.
+            Make Your Social Media
             <br />
-            Let Us Handle It.
+            Match Your Business.
           </h2>
           <p>
             5-minute setup. Professional posts, Google Business Profile, and
             reviews — all done for you.
             <br />
-            The guilt goes away. The posts show up. Your {pricing.startingAtFull} starts
-            today.
+            Your storefront looks alive. Your {pricing.startingAtFull} starts today.
           </p>
           <a
             href="https://app.glowsocial.com/signup"
