@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Home Services Social Media — Glow Social",
-  description: "Done-for-you social media for home service businesses. Plumbers, electricians, roofers, HVAC, and contractors — $49/month.",
+  description: "Done-for-you social media for home service businesses. Plumbers, electricians, roofers, HVAC, and contractors — starting at $99/month.",
 };
 
 export default function HomeServices() {
@@ -11,7 +11,7 @@ export default function HomeServices() {
       <section className="blog-hero">
         <div className="container">
           <h1>Social Media for Home Service Businesses</h1>
-          <p>Plumbers, roofers, electricians, HVAC, contractors — handled for $49/month.</p>
+          <p>Plumbers, roofers, electricians, HVAC, contractors — handled starting at $99/month.</p>
         </div>
       </section>
       <article className="blog-post">
@@ -60,7 +60,7 @@ export default function HomeServices() {
             <li>Handymen</li>
           </ul>
 
-          <h2>$49/Month. 5-Minute Setup.</h2>
+          <h2>Starting at $99/Month. 5-Minute Setup.</h2>
           <p>
             No contracts. No commitments. No content creation on your end.
           </p>

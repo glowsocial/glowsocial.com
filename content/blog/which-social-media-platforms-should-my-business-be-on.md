@@ -16,6 +16,8 @@ Every marketing article tells you to "be on social media." None of them tell you
 
 Here's the truth: you don't need to be everywhere. You need to be where your customers are looking for you. And for most local businesses, that's a shorter list than you think.
 
+Update: Glow Social's [2026 local business social media report](/research/local-business-social-media-statistics) found that platform performance does not always match owner habits. Pinterest led the dataset for average engagement rate, while Google Business Profile averaged more impressions per post than Instagram or Facebook. For the data-backed version of this decision, read [Best Social Media Platforms for Local Businesses in 2026](/blog/best-social-media-platforms-local-businesses-2026).
+
 ## The Three Platforms Every Business Needs
 
 ### 1. Google Business Profile

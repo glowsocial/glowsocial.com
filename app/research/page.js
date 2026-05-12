@@ -29,7 +29,7 @@ export default function ResearchHub() {
             </Link>
           </h2>
           <p style={{ color: "var(--text)", lineHeight: "1.6", fontSize: "1.05rem" }}>
-            We analyzed engagement rates across 4 major platforms for 16 local businesses. Discover why Pinterest is undervalued, why daily posting is a massive competitive moat, and how the 6 psychological hooks dictate your organic reach.
+            We analyzed engagement rates, average impressions, platform connections, posting cadence, and content-category performance across 16 local businesses, 918+ posts, and 9 platforms.
           </p>
           <div style={{ marginTop: "1.5rem" }}>
             <Link href="/research/local-business-social-media-statistics" className="btn-research" style={{ display: "inline-block" }}>

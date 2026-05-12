@@ -25,6 +25,8 @@ Most social media advice is written for brands with dedicated marketing teams, n
 
 The problem isn't social media. It's the approach.
 
+The data backs that up. In Glow Social's [State of Local Business Social Media 2026](/research/local-business-social-media-statistics), the strongest content categories were myth-busting and contrarian posts, while generic questions and problem posts trailed. That is a sign that local businesses need visible expertise, not more filler. Read the content-category analysis here: [Why Myth-Busting Posts Get More Engagement for Local Businesses](/blog/myths-contrarian-content-local-business-engagement).
+
 ## The Real Reason It's Not Working
 
 ### You're doing too much, inconsistently

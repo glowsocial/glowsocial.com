@@ -21,7 +21,7 @@ export default function FAQ() {
             Glow Social is done-for-you social media posting for local
             businesses. We create and publish custom social media content for
             your business automatically — 12+ posts per month across 12
-            platforms, starting at $49/month.
+            platforms, starting at $99/month.
           </p>
 
           <h2>How does it work?</h2>
@@ -49,7 +49,7 @@ export default function FAQ() {
 
           <h2>How much does it cost?</h2>
           <p>
-            Plans start at $49/month. No contracts, no setup fees, cancel
+            Plans start at $99/month. No contracts, no setup fees, cancel
             anytime. See current pricing at{" "}
             <a href="https://app.glowsocial.com/">app.glowsocial.com</a>.
           </p>
@@ -102,7 +102,7 @@ export default function FAQ() {
           <p>
             A freelance social media manager costs $300-500/month. An agency
             costs $2,000+/month. Glow Social delivers consistent posting for
-            $49/month without the hiring, management, or communication overhead.
+            $99/month without the hiring, management, or communication overhead.
           </p>
 
           <h2>What businesses is Glow Social best for?</h2>

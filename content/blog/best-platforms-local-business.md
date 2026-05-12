@@ -14,6 +14,7 @@ faqs:
 
 Local businesses often feel pressure to be everywhere—Facebook, Instagram, TikTok, LinkedIn, YouTube, Pinterest, X. The reality: most local businesses only need 2-3 platforms, and choosing the right ones matters more than being everywhere. Here's how to pick.
 
+For the newest Glow Social platform data, see the [State of Local Business Social Media 2026](/research/local-business-social-media-statistics). The short version: Pinterest led the dataset for average engagement rate, Google Business Profile averaged more impressions per post than Instagram or Facebook, and Facebook was still the most commonly connected platform. The updated analysis is here: [Best Social Media Platforms for Local Businesses in 2026](/blog/best-social-media-platforms-local-businesses-2026).
 
 ## Why You Shouldn't Be on Every Platform
 

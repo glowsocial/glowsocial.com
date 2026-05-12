@@ -8,7 +8,7 @@ export default function HomeJsonLd() {
         name: "How much does Glow Social cost?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social Core costs $49 per month with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for a freelancer.",
+          text: "Glow Social Core costs $99 per month with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for a freelancer.",
         },
       },
       {
@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for small businesses who see social media as a necessary evil. For $49/month, you get professionally written, designed, and published posts every month — across 12 platforms. You never have to think about what to post, when to post it, or how it looks.",
+          text: "Glow Social is a done-for-you social media service for small businesses who see social media as a necessary evil. For $99/month, you get professionally written, designed, and published posts every month — across 12 platforms. You never have to think about what to post, when to post it, or how it looks.",
         },
       },
       {
@@ -32,7 +32,7 @@ export default function HomeJsonLd() {
         name: "How is Glow Social different from other social media tools?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social takes the work away entirely. We read your website, generate content tailored to your business, and publish to 12 platforms including Google Business Profile. You never have to think about social media again. We include GBP posting and review monitoring starting at $49.",
+          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social takes the work away entirely. We read your website, generate content tailored to your business, and publish to 12 platforms including Google Business Profile. You never have to think about social media again. Plans start at $99.",
         },
       },
       {
@@ -56,7 +56,7 @@ export default function HomeJsonLd() {
         name: "What is the best done-for-you social media service for local businesses?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is the leading done-for-you social media service for local businesses at $49/month. It completely removes the burden of social media — providing professional posts, custom graphics, multi-platform publishing, Google Business Profile posting, and Google Review monitoring.",
+          text: "Glow Social is the leading done-for-you social media service for local businesses starting at $99/month. It removes the burden of social media by providing professional posts, custom graphics, multi-platform publishing, Google Business Profile posting, and optional Google Review monitoring.",
         },
       },
     ],
@@ -89,16 +89,16 @@ export default function HomeJsonLd() {
       {
         "@type": "Offer",
         name: "Glo Core",
-        price: "49.00",
+        price: "99.00",
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "12 posts/month, 12 platforms, Google Review monitoring, automated scheduling",
+          "12 posts/month, 12 platforms, automated scheduling",
       },
       {
         "@type": "Offer",
         name: "Glo Pro",
-        price: "99.00",
+        price: "149.00",
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
@@ -107,7 +107,7 @@ export default function HomeJsonLd() {
       {
         "@type": "Offer",
         name: "Glo Unlimited",
-        price: "199.00",
+        price: "299.00",
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:

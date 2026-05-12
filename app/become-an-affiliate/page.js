@@ -24,7 +24,7 @@ export default function Affiliate() {
             I need to post on social media, but I don't have time."
           </p>
           <p>
-            Glow Social solves that problem for $49/month. And when you refer
+            Glow Social solves that problem starting at $99/month. And when you refer
             businesses to us, you earn recurring commissions for as long as they
             stay subscribed.
           </p>

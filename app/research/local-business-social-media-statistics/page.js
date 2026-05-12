@@ -1,7 +1,24 @@
+import Link from "next/link";
+
+const REPORT_URL = "https://glowsocial.com/research/local-business-social-media-statistics";
+
 export const metadata = {
   title: "State of Local Business Social Media 2026 | Glow Social Research",
   description:
     "Original research from Glow Social: how local businesses actually use social media in 2026. Platform engagement rates, posting frequency, and the surprising winner no one talks about.",
+  alternates: {
+    canonical: "/research/local-business-social-media-statistics",
+  },
+  openGraph: {
+    title: "State of Local Business Social Media 2026",
+    description:
+      "Original research from Glow Social: engagement rates, reach, platform adoption, and posting patterns from local businesses using social media in 2026.",
+    type: "article",
+    url: REPORT_URL,
+    siteName: "Glow Social",
+    publishedTime: "2026-04-01",
+    modifiedTime: "2026-05-12",
+  },
 };
 
 // Ranked color scale using brand colors (Navy -> Everglow -> Skyline -> Lime)
@@ -59,9 +76,106 @@ const maxEngagement = Math.max(...engagementData.map((d) => d.rate));
 const maxImpressions = Math.max(...impressionsData.map((d) => d.impressions));
 const maxConnected = Math.max(...connectedData.map((d) => d.count));
 
+function ResearchJsonLd() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Report",
+    "@id": `${REPORT_URL}#report`,
+    name: "State of Local Business Social Media 2026",
+    headline: "State of Local Business Social Media 2026",
+    description:
+      "Original Glow Social research based on anonymized, aggregated local business social media data, including platform engagement rates, impressions, posting frequency, and content category performance.",
+    url: REPORT_URL,
+    datePublished: "2026-04-01",
+    dateModified: "2026-05-12",
+    author: {
+      "@type": "Organization",
+      name: "Glow Social",
+      url: "https://glowsocial.com",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Glow Social",
+      url: "https://glowsocial.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://glowsocial.com/images/glow-social-logo.png",
+      },
+    },
+    about: [
+      "local business social media",
+      "social media engagement rates",
+      "Google Business Profile posting",
+      "Pinterest for local businesses",
+      "posting frequency",
+    ],
+    isBasedOn: {
+      "@type": "Dataset",
+      name: "Anonymized Glow Social local business social media dataset",
+      description:
+        "Aggregated performance data from 16 local businesses, 918+ posts, and 9 connected social platforms as of April 2026.",
+      measurementTechnique:
+        "Engagement rate calculated as likes, comments, shares, and saves divided by impressions, averaged across posts with at least one impression recorded.",
+      variableMeasured: [
+        "engagement rate",
+        "impressions per post",
+        "connected social platforms",
+        "posting frequency",
+        "content category engagement",
+      ],
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": REPORT_URL,
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+function BreadcrumbJsonLd() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://glowsocial.com",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Research",
+        item: "https://glowsocial.com/research",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: "State of Local Business Social Media 2026",
+      },
+    ],
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 export default function ResearchPage() {
   return (
     <>
+      <ResearchJsonLd />
+      <BreadcrumbJsonLd />
       <style>{`
         .research-hero {
           background: var(--navy);
@@ -267,6 +381,39 @@ export default function ResearchPage() {
           margin-bottom: 0.5rem;
           font-family: var(--font-heading);
           font-size: 0.95rem;
+        }
+        .research-link-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+          gap: 1rem;
+          margin: 3rem 0;
+        }
+        .research-link-card {
+          display: block;
+          background: var(--card-bg);
+          border: 1px solid var(--card-border);
+          border-radius: var(--radius);
+          padding: 1.25rem;
+          text-decoration: none;
+          color: var(--text);
+          transition: transform 0.2s, border-color 0.2s;
+        }
+        .research-link-card:hover {
+          transform: translateY(-2px);
+          border-color: var(--accent-dark);
+        }
+        .research-link-card strong {
+          display: block;
+          font-family: var(--font-heading);
+          color: var(--navy);
+          margin-bottom: 0.4rem;
+          line-height: 1.25;
+        }
+        .research-link-card span {
+          display: block;
+          color: var(--text-muted);
+          font-size: 0.88rem;
+          line-height: 1.45;
         }
 
         .research-cta {
@@ -573,6 +720,33 @@ export default function ResearchPage() {
           covers anonymized aggregate research use.
         </div>
 
+        <div className="research-link-grid" aria-label="Related local business social media research">
+          <Link href="/blog/best-social-media-platforms-local-businesses-2026" className="research-link-card">
+            <strong>Best platforms for local businesses in 2026</strong>
+            <span>How to choose where to post when engagement, reach, and buyer intent do not point to the same channel.</span>
+          </Link>
+          <Link href="/blog/pinterest-engagement-local-businesses-2026" className="research-link-card">
+            <strong>Why Pinterest is outperforming expectations</strong>
+            <span>The data-backed case for treating Pinterest as search visibility, not just social media.</span>
+          </Link>
+          <Link href="/blog/google-business-profile-posts-local-business-reach" className="research-link-card">
+            <strong>Google Business Profile posts still matter</strong>
+            <span>What GBP reach means for local businesses that want to show up when buyers are already searching.</span>
+          </Link>
+          <Link href="/blog/how-often-should-local-business-post-social-media-data" className="research-link-card">
+            <strong>How often should a local business post?</strong>
+            <span>The practical posting cadence most businesses can sustain, plus when daily posting is worth it.</span>
+          </Link>
+          <Link href="/preview" className="research-link-card">
+            <strong>Get a free post preview</strong>
+            <span>Enter your website and email address to see 12 custom posts with images.</span>
+          </Link>
+          <Link href="/setup" className="research-link-card">
+            <strong>Generate social bios for every platform</strong>
+            <span>Use your website to create platform-specific bios for business social profiles.</span>
+          </Link>
+        </div>
+
         {/* CTA */}
         <div className="research-cta">
           <h2>Put This Data to Work for Your Business</h2>
@@ -581,7 +755,7 @@ export default function ResearchPage() {
             actually see results — including Pinterest and Google Business Profile.
           </p>
           <a href="https://app.glowsocial.com/" className="btn-research">
-            Get Started — $49/mo
+            Get Started — $99/mo
           </a>
         </div>
 

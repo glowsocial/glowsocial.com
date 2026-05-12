@@ -16,6 +16,8 @@ Most business owners know they should post more on social media. But few underst
 
 An abandoned or sporadically-updated social media page doesn't sit neutral. It sends negative signals to every potential customer who finds it. And because those customers silently choose your competitor instead, you never see the bill.
 
+Glow Social's [2026 local business social media report](/research/local-business-social-media-statistics) found that 78% of active local businesses in the dataset post three days per week. That is the baseline cadence we recommend because it is visible enough to build trust and realistic enough to sustain. For the full cadence breakdown, read [How Often Should a Local Business Post on Social Media?](/blog/how-often-should-local-business-post-social-media-data).
+
 ## The Hidden Costs of On-Again, Off-Again Posting
 
 ### Cost #1: Customer Suspicion

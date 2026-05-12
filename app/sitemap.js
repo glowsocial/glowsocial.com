@@ -38,6 +38,8 @@ export default function sitemap() {
     { path: "/local", priority: 0.7, changeFrequency: "weekly" },
     { path: "/preview", priority: 0.9, changeFrequency: "monthly" },
     { path: "/setup", priority: 0.9, changeFrequency: "monthly" },
+    { path: "/research", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/research/local-business-social-media-statistics", priority: 0.8, changeFrequency: "monthly" },
     { path: "/home-services", priority: 0.7, changeFrequency: "monthly" },
     { path: "/ai-visibility-service", priority: 0.7, changeFrequency: "monthly" },
     { path: "/become-an-affiliate", priority: 0.5, changeFrequency: "monthly" },

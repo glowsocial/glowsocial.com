@@ -66,7 +66,7 @@ export default function HowItWorks() {
 
           <h2>Pricing</h2>
           <p>
-            Starting at <strong>$49/month</strong>. No contracts. Cancel anytime.
+            Starting at <strong>$99/month</strong>. No contracts. Cancel anytime.
           </p>
           <p>
             <a href="https://app.glowsocial.com/">Get started →</a>
