@@ -2,16 +2,16 @@
 // Import this in layout.js or use generateMetadata in a server wrapper
 
 export const setupMetadata = {
-  title: "Free Social Media Setup Tool — Set Up Every Platform in 15 Minutes",
+  title: "Free Social Media Bio Generator for Business Profiles",
   description:
-    "Enter your website URL and get a ready-to-use Social Profile Kit with platform-specific bios, images, and direct signup links for Google Business Profile, Facebook, Instagram, LinkedIn, and more. Free — no login required.",
+    "Enter your website and email to get platform-specific social media bios for Google Business Profile, Facebook, Instagram, LinkedIn, X, Pinterest, Bluesky, and Threads. Free — no login required.",
   alternates: {
     canonical: "/setup",
   },
   openGraph: {
-    title: "Free Social Media Setup Tool — Set Up Every Platform in 15 Minutes",
+    title: "Free Social Media Bio Generator for Business Profiles",
     description:
-      "Enter your website and get AI-generated bios, images, and signup links for every social platform. Free tool from Glow Social.",
+      "Enter your website and get platform-specific bios, images, and signup links for every social platform. Free tool from Glow Social.",
     url: "https://glowsocial.com/setup",
     type: "website",
     images: [
@@ -25,9 +25,9 @@ export const setupMetadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Free Social Media Setup Tool — Set Up Every Platform in 15 Minutes",
+    title: "Free Social Media Bio Generator for Business Profiles",
     description:
-      "Enter your website and get AI-generated bios, images, and signup links for every social platform. Free tool from Glow Social.",
+      "Enter your website and get platform-specific bios, images, and signup links for every social platform. Free tool from Glow Social.",
     images: ["https://glowsocial.com/images/setup/slide-1.png"],
   },
 };

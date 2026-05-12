@@ -65,10 +65,16 @@ export async function generateMetadata({ params }) {
   if (!niche) return { title: "Free Social Media Preview | Glow Social" };
 
   return {
-    title: `Free Social Media Posts for ${niche.name} | Glow Social Preview`,
-    description: `Drop your website and instantly see 12 custom social media posts generated specifically for your ${niche.name.toLowerCase()} business.`,
+    title: `Free Social Media Posts With Images for ${niche.name} | Glow Social Preview`,
+    description: `Enter your website and email to see 12 custom social media posts with images generated specifically for your ${niche.name.toLowerCase()} business.`,
     alternates: {
       canonical: `/preview/${slug}`,
+    },
+    openGraph: {
+      title: `Free Social Media Posts With Images for ${niche.name}`,
+      description: `See 12 custom social media posts with images for your ${niche.name.toLowerCase()} business. Free, no login required.`,
+      url: `https://glowsocial.com/preview/${slug}`,
+      type: "website",
     },
   };
 }
@@ -81,8 +87,41 @@ export default async function PreviewLandingPage({ params }) {
     notFound();
   }
 
+  const previewNicheSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": `Free Social Media Preview for ${niche.name}`,
+    "alternateName": "Glow Social Preview Tool",
+    "description": `Enter your website and email address to get 12 social media posts with images for your ${niche.name.toLowerCase()} business.`,
+    "url": `https://glowsocial.com/preview/${slug}`,
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },
+    "creator": {
+      "@type": "Organization",
+      "name": "Glow Social",
+      "url": "https://glowsocial.com"
+    },
+    "featureList": [
+      `12 personalized social media posts for ${niche.name}`,
+      "Custom images for each post",
+      "Website-based brand voice analysis",
+      "Monthly content calendar preview",
+      "No login required"
+    ]
+  };
+
   return (
     <div className="preview-page">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(previewNicheSchema) }}
+      />
       <section className="preview-hero">
         <div className="container preview-hero-inner">
           <div className="preview-content">

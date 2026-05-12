@@ -392,10 +392,10 @@ export default function PreviewClient() {
         {/* CTA */}
         <div className="preview-cta-block">
           <h3>Ready to have this done for you every month?</h3>
-          <p>Glow Social writes and schedules your posts automatically — $49/mo, cancel any time.</p>
+          <p>Glow Social writes and schedules your posts automatically — $99/mo, cancel any time.</p>
           <div className="preview-cta-actions">
             <a href="https://app.glowsocial.com/pricing" className="btn btn--primary btn--lg">
-              Get Started — $49/mo
+              Get Started — $99/mo
             </a>
             <button onClick={handleReset} className="preview-restart-btn">
               Try a different website

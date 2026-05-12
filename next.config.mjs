@@ -2,16 +2,20 @@
 const nextConfig = {
   trailingSlash: false,
 
-  // Proxy the preview tool's generation flow to app.glowsocial.com.
-  // /preview is now a real marketing page in this project — no rewrite needed there.
+  // Proxy the app-owned preview tool to app.glowsocial.com while keeping the
+  // public SEO URL on glowsocial.com.
   // beforeFiles: fires before routing, so slug form submissions proxy even though
   //              a static page also exists at /preview/:slug.
   // afterFiles:  proxies the generation + image APIs.
   async rewrites() {
     return {
       beforeFiles: [
-        // /preview/:slug?url= — vertical landing pages proxy to the app.
-        // The root /preview is now a native client component on glowsocial.com.
+        // Keep the app-owned preview tool on the main domain for SEO/AEO value.
+        {
+          source: '/preview',
+          destination: 'https://app.glowsocial.com/preview',
+        },
+        // /preview/:slug?url= — vertical landing pages proxy to the app after submit.
         {
           source: '/preview/:slug',
           has: [{ type: 'query', key: 'url' }],
@@ -43,15 +47,6 @@ const nextConfig = {
 
   async redirects() {
     return [
-      // === Preview → app.glowsocial.com ===
-      // The preview tool lives on the app. Redirect so visitors get the
-      // full experience (sample cards, generation pipeline, images).
-      {
-        source: '/preview',
-        destination: 'https://app.glowsocial.com/preview',
-        permanent: false,
-      },
-
       // === "Time spent on social media" cluster consolidation ===
       // Merging 5 thin duplicate pages into /blog/average-time-social-media-marketing
       {
