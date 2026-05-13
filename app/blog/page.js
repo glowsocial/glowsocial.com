@@ -32,29 +32,35 @@ export default function BlogPage() {
           </div>
         ) : (
           <div className="blog-grid">
-            {posts.map((post) => (
-              <Link
-                key={post.slug}
-                href={`/blog/${post.slug}`}
-                className="blog-card"
-              >
-                <div className="blog-card-body">
-                  <div className="blog-card-meta">
-                    {post.date
-                      ? new Date(post.date).toLocaleDateString("en-US", {
-                          year: "numeric",
-                          month: "long",
-                          day: "numeric",
-                        })
-                      : ""}
-                    {post.readingTime && ` · ${post.readingTime}`}
+            {posts.map((post) => {
+              const metaParts = [
+                post.date
+                  ? new Date(post.date).toLocaleDateString("en-US", {
+                      year: "numeric",
+                      month: "long",
+                      day: "numeric",
+                    })
+                  : null,
+                post.readingTime,
+              ].filter(Boolean);
+
+              return (
+                <Link
+                  key={post.slug}
+                  href={`/blog/${post.slug}`}
+                  className="blog-card"
+                >
+                  <div className="blog-card-body">
+                    <div className="blog-card-meta">
+                      {metaParts.join(" · ")}
+                    </div>
+                    <h3>{post.title}</h3>
+                    {post.description && <p>{post.description}</p>}
+                    <span className="read-more">Read more →</span>
                   </div>
-                  <h3>{post.title}</h3>
-                  {post.description && <p>{post.description}</p>}
-                  <span className="read-more">Read more →</span>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
         )}
       </div>
