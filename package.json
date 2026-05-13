@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "generate": "node scripts/generate-blog-posts.js",
-    "generate:one": "node scripts/generate-blog-posts.js --count 1"
+    "generate:one": "node scripts/generate-blog-posts.js --count 1",
+    "generate:pins": "node scripts/generate-pin-images.js",
+    "generate:pinterest-csv": "node scripts/generate-pinterest-csv.js"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.1",

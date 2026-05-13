@@ -4,6 +4,7 @@
  * Uses satori + @resvg/resvg-js to render JSX → SVG → PNG.
  *
  * Run: node scripts/generate-pin-images.js
+ *      node scripts/generate-pin-images.js --slug=my-post --force
  * Output: public/pins/{slug}.png
  */
 
@@ -21,6 +22,12 @@ const OUTPUT_DIR = path.join(__dirname, "..", "public", "pins");
 
 const WIDTH = 1000;
 const HEIGHT = 1500;
+const args = process.argv.slice(2);
+const force = args.includes("--force");
+const targetSlugs = args
+  .filter((arg) => arg.startsWith("--slug="))
+  .map((arg) => arg.split("=")[1])
+  .filter(Boolean);
 
 // Ensure output dir exists
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -93,17 +100,15 @@ function getPostsFromDir(subdir) {
 
 function truncate(str, max) {
   if (!str) return "";
-  return str.length > max ? str.slice(0, max - 3) + "…" : str;
+  return str.length > max ? str.slice(0, max - 3) + "..." : str;
 }
 
 /**
  * Build the JSX element for the pin image.
- * Matches the existing /api/og route design.
+ * Intentionally boring: title on a brand background.
  */
-function buildPinJsx(title, description) {
-  const displayTitle = truncate(title, 80);
-  const displayDesc = truncate(description, 120);
-
+function buildPinJsx(title) {
+  const displayTitle = truncate(title, 90);
   return {
     type: "div",
     props: {
@@ -118,38 +123,6 @@ function buildPinJsx(title, description) {
         overflow: "hidden",
       },
       children: [
-        // Background blob top-right
-        {
-          type: "div",
-          props: {
-            style: {
-              position: "absolute",
-              top: -120,
-              right: -120,
-              width: 500,
-              height: 500,
-              borderRadius: "50%",
-              background: "rgba(147, 153, 204, 0.18)",
-              display: "flex",
-            },
-          },
-        },
-        // Background blob bottom-left
-        {
-          type: "div",
-          props: {
-            style: {
-              position: "absolute",
-              bottom: 80,
-              left: -80,
-              width: 400,
-              height: 400,
-              borderRadius: "50%",
-              background: "rgba(215, 226, 120, 0.10)",
-              display: "flex",
-            },
-          },
-        },
         // Logo area
         {
           type: "div",
@@ -157,7 +130,7 @@ function buildPinJsx(title, description) {
             style: {
               display: "flex",
               alignItems: "center",
-              padding: "60px 64px 0",
+              padding: "72px 72px 0",
             },
             children: [
               {
@@ -198,32 +171,9 @@ function buildPinJsx(title, description) {
               display: "flex",
               flexDirection: "column",
               justifyContent: "center",
-              padding: "60px 64px",
+              padding: "72px",
             },
             children: [
-              // Eyebrow
-              {
-                type: "div",
-                props: {
-                  style: { display: "flex", marginBottom: 32 },
-                  children: {
-                    type: "span",
-                    props: {
-                      style: {
-                        background: "#d7e278",
-                        color: "#192734",
-                        fontSize: 18,
-                        fontWeight: 700,
-                        padding: "8px 20px",
-                        borderRadius: 24,
-                        letterSpacing: "1px",
-                        textTransform: "uppercase",
-                      },
-                      children: "Social Media Tips",
-                    },
-                  },
-                },
-              },
               // Title
               {
                 type: "div",
@@ -233,31 +183,12 @@ function buildPinJsx(title, description) {
                     fontSize: displayTitle.length > 50 ? 56 : 68,
                     fontWeight: 800,
                     lineHeight: 1.1,
-                    marginBottom: 32,
                     display: "flex",
                     flexWrap: "wrap",
                   },
                   children: displayTitle,
                 },
               },
-              // Description
-              ...(displayDesc
-                ? [
-                    {
-                      type: "div",
-                      props: {
-                        style: {
-                          color: "rgba(255,255,255,0.65)",
-                          fontSize: 26,
-                          lineHeight: 1.5,
-                          display: "flex",
-                          flexWrap: "wrap",
-                        },
-                        children: displayDesc,
-                      },
-                    },
-                  ]
-                : []),
             ],
           },
         },
@@ -284,24 +215,6 @@ function buildPinJsx(title, description) {
                   children: "glowsocial.com",
                 },
               },
-              {
-                type: "div",
-                props: {
-                  style: {
-                    display: "flex",
-                    alignItems: "center",
-                    gap: 10,
-                    background: "#d7e278",
-                    color: "#192734",
-                    padding: "14px 28px",
-                    borderRadius: 40,
-                    fontSize: 20,
-                    fontWeight: 700,
-                    letterSpacing: "0.5px",
-                  },
-                  children: "Read More →",
-                },
-              },
             ],
           },
         },
@@ -317,9 +230,11 @@ async function main() {
     ...getPostsFromDir("blog"),
     ...getPostsFromDir("comparisons"),
     ...getPostsFromDir("local"),
-  ];
+  ].filter((post) => targetSlugs.length === 0 || targetSlugs.includes(post.slug));
 
   console.log(`Generating ${allPosts.length} pin images...`);
+  if (force) console.log("Force mode: overwriting existing images.");
+  if (targetSlugs.length) console.log(`Target slugs: ${targetSlugs.join(", ")}`);
 
   let generated = 0;
   let skipped = 0;
@@ -328,13 +243,13 @@ async function main() {
     const outPath = path.join(OUTPUT_DIR, `${post.slug}.png`);
 
     // Skip if already exists (for incremental builds)
-    if (fs.existsSync(outPath)) {
+    if (!force && fs.existsSync(outPath)) {
       skipped++;
       continue;
     }
 
     try {
-      const element = buildPinJsx(post.title, post.description);
+      const element = buildPinJsx(post.title);
 
       const svg = await satori(element, {
         width: WIDTH,
