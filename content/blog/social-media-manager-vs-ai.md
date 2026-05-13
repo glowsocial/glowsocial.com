@@ -191,7 +191,7 @@ For hiring, start with freelance platforms like Upwork or local referrals, and p
 
 <hr>
 
-<strong>**Related reading:** [Best social media manager alternatives](/blog/best-social-media-manager-alternatives-small-business) · [Done-for-you vs DIY social media](/blog/done-for-you-vs-diy-social-media) · [How much time does social media take?](/blog/hours-per-week-social-media)
+<strong>**Related reading:** [Best social media manager alternatives](/blog/best-social-media-manager-alternatives-small-business) · [Done-for-you vs DIY social media](/blog/done-for-you-vs-diy-social-media) · [How much time does social media take?](/blog/average-time-social-media-marketing)
 
 ---
 

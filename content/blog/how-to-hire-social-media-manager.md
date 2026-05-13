@@ -102,7 +102,7 @@ What they typically won't do:
 - Monitor your Google reviews
 - Work on weekends or holidays
 
-Now compare that to [what most local businesses actually need](/blog/posting-frequency-local-business): 3-5 posts per week across multiple platforms, including Google Business Profile.
+Now compare that to [what most local businesses actually need](/blog/how-often-should-local-business-post-social-media-data): 3-5 posts per week across multiple platforms, including Google Business Profile.
 
 To get that level of output from a freelancer, you're looking at $1,000-$1,500/month minimum. From an agency, $2,000+.
 

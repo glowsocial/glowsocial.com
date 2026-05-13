@@ -197,7 +197,7 @@ For automated consistent posting, Glow Social handles content creation and publi
 
 <hr>
 
-<strong>**Related reading:** [How often should local businesses post?](/blog/posting-frequency-local-business) · [Social media mistakes to avoid](/blog/social-media-mistakes-local-business) · [Social media ROI for local business](/blog/roi-social-media-local-business)
+<strong>**Related reading:** [How often should local businesses post?](/blog/how-often-should-local-business-post-social-media-data) · [Social media mistakes to avoid](/blog/social-media-mistakes-local-business) · [Social media ROI for local business](/blog/roi-social-media-local-business)
 
 ---
 

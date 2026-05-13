@@ -26,4 +26,4 @@ Reclaim your time and eliminate context switching by building your free [Social 
 - [What's the biggest challenge with social media marketing?](/blog/whats-the-biggest-challenge-with-social-media-marketing)
 - [How to create a social media calendar automatically?](/blog/how-to-create-a-social-media-calendar-automatically)
 - [Average time spent on social media marketing](/blog/average-time-social-media-marketing)
-- [How many hours per week does social media take?](/blog/hours-per-week-social-media)
+- [How many hours per week does social media take?](/blog/average-time-social-media-marketing)

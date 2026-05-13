@@ -76,6 +76,11 @@ const nextConfig = {
       },
       // Root-level versions of the same (avoid double redirects)
       {
+        source: "/average-time-social-media-marketing",
+        destination: "/blog/average-time-social-media-marketing",
+        permanent: true,
+      },
+      {
         source: "/hours-per-week-social-media-takes",
         destination: "/blog/average-time-social-media-marketing",
         permanent: true,
@@ -105,6 +110,21 @@ const nextConfig = {
       // Thin (41 lines) page competing with the established cost guide (16,263 imp)
       {
         source: "/blog/how-much-does-a-social-media-manager-cost-2026",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/blog/how-much-does-a-social-media-manager-cost",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/how-much-does-a-social-media-manager-cost",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/how-much-does-a-social-media-manager-cost-2026",
         destination: "/blog/freelance-social-media-manager-charge-cost",
         permanent: true,
       },
@@ -168,6 +188,36 @@ const nextConfig = {
       // === "SM manager cost" cluster consolidation ===
       // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost
       {
+        source: "/blog/why-social-media-managers-expensive",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/why-social-media-managers-expensive",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/blog/should-i-hire-social-media-manager-or-diy",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/should-i-hire-social-media-manager-or-diy",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/blog/hire-social-media-manager-or-do-it-yourself",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/hire-social-media-manager-or-do-it-yourself",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
         source: "/blog/social-media-manager-cost-hiring-budget",
         destination: "/blog/freelance-social-media-manager-charge-cost",
         permanent: true,
@@ -185,6 +235,120 @@ const nextConfig = {
       {
         source: "/the-real-cost-of-social-media-management-comparing-your-options-in-2025",
         destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+
+      // === "Affordable social media management" consolidation ===
+      {
+        source: "/blog/affordable-social-media-management",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/affordable-social-media-management",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/affordable-social-media-management-guide",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/affordable-social-media-management-guide",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/affordable-social-media-no-marketing-agency",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/affordable-social-media-no-marketing-agency",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/affordable-social-media-vs-hootsuite",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/affordable-social-media-vs-hootsuite",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/cheapest-way-to-do-social-media-for-business",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/cheapest-way-to-do-social-media-for-business",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/low-cost-social-media-management",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/low-cost-social-media-management",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/cheap-social-media-management",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/cheap-social-media-management",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/affordable-social-media-manager",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+      {
+        source: "/affordable-social-media-manager",
+        destination: "/blog/best-affordable-social-media-management-small-business",
+        permanent: true,
+      },
+
+      // === "Posting frequency" consolidation ===
+      {
+        source: "/blog/posting-frequency-local-business",
+        destination: "/blog/how-often-should-local-business-post-social-media-data",
+        permanent: true,
+      },
+      {
+        source: "/posting-frequency-local-business",
+        destination: "/blog/how-often-should-local-business-post-social-media-data",
+        permanent: true,
+      },
+      {
+        source: "/blog/how-often-should-small-businesses-post",
+        destination: "/blog/how-often-should-local-business-post-social-media-data",
+        permanent: true,
+      },
+      {
+        source: "/how-often-should-small-businesses-post",
+        destination: "/blog/how-often-should-local-business-post-social-media-data",
+        permanent: true,
+      },
+      {
+        source: "/blog/how-often-should-small-businesses-post-on-social-media",
+        destination: "/blog/how-often-should-local-business-post-social-media-data",
+        permanent: true,
+      },
+      {
+        source: "/how-often-should-small-businesses-post-on-social-media",
+        destination: "/blog/how-often-should-local-business-post-social-media-data",
         permanent: true,
       },
 
@@ -513,7 +677,7 @@ const nextConfig = {
       // === Template-duplicate blog posts → canonical versions ===
       ...[
         { slug: "49-social-media-management-roofers", canonical: "/blog/automated-social-media-roofers-contractors" },
-        { slug: "affordable-social-media-management", canonical: "/blog/affordable-social-media-management-guide" },
+        { slug: "affordable-social-media-management", canonical: "/blog/best-affordable-social-media-management-small-business" },
         { slug: "ai-replace-social-media-manager", canonical: "/blog/social-media-manager-vs-ai" },
         { slug: "ai-replacing-google-local-business-discovery", canonical: "/blog/how-ai-social-media-posting-works" },
         { slug: "all-in-one-social-media-app-transform-social-media-management-today", canonical: "/blog/best-ai-social-media-content-generators" },
@@ -525,7 +689,7 @@ const nextConfig = {
         { slug: "automated-social-media-for-roofers", canonical: "/blog/automated-social-media-roofers-contractors" },
         { slug: "authentic-business-social-media", canonical: "/blog/consistent-social-media-without-burnout" },
         { slug: "automation-save-time-small-business", canonical: "/blog/how-ai-social-media-posting-works" },
-        { slug: "average-time-spent-social-media-marketing", canonical: "/blog/hours-per-week-social-media" },
+        { slug: "average-time-spent-social-media-marketing", canonical: "/blog/average-time-social-media-marketing" },
         { slug: "balance-authenticity-automation-brand-storytelling", canonical: "/blog/consistent-social-media-without-burnout" },
         { slug: "batch-create-social-media-content", canonical: "/blog/create-month-content-one-hour" },
         { slug: "best-ai-tool-for-social-media", canonical: "/blog/best-ai-social-media-content-generators" },
@@ -534,7 +698,7 @@ const nextConfig = {
         { slug: "best-app-to-schedule-social-media-posts-for-effortless-management", canonical: "/blog/best-ai-social-media-content-generators" },
         { slug: "best-apps-for-social-media-marketing-enhance-engagement-effortlessly", canonical: "/blog/best-ai-social-media-content-generators" },
         { slug: "best-platforms-local-oba-content-strategy", canonical: "/blog/oba-social-media-framework-local-business" },
-        { slug: "best-posting-schedule-service-businesses", canonical: "/blog/posting-frequency-local-business" },
+        { slug: "best-posting-schedule-service-businesses", canonical: "/blog/how-often-should-local-business-post-social-media-data" },
         { slug: "best-set-and-forget-social-media-small-business", canonical: "/blog/best-ai-social-media-content-generators" },
         { slug: "best-small-business-social-media-practices-2025", canonical: "/blog/best-platforms-local-business" },
         { slug: "best-social-media-automation-tools-small-business", canonical: "/blog/best-ai-social-media-content-generators" },
@@ -542,7 +706,7 @@ const nextConfig = {
         { slug: "best-social-media-platforms-service-businesses", canonical: "/blog/best-platforms-local-business" },
         { slug: "best-social-media-posting-apps-to-streamline-your-marketing-efforts", canonical: "/blog/best-ai-social-media-content-generators" },
         { slug: "best-social-media-tools-that-post-for-you", canonical: "/blog/best-ai-social-media-content-generators" },
-        { slug: "best-time-post-social-media-local-business", canonical: "/blog/posting-frequency-local-business" },
+        { slug: "best-time-post-social-media-local-business", canonical: "/blog/how-often-should-local-business-post-social-media-data" },
         { slug: "best-way-automate-social-media-posting", canonical: "/blog/how-ai-social-media-posting-works" },
         { slug: "best-way-stay-visible-customers-online", canonical: "/blog/why-customers-check-social-media-before-calling" },
         { slug: "biggest-challenge-social-media-marketing", canonical: "/blog/social-media-mistakes-local-business" },
@@ -570,13 +734,13 @@ const nextConfig = {
         { slug: "grow-without-paying-ads", canonical: "/blog/roi-social-media-local-business" },
         { slug: "hashtags-work-2025-strategies", canonical: "/blog/social-media-mistakes-local-business" },
         { slug: "healthcare-social-media-management-49-month", canonical: "/blog/social-media-healthcare-practices" },
-        { slug: "hire-social-media-manager-or-do-it-yourself", canonical: "/blog/social-media-manager-vs-ai" },
-        { slug: "hours-per-week-social-media-takes", canonical: "/blog/hours-per-week-social-media" },
-        { slug: "how-long-manage-social-media", canonical: "/blog/hours-per-week-social-media" },
+        { slug: "hire-social-media-manager-or-do-it-yourself", canonical: "/blog/freelance-social-media-manager-charge-cost" },
+        { slug: "hours-per-week-social-media-takes", canonical: "/blog/average-time-social-media-marketing" },
+        { slug: "how-long-manage-social-media", canonical: "/blog/average-time-social-media-marketing" },
         { slug: "how-long-try-social-media-before-giving-up", canonical: "/blog/real-cost-inconsistent-social-media-posting" },
         { slug: "how-many-emojis-too-many-social-media", canonical: "/blog/social-media-mistakes-local-business" },
         { slug: "how-much-does-social-media-management-cost-in-2025", canonical: "/blog/done-for-you-social-media-cost" },
-        { slug: "how-often-should-small-businesses-post-on-social-media", canonical: "/blog/posting-frequency-local-business" },
+        { slug: "how-often-should-small-businesses-post-on-social-media", canonical: "/blog/how-often-should-local-business-post-social-media-data" },
         { slug: "how-to-generate-social-media-content-with-ai", canonical: "/blog/how-ai-social-media-posting-works" },
         { slug: "how-to-get-ai-to-sound-more-human", canonical: "/blog/consistent-social-media-without-burnout" },
         { slug: "how-to-get-more-customers-from-social-media", canonical: "/blog/roi-social-media-local-business" },
@@ -586,7 +750,7 @@ const nextConfig = {
         { slug: "lawyers-build-authority-ethically", canonical: "/blog/done-for-you-ai-social-media-law-firms" },
         { slug: "linkedin-page-local-business", canonical: "/blog/best-platforms-local-business" },
         { slug: "local-business-post-go-viral", canonical: "/blog/content-ideas-local-business" },
-        { slug: "local-businesses-overcome-algorithm-fatigue-community-focus", canonical: "/blog/posting-frequency-local-business" },
+        { slug: "local-businesses-overcome-algorithm-fatigue-community-focus", canonical: "/blog/how-often-should-local-business-post-social-media-data" },
         { slug: "local-consultants-coaches-oba-framework-client-success", canonical: "/blog/best-social-media-service-coaches-consultants" },
         { slug: "local-restaurants-social-media-tips", canonical: "/blog/social-media-restaurants" },
         { slug: "maintain-authenticity-automated-social-media", canonical: "/blog/how-ai-social-media-posting-works" },
@@ -601,12 +765,12 @@ const nextConfig = {
         { slug: "people-tell-content-ai-generated", canonical: "/blog/consistent-social-media-without-burnout" },
         { slug: "personal-story-business-social-media-balance", canonical: "/blog/consistent-social-media-without-burnout" },
         { slug: "physical-therapists-choose-glow-social", canonical: "/blog/social-media-healthcare-practices" },
-        { slug: "post-per-day-social-media-frequency", canonical: "/blog/posting-frequency-local-business" },
+        { slug: "post-per-day-social-media-frequency", canonical: "/blog/how-often-should-local-business-post-social-media-data" },
         { slug: "pre-written-social-media-content-construction-companies", canonical: "/blog/best-social-media-posting-service-contractors" },
         { slug: "professional-photos-social-media-necessary", canonical: "/blog/social-media-management-images-boost-engagement-with-ai-powered-content" },
         { slug: "professional-services-social-media-management", canonical: "/blog/best-social-media-service-busy-business-owners" },
         { slug: "prove-social-media-brings-customers", canonical: "/blog/roi-social-media-local-business" },
-        { slug: "quality-over-quantity-social-media-marketing", canonical: "/blog/posting-frequency-local-business" },
+        { slug: "quality-over-quantity-social-media-marketing", canonical: "/blog/how-often-should-local-business-post-social-media-data" },
         { slug: "real-estate-social-media-management", canonical: "/blog/best-social-media-service-real-estate-agents" },
         { slug: "repurpose-blog-post-social-media", canonical: "/blog/content-ideas-local-business" },
         { slug: "respond-customer-questions-social-media", canonical: "/blog/how-social-media-affects-local-business-credibility" },
@@ -627,10 +791,10 @@ const nextConfig = {
         { slug: "social-media-changing-businesses-automation-ai", canonical: "/blog/how-ai-social-media-posting-works" },
         { slug: "social-media-consistency-tools-oba-framework", canonical: "/blog/oba-social-media-framework-local-business" },
         { slug: "social-media-content-generator-auto-repair-shops", canonical: "/blog/best-social-media-service-auto-repair-shops" },
-        { slug: "social-media-content-relevant-lifespan", canonical: "/blog/posting-frequency-local-business" },
+        { slug: "social-media-content-relevant-lifespan", canonical: "/blog/how-often-should-local-business-post-social-media-data" },
         { slug: "social-media-content-strategy-local-retail", canonical: "/blog/social-media-retail-boutiques" },
         { slug: "social-media-for-roofers-49-month", canonical: "/blog/automated-social-media-roofers-contractors" },
-        { slug: "social-media-manager-cost-hiring-budget", canonical: "/blog/done-for-you-social-media-cost" },
+        { slug: "social-media-manager-cost-hiring-budget", canonical: "/blog/freelance-social-media-manager-charge-cost" },
         { slug: "social-media-marketing-examples-elevate-your-strategy-with-ai-solutions", canonical: "/blog/social-media-marketing-ideas-to-elevate-engagement-and-strategy" },
         { slug: "social-media-post-types-local-businesses", canonical: "/blog/content-ideas-local-business" },
         { slug: "social-media-replace-phone-support", canonical: "/blog/how-social-media-affects-local-business-credibility" },
@@ -642,7 +806,7 @@ const nextConfig = {
         { slug: "stop-losing-jobs-better-instagram-glow-social", canonical: "/blog/automated-social-media-roofers-contractors" },
         { slug: "technical-experts-social-media-oba", canonical: "/blog/best-social-media-service-busy-business-owners" },
         { slug: "the-best-app-for-scheduling-social-media-posts-boost-your-strategy-effortlessly", canonical: "/blog/best-ai-social-media-content-generators" },
-        { slug: "the-real-cost-of-social-media-management-comparing-your-options-in-2025", canonical: "/blog/done-for-you-social-media-cost" },
+        { slug: "the-real-cost-of-social-media-management-comparing-your-options-in-2025", canonical: "/blog/freelance-social-media-manager-charge-cost" },
         { slug: "tiktok-local-business-marketing-strategy", canonical: "/blog/best-platforms-local-business" },
         { slug: "top-social-media-apps-enhance-strategy-with-ai-powered-solutions", canonical: "/blog/best-ai-social-media-content-generators" },
         { slug: "top-social-media-marketing-agencies-for-effective-digital-domination", canonical: "/blog/ai-tools-vs-agencies-cost" },
@@ -656,7 +820,7 @@ const nextConfig = {
         { slug: "why-businesses-post-more-automated-social-media", canonical: "/blog/how-ai-social-media-posting-works" },
         { slug: "why-glow-social-isnt-another-social-media-app-and-why-thats-exactly-the-point", canonical: "/blog/what-makes-glow-social-different" },
         { slug: "why-service-businesses-choose-glow-social", canonical: "/blog/what-makes-glow-social-different" },
-        { slug: "why-social-media-managers-expensive", canonical: "/blog/social-media-manager-vs-ai" },
+        { slug: "why-social-media-managers-expensive", canonical: "/blog/freelance-social-media-manager-charge-cost" },
       ].map(({ slug, canonical }) => ({
         source: `/blog/${slug}`,
         destination: canonical,

@@ -62,7 +62,7 @@ Stop letting your social media pages collect dust. Set up Glow Social in 5 minut
 
 [Get Started — $99/month](https://app.glowsocial.com/)
 
-**Related:** [How Many Hours Does Social Media Take?](/blog/hours-per-week-social-media) · [Best Tools Under $100/Mo](/blog/best-social-media-service-local-businesses-under-100-month) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
+**Related:** [How Many Hours Does Social Media Take?](/blog/average-time-social-media-marketing) · [Best Tools Under $100/Mo](/blog/best-social-media-service-local-businesses-under-100-month) · [Done-For-You Guide](/blog/done-for-you-social-media-guide)
 
 
 ## Related Guides

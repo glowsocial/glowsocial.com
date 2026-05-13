@@ -20,18 +20,20 @@ If you've ever wondered how much time social media marketing *actually* takes, y
 
 Here's the real data.
 
-## Quick Answer: How Much Time Social Media Takes
+## Direct Answer: How Much Time Social Media Takes
 
-**Most small businesses spend 3-10 hours per week on social media marketing.** That's 12-40 hours per month — roughly equivalent to a part-time employee.
+**Most small businesses spend 3-10 hours per week on social media marketing.** That is 12-40 hours per month once you include content planning, writing, graphics, publishing, comments, and light reporting.
 
-But that range is wide because it depends on several factors:
+Content creation is the biggest piece. Industry surveys consistently put content work at the center of the time cost, and many social media managers spend **28-33 hours per month** on content creation alone.
+
+The realistic range depends on several factors:
 
 - How many platforms you manage
 - Whether you create original content or curate
 - How much engagement and community management you do
 - Whether you're running paid ads alongside organic posts
 
-If you are managing only Facebook and Instagram with simple posts, expect the low end: **3-5 hours per week**. If you are also making Reels, TikToks, LinkedIn posts, carousels, and Google Business Profile updates, expect the high end: **6-10+ hours per week**.
+If you are managing only Facebook and Instagram with simple posts, expect the low end: **3-5 hours per week**. If you are also making Reels, TikToks, LinkedIn posts, carousels, and Google Business Profile updates, expect the high end: **6-10+ hours per week**. For most local businesses, the better target is a sustainable [3-post-per-week cadence](/blog/how-often-should-local-business-post-social-media-data) instead of trying to post every day and burning out.
 
 The part that surprises most business owners is not publishing. It is creating the content: deciding what to say, writing captions, choosing images, making graphics, and adjusting each post for the platform.
 

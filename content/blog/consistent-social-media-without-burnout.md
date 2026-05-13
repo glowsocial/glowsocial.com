@@ -169,7 +169,7 @@ For DIY consistency, start with monthly batching: block 3 hours on the first of 
 
 <hr>
 
-<strong>**Related reading:** [Create a month of content in 1 hour](/blog/create-month-content-one-hour) · [How often should local businesses post?](/blog/posting-frequency-local-business) · [Done-for-you social media guide](/blog/done-for-you-social-media-guide)
+<strong>**Related reading:** [Create a month of content in 1 hour](/blog/create-month-content-one-hour) · [How often should local businesses post?](/blog/how-often-should-local-business-post-social-media-data) · [Done-for-you social media guide](/blog/done-for-you-social-media-guide)
 
 ---
 

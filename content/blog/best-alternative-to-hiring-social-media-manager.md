@@ -23,7 +23,7 @@ Assuming that cheaper means lower quality. Five years ago, that was true — ear
 
 ## Related Questions
 - [Social media manager vs AI: which is better?](/blog/social-media-manager-vs-ai)
-- [How much does a social media manager cost?](/blog/how-much-does-a-social-media-manager-cost)
+- [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost)
 - [Done-for-you vs DIY social media](/blog/done-for-you-vs-diy-social-media)
 - [Should I hire a social media manager or DIY?](/blog/should-i-hire-social-media-manager-or-diy)
 - [Social media on autopilot — is it actually possible?](/blog/social-media-on-autopilot)

@@ -1,6 +1,6 @@
 ---
-title: "Ideal Instagram Caption Length + Social Media Caption Guide 2026"
-description: "The ideal Instagram caption length is 138-150 characters, with the first 125 characters carrying the hook. See caption lengths for every platform."
+title: "Ideal Instagram Caption Length in 2026 + Platform Character Limits"
+description: "Instagram, TikTok, Facebook, LinkedIn, and Google Business Profile caption lengths compared: max character limits, ideal length, hooks, hashtags, and best use cases."
 slug: "social-media-caption-length"
 date: "2026-03-23"
 faqs:
@@ -22,9 +22,11 @@ The answer depends on the platform. What works on LinkedIn would flop on TikTok.
 
 Here's the definitive guide to caption length for every major platform in 2026, backed by engagement data.
 
-## Quick Answer: Ideal Instagram Caption Length
+## Direct Answer: Ideal Instagram Caption Length
 
 The ideal Instagram caption length is **138-150 characters** for most posts. Instagram gives you up to **2,200 characters**, but the first **125 characters** do the heavy lifting because that is what people see before the "more" cutoff.
+
+For TikTok, keep captions around **50-150 characters** unless the caption is doing search work. For LinkedIn, longer posts around **1,200-1,600 characters** can work because the platform rewards dwell time. For Facebook and Google Business Profile, short and clear usually wins.
 
 Use this simple rule:
 
@@ -203,8 +205,3 @@ Glow Social creates and publishes 12+ posts per month across Facebook, Instagram
 **Related guides:** [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/blog/best-affordable-social-media-management-small-business) · [CoSchedule alternative](/compare/coschedule-alternative)
 
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [glowsocial.com](https://glowsocial.com)
-
-
-### Want to see what Glow Social can do for your Salon business?
-
-[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)

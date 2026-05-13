@@ -95,7 +95,7 @@ Pick 3 ideas from this list and post them this week. If you can sustain that pac
 
 If you know you won't sustain it (and most dentists won't — no judgment), [let Glow Social handle it](https://app.glowsocial.com/) so your pages stay active while you focus on patients.
 
-**Related:** [Social Media for Dentists: Complete Guide](/blog/social-media-marketing-dentists) · [Best Posting Service for Dentists](/blog/best-social-media-posting-service-dentists) · [How Often Should Local Businesses Post?](/blog/posting-frequency-local-business)
+**Related:** [Social Media for Dentists: Complete Guide](/blog/social-media-marketing-dentists) · [Best Posting Service for Dentists](/blog/best-social-media-posting-service-dentists) · [How Often Should Local Businesses Post?](/blog/how-often-should-local-business-post-social-media-data)
 
 
 ### Want to see what Glow Social can do for your Dentist business?

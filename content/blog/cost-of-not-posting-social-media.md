@@ -121,7 +121,7 @@ The best plumber with a dead social media page will lose to an average plumber w
 If your social media has gone dark, here's the priority:
 
 1. **Post something today.** Anything. A photo of your workplace, a quick tip, a "we're here and busy" update. Break the silence.
-2. **Commit to a minimum.** [3 posts per week](/blog/posting-frequency-local-business) across your main platforms. That's the floor for staying visible.
+2. **Commit to a minimum.** [3 posts per week](/blog/how-often-should-local-business-post-social-media-data) across your main platforms. That's the floor for staying visible.
 3. **Decide how you'll sustain it.** DIY will last 3-4 weeks before life gets in the way. Be honest with yourself about whether you'll actually keep it up. If not, [automate it](/blog/done-for-you-social-media-guide).
 
 The longer you wait, the wider the gap grows between you and the competitors who are posting. And every day that gap exists, customers are choosing them.

@@ -153,7 +153,7 @@ Or skip the content creation entirely: Glow Social publishes 12 posts automatica
 
 <hr>
 
-<strong>**Related reading:** [Best platforms for local businesses](/blog/best-platforms-local-business) · [How often should you post?](/blog/posting-frequency-local-business) · [Create a month of content in 1 hour](/blog/create-month-content-one-hour)
+<strong>**Related reading:** [Best platforms for local businesses](/blog/best-platforms-local-business) · [How often should you post?](/blog/how-often-should-local-business-post-social-media-data) · [Create a month of content in 1 hour](/blog/create-month-content-one-hour)
 
 ---
 

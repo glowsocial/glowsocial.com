@@ -188,7 +188,7 @@ For automated posting across Facebook, Instagram, LinkedIn, and TikTok, Glow Soc
 
 <hr>
 
-<strong>**Related reading:** [Social media for home services](/blog/social-media-home-services) · [How often should you post?](/blog/posting-frequency-local-business) · [50+ content ideas for local businesses](/blog/content-ideas-local-business)
+<strong>**Related reading:** [Social media for home services](/blog/social-media-home-services) · [How often should you post?](/blog/how-often-should-local-business-post-social-media-data) · [50+ content ideas for local businesses](/blog/content-ideas-local-business)
 
 ---
 
