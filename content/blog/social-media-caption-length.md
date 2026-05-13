@@ -26,7 +26,7 @@ Here's the definitive guide to caption length for every major platform in 2026, 
 
 The ideal Instagram caption length is **138-150 characters** for most posts. Instagram gives you up to **2,200 characters**, but the first **125 characters** do the heavy lifting because that is what people see before the "more" cutoff.
 
-For TikTok, keep captions around **50-150 characters** unless the caption is doing search work. For LinkedIn, longer posts around **1,200-1,600 characters** can work because the platform rewards dwell time. For Facebook and Google Business Profile, short and clear usually wins.
+For TikTok, keep captions around **50-150 characters** unless the caption is doing search work. TikTok caption limits can vary by posting path; many scheduling and API workflows still use a **2,200-character** limit even when native posting supports longer captions. For LinkedIn, longer posts around **1,200-1,600 characters** can work because the platform rewards dwell time. For Facebook and Google Business Profile, short and clear usually wins.
 
 Use this simple rule:
 
@@ -43,9 +43,20 @@ Caption length matters, but it is not the whole strategy. A 140-character captio
 <tr><td>Instagram</td><td>2,200 characters</td><td>138-150 characters</td><td>Short for engagement, long for education</td></tr>
 <tr><td>Facebook</td><td>63,206 characters</td><td>40-80 characters</td><td>Under 250 characters for business pages</td></tr>
 <tr><td>LinkedIn</td><td>3,000 characters</td><td>1,200-1,600 characters</td><td>200-250 words with line breaks</td></tr>
-<tr><td>TikTok</td><td>4,000 characters</td><td>50-150 characters</td><td>Keep it punchy — the video is the content</td></tr>
+<tr><td>TikTok</td><td>2,200-4,000 characters depending on posting path</td><td>50-150 characters</td><td>Keep it punchy — the video is the content</td></tr>
 <tr><td>Google Business Profile</td><td>1,500 characters</td><td>150-300 characters</td><td>Include a call to action with every post</td></tr>
 <tr><td>X (Twitter)</td><td>280 characters</td><td>71-100 characters</td><td>Leave room for retweets with comments</td></tr>
+</table>
+
+## Character Limit Answers for 2026
+
+<table>
+<tr><th>Search question</th><th>Short answer</th><th>Best practice</th></tr>
+<tr><td>Instagram caption character limit 2026</td><td>Instagram captions allow up to 2,200 characters.</td><td>Put the hook in the first 125 characters; use longer captions only when the post teaches or tells a story.</td></tr>
+<tr><td>TikTok caption length 2026</td><td>Use 2,200 characters as the safest scheduler-friendly ceiling; some native TikTok workflows support longer captions.</td><td>Write the searchable phrase naturally, then keep the visible caption short enough to support the video.</td></tr>
+<tr><td>LinkedIn post character limit 2026</td><td>LinkedIn posts allow up to 3,000 characters.</td><td>Use 1,200-1,600 characters for thought leadership posts, with line breaks every 1-2 sentences.</td></tr>
+<tr><td>Facebook caption length</td><td>Facebook posts can be very long, but business posts usually perform better under 250 characters.</td><td>Lead with the offer, question, or key update before the feed truncates the post.</td></tr>
+<tr><td>Google Business Profile post length</td><td>Google Business Profile posts allow up to 1,500 characters.</td><td>Use 150-300 characters, mention the service or location, and include a clear next step.</td></tr>
 </table>
 
 Now let's break down what actually works on each platform — and why.
@@ -110,6 +121,8 @@ The pattern is simple: short captions for quick recognition, longer captions for
 
 LinkedIn is the exception to the "shorter is better" rule. **Longer posts consistently outperform short ones.**
 
+[LinkedIn's own help center](https://www.linkedin.com/help/linkedin/answer/a528176/) lists the post character limit at 3,000 characters, which is enough room for a short essay. That does not mean every post should use the full limit.
+
 **What the data says:**
 - Posts with 1,200-1,600 characters earn the most engagement
 - The algorithm rewards "dwell time" — how long someone spends reading your post
@@ -125,7 +138,9 @@ LinkedIn is the exception to the "shorter is better" rule. **Longer posts consis
 
 ## TikTok Caption Length
 
-TikTok expanded captions to 4,000 characters in 2024, but **shorter is still better.** The video IS the content — the caption supports it.
+TikTok caption limits are more complicated than Instagram or LinkedIn because the answer can depend on where you publish. Some native TikTok workflows support longer captions, while many scheduling tools and API workflows still cap video captions around 2,200 characters.
+
+For business content, the practical rule is simple: write the important part first, keep the visible caption short, and stay under the limit used by your publishing tool. The video IS the content — the caption supports it.
 
 **What the data says:**
 - Captions between 50-150 characters perform best for engagement
@@ -202,6 +217,6 @@ Glow Social creates and publishes 12+ posts per month across Facebook, Instagram
 
 ---
 
-**Related guides:** [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/blog/best-affordable-social-media-management-small-business) · [CoSchedule alternative](/compare/coschedule-alternative)
+**Related guides:** [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/blog/best-affordable-social-media-management-small-business)
 
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [glowsocial.com](https://glowsocial.com)

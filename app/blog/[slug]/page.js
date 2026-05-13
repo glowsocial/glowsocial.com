@@ -178,6 +178,7 @@ export default async function BlogPostPage({ params }) {
                 year: "numeric",
                 month: "long",
                 day: "numeric",
+                timeZone: "UTC",
               })}
             </span>
           )}
