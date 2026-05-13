@@ -462,6 +462,8 @@ const nextConfig = {
         { slug: "social-media-agency-vs-diy-tool-service-providers", canonical: "/blog/ai-tools-vs-agencies-cost" },
         { slug: "glow-social-different-hootsuite", canonical: "/blog/hootsuite-vs-glow-social" },
         { slug: "glow-social-setup-time", canonical: "/how-glow-social-works" },
+        { slug: "how-many-emojis-too-many-social-media", canonical: "/blog/social-media-mistakes-local-business" },
+        { slug: "emojis-unprofessional-certain-industries", canonical: "/blog/social-media-mistakes-local-business" },
         { slug: "why-content-strategy-is-important-for-social-media-success", canonical: "/blog/why-is-content-strategy-important-for-social-media-success" },
       ].map(({ slug, canonical }) => ({
         source: `/${slug}`,

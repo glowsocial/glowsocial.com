@@ -8,8 +8,10 @@ faqs:
     a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
   - q: "What happens if you stop posting on social media?"
     a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
+  - q: "How many emojis are too many for a business social media post?"
+    a: "For most local business posts, 0-3 emojis is enough. Use emojis only when they clarify the message or match your brand. Too many emojis can make a business look less professional, harder to read, or spammy."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across major platforms including Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile."
 ---
 
 Most small business owners know they should post consistently on social media, but something always gets in the way. The usual pattern: Start strong, get busy with work, stop posting, feel guilty, repeat. If social media isn't working for your business, it's probably one of these common mistakes—and most of them have simple fixes.
@@ -68,6 +70,24 @@ Most small business owners know they should post consistently on social media, b
 
 
 <strong>The fix:</strong> Show your actual work, your actual customers (with permission), your actual personality. Generic content doesn't build trust with your specific audience.
+
+
+## How Many Emojis Is Too Many for Social Media?
+
+For most local business posts, **0-3 emojis is enough**. A caption about a sale, appointment opening, review, event, or service update does not need a long string of icons to feel engaging.
+
+Use emojis when they make the post easier to scan or match your normal brand voice. Skip them when the post is about something serious, time-sensitive, regulated, or trust-sensitive. Medical, legal, financial, home service, and professional services brands usually look stronger with fewer emojis.
+
+A simple rule:
+
+<ul>
+<li><strong>0 emojis:</strong> professional updates, serious announcements, reviews, service explanations</li>
+<li><strong>1 emoji:</strong> quick visual cue at the start of a casual post</li>
+<li><strong>2-3 emojis:</strong> friendly promotions, events, seasonal posts, light behind-the-scenes updates</li>
+<li><strong>4+ emojis:</strong> usually too much for a local business unless the brand is intentionally playful</li>
+</ul>
+
+The goal is not to make the caption look busy. The goal is to make the message clear. If the caption still feels weak without emojis, the issue is usually the hook, offer, or post idea. Start with the [social media caption length guide](/blog/social-media-caption-length), then add emojis only if they help.
 
 
 ## 6. Ignoring Comments and Messages
@@ -170,8 +190,8 @@ For automated, consistent posting, Glow Social handles content creation and publ
 
 <hr>
 
-<strong>**Related reading:** [Why your social media isn't working](/blog/social-media-not-working) · [How to stay consistent without burnout](/blog/consistent-social-media-without-burnout) · [Best platforms for local business](/blog/best-platforms-local-business)
+**Related reading:** [Why your social media isn't working](/blog/social-media-not-working) · [How to stay consistent without burnout](/blog/consistent-social-media-without-burnout) · [Best platforms for local business](/blog/best-platforms-local-business) · [Social media caption length guide](/blog/social-media-caption-length)
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+**About Glow Social:** Software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

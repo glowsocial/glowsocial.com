@@ -9,7 +9,7 @@ faqs:
   - q: "How much does a social media management agency cost?"
     a: "Social media agencies charge $1,000-3,000/month for small business packages and $3,000-10,000+ for comprehensive service. Most require 3-12 month contracts. Agency pricing typically includes strategy, content creation, community management, and reporting."
   - q: "Is it cheaper to hire a social media manager or use software?"
-    a: "Software is significantly cheaper. Done-for-you AI tools like Glow Social cost $99/month for 12 automated posts. A freelancer costs $300-500/month. When you factor in your time managing the freelancer (1-2 hours/month), the true cost gap is even wider. Software wins on cost; humans win on creativity and engagement."
+    a: "Software is significantly cheaper. Done-for-you software like Glow Social costs $99/month for 12 automated posts. A freelancer usually costs $300-500/month for a basic package. When you factor in your time managing the freelancer, the true cost gap is even wider. Software wins on cost and consistency; humans win on creativity, strategy, and engagement."
   - q: "How much should a small business budget for social media marketing?"
     a: "Most small businesses should budget $50-500/month for social media marketing. At the low end ($99-100/month), done-for-you software handles consistent posting. At the mid range ($300-500/month), a freelancer adds human creativity. Above $1,000/month, agencies provide comprehensive strategy and execution."
   - q: "What does a social media manager actually do?"
@@ -19,6 +19,18 @@ faqs:
 The first question every small business owner asks about social media help is: **"How much is this going to cost me?"**
 
 The honest answer: anywhere from $99 to $10,000 per month, depending on what you need and who does the work. Here's the complete breakdown for 2026.
+
+## Quick Answer: Social Media Manager Cost
+
+A freelance social media manager usually costs **$300-1,500 per month** for small business packages. Agencies usually start around **$1,000 per month** and can run **$5,000+ per month** when strategy, reporting, community management, paid ads, or video are included.
+
+The lower-cost options are DIY scheduling tools at **$15-50 per month** or done-for-you software like Glow Social at **$99 per month**. The difference is time: scheduling tools still require you to create the posts, while done-for-you software handles the recurring content.
+
+Use this rule of thumb:
+
+- **Choose software** if you mainly need consistent posts and a professional baseline.
+- **Choose a freelancer** if you want human creativity, light strategy, and some engagement help.
+- **Choose an agency** if social media is tied to a larger marketing budget, ads, reporting, and campaign strategy.
 
 ## Social Media Manager Pricing Overview
 

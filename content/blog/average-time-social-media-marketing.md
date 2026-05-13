@@ -20,7 +20,7 @@ If you've ever wondered how much time social media marketing *actually* takes, y
 
 Here's the real data.
 
-## The Short Answer
+## Quick Answer: How Much Time Social Media Takes
 
 **Most small businesses spend 3-10 hours per week on social media marketing.** That's 12-40 hours per month — roughly equivalent to a part-time employee.
 
@@ -30,6 +30,10 @@ But that range is wide because it depends on several factors:
 - Whether you create original content or curate
 - How much engagement and community management you do
 - Whether you're running paid ads alongside organic posts
+
+If you are managing only Facebook and Instagram with simple posts, expect the low end: **3-5 hours per week**. If you are also making Reels, TikToks, LinkedIn posts, carousels, and Google Business Profile updates, expect the high end: **6-10+ hours per week**.
+
+The part that surprises most business owners is not publishing. It is creating the content: deciding what to say, writing captions, choosing images, making graphics, and adjusting each post for the platform.
 
 Let's break it down by task.
 
@@ -90,6 +94,18 @@ The numbers above only capture *active* social media management time. Most busin
 
 **Learning curve:** Platforms constantly change their algorithms, features, and best practices. Staying current takes time that doesn't show up in the weekly totals.
 
+## If You Only Have 30 Minutes a Week
+
+If social media keeps slipping, do not try to run a full content operation in scraps of time. Use the 30 minutes where it matters most:
+
+1. Post 1 useful tip or update to your most important platform.
+2. Reply to recent comments, messages, and reviews.
+3. Add or schedule 1 Google Business Profile update if you serve local customers.
+
+That will not replace a complete social media strategy, but it keeps your business visibly active. The next upgrade is not "spend more time." It is build a system so the core posts happen even when your week gets busy.
+
+For that system, compare the time cost here with the [social media manager cost breakdown](/blog/freelance-social-media-manager-charge-cost), then tighten the actual posts with the [caption length guide](/blog/social-media-caption-length).
+
 ## The Consistency Problem
 
 Here's what usually happens: you decide to get serious about social media. You post consistently for two or three weeks. Then a busy period hits, and your pages go quiet for months.
@@ -147,6 +163,6 @@ If your goal is simply to **stay visible and look professional online** without 
 
 ---
 
-**Related guides:** [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [Affordable social media management](/blog/best-affordable-social-media-management-small-business) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [5 best AI-powered social media tools](/blog/top-5-automated-social-media-tools-small-business-2026)
+**Related guides:** [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [Social media caption length guide](/blog/social-media-caption-length) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/blog/best-affordable-social-media-management-small-business) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison)
 
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
