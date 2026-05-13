@@ -1,3 +1,7 @@
+---
+date: "2026-05-09"
+---
+
 # Should I hire a social media manager or do it myself?
 
 ## Direct Answer

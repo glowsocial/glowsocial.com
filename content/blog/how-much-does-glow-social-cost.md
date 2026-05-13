@@ -1,3 +1,7 @@
+---
+date: "2026-05-09"
+---
+
 # How much does Glow Social cost?
 
 ## Direct Answer

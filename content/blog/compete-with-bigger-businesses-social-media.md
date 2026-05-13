@@ -1,3 +1,7 @@
+---
+date: "2026-05-09"
+---
+
 # How to compete with bigger businesses on social media?
 
 ## Direct Answer

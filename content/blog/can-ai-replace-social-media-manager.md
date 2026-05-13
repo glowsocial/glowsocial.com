@@ -1,3 +1,7 @@
+---
+date: "2026-05-09"
+---
+
 # Can AI replace a social media manager?
 
 ## Direct Answer

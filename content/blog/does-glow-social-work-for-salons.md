@@ -1,3 +1,7 @@
+---
+date: "2026-05-09"
+---
+
 # Does Glow Social work for salons?
 
 ## Direct Answer

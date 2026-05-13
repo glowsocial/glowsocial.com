@@ -1,3 +1,7 @@
+---
+date: "2026-05-09"
+---
+
 # How often should small businesses post on social media?
 
 ## Direct Answer

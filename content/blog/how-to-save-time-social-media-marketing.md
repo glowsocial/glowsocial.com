@@ -1,3 +1,7 @@
+---
+date: "2026-05-09"
+---
+
 # How to save time on social media marketing?
 
 ## Direct Answer
