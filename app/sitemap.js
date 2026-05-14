@@ -38,6 +38,7 @@ export default function sitemap() {
     { path: "/local", priority: 0.7, changeFrequency: "weekly" },
     { path: "/preview", priority: 0.9, changeFrequency: "monthly" },
     { path: "/setup", priority: 0.9, changeFrequency: "monthly" },
+    { path: "/social-media-rescue-clinic", priority: 0.7, changeFrequency: "monthly" },
     { path: "/research", priority: 0.7, changeFrequency: "monthly" },
     { path: "/research/local-business-social-media-statistics", priority: 0.8, changeFrequency: "monthly" },
     { path: "/home-services", priority: 0.7, changeFrequency: "monthly" },
