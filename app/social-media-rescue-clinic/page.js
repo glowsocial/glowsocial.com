@@ -141,36 +141,44 @@ export default function SocialMediaRescueClinic() {
       />
 
       <section className="rescue-hero">
-        <Image
-          src="/images/kathleen-celmins-founder.jpg"
-          alt=""
-          fill
-          priority
-          className="rescue-hero-image"
-          sizes="100vw"
-        />
-        <div className="rescue-hero-scrim" />
+        <div className="rescue-hero-grid" aria-hidden="true" />
         <div className="container rescue-hero-inner">
-          <p className="rescue-kicker">Free in-person workshop for local business groups</p>
-          <h1>Social Media Rescue Clinic</h1>
-          <p className="rescue-hero-sub">
-            Help your members stop looking inactive online in one practical hour.
-          </p>
-          <p className="rescue-hero-copy">
-            Kathleen Celmins, founder of Glow Social, leads a phone-in-hand session where local
-            business owners diagnose their profiles, find the platform that matters most, and
-            leave with a simple rescue plan they can use immediately.
-          </p>
-          <div className="rescue-hero-actions">
-            <a
-              href="mailto:hello@glowsocial.com?subject=Social%20Media%20Rescue%20Clinic%20for%20our%20group"
-              className="btn btn--primary btn--lg"
-            >
-              Invite Kathleen to Speak
-            </a>
-            <Link href="/lets-meet" className="btn btn--white-outline btn--lg">
-              Book a Quick Call
-            </Link>
+          <div className="rescue-hero-copy-block">
+            <p className="rescue-kicker">Free in-person workshop for local business groups</p>
+            <h1>Social Media Rescue Clinic</h1>
+            <p className="rescue-hero-sub">
+              Help your members stop looking inactive online in one practical hour.
+            </p>
+            <p className="rescue-hero-copy">
+              Kathleen Celmins, founder of Glow Social, leads a phone-in-hand session where local
+              business owners diagnose their profiles, find the platform that matters most, and
+              leave with a simple rescue plan they can use immediately.
+            </p>
+            <div className="rescue-hero-actions">
+              <a
+                href="mailto:hello@glowsocial.com?subject=Social%20Media%20Rescue%20Clinic%20for%20our%20group"
+                className="btn btn--primary btn--lg"
+              >
+                Invite Kathleen to Speak
+              </a>
+              <Link href="/lets-meet" className="btn btn--white-outline btn--lg">
+                Book a Quick Call
+              </Link>
+            </div>
+          </div>
+          <div className="rescue-hero-portrait">
+            <Image
+              src="/images/kathleen-celmins-founder.jpg"
+              alt="Kathleen Celmins, founder of Glow Social"
+              width={320}
+              height={426}
+              priority
+              className="rescue-hero-portrait-image"
+            />
+            <div className="rescue-hero-portrait-caption">
+              <strong>Kathleen Celmins</strong>
+              <span>Founder of Glow Social</span>
+            </div>
           </div>
         </div>
       </section>
