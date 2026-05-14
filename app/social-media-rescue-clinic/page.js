@@ -16,12 +16,19 @@ export const metadata = {
     url: "https://glowsocial.com/social-media-rescue-clinic",
     images: [
       {
-        url: "https://glowsocial.com/images/kathleen-celmins-founder.jpg",
-        width: 768,
-        height: 1024,
-        alt: "Kathleen Celmins, founder of Glow Social",
+        url: "https://glowsocial.com/images/social-media-rescue-clinic-og.png",
+        width: 1200,
+        height: 630,
+        alt: "Social Media Rescue Clinic, a free in-person workshop by Glow Social",
       },
     ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Social Media Rescue Clinic | Glow Social",
+    description:
+      "A free, practical workshop that helps local business owners stop looking inactive online.",
+    images: ["https://glowsocial.com/images/social-media-rescue-clinic-og.png"],
   },
 };
 
