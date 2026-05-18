@@ -115,22 +115,19 @@ export default function HomePage() {
         <div className="container hero-centered">
           <span className="hero-badge">
             <span className="badge-dot"></span>
-            The {pricing.startingAtShort} Marketing Agency
+            Done-For-You Social Media &mdash; {pricing.startingAtShort}
           </span>
           <h1>
-            Make your social media
+            Your social media, handled.
             <br />
-            <span className="accent">as professional as you are.</span>
+            <span className="accent">While you run your business.</span>
           </h1>
           <p className="hero-sub">
-            You&apos;ve built a great business; your social media should finally look like it.
-            <br />
-            We turn your &ldquo;last post: 2023&rdquo; into a live, breathing storefront while you sleep.
+            Professional posts, Google reviews, 13 platforms &mdash; all running without you.
           </p>
           <p className="hero-desc">
-            Glow Social creates <strong>professional posts every month</strong>,
-            handles the formatting for TikTok, LinkedIn, Google, and 9 more,
-            then publishes them for <strong>{pricing.startingAtFull}</strong>. You just provide the &ldquo;vibes,&rdquo; we provide the reach.
+            Glow Social reads your website, learns your voice, and publishes content
+            that sounds like you wrote it. Every day. Every platform. <strong>No login required.</strong>
           </p>
           <form
             className="hero-url-form"
@@ -358,7 +355,53 @@ export default function HomePage() {
           </div>
 
           <div className="section-cta">
-            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="how-cta">Get Started</a>
+            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="how-cta">See What We&apos;d Create for You</a>
+          </div>
+        </div>
+      </section>
+
+      {/* ============ FIRST WEEK TIMELINE ============ */}
+      <section className="first-week" id="first-week" data-animate>
+        <div className={`container ${visibleSections.has("first-week") ? "fade-in" : "fade-hidden"}`}>
+          <h2>What Your First Week Looks Like</h2>
+          <p className="section-sub">Most agencies take a month to onboard. You&apos;ll have posts live before lunch.</p>
+          <div className="timeline">
+            <div className="tl-item">
+              <div className="tl-dot tl-dot--fast">1 min</div>
+              <h3>Enter your website</h3>
+              <p>We scan up to 11 pages to learn your business, services, and brand voice.</p>
+            </div>
+            <div className="tl-item">
+              <div className="tl-dot tl-dot--fast">2 min</div>
+              <h3>Your Tone Pillars are identified</h3>
+              <p>Our Voice Mirror finds your style &mdash; professional, witty, neighborly, direct &mdash; before drafting a single word.</p>
+            </div>
+            <div className="tl-item">
+              <div className="tl-dot tl-dot--fast">3 min</div>
+              <h3>12 custom posts appear</h3>
+              <p>Written for your business, formatted for every platform. Quote graphics, text posts, and carousels &mdash; ready to review.</p>
+            </div>
+            <div className="tl-item">
+              <div className="tl-dot tl-dot--fast">5 min</div>
+              <h3>Connect your platforms, set your schedule</h3>
+              <p>Link your accounts. Pick your posting days. That&apos;s it &mdash; you&apos;re done setting up.</p>
+            </div>
+            <div className="tl-item">
+              <div className="tl-dot tl-dot--day">Day 2</div>
+              <h3>Your first posts publish automatically</h3>
+              <p>Content goes live across all 13 platforms. No login, no copy-pasting, no formatting headaches.</p>
+            </div>
+            <div className="tl-item">
+              <div className="tl-dot tl-dot--day">Day 7</div>
+              <h3>Your weekly report arrives</h3>
+              <p>See what posted, how it performed, and what&apos;s queued next.</p>
+              <div className="tl-highlight">
+                <p>You&apos;re already more active on social media than 90% of local businesses in your area.</p>
+              </div>
+            </div>
+          </div>
+          <div className="section-cta">
+            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="first-week-cta">See What We&apos;d Create for You</a>
           </div>
         </div>
       </section>
@@ -596,7 +639,7 @@ export default function HomePage() {
                 <li><strong>Google Business</strong> visibility included</li>
                 <li><strong>Zero-Login</strong> weekly approvals</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">Get Started</a>
+              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">Start With Core</a>
             </div>
             <div className="price-card price-card--featured">
               <span className="popular-badge">Most Popular</span>
@@ -610,7 +653,7 @@ export default function HomePage() {
                 <li><strong>Reputation Awareness</strong> with Google Review monitoring</li>
                 <li><strong>Performance Clarity</strong> on what is working</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">Get Started</a>
+              <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">Start With Pro</a>
             </div>
             <div className="price-card">
               <h3>Glo Unlimited</h3>
@@ -622,7 +665,7 @@ export default function HomePage() {
                 <li><strong>No Content Ceiling</strong> when your calendar gets busy</li>
                 <li><strong>Full Brand Protection</strong> across every campaign</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">Get Started</a>
+              <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">Start With Unlimited</a>
             </div>
           </div>
         </div>
@@ -633,7 +676,7 @@ export default function HomePage() {
         <div className="container">
           <h2>Make Your Social Media<br />Match Your Business.</h2>
           <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all done for you.<br />Your storefront looks alive. Your {pricing.startingAtFull} starts today.</p>
-          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Started — {pricing.startingAtShort}</a>
+          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Your First Month of Posts</a>
         </div>
       </section>
 
@@ -674,7 +717,7 @@ export default function HomePage() {
 
       {/* STICKY MOBILE CTA */}
       <div className="sticky-mobile-cta" id="stickyCta">
-        <a href="https://app.glowsocial.com/">Get Started — {pricing.startingAtShort}</a>
+        <a href="https://app.glowsocial.com/">See My Posts Free</a>
       </div>
     </>
   );
