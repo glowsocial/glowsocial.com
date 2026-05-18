@@ -118,8 +118,7 @@ export default function HomePage() {
             Done-For-You Social Media &mdash; {pricing.startingAtShort}
           </span>
           <h1>
-            Your social media, handled.
-            <br />
+            Your social media, handled.{" "}
             <span className="accent">While you run your business.</span>
           </h1>
           <p className="hero-sub">
