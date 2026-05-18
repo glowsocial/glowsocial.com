@@ -115,7 +115,7 @@ export default function HomePage() {
         <div className="container hero-centered">
           <span className="hero-badge">
             <span className="badge-dot"></span>
-            Done-For-You Social Media &mdash; {pricing.startingAtShort}
+            Done-for-you social media &mdash; {pricing.startingAtShort}
           </span>
           <h1>
             Your social media, handled.{" "}
@@ -151,7 +151,7 @@ export default function HomePage() {
                 id="hero-url-input"
               />
               <button type="submit" className="hero-url-btn" id="hero-url-submit">
-                See My Posts Free →
+                See my posts free →
               </button>
             </div>
           </form>
@@ -165,7 +165,7 @@ export default function HomePage() {
               id="hero-cta-secondary"
               style={{ fontSize: '0.85rem', padding: '10px 24px' }}
             >
-              Already convinced? Get Started — {pricing.startingAtShort}
+              Already convinced? Get started — {pricing.startingAtShort}
             </a>
           </div>
           <div className="hero-proof">
@@ -198,11 +198,11 @@ export default function HomePage() {
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
-            <div><strong>Total</strong> omnipresence</div>
+            <div><strong>13 platforms</strong> covered</div>
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
-            <div><strong>Google Reviews</strong> on Pro+</div>
+            <div><strong>Google reviews</strong> on Pro+</div>
           </div>
         </div>
       </section>
@@ -211,9 +211,9 @@ export default function HomePage() {
       {/* ============ THE PAIN — Emotional first ============ */}
       <section className="brain-problem" id="brain-problem" data-animate>
         <div className={`container ${visibleSections.has("brain-problem") ? "fade-in" : "fade-hidden"}`}>
-          <h2>Your Business Is Already Legit.<br />Your Feed Should Match.</h2>
+          <h2>Your business is already legit.<br />Your feed should match.</h2>
           <p className="section-sub">
-            Social media is supposed to be a storefront, not another chore. Glow Social fills the strategic void between the business you&apos;ve built offline and the trust signals customers expect to see online.
+            Social media is supposed to be a storefront, not another chore. Glow Social closes the gap between the business you&apos;ve built offline and the trust signals customers expect to see online.
           </p>
           <div className="brain-grid">
             <div className="brain-card">
@@ -221,7 +221,7 @@ export default function HomePage() {
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
               </div>
               <h3>Before Glow Social</h3>
-              <p>Your feed does not reflect the real business customers see when they walk in, call you, or get referred by a friend. The gap is not a moral failure. It is an empty shelf.</p>
+              <p>Your feed does not reflect the real business customers see when they walk in, call you, or get referred by a friend. That gap is not a character flaw. It is just hard to keep current while running the business.</p>
               <div className="brain-card-verdict">They see: <strong>&ldquo;Last post: 2023.&rdquo;</strong></div>
             </div>
             <div className="brain-card brain-card--after">
@@ -241,7 +241,7 @@ export default function HomePage() {
             <div className="brain-bridge-arrow">→</div>
             <div className="brain-bridge-stat">
               <span className="big-stat">3 sec</span>
-              <span className="stat-label">is all it takes for their brain<br />to decide if they trust you</span>
+              <span className="stat-label">to decide whether you look<br />current and trustworthy</span>
             </div>
           </div>
         </div>
@@ -250,8 +250,8 @@ export default function HomePage() {
       {/* ============ HOW IT WORKS — Tabbed ============ */}
       <section className="how" id="how" data-animate>
         <div className={`container ${visibleSections.has("how") ? "fade-in" : "fade-hidden"}`}>
-          <h2>From Quick Setup<br />to Steady Presence</h2>
-          <p className="section-sub">Three steps. Five minutes. Then approvals come to the notification flow you already use.</p>
+          <h2>From quick setup<br />to steady presence</h2>
+          <p className="section-sub">Three steps. Five minutes. Then approvals come through the channels you already use.</p>
 
           <div className="how-tabs">
             <div className="how-tab-buttons">
@@ -287,19 +287,19 @@ export default function HomePage() {
                   <div className="how-panel-text">
                     <h3>Drop in your website. We do the rest.</h3>
                     <p>Glow Social reads 11 pages of your website to learn your business, your brand voice, and your services. Then we generate 133+ content ideas tailored specifically to you.</p>
-                    <p><strong>Voice Mirror:</strong> Our AI doesn&apos;t just write; it mirrors. It identifies your Tone Pillars — Professional, Witty, Local — before it ever drafts a single word.</p>
+                    <p><strong>Voice profile:</strong> Our AI identifies your tone — professional, witty, local — before it ever drafts a single word.</p>
                     <p>Your dashboard shows everything at a glance — connected platforms, posting schedule, and content pipeline. Setup takes about 5 minutes.</p>
                   </div>
                   <div className="how-panel-img">
                     <div className="voice-profile-card">
-                      <div className="voice-profile-eyebrow">Voice Profile</div>
+                      <div className="voice-profile-eyebrow">Voice profile</div>
                       <h4>Acme Home Services</h4>
-                      <div className="tone-pillars">
+                      <div className="voice-traits">
                         <span>Professional</span>
                         <span>Witty</span>
                         <span>Local</span>
                       </div>
-                      <p>&ldquo;Clear, neighborly expertise with a little bite. Confident without sounding corporate.&rdquo;</p>
+                      <p>&ldquo;Clear, neighborly expertise. Confident without sounding corporate.&rdquo;</p>
                     </div>
                     <img src="/images/app-dashboard.png" alt="Glow Social dashboard showing connected platforms, posting schedule, and content ideas" />
                   </div>
@@ -310,7 +310,7 @@ export default function HomePage() {
                 <div className="how-panel-content">
                   <div className="how-panel-text">
                     <h3>Swipe through ideas. Keep the ones you love.</h3>
-                    <p>Browse through content ideas written for your business. Swipe right to keep, left to skip. It&apos;s like Tinder for your social media content.</p>
+                    <p>Browse through content ideas written for your business. Keep the ones that fit, skip the ones that do not.</p>
                     <p>Choose between static posts, videos, and carousels. Every idea is a starting point — we turn the ones you pick into polished, ready-to-publish content.</p>
                   </div>
                   <div className="how-panel-img">
@@ -322,9 +322,9 @@ export default function HomePage() {
               <div className={`how-tab-panel ${activeTab === "post" ? "active" : ""}`} data-panel="post">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
-                    <h3>Zero-Login Approvals.</h3>
-                    <p>Get a weekly SMS or email. Swipe right to approve, left to skip. Done in 60 seconds while you&apos;re in line for coffee.</p>
-                    <p>One post, total omnipresence. We handle the formatting for TikTok, LinkedIn, Google, and 9 more — all from one approval flow. No separate logins. No copy-pasting.</p>
+                    <h3>Approve posts without logging in</h3>
+                    <p>Get a weekly text or email. Approve, skip, or edit in 60 seconds while you&apos;re in line for coffee.</p>
+                    <p>One approval can cover every platform. We handle the formatting for TikTok, LinkedIn, Google, and 9 more — all from one review flow. No separate logins. No copy-pasting.</p>
                   </div>
                   <div className="how-panel-img">
                     <div className="mobile-approval-preview" aria-label="Mobile approval preview">
@@ -362,7 +362,7 @@ export default function HomePage() {
       {/* ============ FIRST WEEK TIMELINE ============ */}
       <section className="first-week" id="first-week" data-animate>
         <div className={`container ${visibleSections.has("first-week") ? "fade-in" : "fade-hidden"}`}>
-          <h2>What Your First Week Looks Like</h2>
+          <h2>What your first week looks like</h2>
           <p className="section-sub">Most agencies take a month to onboard. You&apos;ll have posts live before lunch.</p>
           <div className="timeline">
             <div className="tl-item">
@@ -372,13 +372,13 @@ export default function HomePage() {
             </div>
             <div className="tl-item">
               <div className="tl-dot tl-dot--fast">2 min</div>
-              <h3>Your Tone Pillars are identified</h3>
-              <p>Our Voice Mirror finds your style &mdash; professional, witty, neighborly, direct &mdash; before drafting a single word.</p>
+              <h3>Your brand voice is identified</h3>
+              <p>Glow Social maps your style &mdash; professional, witty, neighborly, direct &mdash; before drafting a single word.</p>
             </div>
             <div className="tl-item">
               <div className="tl-dot tl-dot--fast">3 min</div>
               <h3>12 custom posts appear</h3>
-              <p>Written for your business, formatted for every platform. Quote graphics, text posts, and more &mdash; ready to review.</p>
+              <p>Written for your business and formatted for each platform. Text posts, quote graphics, and more &mdash; ready to review.</p>
             </div>
             <div className="tl-item">
               <div className="tl-dot tl-dot--fast">5 min</div>
@@ -400,7 +400,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="section-cta">
-            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="first-week-cta">See What We&apos;d Create for You</a>
+            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="first-week-cta">See what we&apos;d create for you</a>
           </div>
         </div>
       </section>
@@ -479,36 +479,36 @@ export default function HomePage() {
       {/* ============ TENSION STRIP — The real cost of avoidance ============ */}
       <section className="psych-proof" id="psych-proof" data-animate>
         <div className={`container ${visibleSections.has("psych-proof") ? "fade-in" : "fade-hidden"}`}>
-          <h2>The Storefront Customers Check Before They Call</h2>
+          <h2>The storefront customers check before they call</h2>
           <p className="section-sub">
             You&apos;ve built a great business; your social media should finally look like it. Glow Social turns the quiet space into proof that you are open, active, and ready to help.
           </p>
           <div className="psych-grid">
             <div className="psych-card">
               <div className="psych-number">01</div>
-              <h3>A Quiet Feed Is an Empty Shelf</h3>
-              <p>When someone finds you through a referral or Google, the first thing they do is check your social media. We fill that space with current, professional proof.</p>
+              <h3>A quiet feed makes people hesitate</h3>
+              <p>When someone finds you through a referral or Google, they often check your social media next. We fill that space with current, professional proof.</p>
               <div className="psych-example">
                 <div className="psych-bad">Last post: 2023</div>
-                <div className="psych-good">Active presence where customers check</div>
+                <div className="psych-good">Current where customers check</div>
               </div>
             </div>
             <div className="psych-card">
               <div className="psych-number">02</div>
-              <h3>One Post, Total Omnipresence</h3>
+              <h3>One approval, every platform</h3>
               <p>You do not need to care about every channel. You need to show up on the few that matter and have the rest handled without extra work.</p>
               <div className="psych-example">
                 <div className="psych-bad">Manual posting everywhere</div>
-                <div className="psych-good">One approval, formatted reach</div>
+                <div className="psych-good">One approval, platform-ready posts</div>
               </div>
             </div>
             <div className="psych-card">
               <div className="psych-number">03</div>
-              <h3>Approvals Fit Your Habits</h3>
-              <p>No new dashboard habit to build. Your posts come to the notification patterns you already use, then you swipe through the decisions in under a minute.</p>
+              <h3>Approvals fit your habits</h3>
+              <p>No new dashboard habit to build. Your posts come through the channels you already use, then you make the decisions in under a minute.</p>
               <div className="psych-example">
                 <div className="psych-bad">Another tool to remember</div>
-                <div className="psych-good">Text, swipe, done</div>
+                <div className="psych-good">Review, approve, done</div>
               </div>
             </div>
           </div>
@@ -518,32 +518,32 @@ export default function HomePage() {
       {/* ============ WHAT HANDLED ACTUALLY FEELS LIKE ============ */}
       <section className="features" id="features" data-animate>
         <div className={`container ${visibleSections.has("features") ? "fade-in" : "fade-hidden"}`}>
-          <h2>What &ldquo;Handled&rdquo; Actually Feels Like</h2>
+          <h2>What &ldquo;handled&rdquo; actually feels like</h2>
           <p className="section-sub">This isn&apos;t just about posts. It&apos;s about what disappears when you hand it off.</p>
           <div className="features-grid">
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" /><circle cx="12" cy="7" r="4" /></svg></div>
-              <div><h3>Zero-Login Approvals</h3><p>Get a weekly SMS or email. Swipe right to approve, left to skip. Done in 60 seconds while you&apos;re in line for coffee.</p></div>
+              <div><h3>Approve without another login</h3><p>Get a weekly text or email. Approve, skip, or edit in 60 seconds while you&apos;re in line for coffee.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></svg></div>
-              <div><h3>One Post, Total Omnipresence</h3><p>Professional graphics, consistent voice, fresh posts — formatted for TikTok, LinkedIn, Google, and 9 more.</p></div>
+              <div><h3>One approval, every platform</h3><p>Professional graphics, consistent voice, fresh posts — formatted for TikTok, LinkedIn, Google, and 9 more.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2" /><circle cx="8.5" cy="8.5" r="1.5" /><polyline points="21 15 16 10 5 21" /></svg></div>
-              <div><h3>Referrals Actually Convert</h3><p>Someone recommends you. They look you up. Instead of a dead feed, they see an active, professional business. That&apos;s what turns a mention into a call.</p></div>
+              <div><h3>Referrals convert more easily</h3><p>Someone recommends you. They look you up. Instead of a dead feed, they see an active, professional business. That&apos;s what turns a mention into a call.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" /><polyline points="22 4 12 14.01 9 11.01" /></svg></div>
-              <div><h3>Your Voice Gets Mirrored First</h3><p>Glow Social identifies your Tone Pillars before it drafts anything, so the content sounds like your business instead of a generic template.</p></div>
+              <div><h3>Your voice comes first</h3><p>Glow Social identifies your tone before it drafts anything, so the content sounds like your business instead of a generic template.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg></div>
-              <div><h3>The Mental Load Goes Away</h3><p>&ldquo;I should be posting&rdquo; is a thought that takes up space. When it&apos;s just taken care of, you get that space back — to focus on the work you actually love.</p></div>
+              <div><h3>The mental load goes away</h3><p>&ldquo;I should be posting&rdquo; is a thought that takes up space. When it&apos;s just taken care of, you get that space back — to focus on the work you actually love.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg></div>
-              <div><h3>You Network Without the Wince</h3><p>No more &ldquo;I know, I really need to get better at social media.&rdquo; Your presence is polished. Hand someone your card knowing you&apos;ll impress them when they look you up.</p></div>
+              <div><h3>Show up confidently when people look you up</h3><p>No more &ldquo;I know, I really need to get better at social media.&rdquo; Your presence is polished, so handing someone your card feels easier.</p></div>
             </div>
           </div>
         </div>
@@ -552,13 +552,13 @@ export default function HomePage() {
       {/* ============ GBP + REVIEWS ============ */}
       <section className="gbp-reviews" id="gbp" data-animate>
         <div className={`container ${visibleSections.has("gbp") ? "fade-in" : "fade-hidden"}`}>
-          <h2>The Two Things That Actually Get Local Businesses Found</h2>
+          <h2>The two things that actually get local businesses found</h2>
           <p className="section-sub">Google is how most customers find you. Your Business Profile and your reviews are the first things they see. Glow Social keeps both active — automatically.</p>
           <div className="gbp-grid">
             <div className="gbp-pillar">
               <div className="gbp-pillar-header">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="3"/><polyline points="9 11 12 14 22 4"/></svg>
-                <h3>Google Business Profile Posts</h3>
+                <h3>Google Business Profile posts</h3>
               </div>
               <p className="gbp-pillar-desc">Most social tools skip GBP entirely. Glow Social publishes directly to it — keeping your listing active and boosting your local search ranking.</p>
               <ul className="gbp-pillar-list">
@@ -570,7 +570,7 @@ export default function HomePage() {
             <div className="gbp-pillar">
               <div className="gbp-pillar-header">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-                <h3>Google Review Monitoring</h3>
+                <h3>Google review monitoring</h3>
               </div>
               <p className="gbp-pillar-desc">See every new review the moment it comes in. Respond right from your dashboard — no extra app, no extra cost.</p>
               <ul className="gbp-pillar-list">
@@ -586,13 +586,13 @@ export default function HomePage() {
       {/* ============ COMPETITOR STRIP ============ */}
       <section className="competitor-strip" id="competitors" data-animate>
         <div className={`container ${visibleSections.has("competitors") ? "fade-in" : "fade-hidden"}`}>
-          <h2>Other Tools Give You More Work. We Give You Less.</h2>
+          <h2>Other tools give you more work. We give you less.</h2>
           <p className="section-sub">Most social media tools are made for marketing teams to manage feeds. We built Glow Social for business owners to run businesses.</p>
           <div className="competitor-grid">
             <div className="competitor-card"><h3>Buffer</h3><div className="verdict">No Google Business Profile</div><div className="detail">No GBP posting. No review management. Not built for local.</div></div>
             <div className="competitor-card"><h3>Later</h3><div className="verdict">No Google Business Profile</div><div className="detail">Instagram-focused. No GBP support at all. No reviews.</div></div>
-            <div className="competitor-card"><h3>Sprout Social</h3><div className="verdict">$399+/mo for Reviews</div><div className="detail">Review management locked behind their most expensive plan.</div></div>
-            <div className="competitor-card competitor-card--glow"><h3>Glow Social</h3><div className="verdict">GBP + Reviews Included</div><div className="detail">Posting, GBP, and review monitoring — all starting at {pricing.startingAtShort}.</div></div>
+            <div className="competitor-card"><h3>Sprout Social</h3><div className="verdict">$399+/mo for reviews</div><div className="detail">Review management locked behind their most expensive plan.</div></div>
+            <div className="competitor-card competitor-card--glow"><h3>Glow Social</h3><div className="verdict">GBP + reviews included</div><div className="detail">Posting, GBP, and review monitoring — all starting at {pricing.startingAtShort}.</div></div>
           </div>
         </div>
       </section>
@@ -600,7 +600,7 @@ export default function HomePage() {
       {/* ============ COST COMPARISON ============ */}
       <section className="comparison" id="comparison" data-animate>
         <div className={`container ${visibleSections.has("comparison") ? "fade-in" : "fade-hidden"}`}>
-          <h2>What You&apos;d Pay Anywhere Else</h2>
+          <h2>What you&apos;d pay anywhere else</h2>
           <div className="comparison-table-wrap">
             <table className="comparison-table">
               <thead>
@@ -625,46 +625,46 @@ export default function HomePage() {
       {/* ============ PRICING ============ */}
       <section className="pricing" id="pricing" data-animate>
         <div className={`container ${visibleSections.has("pricing") ? "fade-in" : "fade-hidden"}`}>
-          <h2>Simple, Transparent Pricing</h2>
+          <h2>Simple, transparent pricing</h2>
           <p className="section-sub">No hidden fees. No contracts. Cancel anytime.</p>
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
               <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
-                <li><strong>Total Coverage</strong> for your core social storefront</li>
-                <li><strong>Zero Maintenance</strong> posting rhythm</li>
-                <li><strong>Brand Protection</strong> from website-informed voice</li>
+                <li><strong>Core platform coverage</strong> for your social storefront</li>
+                <li><strong>Steady posting rhythm</strong> without ongoing maintenance</li>
+                <li><strong>Brand-matched voice</strong> from your website</li>
                 <li><strong>Google Business</strong> visibility included</li>
-                <li><strong>Zero-Login</strong> weekly approvals</li>
+                <li><strong>Weekly approvals</strong> without another login</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">Start With Core</a>
+              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">Start with Core</a>
             </div>
             <div className="price-card price-card--featured">
-              <span className="popular-badge">Most Popular</span>
+              <span className="popular-badge">Most popular</span>
               <h3>Glo Pro</h3>
               <div className="price"><span className="price-amount">{pricing.pro.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Core, plus:</li>
-                <li><strong>More Momentum</strong> with higher posting volume</li>
-                <li><strong>Scroll-Stopping Formats</strong> for carousels and video</li>
-                <li><strong>On-Demand Campaigns</strong> for promos and events</li>
-                <li><strong>Reputation Awareness</strong> with Google Review monitoring</li>
-                <li><strong>Performance Clarity</strong> on what is working</li>
+                <li><strong>Higher posting volume</strong> for more consistent momentum</li>
+                <li><strong>Carousel and video formats</strong> for richer posts</li>
+                <li><strong>On-demand campaigns</strong> for promos and events</li>
+                <li><strong>Google review monitoring</strong> for reputation awareness</li>
+                <li><strong>Performance reporting</strong> on what is working</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">Start With Pro</a>
+              <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">Start with Pro</a>
             </div>
             <div className="price-card">
               <h3>Glo Unlimited</h3>
               <div className="price"><span className="price-amount">{pricing.unlimited.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
-                <li><strong>Always-On Coverage</strong> for every content need</li>
-                <li><strong>Unlimited Reach Assets</strong> across formats</li>
-                <li><strong>No Content Ceiling</strong> when your calendar gets busy</li>
-                <li><strong>Full Brand Protection</strong> across every campaign</li>
+                <li><strong>Always-on coverage</strong> for every content need</li>
+                <li><strong>More formats</strong> across your calendar</li>
+                <li><strong>No content ceiling</strong> when your calendar gets busy</li>
+                <li><strong>Full brand coverage</strong> across every campaign</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">Start With Unlimited</a>
+              <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">Start with Unlimited</a>
             </div>
           </div>
         </div>
@@ -673,8 +673,8 @@ export default function HomePage() {
       {/* ============ FINAL CTA — Emotional close ============ */}
       <section className="final-cta">
         <div className="container">
-          <h2>Make Your Social Media<br />Match Your Business.</h2>
-          <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all done for you.<br />Your storefront looks alive. Your {pricing.startingAtFull} starts today.</p>
+          <h2>Make your social media<br />match your business.</h2>
+          <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all done for you.<br />Plans start at {pricing.startingAtFull}.</p>
           <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Your First Month of Posts</a>
         </div>
       </section>
@@ -682,9 +682,9 @@ export default function HomePage() {
       {/* FAQ */}
       <section className="faq" id="faq">
         <div className="container">
-          <h2>Questions From People Who Really Don&apos;t Want to Think About Social Media</h2>
+          <h2>Questions from people who really don&apos;t want to think about social media</h2>
           <div className="faq-list">
-            <details className="faq-item"><summary>Will this get me more customers?</summary><p>It won&apos;t replace advertising. What it does is more important: it converts the customers you&apos;re already almost getting. When someone hears about you through word of mouth, Google, or a referral, the first thing they do is check your social media. If your last post was six months ago, they second-guess themselves and move on. Fresh, professional content turns that curiosity into a call. Glow Social makes sure you never lose a warm lead because your presence looked abandoned.</p></details>
+            <details className="faq-item"><summary>Will this get me more customers?</summary><p>It won&apos;t replace advertising. What it does is help convert the customers you&apos;re already almost getting. When someone hears about you through word of mouth, Google, or a referral, the first thing they do is check your social media. If your last post was six months ago, they second-guess themselves and move on. Fresh, professional content turns that curiosity into a call. Glow Social makes sure you never lose a warm lead because your presence looked abandoned.</p></details>
             <details className="faq-item"><summary>How much does Glow Social cost?</summary><p>Glow Social Core costs {pricing.startingAtFull} with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for an overseas contractor. You can cancel anytime and keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary>Can I cancel anytime?</summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary>What if I don&apos;t like the content?</summary><p>You have full editorial control. Edit any post before it goes live, regenerate content with different parameters, or write your own. Every piece of content is customized to your brand voice and can be adjusted to your preferences.</p></details>
@@ -695,7 +695,7 @@ export default function HomePage() {
             <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond right from your dashboard — no need to log into Google separately.</p></details>
             <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube, Bluesky, Mastodon, Google Business Profile, Pinterest, Discord, Slack, and TikTok.</p></details>
             <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Business owners who are great at what they do and hate that social media is part of running a business. If you&apos;ve ever said &ldquo;I know I should be posting more&rdquo; at a networking event, you&apos;re exactly who this is for. Our customers include roofers, dentists, coaches, photographers, wedding vendors, and local service providers who want to look professional online without it consuming their time.</p></details>
-            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For {pricing.startingAtFull}, you get professionally written, designed, and published posts every month — with brand-matched voice, Google Business Profile visibility, and zero-login approvals. We handle the operating rhythm for you.</p></details>
+            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For {pricing.startingAtFull}, you get professionally written, designed, and published posts every month — with brand-matched voice, Google Business Profile visibility, and approvals that do not require another login. We handle the operating rhythm for you.</p></details>
             <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager costs $300–500/month minimum, requires onboarding, and can quit on you. Glow Social costs {pricing.startingAtFull}, never has an off day, never needs managing, and keeps delivering without you having to think about it.</p></details>
           </div>
         </div>
@@ -716,7 +716,7 @@ export default function HomePage() {
 
       {/* STICKY MOBILE CTA */}
       <div className="sticky-mobile-cta" id="stickyCta">
-        <a href="https://app.glowsocial.com/">See My Posts Free</a>
+        <a href="https://app.glowsocial.com/">See my posts free</a>
       </div>
     </>
   );

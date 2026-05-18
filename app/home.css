@@ -730,14 +730,14 @@
   margin-bottom: 14px;
 }
 
-.tone-pillars {
+.voice-traits {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
   margin-bottom: 14px;
 }
 
-.tone-pillars span {
+.voice-traits span {
   background: rgba(215, 226, 120, 0.14);
   border: 1px solid rgba(215, 226, 120, 0.24);
   color: var(--accent);
@@ -1250,4 +1250,62 @@
   .hero-url-icon { display: none; }
   .hero-url-input { width: 100%; text-align: center; padding: 8px 4px; }
   .hero-url-btn { width: 100%; padding: 14px; }
+}
+
+/* Keep homepage copy in natural sentence case. */
+.hero-badge,
+.trust-stat,
+.how-tab-btn,
+.voice-profile-eyebrow,
+.approval-platform,
+.approval-actions span,
+.ticker-author,
+.popular-badge,
+.sticky-mobile-cta a,
+.hero .btn,
+.section-cta .btn,
+.pricing .btn,
+.final-cta .btn {
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.brain-problem h2,
+.brain-problem h3,
+.how h2,
+.how-panel-text h3,
+.voice-profile-card h4,
+.first-week h2,
+.tl-item h3,
+.psych-proof h2,
+.psych-card h3,
+.features h2,
+.feature-card h3,
+.gbp-reviews h2,
+.gbp-pillar h3,
+.competitor-strip h2,
+.competitor-card h3,
+.comparison h2,
+.pricing h2,
+.price-card h3,
+.final-cta h2,
+.faq h2,
+.faq-item summary {
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+body:has(.hero) .site-nav > a,
+body:has(.hero) .nav-dropdown-trigger,
+body:has(.hero) .nav-dropdown a,
+body:has(.hero) .header-ctas .btn,
+body:has(.hero) .mobile-nav > a,
+body:has(.hero) .mobile-nav-section,
+body:has(.hero) .mobile-nav-sub a,
+body:has(.hero) .mobile-nav-ctas .btn,
+body:has(.hero) .footer-col h4,
+body:has(.hero) .site-footer .footer-col a,
+body:has(.hero) .footer-bottom-links a {
+  text-transform: none;
+  letter-spacing: 0;
 }

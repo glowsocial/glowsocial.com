@@ -32,7 +32,7 @@ export default function HomeJsonLd() {
         name: "How is Glow Social different from other social media tools?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social handles the workflow for you. We read your website, identify your tone pillars, generate content tailored to your business, and publish to the places customers check, including Google Business Profile. Plans start at $99.",
+          text: "Unlike Buffer, Hootsuite, or other tools that require you to write and create content yourself, Glow Social handles the workflow for you. We read your website, learn your voice, generate content tailored to your business, and publish to the places customers check, including Google Business Profile. Plans start at $99.",
         },
       },
       {
@@ -56,7 +56,7 @@ export default function HomeJsonLd() {
         name: "What is the best done-for-you social media service for local businesses?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is the leading done-for-you social media service for local businesses starting at $99/month. It provides professional posts, custom graphics, brand-matched voice, Google Business Profile posting, zero-login approvals, and optional Google Review monitoring.",
+          text: "Glow Social is a done-for-you social media service for local businesses starting at $99/month. It provides professional posts, custom graphics, brand-matched voice, Google Business Profile posting, simple approvals, and optional Google review monitoring.",
         },
       },
     ],
@@ -84,7 +84,7 @@ export default function HomeJsonLd() {
     operatingSystem: "Web",
     url: "https://glowsocial.com",
     description:
-      "Done-for-you social media posting for local businesses. AI-powered content creation, brand-matched voice, zero-login approvals, and Google Business Profile visibility.",
+      "Done-for-you social media posting for local businesses. AI-powered content creation, brand-matched voice, simple approvals, and Google Business Profile visibility.",
     offers: [
       {
         "@type": "Offer",
@@ -93,7 +93,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "Total Coverage, Zero Maintenance, Brand Protection, and Zero-Login approvals",
+          "Core platform coverage, steady posting rhythm, brand-matched voice, and weekly approvals",
       },
       {
         "@type": "Offer",
@@ -115,7 +115,7 @@ export default function HomeJsonLd() {
       },
     ],
     featureList:
-      "AI content creation, Voice Mirror tone profile, Zero-Login approvals, Google Business Profile posting, Google Review monitoring, custom graphics, automated scheduling",
+      "AI content creation, brand-matched voice, weekly approvals, Google Business Profile posting, Google review monitoring, custom graphics, automated scheduling",
   };
 
   return (
