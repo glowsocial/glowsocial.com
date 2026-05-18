@@ -30,7 +30,7 @@ export const metadata = {
     template: "%s | Glow Social",
   },
   description:
-    "Done-for-you social media for local businesses. Professional posts, Google Business Profile, brand-matched voice, and Google Review monitoring — starting at $99/mo.",
+    "Not scheduler software. Glow Social writes posts, matches your voice, creates graphics, and keeps a steady publishing rhythm for local businesses — starting at $99/mo.",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -38,7 +38,7 @@ export const metadata = {
     siteName: "Glow Social",
     title: "Glow Social | Done-for-you social media for local businesses",
     description:
-      "$99/month social media — handled. Glow Social reads your website, learns your voice, creates professional content, and keeps your online storefront active.",
+      "$99/month social media — handled. Not scheduler software: posts, brand voice, graphics, and publishing rhythm for local businesses.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
@@ -52,7 +52,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Glow Social | Done-for-you social media for local businesses",
     description:
-      "$99/month social media — handled. Professional posts, brand-matched voice, Google Business Profile, and reviews.",
+      "$99/month social media — handled. Posts, brand-matched voice, graphics, Google Business Profile, and publishing rhythm.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
@@ -72,7 +72,7 @@ const organizationSchema = {
   url: "https://glowsocial.com",
   logo: "https://glowsocial.com/icon.png",
   description:
-    "Done-for-you social media management for local businesses. Glow Social creates and publishes professional posts to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — starting at $99/month.",
+    "Done-for-you social media management for local businesses. Glow Social writes posts, matches brand voice, creates graphics, and publishes to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — starting at $99/month.",
   applicationCategory: "SocialMediaApplication",
   operatingSystem: "Web",
   offers: {

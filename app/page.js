@@ -107,11 +107,10 @@ export default function HomePage() {
             <span className="accent">While you run your business.</span>
           </h1>
           <p className="hero-sub">
-            Add your website. Pick where to show up. We handle the posts.
+            Not a scheduler. Posts, voice, graphics, and publishing rhythm, handled.
           </p>
           <p className="hero-desc">
-            No content calendar. No blank page. No platform maze.
-            Review what we make; Glow Social handles the rest.
+            Glow Social writes, designs, publishes, and takes social media off your mental list.
           </p>
           <form
             className="hero-url-form"
