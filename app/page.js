@@ -378,7 +378,7 @@ export default function HomePage() {
             <div className="tl-item">
               <div className="tl-dot tl-dot--fast">3 min</div>
               <h3>12 custom posts appear</h3>
-              <p>Written for your business, formatted for every platform. Quote graphics, text posts, and carousels &mdash; ready to review.</p>
+              <p>Written for your business, formatted for every platform. Quote graphics, text posts, and more &mdash; ready to review.</p>
             </div>
             <div className="tl-item">
               <div className="tl-dot tl-dot--fast">5 min</div>
