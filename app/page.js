@@ -9,16 +9,7 @@ import "./home.css";
 export default function HomePage() {
   const [activeTab, setActiveTab] = useState("connect");
   const [visibleSections, setVisibleSections] = useState(new Set());
-  const [activeStat, setActiveStat] = useState(0);
   const pricing = useMemo(() => getPricing(), []);
-
-  // Animate stats counter
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setActiveStat((prev) => (prev + 1) % 3);
-    }, 3000);
-    return () => clearInterval(interval);
-  }, []);
 
   // Intersection observer for fade-in animations
   useEffect(() => {
@@ -51,12 +42,6 @@ export default function HomePage() {
       return () => observer.disconnect();
     }
   }, []);
-
-  const stats = [
-    { number: "2,847", label: "posts published this month", prefix: "" },
-    { number: "12", label: "platforms per account", prefix: "" },
-    { number: "4.7", label: "minutes average setup time", prefix: "" },
-  ];
 
   return (
     <>
@@ -122,11 +107,11 @@ export default function HomePage() {
             <span className="accent">While you run your business.</span>
           </h1>
           <p className="hero-sub">
-            Professional posts, Google reviews, 13 platforms &mdash; all running without you.
+            Add your website. Pick where to show up. We handle the posts.
           </p>
           <p className="hero-desc">
-            Glow Social reads your website, learns your voice, and publishes content
-            that sounds like you wrote it. Every day. Every platform. <strong>No login required.</strong>
+            No content calendar. No blank page. No platform maze.
+            Review what we make; Glow Social handles the rest.
           </p>
           <form
             className="hero-url-form"
@@ -151,12 +136,12 @@ export default function HomePage() {
                 id="hero-url-input"
               />
               <button type="submit" className="hero-url-btn" id="hero-url-submit">
-                See my posts free →
+                SEE MY POSTS FREE →
               </button>
             </div>
           </form>
           <p className="hero-url-hint">
-            We&apos;ll read your website and show you 12 custom posts in under 60 seconds. No signup required.
+            Start with your website. We&apos;ll ask for your email before showing the preview. No payment required.
           </p>
           <div className="hero-ctas-centered" style={{ marginTop: 16 }}>
             <a
@@ -165,7 +150,7 @@ export default function HomePage() {
               id="hero-cta-secondary"
               style={{ fontSize: '0.85rem', padding: '10px 24px' }}
             >
-              Already convinced? Get started — {pricing.startingAtShort}
+              ALREADY CONVINCED? GET STARTED — {pricing.startingAtShort}
             </a>
           </div>
           <div className="hero-proof">
@@ -198,7 +183,7 @@ export default function HomePage() {
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
-            <div><strong>13 platforms</strong> covered</div>
+            <div><strong>Only what matters</strong> connected</div>
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
@@ -250,8 +235,8 @@ export default function HomePage() {
       {/* ============ HOW IT WORKS — Tabbed ============ */}
       <section className="how" id="how" data-animate>
         <div className={`container ${visibleSections.has("how") ? "fade-in" : "fade-hidden"}`}>
-          <h2>From quick setup<br />to steady presence</h2>
-          <p className="section-sub">Three steps. Five minutes. Then approvals come through the channels you already use.</p>
+          <h2>Set it up once.<br />Stay current.</h2>
+          <p className="section-sub">3 steps. 5 minutes. No calendar to manage.</p>
 
           <div className="how-tabs">
             <div className="how-tab-buttons">
@@ -261,7 +246,7 @@ export default function HomePage() {
                 id="tab-connect"
               >
                 <span className="step-num">1</span>
-                <span>Connect</span>
+                <span>CONNECT</span>
               </button>
               <button
                 className={`how-tab-btn ${activeTab === "pick" ? "active" : ""}`}
@@ -269,7 +254,7 @@ export default function HomePage() {
                 id="tab-pick"
               >
                 <span className="step-num">2</span>
-                <span>Pick</span>
+                <span>PICK</span>
               </button>
               <button
                 className={`how-tab-btn ${activeTab === "post" ? "active" : ""}`}
@@ -277,7 +262,7 @@ export default function HomePage() {
                 id="tab-post"
               >
                 <span className="step-num">3</span>
-                <span>Post</span>
+                <span>POST</span>
               </button>
             </div>
 
@@ -285,23 +270,39 @@ export default function HomePage() {
               <div className={`how-tab-panel ${activeTab === "connect" ? "active" : ""}`} data-panel="connect">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
-                    <h3>Drop in your website. We do the rest.</h3>
-                    <p>Glow Social reads 11 pages of your website to learn your business, your brand voice, and your services. Then we generate 133+ content ideas tailored specifically to you.</p>
+                    <h3>Add your website. Pick what matters.</h3>
+                    <p>Glow Social reads your website to learn your business, your brand voice, and your services. Then we turn that into post ideas made for you.</p>
                     <p><strong>Voice profile:</strong> Our AI identifies your tone — professional, witty, local — before it ever drafts a single word.</p>
-                    <p>Your dashboard shows everything at a glance — connected platforms, posting schedule, and content pipeline. Setup takes about 5 minutes.</p>
+                    <p>Connect only the accounts you want active, choose a posting rhythm, and review your first posts. It takes about 5 minutes.</p>
                   </div>
-                  <div className="how-panel-img">
-                    <div className="voice-profile-card">
-                      <div className="voice-profile-eyebrow">Voice profile</div>
-                      <h4>Acme Home Services</h4>
-                      <div className="voice-traits">
-                        <span>Professional</span>
-                        <span>Witty</span>
-                        <span>Local</span>
+                  <div className="how-panel-img how-panel-img--connect">
+                    <div className="connect-flow-preview" aria-label="Glow Social setup preview">
+                      <div className="connect-flow-header">
+                        <span>Setup</span>
+                        <strong>5 min</strong>
                       </div>
-                      <p>&ldquo;Clear, neighborly expertise. Confident without sounding corporate.&rdquo;</p>
+                      <div className="connect-flow-step">
+                        <span className="connect-step-num">1</span>
+                        <div>
+                          <strong>Website scanned</strong>
+                          <span>Services, voice, and local details</span>
+                        </div>
+                      </div>
+                      <div className="connect-flow-step">
+                        <span className="connect-step-num">2</span>
+                        <div>
+                          <strong>Accounts connected</strong>
+                          <span>Only the places you choose</span>
+                        </div>
+                      </div>
+                      <div className="connect-flow-step">
+                        <span className="connect-step-num">3</span>
+                        <div>
+                          <strong>Posting rhythm set</strong>
+                          <span>Your first posts are ready to review</span>
+                        </div>
+                      </div>
                     </div>
-                    <img src="/images/app-dashboard.png" alt="Glow Social dashboard showing connected platforms, posting schedule, and content ideas" />
                   </div>
                 </div>
               </div>
@@ -322,9 +323,9 @@ export default function HomePage() {
               <div className={`how-tab-panel ${activeTab === "post" ? "active" : ""}`} data-panel="post">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
-                    <h3>Approve posts without logging in</h3>
-                    <p>Get a weekly text or email. Approve, skip, or edit in 60 seconds while you&apos;re in line for coffee.</p>
-                    <p>One approval can cover every platform. We handle the formatting for TikTok, LinkedIn, Google, and 9 more — all from one review flow. No separate logins. No copy-pasting.</p>
+                    <h3>Review once. Move on.</h3>
+                    <p>Approve, skip, or edit your posts before anything publishes.</p>
+                    <p>We format approved posts for the accounts you connected. No copy-pasting.</p>
                   </div>
                   <div className="how-panel-img">
                     <div className="mobile-approval-preview" aria-label="Mobile approval preview">
@@ -354,7 +355,7 @@ export default function HomePage() {
           </div>
 
           <div className="section-cta">
-            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="how-cta">See What We&apos;d Create for You</a>
+            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="how-cta">SEE WHAT WE&apos;D CREATE FOR YOU</a>
           </div>
         </div>
       </section>
@@ -378,17 +379,17 @@ export default function HomePage() {
             <div className="tl-item">
               <div className="tl-dot tl-dot--fast">3 min</div>
               <h3>12 custom posts appear</h3>
-              <p>Written for your business and formatted for each platform. Text posts, quote graphics, and more &mdash; ready to review.</p>
+              <p>Written for your business and turned into polished posts, graphics, and more &mdash; ready to review.</p>
             </div>
             <div className="tl-item">
               <div className="tl-dot tl-dot--fast">5 min</div>
-              <h3>Connect your platforms, set your schedule</h3>
-              <p>Link your accounts. Pick your posting days. That&apos;s it &mdash; you&apos;re done setting up.</p>
+              <h3>Connect only what you want active</h3>
+              <p>Link what you want active. Pick your posting days. That&apos;s it &mdash; you&apos;re done setting up.</p>
             </div>
             <div className="tl-item">
               <div className="tl-dot tl-dot--day">Day 2</div>
               <h3>Your first posts publish automatically</h3>
-              <p>Content goes live across all 13 platforms. No login, no copy-pasting, no formatting headaches.</p>
+              <p>Content goes live where you connected it. No copy-pasting, no formatting headaches.</p>
             </div>
             <div className="tl-item">
               <div className="tl-dot tl-dot--day">Day 7</div>
@@ -400,7 +401,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="section-cta">
-            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="first-week-cta">See what we&apos;d create for you</a>
+            <a href="https://app.glowsocial.com/" className="btn btn--primary" id="first-week-cta">SEE WHAT WE&apos;D CREATE FOR YOU</a>
           </div>
         </div>
       </section>
@@ -495,17 +496,17 @@ export default function HomePage() {
             </div>
             <div className="psych-card">
               <div className="psych-number">02</div>
-              <h3>One approval, every platform</h3>
-              <p>You do not need to care about every channel. You need to show up on the few that matter and have the rest handled without extra work.</p>
+              <h3>One approval, all set</h3>
+              <p>You choose where Glow Social should post. We keep it moving without extra work.</p>
               <div className="psych-example">
-                <div className="psych-bad">Manual posting everywhere</div>
-                <div className="psych-good">One approval, platform-ready posts</div>
+                <div className="psych-bad">Posting one by one</div>
+                <div className="psych-good">Review once, move on</div>
               </div>
             </div>
             <div className="psych-card">
               <div className="psych-number">03</div>
               <h3>Approvals fit your habits</h3>
-              <p>No new dashboard habit to build. Your posts come through the channels you already use, then you make the decisions in under a minute.</p>
+              <p>Your posts are queued for review, then you approve, skip, or edit before they go live.</p>
               <div className="psych-example">
                 <div className="psych-bad">Another tool to remember</div>
                 <div className="psych-good">Review, approve, done</div>
@@ -523,11 +524,11 @@ export default function HomePage() {
           <div className="features-grid">
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" /><circle cx="12" cy="7" r="4" /></svg></div>
-              <div><h3>Approve without another login</h3><p>Get a weekly text or email. Approve, skip, or edit in 60 seconds while you&apos;re in line for coffee.</p></div>
+              <div><h3>Review before publishing</h3><p>Approve, skip, or edit posts before they go live, then Glow Social handles scheduling and formatting.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></svg></div>
-              <div><h3>One approval, every platform</h3><p>Professional graphics, consistent voice, fresh posts — formatted for TikTok, LinkedIn, Google, and 9 more.</p></div>
+              <div><h3>Review once, move on</h3><p>Professional graphics, consistent voice, fresh posts — formatted for the places your customers actually check.</p></div>
             </div>
             <div className="feature-card">
               <div className="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2" /><circle cx="8.5" cy="8.5" r="1.5" /><polyline points="21 15 16 10 5 21" /></svg></div>
@@ -564,7 +565,7 @@ export default function HomePage() {
               <ul className="gbp-pillar-list">
                 <li>Daily posts created and published for you</li>
                 <li>Matches your brand voice and services</li>
-                <li>Managed alongside all your other platforms</li>
+                <li>Managed alongside your regular posting</li>
               </ul>
             </div>
             <div className="gbp-pillar">
@@ -572,11 +573,11 @@ export default function HomePage() {
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
                 <h3>Google review monitoring</h3>
               </div>
-              <p className="gbp-pillar-desc">See every new review the moment it comes in. Respond right from your dashboard — no extra app, no extra cost.</p>
+              <p className="gbp-pillar-desc">See every new review the moment it comes in. Review and respond from your Glow Social dashboard when monitoring is connected.</p>
               <ul className="gbp-pillar-list">
                 <li>Instant alerts when new reviews arrive</li>
-                <li>Reply to reviews without leaving Glow Social</li>
-                <li>Included in every plan — competitors charge $399+/mo</li>
+                <li>Reply from your Glow Social dashboard</li>
+                <li>Available on Pro+ — competitors charge $399+/mo</li>
               </ul>
             </div>
           </div>
@@ -632,13 +633,13 @@ export default function HomePage() {
               <h3>Glo Core</h3>
               <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
-                <li><strong>Core platform coverage</strong> for your social storefront</li>
+                <li><strong>Core posting coverage</strong> for your social storefront</li>
                 <li><strong>Steady posting rhythm</strong> without ongoing maintenance</li>
                 <li><strong>Brand-matched voice</strong> from your website</li>
                 <li><strong>Google Business</strong> visibility included</li>
-                <li><strong>Weekly approvals</strong> without another login</li>
+                <li><strong>Weekly approvals</strong> before posts go live</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">Start with Core</a>
+              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">START WITH CORE</a>
             </div>
             <div className="price-card price-card--featured">
               <span className="popular-badge">Most popular</span>
@@ -652,7 +653,7 @@ export default function HomePage() {
                 <li><strong>Google review monitoring</strong> for reputation awareness</li>
                 <li><strong>Performance reporting</strong> on what is working</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">Start with Pro</a>
+              <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">START WITH PRO</a>
             </div>
             <div className="price-card">
               <h3>Glo Unlimited</h3>
@@ -664,7 +665,7 @@ export default function HomePage() {
                 <li><strong>No content ceiling</strong> when your calendar gets busy</li>
                 <li><strong>Full brand coverage</strong> across every campaign</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">Start with Unlimited</a>
+              <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">START WITH UNLIMITED</a>
             </div>
           </div>
         </div>
@@ -675,7 +676,7 @@ export default function HomePage() {
         <div className="container">
           <h2>Make your social media<br />match your business.</h2>
           <p>5-minute setup. Professional posts, Google Business Profile, and reviews — all done for you.<br />Plans start at {pricing.startingAtFull}.</p>
-          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">Get Your First Month of Posts</a>
+          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">GET YOUR FIRST MONTH OF POSTS</a>
         </div>
       </section>
 
@@ -690,12 +691,12 @@ export default function HomePage() {
             <details className="faq-item"><summary>What if I don&apos;t like the content?</summary><p>You have full editorial control. Edit any post before it goes live, regenerate content with different parameters, or write your own. Every piece of content is customized to your brand voice and can be adjusted to your preferences.</p></details>
             <details className="faq-item"><summary>How long does setup take?</summary><p>About 5 minutes. Answer a few questions about your business, connect your social media accounts, and you&apos;re done. No job posting, no interviews, no training required.</p></details>
             <details className="faq-item"><summary>I&apos;ve tried social media tools before. How is this different?</summary><p>Most tools give you a better way to do the work. Glow Social takes the work away entirely. You don&apos;t schedule, write, or design anything. We read your website, generate content tailored to your business, and publish it where customers check, including Google Business Profile. You just approve and move on — or let auto-scheduling handle even that.</p></details>
-            <details className="faq-item"><summary>Does Glow Social post to Google Business Profile?</summary><p>Yes — and this is one of the biggest things that sets us apart. Most social media tools skip GBP entirely (Buffer and Later don&apos;t support it at all). We publish directly to your Google Business Profile alongside your other platforms.</p></details>
+            <details className="faq-item"><summary>Does Glow Social post to Google Business Profile?</summary><p>Yes — and this is one of the biggest things that sets us apart. Most social media tools skip GBP entirely (Buffer and Later don&apos;t support it at all). We publish directly to your Google Business Profile alongside your regular social posts.</p></details>
             <details className="faq-item"><summary>Does Glow Social post to Pinterest?</summary><p>Yes — and it&apos;s one of our best-performing platforms. Pinterest posts generated through Glow Social average a 7.7% engagement rate, higher than Facebook, Instagram, or LinkedIn. We create tall-format pins automatically optimized for Pinterest&apos;s feed, so your business shows up where people are actively searching for inspiration and services. Buffer and Later don&apos;t support Pinterest at all.</p></details>
-            <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond right from your dashboard — no need to log into Google separately.</p></details>
-            <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube, Bluesky, Mastodon, Google Business Profile, Pinterest, Discord, Slack, and TikTok.</p></details>
+            <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond from your dashboard.</p></details>
+            <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Glow Social supports the major platforms local businesses use, including Facebook, Instagram, LinkedIn, TikTok, Google Business Profile, Pinterest, and more. You only connect the platforms that matter for your business.</p></details>
             <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Business owners who are great at what they do and hate that social media is part of running a business. If you&apos;ve ever said &ldquo;I know I should be posting more&rdquo; at a networking event, you&apos;re exactly who this is for. Our customers include roofers, dentists, coaches, photographers, wedding vendors, and local service providers who want to look professional online without it consuming their time.</p></details>
-            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For {pricing.startingAtFull}, you get professionally written, designed, and published posts every month — with brand-matched voice, Google Business Profile visibility, and approvals that do not require another login. We handle the operating rhythm for you.</p></details>
+            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For {pricing.startingAtFull}, you get professionally written, designed, and published posts every month — with brand-matched voice, Google Business Profile visibility, and approval controls before content goes live. We handle the operating rhythm for you.</p></details>
             <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager costs $300–500/month minimum, requires onboarding, and can quit on you. Glow Social costs {pricing.startingAtFull}, never has an off day, never needs managing, and keeps delivering without you having to think about it.</p></details>
           </div>
         </div>
@@ -716,7 +717,7 @@ export default function HomePage() {
 
       {/* STICKY MOBILE CTA */}
       <div className="sticky-mobile-cta" id="stickyCta">
-        <a href="https://app.glowsocial.com/">See my posts free</a>
+        <a href="https://app.glowsocial.com/">SEE MY POSTS FREE</a>
       </div>
     </>
   );

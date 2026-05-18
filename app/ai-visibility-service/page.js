@@ -19,23 +19,23 @@ export default function AIVisibility() {
 
           <h2>The Search Landscape Is Changing</h2>
           <p>
-            People aren't just Googling anymore. They're asking ChatGPT, Gemini,
+            People aren&apos;t just Googling anymore. They&apos;re asking ChatGPT, Gemini,
             Perplexity, and other AI tools for recommendations. When someone asks
-            "What's the best dentist near me?" — will AI know you exist?
+            &quot;What&apos;s the best dentist near me?&quot; — will AI know you exist?
           </p>
           <p>
             AI models learn from the content they can find online. If your
-            business doesn't have a consistent, visible online presence, AI
-            won't recommend you. It's that simple.
+            business doesn&apos;t have a consistent, visible online presence, AI
+            won&apos;t recommend you. It&apos;s that simple.
           </p>
 
           <h2>How AI Visibility Works</h2>
           <p>
-            Glow Social's AI Visibility Service creates structured, consistent
+            Glow Social&apos;s AI Visibility Service creates structured, consistent
             content that AI models can discover and reference. This includes:
           </p>
           <ul>
-            <li><strong>Consistent social media posting</strong> — Regular content across 12 platforms signals to AI that your business is active and relevant</li>
+            <li><strong>Consistent social media posting</strong> — Regular content across your key platforms signals to AI that your business is active and relevant</li>
             <li><strong>Google Business Profile optimization</strong> — The most crawled local business data source for AI models</li>
             <li><strong>Brand-authority content</strong> — Posts structured using our OBA framework (Offer, Benefit, Authority) that AI can parse and reference</li>
             <li><strong>Review monitoring</strong> — Reviews are a primary trust signal for AI recommendations</li>
@@ -54,7 +54,7 @@ export default function AIVisibility() {
 
           <h2>Included in Every Glow Social Plan</h2>
           <p>
-            AI Visibility isn't a separate add-on — it's built into how Glow
+            AI Visibility isn&apos;t a separate add-on — it&apos;s built into how Glow
             Social works. Every post we create, every Google Business Profile
             update, every platform we publish to contributes to your AI
             visibility footprint.

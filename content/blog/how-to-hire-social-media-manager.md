@@ -115,7 +115,7 @@ There's a gap between "do it yourself" and "hire someone." It's software that do
 [Glow Social](https://glowsocial.com) does exactly this for **$99/month**:
 
 - 12+ posts per month, created from your website content
-- Published to 13 platforms including Google Business Profile
+- Published to the major platforms local businesses use including Google Business Profile
 - Custom graphics in your brand colors
 - Google Review monitoring included
 - Setup in 5 minutes, not 5 meetings

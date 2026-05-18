@@ -77,7 +77,7 @@ export default function Agency() {
                 <div className="client-row">
                   <div className="client-avatar salon">B</div>
                   <div className="client-info">
-                    <h4>Bella's Hair Studio</h4>
+                    <h4>Bella&apos;s Hair Studio</h4>
                     <span>8 posts scheduled</span>
                   </div>
                   <div className="client-status">● Active</div>
@@ -133,14 +133,14 @@ export default function Agency() {
       {/* PROBLEM */}
       <section className="agency-problem">
         <div className="container">
-          <h2>You're Drowning in Client Deliverables</h2>
+          <h2>You&apos;re Drowning in Client Deliverables</h2>
           <p>
             Every new social media client means more logins to manage, more
             content to create, more publishing to coordinate. Your margins
             shrink with every new account.
           </p>
           <p>
-            You're selling social media services, but you're spending all your
+            You&apos;re selling social media services, but you&apos;re spending all your
             time on fulfillment instead of growing your agency.
           </p>
           <div className="agency-highlight">
@@ -221,12 +221,12 @@ export default function Agency() {
             </div>
           </div>
           <div className="feature-card">
-            <div className="feature-icon">12</div>
+            <div className="feature-icon">P</div>
             <div>
-              <h3>12 Platforms</h3>
+              <h3>Key Platforms</h3>
               <p>
-                Facebook, Instagram, LinkedIn, TikTok, and more. Unlimited
-                platform connections per client.
+                Facebook, Instagram, LinkedIn, TikTok, and more. Connect the
+                channels each client actually needs.
               </p>
             </div>
           </div>
@@ -344,7 +344,7 @@ export default function Agency() {
         <p className="custom-pricing">
           Need more than 30 clients?{" "}
           <a href="mailto:hello@glowsocial.com?subject=Enterprise%20Agency%20Plan">
-            Let's talk about custom pricing.
+            Let&apos;s talk about custom pricing.
           </a>
         </p>
       </section>

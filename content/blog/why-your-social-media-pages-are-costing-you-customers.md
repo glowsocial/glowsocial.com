@@ -52,9 +52,9 @@ So you post once, feel good about it, and then don't post again for three months
 
 What if your social media ran itself?
 
-That's exactly what Glow Social does. We read your website — 11 pages of it — to understand your brand voice, your services, and your customers. Then we create and publish professional content across 13 platforms, including Google Business Profile.
+That's exactly what Glow Social does. We read your website — 11 pages of it — to understand your brand voice, your services, and your customers. Then we create and publish professional content across the major platforms local businesses use, including Google Business Profile.
 
-**3 taps. 12 posts. 13 platforms.** Every month.
+**3 taps. 12 posts. Key platforms.** Every month.
 
 No writer's block. No Canva. No guilt about quiet pages.
 

@@ -48,7 +48,7 @@ Many customers find you on Google first. If your Google Business Profile is acti
 
 Most business owners know what to post. The problem is finding time to do it every day. That's where done-for-you services come in.
 
-**Glow Social** reads your website, creates posts in your brand voice, and publishes them across 13 platforms — including Facebook and Google Business Profile. Setup takes 5 minutes.
+**Glow Social** reads your website, creates posts in your brand voice, and publishes them across the major platforms local businesses use — including Facebook and Google Business Profile. Setup takes 5 minutes.
 
 [Get Started — $99/month](https://app.glowsocial.com/)
 

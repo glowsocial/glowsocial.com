@@ -40,7 +40,7 @@ export default function HomeJsonLd() {
         name: "Does Glow Social post to Google Business Profile?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Yes. Most social media tools skip GBP entirely — Buffer and Later don't support it at all. Glow Social publishes directly to your Google Business Profile alongside your other platforms, keeping your listing active and helping your local search ranking.",
+          text: "Yes. Most social media tools skip GBP entirely — Buffer and Later don't support it at all. Glow Social publishes directly to your Google Business Profile alongside your regular social posts.",
         },
       },
       {
@@ -48,7 +48,7 @@ export default function HomeJsonLd() {
         name: "How does the Google Review integration work?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Once you connect your Google Business Profile, Glow Social monitors your reviews automatically. You'll see new reviews as they come in and can respond right from your dashboard — no need to log into Google separately. It's included in every plan at no extra charge.",
+          text: "Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond from your dashboard.",
         },
       },
       {
@@ -93,7 +93,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "Core platform coverage, steady posting rhythm, brand-matched voice, and weekly approvals",
+          "Core posting coverage, steady posting rhythm, brand-matched voice, and weekly approvals",
       },
       {
         "@type": "Offer",

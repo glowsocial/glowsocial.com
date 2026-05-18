@@ -9,7 +9,7 @@ faqs:
   - q: "How often should Local Businesss post on social media?"
     a: "Local Businesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The best social media tools for local businesses solve a specific problem: staying visible online without spending hours you don't have. For most local businesses, that means either <strong>DIY scheduling tools</strong> (Buffer, Later) or <strong>automated posting software</strong> like Glow Social that creates and publishes content for $99/month.

@@ -9,7 +9,7 @@ faqs:
   - q: "How often should Fitnesss post on social media?"
     a: "Fitnesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Fitness studios need social media to attract new members and keep current ones engaged, but gym owners and trainers are usually too busy running classes and training clients to create content consistently. The best social media tools for fitness studios either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $99.

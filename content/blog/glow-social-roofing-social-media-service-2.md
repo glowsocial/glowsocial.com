@@ -9,7 +9,7 @@ faqs:
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Roofing is a trust business. Homeowners need to believe you'll show up, do quality work, and stand behind it. Social media is where that trust gets built — or lost.

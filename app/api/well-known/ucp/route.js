@@ -11,7 +11,7 @@ export function GET() {
       profile: {
         name: "Glow Social",
         description:
-          "Done-for-you social media posting for local businesses — 12+ posts/month across 13 platforms.",
+          "Done-for-you social media posting for local businesses — 12+ posts/month across the major platforms local businesses use.",
         url: "https://glowsocial.com",
         logo: "https://glowsocial.com/icon.png",
       },
@@ -19,7 +19,7 @@ export function GET() {
         {
           name: "social-media-management",
           description:
-            "Automated social media management — content creation and publishing to 13 platforms.",
+            "Automated social media management — content creation and multi-platform publishing.",
           pricing: {
             currency: "USD",
             plans: [

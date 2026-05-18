@@ -148,7 +148,7 @@ This pattern isn't a Notion problem. It's a bandwidth problem. Planning tools he
 
 For business owners who've tried planning tools, content calendars, and DIY systems without sustained success, there's a fundamentally different approach: let someone (or something) else handle the entire process.
 
-[Glow Social](/how-glow-social-works) reads your website, creates professional posts with custom graphics, and publishes across 13 platforms automatically. No Notion boards. No content calendars. No Sunday evening planning sessions.
+[Glow Social](/how-glow-social-works) reads your website, creates professional posts with custom graphics, and publishes automatically across the major platforms local businesses use. No Notion boards. No content calendars. No Sunday evening planning sessions.
 
 What you get:
 - 12+ custom posts per month

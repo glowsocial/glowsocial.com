@@ -70,7 +70,7 @@ Posts explaining the difference between architectural and 3-tab shingles, the be
 | Setup time | **5 minutes** | 1-2 weeks | 2-4 weeks |
 | Contract required | **None** | Varies | 6-12 months |
 | Posts per month | **12+** | 8-12 | 12-20 |
-| Platforms covered | **13** | 2-4 | 3-5 |
+| Platforms covered | **Key platforms** | 2-4 | 3-5 |
 | Google Business Profile | **Included** | Usually extra | Sometimes included |
 | Custom graphics | **Yes** | Basic (Canva) | Professional |
 | Review monitoring | **Included** | Not included | Sometimes included |

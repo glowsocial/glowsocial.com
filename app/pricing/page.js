@@ -47,7 +47,7 @@ export default function PricingPage() {
                 <li><strong>Zero Maintenance</strong> posting rhythm</li>
                 <li><strong>Brand Protection</strong> from website-informed voice</li>
                 <li><strong>Google Business</strong> visibility included</li>
-                <li><strong>Zero-Login</strong> weekly approvals</li>
+                <li><strong>Weekly approvals</strong> before posts go live</li>
               </ul>
               <a
                 href="https://app.glowsocial.com/checkout?plan=core"
@@ -396,7 +396,7 @@ export default function PricingPage() {
               <p>
                 Core gives you a steady, professional social storefront with
                 brand-matched posts, Google Business Profile visibility, and
-                zero-login approvals. Pro adds more publishing momentum,
+                approval controls before posts go live. Pro adds more publishing momentum,
                 carousel and video formats, custom campaign posts, Google
                 Review monitoring, and performance analytics.
               </p>
@@ -414,8 +414,7 @@ export default function PricingPage() {
               <p>
                 Google Review monitoring is included in Glo Pro and Glo
                 Unlimited plans. Once connected, Glow Social monitors your
-                reviews automatically and you can respond right from your
-                dashboard — no need to log into Google separately.
+                reviews automatically and you can respond from your dashboard.
               </p>
             </details>
             <details className="faq-item">
@@ -432,9 +431,10 @@ export default function PricingPage() {
             <details className="faq-item">
               <summary>Which platforms does Glow Social support?</summary>
               <p>
-                Facebook, Instagram, LinkedIn, Twitter, Threads, YouTube,
-                Bluesky, Mastodon, Google Business Profile, Pinterest,
-                Discord, Slack, and TikTok.
+                Glow Social supports the major platforms local businesses use,
+                including Facebook, Instagram, LinkedIn, TikTok, Google
+                Business Profile, Pinterest, and more. You only connect the
+                platforms that matter for your business.
               </p>
             </details>
             <details className="faq-item">

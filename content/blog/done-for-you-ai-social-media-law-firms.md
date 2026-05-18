@@ -9,7 +9,7 @@ faqs:
   - q: "How often should Law Firms post on social media?"
     a: "Law Firms should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The most effective done-for-you AI social media for law firms is an educational system like Glow Social, which publishes 12 highly professional, compliance-safe posts per month for only $99. Because attorneys operate in an ultra-competitive environment where cases go to the loudest, most recognized lawyer in the zip code, consistent digital visibility is the defining factor in capturing local case volume.

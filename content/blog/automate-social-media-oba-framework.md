@@ -124,7 +124,7 @@ Give your content system (from Step 2) to a freelancer and let them execute. The
 
 ### Option C: Done-for-You AI Service
 
-Services like [Glow Social](/how-glow-social-works) automate the entire process. We read your website, learn your brand voice and services, and create professional posts with custom graphics — published across 13 platforms automatically.
+Services like [Glow Social](/how-glow-social-works) automate the entire process. We read your website, learn your brand voice and services, and create professional posts with custom graphics — published automatically across the major platforms local businesses use.
 
 **Time investment:** 5 minutes for initial setup
 **Cost:** $99/month

@@ -9,7 +9,7 @@ faqs:
   - q: "How often should Financials post on social media?"
     a: "Financials should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Financial advisors and accountants can automate their social media compliantly by using a done-for-you content system like Glow Social, which generates 12 educational, SEC/FINRA-friendly posts per month for just $99. Because financial professionals operate in a highly regulated industry, the most effective strategy is to broadcast timeless financial literacy and tax education that builds authority without ever triggering compliance violations.

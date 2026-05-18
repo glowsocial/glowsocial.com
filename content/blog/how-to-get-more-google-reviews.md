@@ -151,7 +151,7 @@ This is the same principal behind consistent [social media posting](/blog/real-c
 
 ## Tools That Help
 
-**Glow Social** includes [Google Review monitoring](/blog/how-to-set-up-google-business-profile) in every plan at no extra cost. You'll see new reviews the moment they arrive and can respond right from your dashboard — alongside your social media posts across 13 platforms. Most competitors (Sprout Social, Hootsuite) either don't offer this or charge $399+/month for it.
+**Glow Social** includes [Google Review monitoring](/blog/how-to-set-up-google-business-profile) in every plan at no extra cost. You'll see new reviews the moment they arrive and can respond right from your dashboard — alongside your social media posts across the major platforms local businesses use. Most competitors (Sprout Social, Hootsuite) either don't offer this or charge $399+/month for it.
 
 Beyond that, keep it simple. You don't need a fancy review management platform. You need:
 

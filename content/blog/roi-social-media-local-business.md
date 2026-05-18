@@ -9,7 +9,7 @@ faqs:
   - q: "Is social media management worth the investment for small businesses?"
     a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Before you invest in social media tools—or automated posting like Glow Social—it's worth understanding what social media can and can't do for a local business. Spoiler: It's usually not the biggest lever for getting customers, but it does play an important supporting role.

@@ -110,7 +110,7 @@ The honest answer for most business owners: probably not. Not because you don't 
 
 That's exactly why systems exist. Whether it's the [OBA framework](/blog/automate-social-media-oba-framework), a [social media planner](/blog/social-media-planner-for-small-business-streamline-your-strategy-today), or a [done-for-you service](/blog/done-for-you-social-media-guide), the goal is the same: removing the need for daily motivation by building a process that runs regardless.
 
-[Glow Social](/how-glow-social-works) is the system that runs without your ongoing effort. We create professional content, design graphics, and publish across 13 platforms — so you stay inspired without spending hours on execution.
+[Glow Social](/how-glow-social-works) is the system that runs without your ongoing effort. We create professional content, design graphics, and publish across the major platforms local businesses use — so you stay inspired without spending hours on execution.
 
 **$99/month.** [Get Started](https://app.glowsocial.com/)
 

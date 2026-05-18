@@ -5,7 +5,7 @@ slug: "transform-your-strategy-with-a-social-media-ai-post-generator"
 date: "2025-01-20"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How long does it take to see results from social media?"
@@ -42,7 +42,7 @@ A social media AI tool built for local businesses should:
 
 Glow Social reads up to 11 pages of your website before writing a single post. Every caption reflects your services, your tone, and your location — not a template.
 
-Then we create professional graphics in your brand colors, format everything for 13 platforms, and publish on your schedule.
+Then we create professional graphics in your brand colors, format everything for each connected platform, and publish on your schedule.
 
 The result: posts that sound like **you wrote them on your best day**.
 

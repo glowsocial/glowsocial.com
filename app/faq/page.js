@@ -35,8 +35,10 @@ export default function FAQ() {
 
           <h2>What platforms do you post to?</h2>
           <p>
-            We support 12 platforms including Facebook, Instagram, LinkedIn,
-            Google Business Profile, TikTok, X (Twitter), Pinterest, and more.
+            We support the major platforms local businesses use, including
+            Facebook, Instagram, LinkedIn, Google Business Profile, TikTok,
+            Pinterest, and more. You only connect the platforms that matter for
+            your business.
           </p>
 
           <h2>Will the posts sound like me?</h2>
@@ -57,7 +59,7 @@ export default function FAQ() {
           <h2>Can I cancel anytime?</h2>
           <p>
             Yes. There are no contracts or commitments. You can cancel from your
-            dashboard at any time. You'll retain access through the end of your
+            dashboard at any time. You&apos;ll retain access through the end of your
             current billing period.
           </p>
 
@@ -81,7 +83,7 @@ export default function FAQ() {
 
           <h2>Do you post to Google Business Profile?</h2>
           <p>
-            Yes — and most social media tools don't. Google Business Profile
+            Yes — and most social media tools don&apos;t. Google Business Profile
             posting is included in every Glow Social plan at no extra cost.
           </p>
 
@@ -107,7 +109,7 @@ export default function FAQ() {
 
           <h2>What businesses is Glow Social best for?</h2>
           <p>
-            We're built for local businesses: restaurants, salons, contractors,
+            We&apos;re built for local businesses: restaurants, salons, contractors,
             dentists, gyms, law firms, boutiques, real estate agents, and any
             service business that wants consistent social media without doing
             the work.

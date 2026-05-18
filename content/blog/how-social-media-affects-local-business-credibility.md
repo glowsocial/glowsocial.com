@@ -9,7 +9,7 @@ faqs:
   - q: "Does social media actually bring in customers for local businesses?"
     a: "Yes. 76% of consumers check a business's social media before visiting or calling. Consistent posting builds trust and keeps your business top-of-mind when customers are ready to buy."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across the major platforms local businesses use, including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 When a potential customer searches for your type of business, they usually check three things: your Google reviews, your website, and your social media. Each one contributes to a single question in their mind: **"Can I trust this business?"**

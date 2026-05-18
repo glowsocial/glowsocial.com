@@ -11,7 +11,7 @@ export default function HowItWorks() {
       <section className="blog-hero">
         <div className="container">
           <h1>How Glow Social Works</h1>
-          <p>3 taps. 12 posts. 12 platforms. Every month.</p>
+          <p>3 taps. 12 posts. Your key platforms. Every month.</p>
         </div>
       </section>
       <article className="blog-post">
@@ -27,8 +27,7 @@ export default function HowItWorks() {
           <h2>Step 2: Connect Your Platforms</h2>
           <p>
             Connect Facebook, Instagram, LinkedIn, Google Business Profile,
-            TikTok, and more. We support 12 platforms total. Connect as many or
-            as few as you want.
+            TikTok, Pinterest, and more. Connect as many or as few as you want.
           </p>
 
           <h2>Step 3: Review and Publish</h2>
@@ -44,12 +43,12 @@ export default function HowItWorks() {
           <ul>
             <li><strong>12+ custom posts</strong> written in your brand voice</li>
             <li><strong>Professional graphics</strong> in your brand colors</li>
-            <li><strong>Multi-platform publishing</strong> to up to 12 platforms</li>
+            <li><strong>Multi-platform publishing</strong> to the places you connect</li>
             <li><strong>Google Business Profile posting</strong> — most tools skip this</li>
             <li><strong>Google Review monitoring</strong> — see and respond to reviews</li>
           </ul>
 
-          <h2>What You Don't Have to Do</h2>
+          <h2>What You Don&apos;t Have to Do</h2>
           <ul>
             <li>Write captions</li>
             <li>Design graphics</li>
@@ -61,7 +60,7 @@ export default function HowItWorks() {
           <h2>Setup Takes 5 Minutes</h2>
           <p>
             Enter your website. Connect your accounts. Review your first posts.
-            That's the entire onboarding process.
+            That&apos;s the entire onboarding process.
           </p>
 
           <h2>Pricing</h2>

@@ -9,7 +9,7 @@ faqs:
   - q: "Is social media management worth the investment for small businesses?"
     a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Done-for-you social media means your content is created, scheduled, and published without you doing the work. For small businesses, this typically meant hiring a freelancer ($300-500/month) or agency ($1,000-3,000/month)—until software like <strong>Glow Social</strong> started offering automated content creation and posting for <strong>$99/month</strong>.

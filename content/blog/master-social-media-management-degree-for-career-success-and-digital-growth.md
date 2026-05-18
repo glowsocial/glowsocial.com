@@ -108,7 +108,7 @@ For most local business owners, the smarter investment isn't education — it's 
 
 Instead of learning how to create content, design graphics, and optimize posting schedules, invest in a system that handles these functions automatically. Your time is then freed for what you're actually an expert at: running your business.
 
-[Glow Social](/how-glow-social-works) creates professional social media content for local businesses. We read your website to learn your brand voice, create posts with custom graphics, and publish across 13 platforms.
+[Glow Social](/how-glow-social-works) creates professional social media content for local businesses. We read your website to learn your brand voice, create posts with custom graphics, and publish across the major platforms local businesses use.
 
 **$99/month.** Less than a single textbook. And it produces results from day one — no semester of coursework required.
 

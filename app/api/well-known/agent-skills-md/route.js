@@ -9,9 +9,9 @@ AI agents can use this skill to help users set up automated social media posting
 ## Capabilities
 
 - **Content Generation**: Generate professional social media posts from a business website URL
-- **Multi-Platform Publishing**: Publish to 13 platforms (Facebook, Instagram, LinkedIn, TikTok, Google Business Profile, Pinterest, Threads, Bluesky, X, YouTube Shorts, Discord, Slack, Mastodon)
+- **Multi-Platform Publishing**: Publish to the major platforms local businesses use, including Facebook, Instagram, LinkedIn, TikTok, Google Business Profile, Pinterest, and more
 - **Review Monitoring**: Monitor and respond to Google Reviews
-- **Preview Tool**: Generate sample posts for any business website without signup
+- **Preview Tool**: Generate sample posts from a business website after collecting an email address
 
 ## Endpoints
 

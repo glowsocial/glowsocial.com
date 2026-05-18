@@ -15,7 +15,7 @@ faq:
   - question: "Does Glow Social generate unique content for each client?"
     answer: "Yes. Each client workspace has its own brand voice settings, industry context, content pillars, and tone guidelines. The AI generates content specific to each client's business — not generic content applied across accounts."
   - question: "What social platforms does Glow Social support for agencies?"
-    answer: "Glow Social supports 12 platforms per client account: Facebook, Instagram, LinkedIn, TikTok, YouTube, Pinterest, X (Twitter), Google Business Profile, Threads, Bluesky, and more."
+    answer: "Glow Social supports the major platforms local businesses use, including Facebook, Instagram, LinkedIn, TikTok, YouTube, Pinterest, Google Business Profile, Threads, Bluesky, and more. Each client only connects the platforms that matter for their business."
 ---
 
 The economics of a solo social media agency depend on one variable more than any other: how many clients you can serve before the work stops being manageable.

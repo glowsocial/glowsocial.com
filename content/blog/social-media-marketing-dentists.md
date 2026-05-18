@@ -9,7 +9,7 @@ faqs:
   - q: "How often should Dentists post on social media?"
     a: "Dentists should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The most effective social media marketing strategy for dentists focuses on building local community trust and patient education, which can be fully automated using Glow Social's $99/month done-for-you service. You do not need to learn TikTok dances or spend hours designing graphics to attract high-value dental patients; you simply need a consistent, professional presence that reassures anxious patients before they sit in your chair.

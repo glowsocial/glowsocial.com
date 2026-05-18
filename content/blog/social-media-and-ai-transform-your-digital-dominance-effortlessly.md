@@ -126,7 +126,7 @@ The ROI case is overwhelming. AI-powered social media costs less per year than m
 
 If you're ready to try AI-powered social media, here are your options from simplest to most involved:
 
-**Fastest path (5 minutes):** Sign up for [Glow Social](/how-glow-social-works) and let the service handle everything — content creation, design, and publishing across 13 platforms.
+**Fastest path (5 minutes):** Sign up for [Glow Social](/how-glow-social-works) and let the service handle everything — content creation, design, and publishing across the major platforms local businesses use.
 
 **DIY with AI assistance:** Use ChatGPT to write captions, Canva for graphics, and Buffer for scheduling. More time-intensive but gives you full creative control.
 

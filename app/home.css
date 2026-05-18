@@ -703,6 +703,87 @@
   border: 1px solid var(--card-border);
 }
 
+.how-panel-img--connect {
+  align-items: stretch;
+}
+
+.connect-flow-preview {
+  width: 100%;
+  background: var(--white);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  padding: 26px;
+}
+
+.connect-flow-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 18px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid var(--card-border);
+  font-family: var(--font-heading);
+  color: var(--navy);
+}
+
+.connect-flow-header span {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.connect-flow-header strong {
+  background: var(--accent);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.connect-flow-step {
+  display: grid;
+  grid-template-columns: 36px 1fr;
+  gap: 14px;
+  align-items: start;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--card-border);
+}
+
+.connect-flow-step:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.connect-step-num {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: rgba(215, 226, 120, 0.22);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-weight: 800;
+}
+
+.connect-flow-step strong {
+  display: block;
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.connect-flow-step span:not(.connect-step-num) {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
 .voice-profile-card {
   width: 100%;
   background: var(--navy);
@@ -1168,6 +1249,7 @@
   font-size: 0.88rem;
   font-weight: 700;
   letter-spacing: 0.5px;
+  text-transform: uppercase;
   cursor: pointer;
   transition: all 0.2s ease;
   white-space: nowrap;
@@ -1255,17 +1337,10 @@
 /* Keep homepage copy in natural sentence case. */
 .hero-badge,
 .trust-stat,
-.how-tab-btn,
 .voice-profile-eyebrow,
 .approval-platform,
-.approval-actions span,
 .ticker-author,
-.popular-badge,
-.sticky-mobile-cta a,
-.hero .btn,
-.section-cta .btn,
-.pricing .btn,
-.final-cta .btn {
+.popular-badge {
   text-transform: none;
   letter-spacing: 0;
 }
@@ -1296,13 +1371,9 @@
 }
 
 body:has(.hero) .site-nav > a,
-body:has(.hero) .nav-dropdown-trigger,
 body:has(.hero) .nav-dropdown a,
-body:has(.hero) .header-ctas .btn,
 body:has(.hero) .mobile-nav > a,
-body:has(.hero) .mobile-nav-section,
 body:has(.hero) .mobile-nav-sub a,
-body:has(.hero) .mobile-nav-ctas .btn,
 body:has(.hero) .footer-col h4,
 body:has(.hero) .site-footer .footer-col a,
 body:has(.hero) .footer-bottom-links a {

@@ -9,7 +9,7 @@ export function GET() {
   const agentCard = {
     name: "Glow Social",
     description:
-      "Done-for-you social media management agent for local businesses. Generates professional posts and publishes to 13 platforms.",
+      "Done-for-you social media management agent for local businesses. Generates professional posts and publishes across key platforms.",
     url: "https://app.glowsocial.com",
     provider: {
       organization: "Glow Social",

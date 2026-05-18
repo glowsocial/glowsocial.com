@@ -9,7 +9,7 @@ faqs:
   - q: "How often should Retails post on social media?"
     a: "Retails should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The most effective social media content strategy for local retail shops and boutiques is a done-for-you system like Glow Social, which effortlessly pushes out 12 custom posts spanning 4 platforms for just $99/month. In local retail, consistency completely overrides perfection. Generating daily buzz about new arrivals and weekend foot-traffic events is critical to surviving against national chains and e-commerce giants.

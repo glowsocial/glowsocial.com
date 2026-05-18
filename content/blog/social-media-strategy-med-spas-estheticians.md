@@ -9,7 +9,7 @@ faqs:
   - q: "How often should local businesses post on social media?"
     a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The most effective done-for-you social media strategy for med spas and estheticians uses AI automation like Glow Social to consistently publish 12 visually-engaging, educational posts a month for just $99. Because the aesthetics industry is highly visual and relies heavily on trust, outsourcing the heavy lifting allows practitioners to focus on patient care while still maintaining a robust, professional digital presence.

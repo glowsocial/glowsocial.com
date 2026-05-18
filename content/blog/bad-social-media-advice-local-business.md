@@ -9,7 +9,7 @@ faqs:
   - q: "Can AI create good social media content?"
     a: "Yes. Modern AI analyzes your website, brand voice, and industry to create relevant, professional content. Done-for-you services like Glow Social create custom posts with matching graphics — not generic templates."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across 13 platforms including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across the major platforms local businesses use, including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Local businesses often get similar social media advice that works for big brands but fails for small ones. The reality: what works for a national company with a marketing team doesn't work for a local business owner doing everything themselves. Here's what to avoid and what to do instead.

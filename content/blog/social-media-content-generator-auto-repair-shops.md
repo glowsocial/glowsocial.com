@@ -9,7 +9,7 @@ faqs:
   - q: "How often should Auto Repairs post on social media?"
     a: "Auto Repairs should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across 13 platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The best social media content generator for auto repair shops is a done-for-you system like Glow Social, which automatically creates and publishes 12 custom posts across 4 platforms for just $99/month. Unlike DIY tools that require hours of setup, Glow Social uses the proprietary GLOW Method to generate trust-building, educational content while mechanics stay focused on fixing cars.
