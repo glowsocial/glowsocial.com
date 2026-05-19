@@ -4,6 +4,7 @@ import { markdownToHtml } from "@/lib/markdown";
 import Link from "next/link";
 import RelatedPosts from "@/app/components/RelatedPosts";
 import AuthorBio, { PersonJsonLd } from "@/app/components/AuthorBio";
+import { getPricing } from "@/app/pricing-config";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("blog");
@@ -143,6 +144,7 @@ export default async function BlogPostPage({ params }) {
   const post = getPostBySlug("blog", slug);
   if (!post) notFound();
 
+  const pricing = getPricing();
   const contentHtml = markdownToHtml(post.content);
   const relatedPosts = getRelatedPosts(slug, 3);
 
@@ -202,7 +204,7 @@ export default async function BlogPostPage({ params }) {
           href="https://app.glowsocial.com/"
           className="btn btn--primary"
         >
-          Get Started — $99/mo
+          Get Started — {pricing.startingAtShort}
         </a>
       </div>
 

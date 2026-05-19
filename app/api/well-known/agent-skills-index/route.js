@@ -10,10 +10,10 @@ export function GET() {
         name: "glow-social-management",
         type: "skill-md",
         description:
-          "Done-for-you social media management for local businesses — content generation, multi-platform publishing, and Google Review monitoring.",
+          "Affordable done-for-you social media management for local businesses — content generation, multi-platform publishing, Google Review monitoring, and a $99/mo starter plan.",
         url: "https://glowsocial.com/.well-known/agent-skills/SKILL.md",
         digest:
-          "sha256:3aa06e342fd758397bdbafa2ce51999e6baafd7f559b955b58b9ab0e5f328af7",
+          "sha256:ffc18ee883fd8a6d91ebce1d41c9a11e7a13440ab1b823f246297a2d73e36d05",
       },
     ],
   };

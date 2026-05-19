@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { getAllSlugs, getPostBySlug } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 import Link from "next/link";
+import { getPricing } from "@/app/pricing-config";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("local");
@@ -46,8 +47,10 @@ function FaqJsonLd({ faqs }) {
   );
 }
 
-function ServiceJsonLd({ title, city }) {
+function ServiceJsonLd({ title, city, pricing }) {
   if (!city) return null;
+
+  const price = String(pricing.core.price);
 
   const schema = {
     "@context": "https://schema.org",
@@ -65,11 +68,11 @@ function ServiceJsonLd({ title, city }) {
     description: title,
     offers: {
       "@type": "Offer",
-      price: "49",
+      price,
       priceCurrency: "USD",
       priceSpecification: {
         "@type": "UnitPriceSpecification",
-        price: "49",
+        price,
         priceCurrency: "USD",
         referenceQuantity: {
           "@type": "QuantitativeValue",
@@ -126,13 +129,14 @@ export default async function LocalPage({ params }) {
   const page = getPostBySlug("local", slug);
   if (!page) notFound();
 
+  const pricing = getPricing();
   const contentHtml = markdownToHtml(page.content);
 
   return (
     <article className="blog-post">
       <BreadcrumbJsonLd title={page.title} slug={slug} />
       {page.faqs && <FaqJsonLd faqs={page.faqs} />}
-      <ServiceJsonLd title={page.title} city={page.city} />
+      <ServiceJsonLd title={page.title} city={page.city} pricing={pricing} />
       <header className="blog-post-header">
         <Link
           href="/local"
@@ -164,7 +168,7 @@ export default async function LocalPage({ params }) {
           href="https://app.glowsocial.com/"
           className="btn btn--primary"
         >
-          Get Started — $99/mo
+          Get Started — {pricing.startingAtShort}
         </a>
       </div>
     </article>

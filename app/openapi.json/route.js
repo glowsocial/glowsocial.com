@@ -11,12 +11,13 @@ export function GET() {
       title: "Glow Social API",
       version: "1.0.0",
       description:
-        "Done-for-you social media management API for local businesses.",
+        "Affordable done-for-you social media management API for local businesses.",
       contact: {
         email: "hello@glowsocial.com",
       },
       "x-service-info": {
         categories: ["social-media", "content-generation", "marketing"],
+        offerPage: "https://glowsocial.com/affordable-social-media-management",
       },
     },
     servers: [

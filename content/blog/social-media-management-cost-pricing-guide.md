@@ -18,6 +18,8 @@ The most common question small business owners ask about social media isn't "wha
 
 The honest answer: anywhere from $0 to $3,000+ per month. But the price you see on a tool's website is never the full cost. Here's the complete picture, including the cost most pricing pages hide: **your time.**
 
+If you want the low-cost done-for-you option, see [affordable social media management from Glow Social](/affordable-social-media-management).
+
 ## The 5 Approaches to Social Media Management
 
 <table>

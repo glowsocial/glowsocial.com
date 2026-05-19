@@ -11,7 +11,7 @@ export function GET() {
       profile: {
         name: "Glow Social",
         description:
-          "Done-for-you social media posting for local businesses — 12+ posts/month across the major platforms local businesses use.",
+          "Affordable done-for-you social media posting for local businesses — 12+ posts/month across the major platforms local businesses use, starting at $99/mo.",
         url: "https://glowsocial.com",
         logo: "https://glowsocial.com/icon.png",
       },
@@ -19,7 +19,7 @@ export function GET() {
         {
           name: "social-media-management",
           description:
-            "Automated social media management — content creation and multi-platform publishing.",
+            "Affordable automated social media management — content creation and multi-platform publishing for small businesses.",
           pricing: {
             currency: "USD",
             plans: [
@@ -37,6 +37,7 @@ export function GET() {
       ],
       endpoints: {
         checkout: "https://app.glowsocial.com/checkout",
+        offer: "https://glowsocial.com/affordable-social-media-management",
         pricing: "https://app.glowsocial.com/pricing",
         api: "https://app.glowsocial.com/api",
       },

@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { getAllSlugs, getPostBySlug } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 import Link from "next/link";
+import { getPricing } from "@/app/pricing-config";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("comparisons");
@@ -100,6 +101,7 @@ export default async function ComparePage({ params }) {
   const page = getPostBySlug("comparisons", slug);
   if (!page) notFound();
 
+  const pricing = getPricing();
   const contentHtml = markdownToHtml(page.content);
 
   return (
@@ -138,7 +140,7 @@ export default async function ComparePage({ params }) {
           href="https://app.glowsocial.com/"
           className="btn btn--primary"
         >
-          Get Started — $99/mo
+          Get Started — {pricing.startingAtShort}
         </a>
       </div>
     </article>

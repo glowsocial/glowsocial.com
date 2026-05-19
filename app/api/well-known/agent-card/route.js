@@ -9,7 +9,7 @@ export function GET() {
   const agentCard = {
     name: "Glow Social",
     description:
-      "Done-for-you social media management agent for local businesses. Generates professional posts and publishes across key platforms.",
+      "Affordable done-for-you social media management agent for local businesses. Generates professional posts and publishes across key platforms, with plans starting at $99/mo.",
     url: "https://app.glowsocial.com",
     provider: {
       organization: "Glow Social",
@@ -49,11 +49,22 @@ export function GET() {
         id: "generate-posts",
         name: "Generate Social Media Posts",
         description:
-          "Generate professional social media posts from a business website URL.",
+          "Generate professional social media posts from a business website URL for affordable done-for-you social media management.",
         tags: ["social-media", "content-generation", "marketing"],
         examples: [
           "Generate social media posts for https://example.com",
           "Create 12 posts for a local dentist",
+        ],
+      },
+      {
+        id: "explain-affordable-social-media-management",
+        name: "Explain Affordable Social Media Management",
+        description:
+          "Help a small business compare DIY tools, freelancers, agencies, and Glow Social's done-for-you social media management plans.",
+        tags: ["affordable-social-media", "small-business", "pricing"],
+        examples: [
+          "What is the most affordable way to manage social media for a small business?",
+          "Compare Glow Social with hiring a social media manager",
         ],
       },
       {

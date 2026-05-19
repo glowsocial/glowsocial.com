@@ -1,6 +1,6 @@
 ---
-title: "How Much Time Does Social Media Take? 3-10 Hours/Week (2026 Data)"
-description: "Small businesses spend 3-10 hours per week on social media — here's exactly where that time goes, broken down by task and platform. Plus how to cut it to near zero."
+title: "How Much Time Does Social Media Take? 2026 Breakdown"
+description: "Most small businesses spend 3-10 hours/week on social media. See where the time goes, what content creation costs, and how to cut it near zero."
 slug: "average-time-social-media-marketing"
 date: "2026-03-23"
 faqs:
@@ -129,7 +129,7 @@ The question isn't whether social media matters — it's whether doing it yourse
 
 *Assuming your time is worth $15/hour (conservative for a business owner)*
 
-Notice something? **The cheapest option isn't the free one** — it's the one that takes the least of your time. [AffordableSocialMediaManagement.com breaks down this math in more detail](https://affordablesocialmediamanagement.com/cost/), including hidden fees and what actually separates affordable services from genuinely cheap ones.
+Notice something? **The cheapest option isn't the free one** — it's the one that takes the least of your time. See how Glow Social packages this as [affordable social media management for small businesses](/affordable-social-media-management).
 
 ## How Glow Social Cuts This to Near Zero
 
@@ -165,6 +165,6 @@ If your goal is simply to **stay visible and look professional online** without 
 
 ---
 
-**Related guides:** [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [Social media caption length guide](/blog/social-media-caption-length) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/blog/best-affordable-social-media-management-small-business) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison)
+**Related guides:** [Affordable social media management service](/affordable-social-media-management) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [Social media caption length guide](/blog/social-media-caption-length) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management guide](/blog/best-affordable-social-media-management-small-business) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison)
 
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

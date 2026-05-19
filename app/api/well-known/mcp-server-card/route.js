@@ -8,7 +8,7 @@ export function GET() {
       name: "glow-social",
       version: "1.0.0",
       description:
-        "Glow Social — Done-for-you social media management for local businesses. Create posts, manage reviews, and publish across key platforms.",
+        "Glow Social — Affordable done-for-you social media management for local businesses. Create posts, manage reviews, and publish across key platforms starting at $99/mo.",
     },
     transport: {
       type: "streamable-http",

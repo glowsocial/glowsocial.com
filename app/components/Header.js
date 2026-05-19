@@ -98,6 +98,7 @@ export default function Header() {
             {activeDropdown === "resources" && (
               <div className="nav-dropdown">
                 <Link href="/blog" onClick={closeAll}>Blog</Link>
+                <Link href="/affordable-social-media-management" onClick={closeAll}>Affordable Social Media</Link>
                 <Link href="/about" onClick={closeAll}>About</Link>
                 <Link href="/manifesto" onClick={closeAll}>Manifesto</Link>
                 <Link href="/research" onClick={closeAll}>Research</Link>
@@ -170,6 +171,7 @@ export default function Header() {
             {activeDropdown === "m-resources" && (
               <div className="mobile-nav-sub">
                 <Link href="/blog" onClick={closeAll}>Blog</Link>
+                <Link href="/affordable-social-media-management" onClick={closeAll}>Affordable Social Media</Link>
                 <Link href="/about" onClick={closeAll}>About</Link>
                 <Link href="/manifesto" onClick={closeAll}>Manifesto</Link>
                 <Link href="/research" onClick={closeAll}>Research</Link>

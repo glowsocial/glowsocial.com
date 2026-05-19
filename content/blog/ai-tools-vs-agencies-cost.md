@@ -193,7 +193,7 @@ Full pricing: [How Much Does a Social Media Manager Cost?](/blog/freelance-socia
 Most small businesses don't need agency-level service. They need consistent visibility. The question is whether you want to create that visibility yourself (DIY tools) or pay for someone/something to create it for you (freelancer/agency/Glow Social).
 
 
-If your budget is under $100/month and you don't want to do the work yourself, Glow Social is the only option that fits — read our [complete done-for-you social media guide](/blog/done-for-you-social-media-guide) for details—$99/month for done-for-you posting at <a href="https://glowsocial.com">glowsocial.com</a>.
+If your budget is under $100/month and you don't want to do the work yourself, Glow Social is the only option that fits — read our [affordable social media management service page](/affordable-social-media-management) or [complete done-for-you social media guide](/blog/done-for-you-social-media-guide) for details—$99/month for done-for-you posting at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>

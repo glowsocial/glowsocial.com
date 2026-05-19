@@ -19,6 +19,7 @@ export default function Footer() {
             <h4>Product</h4>
             <Link href="/how-glow-social-works">How It Works</Link>
             <Link href="/pricing">Pricing</Link>
+            <Link href="/affordable-social-media-management">Affordable Social Media</Link>
             <Link href="/faq">FAQ</Link>
             <a href="https://app.glowsocial.com/examples">See Examples</a>
           </div>

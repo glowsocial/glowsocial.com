@@ -139,7 +139,7 @@ If you need free, use a free scheduler. Buffer, Later, and Meta Business Suite a
 
 If you need social media handled, a free scheduler is probably not the thing you are looking for. You need content creation, design, and publishing bundled together.
 
-For a broader pricing breakdown, see [Affordable Social Media Management for Small Business](/blog/best-affordable-social-media-management-small-business) and [AffordableSocialMediaManagement.com](https://affordablesocialmediamanagement.com/). For tool-by-tool comparisons, start with [Buffer vs. Glow Social](/blog/buffer-vs-glow-social), [Glow Social vs. Later](/blog/glow-social-vs-later), and [AI tools vs. agency costs](/blog/ai-tools-vs-agencies-cost).
+For the service page, see [affordable social media management from Glow Social](/affordable-social-media-management). For a broader pricing breakdown, see [Affordable Social Media Management for Small Business](/blog/best-affordable-social-media-management-small-business). For tool-by-tool comparisons, start with [Buffer vs. Glow Social](/blog/buffer-vs-glow-social), [Glow Social vs. Later](/blog/glow-social-vs-later), and [AI tools vs. agency costs](/blog/ai-tools-vs-agencies-cost).
 
 [See Glow Social examples ->](/preview)
 

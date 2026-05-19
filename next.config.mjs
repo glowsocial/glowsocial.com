@@ -160,10 +160,10 @@ const nextConfig = {
         destination: "/blog/social-media-tools-under-50",
         permanent: true,
       },
-      // Root /best-affordable-social-media-management-small-business — 6,400 imp at position 21.99
+      // Root /best-affordable-social-media-management-small-business should consolidate to the transactional hub.
       {
         source: "/best-affordable-social-media-management-small-business",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
       // Root /social-media-restaurants — 1,169 imp splitting with /blog/
@@ -241,12 +241,7 @@ const nextConfig = {
       // === "Affordable social media management" consolidation ===
       {
         source: "/blog/affordable-social-media-management",
-        destination: "/blog/best-affordable-social-media-management-small-business",
-        permanent: true,
-      },
-      {
-        source: "/affordable-social-media-management",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
       {
@@ -291,32 +286,52 @@ const nextConfig = {
       },
       {
         source: "/blog/low-cost-social-media-management",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
       {
         source: "/low-cost-social-media-management",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
       {
         source: "/blog/cheap-social-media-management",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
       {
         source: "/cheap-social-media-management",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
       {
         source: "/blog/affordable-social-media-manager",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
       {
         source: "/affordable-social-media-manager",
-        destination: "/blog/best-affordable-social-media-management-small-business",
+        destination: "/affordable-social-media-management",
+        permanent: true,
+      },
+      {
+        source: "/affordable-social-media-marketing",
+        destination: "/affordable-social-media-management",
+        permanent: true,
+      },
+      {
+        source: "/blog/affordable-social-media-marketing",
+        destination: "/affordable-social-media-management",
+        permanent: true,
+      },
+      {
+        source: "/low-cost-social-media-marketing",
+        destination: "/affordable-social-media-management",
+        permanent: true,
+      },
+      {
+        source: "/cheap-social-media-marketing",
+        destination: "/affordable-social-media-management",
         permanent: true,
       },
 
@@ -677,7 +692,6 @@ const nextConfig = {
       // === Template-duplicate blog posts → canonical versions ===
       ...[
         { slug: "49-social-media-management-roofers", canonical: "/blog/automated-social-media-roofers-contractors" },
-        { slug: "affordable-social-media-management", canonical: "/blog/best-affordable-social-media-management-small-business" },
         { slug: "ai-replace-social-media-manager", canonical: "/blog/social-media-manager-vs-ai" },
         { slug: "ai-replacing-google-local-business-discovery", canonical: "/blog/how-ai-social-media-posting-works" },
         { slug: "all-in-one-social-media-app-transform-social-media-management-today", canonical: "/blog/best-ai-social-media-content-generators" },

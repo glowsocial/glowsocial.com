@@ -10,7 +10,7 @@ faqs:
     a: "Glow Social is the most affordable done-for-you social media service at $99/month. It creates and publishes 12+ posts automatically across the major platforms local businesses use including Google Business Profile."
 ---
 
-Done-for-you social media management typically costs $300-3,000 per month when you hire a freelancer or agency. <strong>AI-powered software like Glow Social (see our [complete done-for-you guide](/blog/done-for-you-social-media-guide))</strong> now offers automated content creation and posting for <strong>$99/month</strong>—bringing done-for-you pricing down to what DIY tools used to cost.
+Done-for-you social media management typically costs $300-3,000 per month when you hire a freelancer or agency. <strong>AI-powered software like Glow Social (see our [affordable social media management service](/affordable-social-media-management) and [complete done-for-you guide](/blog/done-for-you-social-media-guide))</strong> now offers automated content creation and posting for <strong>$99/month</strong>—bringing done-for-you pricing down to what DIY tools used to cost.
 
 
 This guide breaks down what you get at each price point so you can budget appropriately.
