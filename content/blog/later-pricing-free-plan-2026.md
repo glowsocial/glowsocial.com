@@ -1,6 +1,6 @@
 ---
-title: "Later Pricing 2026: Free Plan, Trial, Social Sets, and Costs"
-description: "Later pricing explained for 2026: free plan, 14-day trial, Starter, Growth, Scale, social sets, post limits, AI credits, and when Later is worth it."
+title: "Later Pricing 2026: Free Plan, Trial, Social Sets"
+description: "Later pricing in 2026: Starter is $18.75/mo billed yearly, Growth $37.50, Scale $82.50, plus free plan limits and social sets."
 slug: "later-pricing-free-plan-2026"
 date: "2026-05-13"
 faqs:
@@ -8,6 +8,8 @@ faqs:
     a: "Later's paid social scheduling plans start at $18.75 per month when billed yearly for Starter, $37.50 per month when billed yearly for Growth, and $82.50 per month when billed yearly for Scale. Taxes and monthly billing can change the final price."
   - q: "Does Later have a free plan?"
     a: "Yes. Later's help center describes a limited Free plan for creators who need basic scheduling and Link in Bio features. Later's pricing page also promotes a 14-day free trial for paid plans, so treat the free plan as a limited starter option rather than a full business scheduling plan."
+  - q: "How many posts can you schedule on Later Starter?"
+    a: "Later Starter includes 30 scheduled posts per profile per month, 1 Social Set, 1 user, 5 AI credits per month, Link in Bio, and analytics up to 3 months when billed yearly at $18.75/month."
   - q: "What is a Later Social Set?"
     a: "A Later Social Set is a bundle of one profile from each supported platform: Instagram, Facebook, Threads, Pinterest, TikTok, LinkedIn, YouTube, and Snapchat. Starter includes 1 Social Set, Growth includes 2, and Scale includes 6."
   - q: "Is Later worth it for small businesses?"
@@ -33,6 +35,15 @@ Later also has a limited **Free plan** for basic scheduling and Link in Bio use,
 For most small businesses, the important question is not "Can I afford Later?" It is "Do I already create enough visual content to make Later useful?"
 
 If yes, Later can be a strong visual planning tool. If no, a scheduler may just give you a prettier blank calendar.
+
+<table>
+<tr><th>Later pricing question</th><th>2026 answer</th></tr>
+<tr><td>Does Later have a free plan?</td><td>Yes, but it is limited and best for testing or light creator use.</td></tr>
+<tr><td>How much is Later Starter?</td><td>$18.75/month billed yearly, with 1 Social Set and 30 posts per profile.</td></tr>
+<tr><td>How much is Later Growth?</td><td>$37.50/month billed yearly, with 2 Social Sets and 180 posts per profile.</td></tr>
+<tr><td>How much is Later Scale?</td><td>$82.50/month billed yearly, with 6 Social Sets and unlimited posts.</td></tr>
+<tr><td>Does Later create posts for you?</td><td>No. Later helps plan, schedule, and analyze content you create.</td></tr>
+</table>
 
 ## Later Pricing Table
 
@@ -213,6 +224,6 @@ Pricing and plan limits can change. For the current official details, check [Lat
 
 ---
 
-**Related guides:** [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Glow Social vs Later](/blog/glow-social-vs-later) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/blog/best-affordable-social-media-management-small-business)
+**Related guides:** [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Glow Social vs Later](/blog/glow-social-vs-later) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
 **About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month for local businesses. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
