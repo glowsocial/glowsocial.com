@@ -724,6 +724,47 @@ h2 {
   color: var(--text-muted);
 }
 
+.blog-post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 28px 0;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.blog-post-content th,
+.blog-post-content td {
+  border: 1px solid var(--card-border);
+  padding: 12px 14px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.blog-post-content th {
+  background: var(--green-soft);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-weight: 700;
+}
+
+.blog-post-content tr:nth-child(even) td {
+  background: rgba(221, 236, 247, 0.35);
+}
+
+@media (max-width: 700px) {
+  .blog-post-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .blog-post-content th,
+  .blog-post-content td {
+    min-width: 160px;
+    white-space: normal;
+  }
+}
+
 /* Blog post CTA box */
 .post-cta-box {
   background: var(--navy);

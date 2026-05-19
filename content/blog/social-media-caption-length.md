@@ -1,11 +1,13 @@
 ---
-title: "Instagram Caption Length 2026: Limits and Best Sizes"
-description: "Instagram caption length limits and best practices for 2026, plus TikTok, Facebook, LinkedIn, GBP, hashtags, hooks, and ideal post length."
+title: "Instagram Caption Length 2026: Character Limits and Tips"
+description: "Instagram captions can be 2,200 characters, but the first 125 matter most. See ideal lengths for Instagram, TikTok, Facebook, LinkedIn, and GBP."
 slug: "social-media-caption-length"
 date: "2026-03-23"
 faqs:
   - q: "What is the ideal Instagram caption length?"
     a: "The ideal Instagram caption length is 138-150 characters for most posts. Instagram allows up to 2,200 characters, but only about the first 125 characters show before the 'more' cutoff, so the hook matters more than the total length. Longer captions of 800-1,500 characters can work for educational carousels, storytelling, and posts built for saves or shares."
+  - q: "What is the Instagram caption character limit in 2026?"
+    a: "Instagram captions allow up to 2,200 characters in 2026. For most business posts, the better target is 138-150 characters, with the hook or most important phrase in the first 125 characters before the caption is truncated."
   - q: "How long should a Facebook post be?"
     a: "The ideal Facebook post length is 40-80 characters for engagement, though posts up to 250 characters perform well for business pages. Facebook allows up to 63,206 characters, but shorter posts consistently receive more interactions. Front-load your key message in the first two lines."
   - q: "What's the best LinkedIn post length?"
@@ -22,9 +24,17 @@ The answer depends on the platform. What works on LinkedIn would flop on TikTok.
 
 Here's the definitive guide to caption length for every major platform in 2026, backed by engagement data.
 
-## Direct Answer: Ideal Instagram Caption Length
+## Direct Answer: Instagram Caption Character Limit
 
-The ideal Instagram caption length is **138-150 characters** for most posts. Instagram gives you up to **2,200 characters**, but the first **125 characters** do the heavy lifting because that is what people see before the "more" cutoff.
+The Instagram caption character limit is **2,200 characters** in 2026. The ideal Instagram caption length is shorter for most posts: **138-150 characters**, with the hook in the first **125 characters** before the "more" cutoff.
+
+<table>
+<tr><th>Instagram caption question</th><th>2026 answer</th></tr>
+<tr><td>Maximum caption length</td><td>2,200 characters</td></tr>
+<tr><td>Best caption length for most posts</td><td>138-150 characters</td></tr>
+<tr><td>Visible hook before "more"</td><td>About the first 125 characters</td></tr>
+<tr><td>Best hashtag count</td><td>3-5 relevant hashtags</td></tr>
+</table>
 
 For TikTok, keep captions around **50-150 characters** unless the caption is doing search work. TikTok caption limits can vary by posting path; many scheduling and API workflows still use a **2,200-character** limit even when native posting supports longer captions. For LinkedIn, longer posts around **1,200-1,600 characters** can work because the platform rewards dwell time. For Facebook and Google Business Profile, short and clear usually wins.
 
