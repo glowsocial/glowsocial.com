@@ -26,33 +26,33 @@ export const metadata = {
     },
   },
   title: {
-    default: "Glow Social | Done-for-you social media for local businesses",
+    default: "Glow Social | Social media for business owners who hate social media",
     template: "%s | Glow Social",
   },
   description:
-    "Not scheduler software. Glow Social writes posts, matches your voice, creates graphics, and keeps a steady publishing rhythm for local businesses — starting at $99/mo.",
+    "Glow Social gives business owners 12 custom social media posts a month, written in their voice and scheduled for them, so they look active online without becoming content creators.",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://glowsocial.com",
     siteName: "Glow Social",
-    title: "Glow Social | Done-for-you social media for local businesses",
+    title: "Glow Social | Social media for business owners who hate social media",
     description:
-      "$99/month social media — handled. Not scheduler software: posts, brand voice, graphics, and publishing rhythm for local businesses.",
+      "For business owners who hate posting, but know customers check. 12 custom posts a month, written in your voice and scheduled for you.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Glow Social — done-for-you social media for local businesses. $99/month, professional posts, 5-minute setup.",
+        alt: "Glow Social — social media for business owners who hate social media. 12 custom posts a month, written and scheduled for you.",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Glow Social | Done-for-you social media for local businesses",
+    title: "Glow Social | Social media for business owners who hate social media",
     description:
-      "$99/month social media — handled. Posts, brand-matched voice, graphics, Google Business Profile, and publishing rhythm.",
+      "12 custom posts a month, written in your voice and scheduled for you, so your business looks active when customers check.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
@@ -72,14 +72,14 @@ const organizationSchema = {
   url: "https://glowsocial.com",
   logo: "https://glowsocial.com/icon.png",
   description:
-    "Done-for-you social media management for local businesses. Glow Social writes posts, matches brand voice, creates graphics, and publishes to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — starting at $99/month.",
+    "Social media for business owners who hate social media. Glow Social creates 12 custom posts a month, writes in your voice, creates graphics, and schedules posts to the platforms customers check.",
   applicationCategory: "SocialMediaApplication",
   operatingSystem: "Web",
   offers: {
     "@type": "Offer",
     price: "99",
     priceCurrency: "USD",
-    description: "12 custom posts per month, fully automated",
+    description: "12 custom posts per month, written in your voice and scheduled for you",
   },
   founder: {
     "@type": "Person",

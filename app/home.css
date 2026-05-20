@@ -103,7 +103,7 @@
 
 /* ---- Hero ---- */
 .hero {
-  padding: 100px 0 80px;
+  padding: 72px 0 56px;
   background: var(--navy);
   position: relative;
   overflow: hidden;
@@ -169,7 +169,7 @@
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  margin-bottom: 24px;
+  margin-bottom: 18px;
   backdrop-filter: blur(8px);
 }
 
@@ -184,7 +184,7 @@
 
 .hero h1 {
   font-size: clamp(2.4rem, 5vw, 3.8rem);
-  margin-bottom: 24px;
+  margin-bottom: 18px;
   line-height: 1.06;
   text-transform: none;
   letter-spacing: -1px;
@@ -304,9 +304,9 @@
   display: flex;
   justify-content: center;
   gap: 32px;
-  margin-top: 36px;
+  margin-top: 24px;
   flex-wrap: wrap;
-  padding-top: 32px;
+  padding-top: 20px;
   border-top: 1px solid rgba(255,255,255,0.08);
 }
 
@@ -1191,7 +1191,7 @@
 
 /* ---- Hero URL Form ---- */
 .hero-url-form {
-  margin-top: 36px;
+  margin-top: 28px;
   max-width: 580px;
   margin-left: auto;
   margin-right: auto;
@@ -1314,11 +1314,11 @@
 }
 
 @media (max-width: 500px) {
-  .hero { padding: 60px 0 48px; }
+  .hero { padding: 48px 0 36px; }
   .hero h1 { font-size: 2rem; }
   .hero-ctas-centered { flex-direction: column; }
   .hero-ctas-centered .btn { width: 100%; }
-  .hero-proof { flex-direction: column; gap: 8px; align-items: center; }
+  .hero-proof { display: none; }
   /* Hide all decorative icons on mobile */
   .hero-icons { display: none; }
   .trust-bar-inner { flex-direction: column; gap: 12px; text-align: center; }
@@ -1328,6 +1328,7 @@
   .competitor-grid { grid-template-columns: 1fr; }
   .big-stat { font-size: 2.2rem; }
   /* Hero URL form stacks on mobile */
+  .hero-url-form { margin-top: 24px; }
   .hero-url-input-wrap { flex-direction: column; padding: 12px; gap: 8px; }
   .hero-url-icon { display: none; }
   .hero-url-input { width: 100%; text-align: center; padding: 8px 4px; }
