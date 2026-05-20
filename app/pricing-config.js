@@ -1,38 +1,32 @@
 /**
- * Pricing configuration — auto-switches on May 1, 2026
- * 
- * Before May 1: shows legacy prices ($49/$99/$199)
- * After May 1: shows new prices ($99/$149/$299)
+ * Pricing configuration — standardizes pricing globally to the current model ($99/$149/$299).
  * 
  * Used by homepage, pricing page, and other customer-facing pages.
  */
 
-const PRICE_INCREASE_DATE = new Date('2026-05-01T00:00:00-07:00'); // Midnight MDT
-
 export function isPriceIncreaseActive() {
-  return new Date() >= PRICE_INCREASE_DATE;
+  return true;
 }
 
 export function getPricing() {
-  const active = isPriceIncreaseActive();
   return {
     core: {
       name: 'Glo Core',
-      price: active ? 99 : 49,
-      display: active ? '$99' : '$49',
+      price: 99,
+      display: '$99',
     },
     pro: {
       name: 'Glo Pro',
-      price: active ? 149 : 99,
-      display: active ? '$149' : '$99',
+      price: 149,
+      display: '$149',
     },
     unlimited: {
       name: 'Glo Unlimited',
-      price: active ? 299 : 199,
-      display: active ? '$299' : '$199',
+      price: 299,
+      display: '$299',
     },
-    startingAt: active ? '$99' : '$49',
-    startingAtFull: active ? '$99/month' : '$49/month',
-    startingAtShort: active ? '$99/mo' : '$49/mo',
+    startingAt: '$99',
+    startingAtFull: '$99/month',
+    startingAtShort: '$99/mo',
   };
 }

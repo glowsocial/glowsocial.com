@@ -8,6 +8,65 @@ export const metadata = {
 export default function FAQ() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Glow Social?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Glow Social is done-for-you social media posting for local businesses. We create and publish custom social media content for your business automatically — 12+ posts per month across major platforms, starting at $99/month."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does it work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "You enter your website URL and connect your social media accounts. We read up to 11 pages of your website to learn your brand voice, services, and style. Then we create custom posts with professional graphics and publish them on your behalf. Setup takes about 5 minutes."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What platforms do you post to?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "We support the major platforms local businesses use, including Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, Pinterest, and more. You only connect the platforms that matter for your business."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How much does it cost?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Plans start at $99/month. There are no contracts, no setup fees, and you can cancel anytime."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you post to Google Business Profile?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes — and most social media tools don't. Google Business Profile posting is included in every Glow Social plan at no extra cost."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How long does setup take?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "About 5 minutes. Enter your website URL, connect your social accounts, and your first batch of posts will be ready to review the same day."
+                }
+              }
+            ]
+          }),
+        }}
+      />
       <section className="blog-hero">
         <div className="container">
           <h1>Frequently Asked Questions</h1>

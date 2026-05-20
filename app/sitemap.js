@@ -1,4 +1,4 @@
-import { getAllBlogPosts, getAllLocalPages, getAllComparisonPages } from "@/lib/posts";
+import { getAllBlogPosts, getAllLocalPages, getAllComparisonPages, getAllQuestions } from "@/lib/posts";
 
 const BASE_URL = "https://glowsocial.com";
 
@@ -24,6 +24,13 @@ export default function sitemap() {
     priority: 0.6,
   }));
 
+  const questionsPages = getAllQuestions().map((q) => ({
+    url: `${BASE_URL}/resources/questions/${q.slug}`,
+    lastModified: q.date ? new Date(q.date) : new Date(),
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+
   const staticPages = [
     { path: "", priority: 1.0, changeFrequency: "weekly" },
     { path: "/blog", priority: 0.8, changeFrequency: "daily" },
@@ -47,6 +54,7 @@ export default function sitemap() {
     { path: "/become-an-affiliate", priority: 0.5, changeFrequency: "monthly" },
     { path: "/manifesto", priority: 0.5, changeFrequency: "yearly" },
     { path: "/lets-meet", priority: 0.6, changeFrequency: "monthly" },
+    { path: "/resources/questions", priority: 0.8, changeFrequency: "daily" },
   ].map(({ path, priority, changeFrequency }) => ({
     url: `${BASE_URL}${path}`,
     lastModified: new Date(),
@@ -59,5 +67,6 @@ export default function sitemap() {
     ...blogPosts,
     ...localPages,
     ...comparisonPages,
+    ...questionsPages,
   ];
 }

@@ -10,6 +10,30 @@ export const metadata = {
 export default function About() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "@id": "https://glowsocial.com/about/#person",
+            "name": "Kathleen Celmins",
+            "url": "https://glowsocial.com/about",
+            "image": "https://glowsocial.com/images/kathleen-celmins-founder.jpg",
+            "jobTitle": "Founder",
+            "worksFor": {
+              "@type": "Organization",
+              "@id": "https://glowsocial.com/#organization",
+              "name": "Glow Social",
+              "url": "https://glowsocial.com"
+            },
+            "sameAs": [
+              "https://www.linkedin.com/in/kathleencelmins/",
+              "https://thewellpaidexpert.com/about/"
+            ]
+          }),
+        }}
+      />
       <section className="blog-hero">
         <div className="container">
           <h1>About Glow Social</h1>

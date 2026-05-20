@@ -8,6 +8,57 @@ export const metadata = {
 export default function HowItWorks() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "How does Glow Social onboarding work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Getting started is simple. Step 1: Enter your website URL. Step 2: Connect your social media platforms. Step 3: Review and publish your first posts. We handle all the caption writing and graphic design automatically."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What do you need to get started?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "All we need is your website URL to scan your pages, learn your brand voice, services, and style, and your connected social media profiles."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How long does setup take?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Setup takes about 5 minutes. Enter your website, connect your accounts, and your first custom posts are ready to review the same day."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What platforms are supported by Glow Social?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "We support major social networks including Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, Pinterest, and more."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How much does Glow Social cost?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Plans start at $99/month. There are no contracts, commitments, or setup fees, and you can cancel at any time."
+                }
+              }
+            ]
+          }),
+        }}
+      />
       <section className="blog-hero">
         <div className="container">
           <h1>How Glow Social Works</h1>

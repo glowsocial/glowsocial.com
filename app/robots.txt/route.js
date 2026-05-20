@@ -22,7 +22,7 @@ Host: https://glowsocial.com
 
 # Content Signals — AI content usage preferences
 # https://contentsignals.org/
-Content-Signal: ai-train=no, search=yes, ai-input=no
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
 `;
 
   return new Response(robotsTxt, {
