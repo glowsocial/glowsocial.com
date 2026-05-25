@@ -53,7 +53,7 @@ Glow Social supports the major platforms local businesses use, including Faceboo
 ## Documentation
 
 - Homepage: https://glowsocial.com
-- How it works: https://glowsocial.com/how-glow-social-works
+- How it works: https://glowsocial.com/how-it-works
 - FAQ: https://glowsocial.com/faq
 - Blog: https://glowsocial.com/blog
 - About: https://glowsocial.com/about

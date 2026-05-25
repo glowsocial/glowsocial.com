@@ -1,2 +1,2 @@
 import { redirect } from "next/navigation";
-export default function More() { redirect("/how-glow-social-works"); }
+export default function More() { redirect("/how-it-works"); }

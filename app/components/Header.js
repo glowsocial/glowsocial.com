@@ -55,7 +55,7 @@ export default function Header() {
 
         {/* Desktop Nav */}
         <nav className="site-nav">
-          <Link href="/how-glow-social-works">How It Works</Link>
+          <Link href="/how-it-works">How It Works</Link>
           <Link href="/pricing">Pricing</Link>
 
           {/* Compare Dropdown */}
@@ -133,7 +133,7 @@ export default function Header() {
       {mobileOpen && (
         <div className="mobile-menu">
           <nav className="mobile-nav">
-            <Link href="/how-glow-social-works" onClick={closeAll}>How It Works</Link>
+            <Link href="/how-it-works" onClick={closeAll}>How It Works</Link>
             <Link href="/pricing" onClick={closeAll}>Pricing</Link>
 
             {/* Compare accordion */}

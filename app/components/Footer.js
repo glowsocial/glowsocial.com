@@ -17,7 +17,7 @@ export default function Footer() {
 
           <div className="footer-col">
             <h4>Product</h4>
-            <Link href="/how-glow-social-works">How It Works</Link>
+            <Link href="/how-it-works">How It Works</Link>
             <Link href="/pricing">Pricing</Link>
             <Link href="/affordable-social-media-management">Affordable Social Media</Link>
             <Link href="/faq">FAQ</Link>

@@ -31,7 +31,7 @@ export default function Contact() {
           <h2>Sales</h2>
           <p>
             Want to learn more about Glow Social for your business? Visit our{" "}
-            <Link href="/how-glow-social-works">How It Works</Link> page or
+            <Link href="/how-it-works">How It Works</Link> page or
             check out <Link href="/faq">frequently asked questions</Link>.
           </p>
           <p>
