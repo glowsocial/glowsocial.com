@@ -7,7 +7,7 @@ faqs:
   - q: "How much should I charge for social media management?"
     a: "For local business social media management, charge $300-$500/month for basic posting services (12-20 posts/month across 2-3 platforms). If you include strategy, analytics, and ad management, charge $750-$1,500/month. Your pricing should maintain at least a 60% profit margin after tool and time costs."
   - q: "Is social media management profitable?"
-    a: "Yes, when priced correctly. With tools like Glow Social's agency plans at $33/client, a manager charging $500/month keeps $467 per client. At 15 clients, that's $7,005 in monthly profit — and content creation takes roughly 8 hours total."
+    a: "Yes, when priced correctly. With tools like Glow Social's agency plans at roughly $50-$67/client, a manager charging $500/month keeps $433-$450 per client before other overhead. At 15 clients on the Studio plan, that's $6,601 in monthly gross profit after the Glow Social plan cost — and content creation takes roughly 8 hours total."
   - q: "Should I charge per platform or per package?"
     a: "Charge per package, not per platform. Bundling services into clear tiers (Basic, Standard, Premium) makes pricing predictable for both you and your clients. It also prevents scope creep and makes upselling natural."
 ---
@@ -25,7 +25,7 @@ Market rates are useful context, but they shouldn't be your starting point. Your
 <strong>Your monthly costs per client:</strong>
 
 <ul>
-<li><strong>Content creation tool:</strong> $30-50/client (Glow Social agency plans come to about $33/client)</li>
+<li><strong>Content creation tool:</strong> $50-67/client (Glow Social agency plans come to roughly $50-$67/client)</li>
 <li><strong>Scheduling/analytics software:</strong> $5-15/client</li>
 <li><strong>Stock photos/design tools:</strong> $3-8/client (Canva Pro divided across clients)</li>
 <li><strong>Your time:</strong> This is where most people miscalculate</li>
@@ -54,9 +54,9 @@ This is where smart tool selection transforms the math.
 <ul>
 <li>30-45 minutes/client/month on review and light editing</li>
 <li>At $75/hour target: $38-56 labor cost per client</li>
-<li>Tool cost: $33/client</li>
-<li>Total cost: $71-89 per client</li>
-<li>At $400/month pricing: 78-82% margin</li>
+<li>Tool cost: $50-$67/client</li>
+<li>Total cost: $88-$123 per client</li>
+<li>At $400/month pricing: 69-78% margin</li>
 </ul>
 
 Read those numbers again. Same $400 price point. One model gives you $15/hour. The other gives you $75/hour. The difference is how the content gets created.
@@ -73,10 +73,10 @@ Package your services into 3 clear tiers. This gives clients options, anchors th
 <li>Monthly performance summary</li>
 </ul>
 
-Your cost at this tier (Glow Social + 30 min review): ~$70-90/client
-Your margin: 75-77%
+Your cost at this tier (Glow Social + 30 min review): ~$90-125/client
+Your margin: 58-77%
 
-<strong>Tier 2 — Growth ($999-$699/month)</strong>
+<strong>Tier 2 — Growth ($599-$699/month)</strong>
 <ul>
 <li>20 posts/month across 3-5 platforms</li>
 <li>AI-generated content + 4 carousels/month</li>
@@ -85,7 +85,7 @@ Your margin: 75-77%
 <li>Monthly analytics report</li>
 </ul>
 
-Your cost at this tier (Glow Social Pro + 1 hr work): ~$115-140/client
+Your cost at this tier (Glow Social Pro + 1 hr work): ~$125-145/client
 Your margin: 77-80%
 
 <strong>Tier 3 — Premium ($999-$1,499/month)</strong>
@@ -98,8 +98,8 @@ Your margin: 77-80%
 <li>Content calendar planning</li>
 </ul>
 
-Your cost at this tier (Glow Social Pro + 3-4 hrs work): ~$230-330/client
-Your margin: 77-78%
+Your cost at this tier (Glow Social Pro + 3-4 hrs work): ~$275-370/client
+Your margin: 63-76%
 
 Notice how margins stay consistent across tiers. You add labor (calls, strategy, custom work) as the price increases, but the per-client economics stay healthy.
 
@@ -120,10 +120,10 @@ Some prospects will always want $100/month social media management. Let those pr
 <li>8 Tier 1 clients at $399 = $3,192</li>
 <li>2 Tier 2 clients at $599 = $1,198</li>
 <li>Total revenue: $4,390/month</li>
-<li>Glow Social Studio plan: -$999</li>
+<li>Glow Social Studio plan: -$899</li>
 <li>Other tools: -$150</li>
 <li>Your time: ~15 hours/month</li>
-<li>Net profit: $3,741/month ($249/hour effective rate)</li>
+<li>Net profit: $3,341/month ($223/hour effective rate)</li>
 </ul>
 
 <strong>Solo operator, 20 clients:</strong>
@@ -132,14 +132,14 @@ Some prospects will always want $100/month social media management. Let those pr
 <li>5 Tier 2 at $599 = $2,995</li>
 <li>1 Tier 3 at $1,199 = $1,199</li>
 <li>Total revenue: $9,780/month</li>
-<li>Glow Social Scale plan: -$899</li>
+<li>Glow Social Scale plan: -$1,499</li>
 <li>Other tools: -$300</li>
 <li>VA for scheduling help: -$500</li>
 <li>Your time: ~30 hours/month</li>
-<li>Net profit: $8,081/month ($269/hour effective rate)</li>
+<li>Net profit: $7,481/month ($249/hour effective rate)</li>
 </ul>
 
-These numbers work because the content creation cost is fixed and predictable at around $33/client. Your variable cost is your time, and with AI handling production, your time goes to high-value activities like strategy and client relationships.
+These numbers work because the content creation cost is fixed and predictable at roughly $50-$67/client. Your variable cost is your time, and with AI handling production, your time goes to high-value activities like strategy and client relationships.
 
 ## Rules for Pricing Sanity
 
@@ -155,7 +155,7 @@ These numbers work because the content creation cost is fixed and predictable at
 
 Your pricing is only as strong as your delivery. Before you finalize your rates, make sure your content creation system can scale to the client count you're targeting.
 
-Glow Social's agency plans handle content creation for $30-33/client, which makes the margin math work at every tier. See the plans at <a href="https://glowsocial.com/pricing">glowsocial.com/pricing</a>.
+Glow Social's agency plans handle content creation for roughly $50-$67/client, which makes the margin math work at every tier. See the plans at <a href="https://glowsocial.com/agency">glowsocial.com/agency</a>.
 
 ---
 
@@ -163,4 +163,4 @@ Glow Social's agency plans handle content creation for $30-33/client, which make
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes custom posts across 14 platforms. Agency plans start at $199/month for 6 clients. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes custom posts across 14 platforms. Agency plans start at $399/month for 6 clients. <a href="https://glowsocial.com">glowsocial.com</a>

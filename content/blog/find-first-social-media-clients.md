@@ -7,7 +7,7 @@ faqs:
   - q: "How do I get my first client as a social media manager?"
     a: "Start with businesses you already have a relationship with — your hairstylist, dentist, favorite restaurant. Offer to create a month of free posts as a portfolio piece. Most businesses say yes because there's zero risk, and the results often convert them to paying clients."
   - q: "How much should I charge for social media management?"
-    a: "New social media managers typically charge $300-$500 per month per client for basic posting services. As you build a portfolio and can show results, you can raise prices to $750-$1,500. Keep your costs low with tools like Glow Social ($33/client on agency plans) to maintain strong margins."
+    a: "New social media managers typically charge $300-$500 per month per client for basic posting services. As you build a portfolio and can show results, you can raise prices to $750-$1,500. Keep your costs low with tools like Glow Social, which starts around $50-$67/client on agency plans, to maintain strong margins."
   - q: "Do I need experience to start a social media management agency?"
     a: "You don't need formal experience, but you need to demonstrate results. Create sample content for 2-3 businesses, track the engagement, and use that as your portfolio. Tools like Glow Social that generate professional content with AI make it possible to deliver quality work from day one."
 ---
@@ -87,13 +87,13 @@ This is where most aspiring agency owners quit. They started a business to have 
 
 The alternative: use a content creation tool that handles the production while you focus on client relationships and growth.
 
-Glow Social's agency plans start at $199/month for 6 clients. The AI creates the content — posts, images, captions — learned from each client's website and voice. Your job becomes reviewing and approving, which takes about 20-30 minutes per client per month.
+Glow Social's agency plans start at $399/month for 6 clients. The AI creates the content — posts, images, captions — learned from each client's website and voice. Your job becomes reviewing and approving, which takes about 20-30 minutes per client per month.
 
 That means at 6 clients paying $400/month each:
 
 <ul>
 <li>Revenue: $2,400/month</li>
-<li>Glow Social: -$199/month</li>
+<li>Glow Social: -$399/month</li>
 <li>Your time on content review: ~3 hours/month</li>
 <li>Remaining time: client relationships, growth, and new business</li>
 </ul>

@@ -7,9 +7,9 @@ faqs:
   - q: "How many clients can a solo social media manager handle?"
     a: "Without automation, most solo managers cap out at 5-8 clients before quality drops. With a done-for-you content tool like Glow Social's agency plans, one person can manage 15-30 clients because the content creation is handled automatically."
   - q: "How much does Glow Social cost for agencies?"
-    a: "Glow Social offers 3 agency plans: Boutique at $199/month for 6 clients, Studio at $999/month for 15 clients, and Scale at $899/month for 30 clients. That works out to $30-$33 per client per month."
+    a: "Glow Social offers 3 agency plans: Boutique at $399/month for 6 clients, Studio at $899/month for 15 clients, and Scale at $1,499/month for 30 clients. That works out to roughly $50-$67 per client per month."
   - q: "What's a good profit margin for a social media agency?"
-    a: "Healthy social media agencies maintain 60-80% margins on content services. If you charge $500/client and your content tool costs $33/client, you keep $467 per client in margin — before other costs like scheduling software or ad spend management."
+    a: "Healthy social media agencies maintain 60-80% margins on content services. If you charge $500/client and your content fulfillment cost is $50-$67/client, you keep $433-$450 per client in margin — before other costs like scheduling software or ad spend management."
 ---
 
 Here's the math most social media agency owners don't want to face: content creation eats 60-70% of their working hours.
@@ -46,9 +46,9 @@ That's not hypothetical. That's what happens when AI creates the content and you
 <strong>With Glow Social's agency plans:</strong>
 
 <ul>
-<li><strong>Boutique plan:</strong> $199/month for 6 clients ($33/client)</li>
-<li><strong>Studio plan:</strong> $999/month for 15 clients ($33/client)</li>
-<li><strong>Scale plan:</strong> $899/month for 30 clients ($30/client)</li>
+<li><strong>Boutique plan:</strong> $399/month for 6 clients (~$67/client)</li>
+<li><strong>Studio plan:</strong> $899/month for 15 clients (~$60/client)</li>
+<li><strong>Scale plan:</strong> $1,499/month for 30 clients (~$50/client)</li>
 </ul>
 
 The AI learns each client's brand voice from their website, generates Sparks (content ideas), creates full posts with custom images, and queues them for publishing. Your job becomes reviewing and approving — maybe 20-30 minutes per client per month.
@@ -57,10 +57,10 @@ The AI learns each client's brand voice from their website, generates Sparks (co
 
 <ul>
 <li>Monthly revenue: $15,000</li>
-<li>Glow Social Scale plan: -$899</li>
+<li>Glow Social Scale plan: -$1,499</li>
 <li>Scheduling/tools/overhead: -$500</li>
-<li>Monthly profit: $13,601</li>
-<li>Profit margin: 90.7%</li>
+<li>Monthly profit: $13,001</li>
+<li>Profit margin: 86.7%</li>
 </ul>
 
 Compare that to the traditional model with 2 content creators:
@@ -95,15 +95,15 @@ This is the time you never had before. New business development. Refining your s
 
 <strong>Stage 1: Proof of concept (1-6 clients)</strong>
 
-Start with the Boutique plan at $199/month. Take on 6 clients at $300-$500/month each. Your total revenue is $1,800-$3,000 against $199 in content costs. Use this stage to dial in your review process and client communication.
+Start with the Boutique plan at $399/month. Take on 6 clients at $300-$500/month each. Your total revenue is $1,800-$3,000 against $399 in content costs. Use this stage to dial in your review process and client communication.
 
 <strong>Stage 2: Building momentum (7-15 clients)</strong>
 
-Move to the Studio plan at $999/month. At 15 clients averaging $500/month, you're at $7,500 revenue with under $1,000 in tool costs. This is where most traditional agencies would need their first hire. You don't.
+Move to the Studio plan at $899/month. At 15 clients averaging $500/month, you're at $7,500 revenue with under $1,000 in tool costs. This is where most traditional agencies would need their first hire. You don't.
 
 <strong>Stage 3: Full scale (16-30 clients)</strong>
 
-Scale plan at $899/month. 30 clients at $500/month is $15,000 in revenue. You might add a virtual assistant for client communication ($1,000-$1,500/month), but your core content production is still handled by AI. No content team needed.
+Scale plan at $1,499/month. 30 clients at $500/month is $15,000 in revenue. You might add a virtual assistant for client communication ($1,000-$1,500/month), but your core content production is still handled by AI. No content team needed.
 
 ## What Clients Actually Care About
 
@@ -124,13 +124,13 @@ The agencies that thrive are the ones that spend their time on strategy and clie
 If you're running or starting a social media agency, here's the move:
 
 <ol>
-<li>Start with 3-5 clients on the Boutique plan ($199/month)</li>
+<li>Start with 3-5 clients on the Boutique plan ($399/month)</li>
 <li>Charge $300-$500/month per client for social media management</li>
 <li>Spend your time on client relationships and new business</li>
 <li>Scale to 15+ clients before considering your first hire</li>
 </ol>
 
-See Glow Social's agency plans at <a href="https://glowsocial.com/pricing">glowsocial.com/pricing</a>.
+See Glow Social's agency plans at <a href="https://glowsocial.com/agency">glowsocial.com/agency</a>.
 
 ---
 
@@ -138,4 +138,4 @@ See Glow Social's agency plans at <a href="https://glowsocial.com/pricing">glows
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes custom posts across 14 platforms. Agency plans start at $199/month for 6 clients. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes custom posts across 14 platforms. Agency plans start at $399/month for 6 clients. <a href="https://glowsocial.com">glowsocial.com</a>

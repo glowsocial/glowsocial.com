@@ -56,7 +56,7 @@ export default function Agency() {
             </div>
             <div className="agency-hero-proof">
               <strong>Pro features</strong> for every client · Starting at{" "}
-              <strong>$33/client</strong>
+              <strong>$50/client</strong>
             </div>
           </div>
           <div>
@@ -276,11 +276,11 @@ export default function Agency() {
           <div className="price-card">
             <h3>Boutique</h3>
             <div>
-              <span className="price-amount">$199</span>
+              <span className="price-amount">$399</span>
               <span className="price-period">/month</span>
             </div>
             <div className="client-count">Up to 6 clients</div>
-            <div className="per-client">~$33 per client</div>
+            <div className="per-client">~$67 per client</div>
             <ul>
               <li>Master dashboard</li>
               <li>6 sub-accounts</li>
@@ -299,11 +299,11 @@ export default function Agency() {
             <span className="popular-badge">Most Popular</span>
             <h3>Studio</h3>
             <div>
-              <span className="price-amount">$499</span>
+              <span className="price-amount">$899</span>
               <span className="price-period">/month</span>
             </div>
             <div className="client-count">Up to 15 clients</div>
-            <div className="per-client">~$33 per client</div>
+            <div className="per-client">~$60 per client</div>
             <ul>
               <li>Everything in Boutique</li>
               <li>15 sub-accounts</li>
@@ -321,11 +321,11 @@ export default function Agency() {
           <div className="price-card">
             <h3>Scale</h3>
             <div>
-              <span className="price-amount">$899</span>
+              <span className="price-amount">$1,499</span>
               <span className="price-period">/month</span>
             </div>
             <div className="client-count">Up to 30 clients</div>
-            <div className="per-client">~$30 per client</div>
+            <div className="per-client">~$50 per client</div>
             <ul>
               <li>Everything in Studio</li>
               <li>30 sub-accounts</li>
@@ -366,14 +366,14 @@ export default function Agency() {
                 <span className="sub">Boutique plan</span>
               </div>
               <div className="margin-cell">
-                $199/mo<span className="sub">$33/client</span>
+                $399/mo<span className="sub">$67/client</span>
               </div>
               <div className="margin-cell">
                 $250/client<span className="sub">= $1,500/mo</span>
               </div>
               <div className="margin-cell">
-                <span className="profit">$1,301/mo</span>
-                <span className="sub">85% margin</span>
+                <span className="profit">$1,101/mo</span>
+                <span className="sub">73% margin</span>
               </div>
             </div>
             <div className="margin-row">
@@ -382,14 +382,14 @@ export default function Agency() {
                 <span className="sub">Studio plan</span>
               </div>
               <div className="margin-cell">
-                $499/mo<span className="sub">$33/client</span>
+                $899/mo<span className="sub">$60/client</span>
               </div>
               <div className="margin-cell">
                 $250/client<span className="sub">= $3,750/mo</span>
               </div>
               <div className="margin-cell">
-                <span className="profit">$3,251/mo</span>
-                <span className="sub">87% margin</span>
+                <span className="profit">$2,851/mo</span>
+                <span className="sub">76% margin</span>
               </div>
             </div>
             <div className="margin-row">
@@ -398,14 +398,14 @@ export default function Agency() {
                 <span className="sub">Scale plan</span>
               </div>
               <div className="margin-cell">
-                $899/mo<span className="sub">$30/client</span>
+                $1,499/mo<span className="sub">$50/client</span>
               </div>
               <div className="margin-cell">
                 $250/client<span className="sub">= $7,500/mo</span>
               </div>
               <div className="margin-cell">
-                <span className="profit">$6,601/mo</span>
-                <span className="sub">88% margin</span>
+                <span className="profit">$6,001/mo</span>
+                <span className="sub">80% margin</span>
               </div>
             </div>
           </div>

@@ -102,10 +102,10 @@ Clients who pay too little eventually resent the money. Clients who pay too much
 
 For most local business social media management, $300-$500/month retains well. The client gets consistent, professional content without feeling like they're over-investing. As you demonstrate results over 6+ months, you can justify increases to $500-$750.
 
-At $300-$500/month with Glow Social's agency plan costs of roughly $33/client:
+At $300-$500/month with Glow Social's agency plan costs of roughly $50-$67/client:
 
 <ul>
-<li>You keep $267-$467 per client after tool costs</li>
+<li>You keep $233-$450 per client after tool costs</li>
 <li>The client gets professional, consistent content</li>
 <li>The price is low enough that cancelling feels like losing a good deal</li>
 <li>The margin is high enough that each client is genuinely profitable</li>
@@ -139,4 +139,4 @@ That's the whole game. And with the right systems, it takes a fraction of the ti
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes custom posts across 14 platforms. Agency plans start at $199/month for 6 clients. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes custom posts across 14 platforms. Agency plans start at $399/month for 6 clients. <a href="https://glowsocial.com">glowsocial.com</a>
