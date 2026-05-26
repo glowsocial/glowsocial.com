@@ -10,6 +10,8 @@ authors: ["Kathleen Celmins"]
 ## Direct Answer
 You don't have to enjoy social media to benefit from it. The most effective approach for business owners who hate social media is to automate the entire process — use an AI platform that creates and publishes professional posts on your behalf so you never have to open Instagram, write a caption, or think about hashtags again.
 
+For the broader local-business framework, start with [social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media).
+
 ## Why This Matters
 Hating social media doesn't make you wrong — it makes you normal. Most small business owners didn't start their company to become content creators. They started it to do plumbing, or dentistry, or law, or cooking. But the reality is that [78% of consumers check social media before buying](/blog/do-i-need-social-media-for-my-business), and an empty or outdated profile actively repels customers. The gap between "I know I need this" and "I refuse to spend my evenings writing Instagram captions" is exactly where automation fits. You get the business benefits of social media without any of the personal involvement you dread.
 
@@ -22,6 +24,9 @@ Thinking "I hate social media" means "social media doesn't work for my business.
 **👉 [Start with a free Profile Kit — set up every platform in 15 minutes, then automate everything →](/setup)**
 
 ## Related Questions
+- [Social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media)
+- [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself)
+- [Is your Facebook page making your business look closed?](/blog/is-your-facebook-page-making-your-business-look-closed)
 - [I don't have time for social media](/blog/i-dont-have-time-for-social-media)
 - [Do I need social media for my business?](/blog/do-i-need-social-media-for-my-business)
 - [Social media on autopilot — is it actually possible?](/blog/social-media-on-autopilot)

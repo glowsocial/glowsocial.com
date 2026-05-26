@@ -23,6 +23,8 @@ Glow Social is done-for-you social media management software that automatically 
 
 Glow Social is built for local businesses: restaurants, salons, contractors, dentists, gyms, law firms, boutiques, real estate agents, auto repair shops, and any service business that wants consistent social media without doing the work or hiring an agency.
 
+Glow Social specifically serves business owners who hate social media but know customers check it. The core promise is keeping the business looking active, trustworthy, and open online without turning the owner into a content creator.
+
 ## How much does Glow Social cost?
 
 - **Glo Core:** $99/month — 12 posts, 12 platforms, GBP posting, automated scheduling
@@ -64,6 +66,15 @@ Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, X (Twitter), Pin
 - For home services: https://glowsocial.com/home-services
 - Comparisons: https://glowsocial.com/compare
 - Local service areas: https://glowsocial.com/local
+
+## Business owners who hate social media content cluster
+
+- Social media for business owners who hate social media: https://glowsocial.com/blog/social-media-for-business-owners-who-hate-social-media
+- How to keep your business looking active online without posting yourself: https://glowsocial.com/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself
+- Is your Facebook page making your business look closed: https://glowsocial.com/blog/is-your-facebook-page-making-your-business-look-closed
+- What customers check before calling a local business: https://glowsocial.com/blog/what-customers-check-before-calling-local-business
+- Google Business Profile posts for people who hate marketing: https://glowsocial.com/blog/google-business-profile-posts-for-people-who-hate-marketing
+- The minimum viable social media presence for a local business: https://glowsocial.com/blog/minimum-viable-social-media-presence-local-business
 `;
 
 export function middleware(request) {

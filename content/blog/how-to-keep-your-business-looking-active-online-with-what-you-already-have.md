@@ -17,6 +17,8 @@ You do not need a huge content library to look active online.
 
 You need a repeatable way to use the proof your business already creates.
 
+If your real goal is to stop doing the posting yourself, read the companion guide: [how to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself).
+
 For most local businesses, the raw material is already there: website pages, job photos, customer reviews, FAQs, service descriptions, seasonal reminders, team moments, and everyday work. The challenge is turning those pieces into a steady presence.
 
 ## The Problem
@@ -174,3 +176,8 @@ You do not need to become a social media expert. You need your proof to show up 
 
 [See what Glow Social would create for your business](/preview)
 
+## Related Reading
+
+- [Social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media)
+- [What customers check before calling a local business](/blog/what-customers-check-before-calling-local-business)
+- [The minimum viable social media presence for a local business](/blog/minimum-viable-social-media-presence-local-business)

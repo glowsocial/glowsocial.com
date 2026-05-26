@@ -20,6 +20,8 @@ This isn't speculation. Studies consistently show that **over 70% of consumers**
 
 When a potential customer checks your Facebook page or Instagram profile, they're not evaluating your content strategy. They're looking for three things:
 
+For the broader local trust checklist across Google Business Profile, reviews, photos, your website, and social platforms, read [what customers check before calling a local business](/blog/what-customers-check-before-calling-local-business).
+
 **1. Proof You're Still in Business**
 
 An inactive social media page is the digital equivalent of a "Closed" sign on the door. If your last post was months ago, people genuinely wonder whether you've shut down. It doesn't matter that you're busy serving customers every day — if your online presence is dead, you look dead.
@@ -67,6 +69,8 @@ The options:
 Your customers are checking your social media. They're doing it today. Right now. The only question is whether they'll find evidence that you're a thriving, trustworthy business — or an empty page that makes them keep looking.
 
 [Get Started with Glow Social — $99/month](https://app.glowsocial.com/)
+
+Related: [Social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media) · [Is your Facebook page making your business look closed?](/blog/is-your-facebook-page-making-your-business-look-closed) · [The minimum viable social media presence for a local business](/blog/minimum-viable-social-media-presence-local-business)
 
 
 ### Want to see what Glow Social can do for your Dentist business?
