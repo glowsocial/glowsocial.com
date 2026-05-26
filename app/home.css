@@ -1374,10 +1374,6 @@
 body:has(.hero) .site-nav > a,
 body:has(.hero) .nav-dropdown a,
 body:has(.hero) .mobile-nav > a,
-body:has(.hero) .mobile-nav-sub a,
-body:has(.hero) .footer-col h4,
-body:has(.hero) .site-footer .footer-col a,
-body:has(.hero) .footer-bottom-links a {
-  text-transform: none;
-  letter-spacing: 0;
+body:has(.hero) .mobile-nav-sub a {
+  text-transform: uppercase;
 }

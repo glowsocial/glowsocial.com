@@ -55,8 +55,8 @@ export default function Header() {
 
         {/* Desktop Nav */}
         <nav className="site-nav">
-          <Link href="/how-glow-social-works">How It Works</Link>
-          <Link href="/pricing">Pricing</Link>
+          <Link href="/how-glow-social-works">HOW IT WORKS</Link>
+          <Link href="/pricing">PRICING</Link>
 
           {/* Compare Dropdown */}
           <div className="nav-dropdown-wrapper">
@@ -65,20 +65,20 @@ export default function Header() {
               onClick={() => toggleDropdown("compare")}
               aria-expanded={activeDropdown === "compare"}
             >
-              Compare
+              COMPARE
               <svg className="nav-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none">
                 <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
               </svg>
             </button>
             {activeDropdown === "compare" && (
               <div className="nav-dropdown">
-                <Link href="/compare/marky-alternative" onClick={closeAll}>vs Marky</Link>
-                <Link href="/compare/later-alternative" onClick={closeAll}>vs Later</Link>
-                <Link href="/blog/buffer-vs-glow-social" onClick={closeAll}>vs Buffer</Link>
-                <Link href="/blog/hootsuite-vs-glow-social" onClick={closeAll}>vs Hootsuite</Link>
-                <Link href="/blog/sprout-social-vs-glow-social" onClick={closeAll}>vs Sprout Social</Link>
-                <Link href="/compare/chatgpt-alternative" onClick={closeAll}>vs ChatGPT</Link>
-                <Link href="/compare/loomly-alternative" onClick={closeAll}>vs Loomly</Link>
+                <Link href="/compare/marky-alternative" onClick={closeAll}>VS MARKY</Link>
+                <Link href="/compare/later-alternative" onClick={closeAll}>VS LATER</Link>
+                <Link href="/blog/buffer-vs-glow-social" onClick={closeAll}>VS BUFFER</Link>
+                <Link href="/blog/hootsuite-vs-glow-social" onClick={closeAll}>VS HOOTSUITE</Link>
+                <Link href="/blog/sprout-social-vs-glow-social" onClick={closeAll}>VS SPROUT SOCIAL</Link>
+                <Link href="/compare/chatgpt-alternative" onClick={closeAll}>VS CHATGPT</Link>
+                <Link href="/compare/loomly-alternative" onClick={closeAll}>VS LOOMLY</Link>
               </div>
             )}
           </div>
@@ -90,19 +90,19 @@ export default function Header() {
               onClick={() => toggleDropdown("resources")}
               aria-expanded={activeDropdown === "resources"}
             >
-              Resources
+              RESOURCES
               <svg className="nav-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none">
                 <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
               </svg>
             </button>
             {activeDropdown === "resources" && (
               <div className="nav-dropdown">
-                <Link href="/blog" onClick={closeAll}>Blog</Link>
-                <Link href="/affordable-social-media-management" onClick={closeAll}>Affordable Social Media</Link>
-                <Link href="/about" onClick={closeAll}>About</Link>
-                <Link href="/manifesto" onClick={closeAll}>Manifesto</Link>
-                <Link href="/research" onClick={closeAll}>Research</Link>
-                <a href="https://app.glowsocial.com/kb" onClick={closeAll}>Help Center</a>
+                <Link href="/blog" onClick={closeAll}>BLOG</Link>
+                <Link href="/affordable-social-media-management" onClick={closeAll}>AFFORDABLE SOCIAL MEDIA</Link>
+                <Link href="/about" onClick={closeAll}>ABOUT</Link>
+                <Link href="/manifesto" onClick={closeAll}>MANIFESTO</Link>
+                <Link href="/research" onClick={closeAll}>RESEARCH</Link>
+                <a href="https://app.glowsocial.com/kb" onClick={closeAll}>HELP CENTER</a>
               </div>
             )}
           </div>
@@ -110,10 +110,10 @@ export default function Header() {
 
         <div className="header-ctas">
           <a href="https://app.glowsocial.com/login" className="btn btn--outline">
-            Log In
+            LOG IN
           </a>
           <a href="https://app.glowsocial.com/signup" className="btn btn--primary">
-            Get Started
+            GET STARTED
           </a>
         </div>
 
@@ -133,28 +133,28 @@ export default function Header() {
       {mobileOpen && (
         <div className="mobile-menu">
           <nav className="mobile-nav">
-            <Link href="/how-glow-social-works" onClick={closeAll}>How It Works</Link>
-            <Link href="/pricing" onClick={closeAll}>Pricing</Link>
+            <Link href="/how-glow-social-works" onClick={closeAll}>HOW IT WORKS</Link>
+            <Link href="/pricing" onClick={closeAll}>PRICING</Link>
 
             {/* Compare accordion */}
             <button
               className="mobile-nav-section"
               onClick={() => toggleDropdown("m-compare")}
             >
-              Compare
+              COMPARE
               <svg className={`nav-chevron ${activeDropdown === "m-compare" ? "is-open" : ""}`} width="10" height="6" viewBox="0 0 10 6" fill="none">
                 <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
               </svg>
             </button>
             {activeDropdown === "m-compare" && (
               <div className="mobile-nav-sub">
-                <Link href="/compare/marky-alternative" onClick={closeAll}>vs Marky</Link>
-                <Link href="/compare/later-alternative" onClick={closeAll}>vs Later</Link>
-                <Link href="/blog/buffer-vs-glow-social" onClick={closeAll}>vs Buffer</Link>
-                <Link href="/blog/hootsuite-vs-glow-social" onClick={closeAll}>vs Hootsuite</Link>
-                <Link href="/blog/sprout-social-vs-glow-social" onClick={closeAll}>vs Sprout Social</Link>
-                <Link href="/compare/chatgpt-alternative" onClick={closeAll}>vs ChatGPT</Link>
-                <Link href="/compare/loomly-alternative" onClick={closeAll}>vs Loomly</Link>
+                <Link href="/compare/marky-alternative" onClick={closeAll}>VS MARKY</Link>
+                <Link href="/compare/later-alternative" onClick={closeAll}>VS LATER</Link>
+                <Link href="/blog/buffer-vs-glow-social" onClick={closeAll}>VS BUFFER</Link>
+                <Link href="/blog/hootsuite-vs-glow-social" onClick={closeAll}>VS HOOTSUITE</Link>
+                <Link href="/blog/sprout-social-vs-glow-social" onClick={closeAll}>VS SPROUT SOCIAL</Link>
+                <Link href="/compare/chatgpt-alternative" onClick={closeAll}>VS CHATGPT</Link>
+                <Link href="/compare/loomly-alternative" onClick={closeAll}>VS LOOMLY</Link>
               </div>
             )}
 
@@ -163,28 +163,28 @@ export default function Header() {
               className="mobile-nav-section"
               onClick={() => toggleDropdown("m-resources")}
             >
-              Resources
+              RESOURCES
               <svg className={`nav-chevron ${activeDropdown === "m-resources" ? "is-open" : ""}`} width="10" height="6" viewBox="0 0 10 6" fill="none">
                 <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
               </svg>
             </button>
             {activeDropdown === "m-resources" && (
               <div className="mobile-nav-sub">
-                <Link href="/blog" onClick={closeAll}>Blog</Link>
-                <Link href="/affordable-social-media-management" onClick={closeAll}>Affordable Social Media</Link>
-                <Link href="/about" onClick={closeAll}>About</Link>
-                <Link href="/manifesto" onClick={closeAll}>Manifesto</Link>
-                <Link href="/research" onClick={closeAll}>Research</Link>
-                <a href="https://app.glowsocial.com/kb" onClick={closeAll}>Help Center</a>
+                <Link href="/blog" onClick={closeAll}>BLOG</Link>
+                <Link href="/affordable-social-media-management" onClick={closeAll}>AFFORDABLE SOCIAL MEDIA</Link>
+                <Link href="/about" onClick={closeAll}>ABOUT</Link>
+                <Link href="/manifesto" onClick={closeAll}>MANIFESTO</Link>
+                <Link href="/research" onClick={closeAll}>RESEARCH</Link>
+                <a href="https://app.glowsocial.com/kb" onClick={closeAll}>HELP CENTER</a>
               </div>
             )}
 
             <div className="mobile-nav-ctas">
               <a href="https://app.glowsocial.com/login" className="btn btn--outline btn--block" onClick={closeAll}>
-                Log In
+                LOG IN
               </a>
               <a href="https://app.glowsocial.com/signup" className="btn btn--primary btn--block" onClick={closeAll}>
-                Get Started
+                GET STARTED
               </a>
             </div>
           </nav>

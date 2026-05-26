@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { getAllResearchPages } from "@/lib/posts";
 
 
 export const metadata = {
@@ -7,6 +8,8 @@ export const metadata = {
 };
 
 export default function ResearchHub() {
+  const reports = getAllResearchPages();
+
   return (
     <>
       <div className="hero">
@@ -16,7 +19,7 @@ export default function ResearchHub() {
         </p>
       </div>
 
-      <div style={{ maxWidth: "800px", margin: "4rem auto", padding: "0 2rem", minHeight: "50vh" }}>
+      <div style={{ maxWidth: "900px", margin: "4rem auto", padding: "0 2rem", minHeight: "50vh" }}>
         
         {/* REPORT CARD */}
         <article style={{ padding: "2rem", background: "var(--light-bg)", borderRadius: "12px", border: "1px solid var(--border)" }}>
@@ -37,6 +40,38 @@ export default function ResearchHub() {
             </Link>
           </div>
         </article>
+
+        {reports.map((report) => (
+          <article
+            key={report.slug}
+            style={{
+              padding: "2rem",
+              background: "var(--paper)",
+              borderRadius: "12px",
+              border: "1px solid var(--card-border)",
+              marginTop: "1.5rem",
+            }}
+          >
+            <div style={{ fontSize: "0.85rem", color: "var(--navy)", fontWeight: 600, textTransform: "uppercase", letterSpacing: "1px", marginBottom: "0.5rem" }}>
+              Data Report {report.date ? `- ${new Date(report.date).getUTCFullYear()}` : ""}
+            </div>
+            <h2 style={{ marginTop: 0, fontSize: "1.75rem", lineHeight: "1.3", textAlign: "left", letterSpacing: 0, textTransform: "none" }}>
+              <Link href={`/research/${report.slug}`} style={{ color: "var(--navy)", textDecoration: "none" }}>
+                {report.title}
+              </Link>
+            </h2>
+            {report.description && (
+              <p style={{ color: "var(--text)", lineHeight: "1.6", fontSize: "1.05rem" }}>
+                {report.description}
+              </p>
+            )}
+            <div style={{ marginTop: "1.5rem" }}>
+              <Link href={`/research/${report.slug}`} className="btn btn--outline" style={{ display: "inline-flex" }}>
+                Read the Report
+              </Link>
+            </div>
+          </article>
+        ))}
 
       </div>
     </>
