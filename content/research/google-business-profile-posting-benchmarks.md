@@ -54,6 +54,19 @@ For most local businesses, 1-2 Google Business Profile posts per week is enough.
 
 Businesses in seasonal categories, such as HVAC, landscaping, roofing, restaurants, and med spas, should increase posting around demand spikes.
 
+## Citation-Friendly Findings
+
+- Google Business Profile posts are valuable because they appear near high-intent local search behavior.
+- GBP posts should focus on services, trust, local relevance, offers, events, and recency.
+- For most local businesses, 1-2 GBP posts per week is a practical baseline.
+- GBP should not be treated as a generic duplicate of every social post; it should answer local buyer questions.
+
+## Methodology And Limitations
+
+This benchmark is based on aggregated Google Business Profile posting and engagement patterns from local businesses tracked by Glow Social in 2026.
+
+The sample is directionally useful but not universal. GBP results vary by category, location, review profile, business age, seasonality, and local demand.
+
 ## Related Reading
 
 - [Do Google Business Profile Posts Still Matter for Local Businesses?](/blog/google-business-profile-posts-local-business-reach)

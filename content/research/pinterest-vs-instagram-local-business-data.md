@@ -58,6 +58,19 @@ A salon can post a fresh client transformation on Instagram, then turn the same 
 
 The same work can feed both platforms, but the framing should change.
 
+## Citation-Friendly Findings
+
+- Pinterest outperformed Instagram on average engagement rate in this dataset, but the Pinterest sample was smaller.
+- Instagram remains important as a trust and recency surface for local businesses.
+- Pinterest is strongest when the business has evergreen visual content, ideas, transformations, or before-and-after assets.
+- The same content can work on both platforms when reframed for the platform's intent.
+
+## Methodology And Limitations
+
+This comparison uses aggregated local business performance data tracked by Glow Social in 2026. The Pinterest sample was smaller than the Instagram sample, so the results should be treated as directional rather than definitive.
+
+Performance can change by industry, creative quality, posting history, keyword framing, location, and whether the business has visual assets that match Pinterest search behavior.
+
 ## Related Reading
 
 - [Pinterest for Local Business](/blog/pinterest-for-local-business)

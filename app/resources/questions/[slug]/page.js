@@ -68,6 +68,53 @@ function ArticleJsonLd({ title, description, date, slug, body }) {
   );
 }
 
+function stripMarkdown(value) {
+  return value
+    .replace(/```[\s\S]*?```/g, "")
+    .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/[#>*_`-]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function getDirectAnswer(content, fallback = "") {
+  const match = content.match(/## Direct Answer\r?\n([\s\S]*?)(?=\r?\n##|$)/);
+  return stripMarkdown(match ? match[1] : fallback);
+}
+
+function QAPageJsonLd({ question }) {
+  const answer = getDirectAnswer(question.content, question.description);
+  if (!answer) return null;
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "QAPage",
+    mainEntity: {
+      "@type": "Question",
+      name: question.title,
+      answerCount: 1,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: answer,
+        author: {
+          "@type": "Organization",
+          name: "Glow Social",
+          url: "https://glowsocial.com",
+        },
+        dateCreated: question.date,
+      },
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 function BreadcrumbJsonLd({ title, slug }) {
   const schema = {
     "@context": "https://schema.org",
@@ -101,6 +148,28 @@ function BreadcrumbJsonLd({ title, slug }) {
   );
 }
 
+function RelatedResources({ resources }) {
+  if (!resources || resources.length === 0) return null;
+
+  return (
+    <nav className="question-related" aria-label="Related resources">
+      <h2>Related Resources</h2>
+      <div className="question-related-grid">
+        {resources.map((resource) => (
+          <Link
+            key={resource.href}
+            href={resource.href}
+            className="question-related-card"
+          >
+            <h3>{resource.title}</h3>
+            {resource.description && <p>{resource.description}</p>}
+          </Link>
+        ))}
+      </div>
+    </nav>
+  );
+}
+
 export default async function QuestionPage({ params }) {
   const { slug } = await params;
   const question = getQuestionBySlug(slug);
@@ -118,6 +187,7 @@ export default async function QuestionPage({ params }) {
         slug={slug}
         body={question.content}
       />
+      <QAPageJsonLd question={question} />
       <BreadcrumbJsonLd title={question.title} slug={slug} />
       <PersonJsonLd />
       
@@ -145,6 +215,8 @@ export default async function QuestionPage({ params }) {
         className="blog-post-content"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
+
+      <RelatedResources resources={question.relatedResources} />
 
       {/* Post-content CTA */}
       <div className="post-cta-box" style={{ marginTop: "60px" }}>

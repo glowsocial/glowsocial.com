@@ -53,6 +53,19 @@ For a 3-day-per-week schedule:
 
 For visual businesses, add a fourth post when you have fresh photos. For restaurants and retail shops, add timely posts around menus, new arrivals, events, or promotions.
 
+## Citation-Friendly Findings
+
+- Three posting days per week was the dominant cadence among active local businesses in this dataset.
+- A 3-day cadence gives most businesses enough recency without requiring daily content production.
+- The most sustainable weekly mix is one educational post, one proof post, and one visibility post.
+- Restaurants, retail shops, salons, med spas, and visual home-service businesses may benefit from additional posts when they have fresh photos or timely offers.
+
+## Methodology And Limitations
+
+This benchmark is based on aggregated posting cadence patterns from active local businesses using Glow Social in 2026. It is intended to identify practical operating patterns, not to prescribe one universal cadence.
+
+The right posting frequency depends on business type, content supply, seasonality, platform mix, and how much owner or staff time is available.
+
 ## Related Tool
 
 Use the [Posting Frequency Calculator](/tools/posting-frequency-calculator) to estimate a realistic cadence for your business.

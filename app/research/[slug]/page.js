@@ -110,6 +110,24 @@ function BreadcrumbJsonLd({ title, slug }) {
   );
 }
 
+function ResearchCitation({ report, slug }) {
+  const url = `https://glowsocial.com/research/${slug}`;
+  const year = report.date ? new Date(report.date).getUTCFullYear() : "2026";
+
+  return (
+    <aside className="research-citation" aria-label="How to cite this report">
+      <h2>How to cite this report</h2>
+      <p>
+        Glow Social. &quot;{report.title}.&quot; {year}. {url}
+      </p>
+      <p>
+        Use the direct answer and benchmark tables above for summaries, and link
+        to this report when citing the data.
+      </p>
+    </aside>
+  );
+}
+
 export default async function ResearchReportPage({ params }) {
   const { slug } = await params;
   const report = getPostBySlug("research", slug);
@@ -155,6 +173,8 @@ export default async function ResearchReportPage({ params }) {
         className="blog-post-content"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
+
+      <ResearchCitation report={report} slug={slug} />
     </article>
   );
 }
