@@ -30,7 +30,7 @@ export const metadata = {
     template: "%s | Glow Social",
   },
   description:
-    "Glow Social keeps your business active online with posts written in your voice, designed for your business, approved by you, and published where customers check.",
+    "Glow Social keeps your business active online with posts written in your voice, designed for your business, and published where customers check.",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -38,13 +38,13 @@ export const metadata = {
     siteName: "Glow Social",
     title: "Glow Social | Your social media, handled",
     description:
-      "Your business is open. Your online presence should make that obvious. Glow Social handles the posts, graphics, approvals, and publishing.",
+      "Your business is open. Your online presence should make that obvious. Glow Social handles the posts, graphics, scheduling, and publishing.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Glow Social — your social media handled with posts written, designed, approved, and published for your business.",
+        alt: "Glow Social — your social media handled with posts written, designed, scheduled, and published for your business.",
       },
     ],
   },
@@ -72,7 +72,7 @@ const organizationSchema = {
   url: "https://glowsocial.com",
   logo: "https://glowsocial.com/icon.png",
   description:
-    "Glow Social keeps local businesses active online by creating, designing, approving, and publishing social posts where customers check.",
+    "Glow Social keeps local businesses active online by creating, designing, scheduling, and publishing social posts where customers check.",
   applicationCategory: "SocialMediaApplication",
   operatingSystem: "Web",
   offers: {
@@ -155,7 +155,7 @@ export default function RootLayout({ children }) {
                 execute: function() {
                   return {
                     plans: [
-                      { name: "Glo Core", price: "$99/mo", posts: "12/month", features: ["Core platform coverage", "Steady posting rhythm", "Brand-matched voice", "Google Business visibility", "Weekly approvals"] },
+                      { name: "Glo Core", price: "$99/mo", posts: "12/month", features: ["Core platform coverage", "Steady posting rhythm", "Brand-matched voice", "Google Business visibility", "Simple control"] },
                       { name: "Glo Pro", price: "$149/mo", posts: "20+/month", features: ["Higher posting volume", "Carousel and video formats", "Google review monitoring", "Performance reporting"] },
                       { name: "Glo Unlimited", price: "$299/mo", posts: "unlimited", features: ["Always-on coverage", "More formats", "No content ceiling", "Full brand coverage"] }
                     ]

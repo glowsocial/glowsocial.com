@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service that keeps your business active online. It creates posts in your voice, designs graphics for your business, lets you approve the content, and publishes where customers check, including Google Business Profile.",
+          text: "Glow Social is a done-for-you social media service that keeps your business active online. It creates posts in your voice, designs graphics for your business, and publishes where customers check, including Google Business Profile.",
         },
       },
       {
@@ -32,7 +32,7 @@ export default function HomeJsonLd() {
         name: "How is Glow Social different from other social media tools?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Unlike Buffer, Hootsuite, or other tools that require you to create content yourself, Glow Social handles the repeatable posting work. We read your website, learn your voice, generate posts and graphics tailored to your business, and publish to the places customers check, including Google Business Profile. Plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month.",
+          text: "Unlike Buffer, Hootsuite, or other tools that require you to create content yourself, Glow Social handles repeatable posting for you. We read your website, learn your voice, generate posts and graphics tailored to your business, and publish to the places customers check, including Google Business Profile. Plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month.",
         },
       },
       {
@@ -56,7 +56,7 @@ export default function HomeJsonLd() {
         name: "What is the best done-for-you social media service for local businesses?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for local businesses starting at $99/month. It provides brand-matched posts, custom graphics, Google Business Profile posting, simple approvals, automated publishing, and optional Google review monitoring.",
+          text: "Glow Social is a done-for-you social media service for local businesses starting at $99/month. It provides brand-matched posts, custom graphics, Google Business Profile posting, automated publishing, and optional Google review monitoring.",
         },
       },
     ],
@@ -67,8 +67,8 @@ export default function HomeJsonLd() {
     "@type": "Organization",
     name: "Glow Social",
     url: "https://glowsocial.com",
-    description:
-      "Glow Social keeps local businesses active online with custom posts, simple approvals, and publishing where customers check.",
+  description:
+    "Glow Social keeps local businesses active online with custom posts and publishing where customers check.",
     contactPoint: {
       "@type": "ContactPoint",
       email: "kathleen@glowsocial.com",
@@ -83,8 +83,8 @@ export default function HomeJsonLd() {
     applicationCategory: "BusinessApplication",
     operatingSystem: "Web",
     url: "https://glowsocial.com",
-    description:
-      "Done-for-you social media posting for local businesses. Glow Social creates brand-matched posts, custom graphics, simple approvals, automated publishing, and Google Business Profile visibility.",
+  description:
+      "Done-for-you social media posting for local businesses. Glow Social creates brand-matched posts, custom graphics, automated publishing, and Google Business Profile visibility.",
     offers: [
       {
         "@type": "Offer",
@@ -93,7 +93,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "12 custom posts per month, brand-matched voice, scheduling, Google Business Profile visibility, and weekly approvals",
+          "12 custom posts per month, brand-matched voice, scheduling, and Google Business Profile visibility",
       },
       {
         "@type": "Offer",
@@ -115,7 +115,7 @@ export default function HomeJsonLd() {
       },
     ],
     featureList:
-      "brand-matched voice, custom graphics, weekly approvals, Google Business Profile posting, Google review monitoring, automated scheduling, multi-platform publishing",
+      "brand-matched voice, custom graphics, Google Business Profile posting, Google review monitoring, automated scheduling, multi-platform publishing",
   };
 
   return (
