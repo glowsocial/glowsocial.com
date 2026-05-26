@@ -24,9 +24,9 @@ export default function PricingPage() {
         <div className="container" style={{ textAlign: "center" }}>
           <h1>Simple, Transparent Pricing</h1>
           <p className="section-sub" style={{ marginBottom: 0 }}>
-            No hidden fees. No contracts. No surprises.
+            {pricing.summaryFull}
             <br />
-            Cancel anytime — we earn your business every month.
+            No free trials. No hidden fees. No contracts. Cancel anytime.
           </p>
         </div>
       </section>
@@ -377,10 +377,9 @@ export default function PricingPage() {
             <details className="faq-item">
               <summary>How much does Glow Social cost?</summary>
               <p>
-                Glow Social Core costs {pricing.startingAtFull} with no contracts or
-                commitments. Compare that to $3,000+/month for a marketing
-                agency or $300+/month for an overseas contractor. You can cancel
-                anytime and keep access through the end of your paid period.
+                {pricing.summaryFull} {pricing.billingPolicy} Compare that to $3,000+/month for a marketing
+                agency or $300+/month for an overseas contractor. You keep access
+                through the end of your paid period.
               </p>
             </details>
             <details className="faq-item">
@@ -462,6 +461,8 @@ export default function PricingPage() {
             reviews — all done for you.
             <br />
             Your storefront looks alive. Your {pricing.startingAtFull} starts today.
+            <br />
+            {pricing.billingPolicy}
           </p>
           <a
             href="https://app.glowsocial.com/signup"

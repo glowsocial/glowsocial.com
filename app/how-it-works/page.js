@@ -73,7 +73,7 @@ function JsonLd({ pricing }) {
     },
     {
       name: "How much does Glow Social cost?",
-      text: `Plans start at ${pricing.startingAtFull}. There are no contracts, and you can cancel at any time.`,
+      text: `${pricing.summaryFull} ${pricing.billingPolicy}`,
     },
   ];
 
@@ -295,6 +295,9 @@ export default function HowItWorks() {
             <h1>See what happens after you choose Glow Social.</h1>
             <p>
               The short version: choose a plan, complete secure checkout, create your login, and let Glow Social prepare your first drafts for review.
+            </p>
+            <p>
+              {pricing.summaryFull} {pricing.billingPolicy}
             </p>
             <div className="walkthrough-ctas">
               <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--primary btn--lg">

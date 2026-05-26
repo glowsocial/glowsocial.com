@@ -113,7 +113,7 @@ The best social media scheduler for your local business is the one you'll actual
 
 If you're looking for something that checks all these boxes without the complexity of enterprise tools, **[Glow Social](https://glowsocial.com)** is worth trying. At $99/month, it includes both scheduling and AI content creation, saves local business owners 5–10 hours per week, and actually helps you post consistently without burning out.
 
-**Ready to take back your time?** [Start your free trial at Glow Social](https://glowsocial.com) and see how much easier social media gets when you have the right tool in your corner.
+**Ready to take back your time?** [Start with Glow Social](https://glowsocial.com/pricing) and see how much easier social media gets when your posting system is handled. Core is $99/month, Pro is $149/month, and Unlimited is $299/month. No free trials, no contracts, cancel anytime.
 
 
 ## Related Guides

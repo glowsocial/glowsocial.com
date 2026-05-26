@@ -8,7 +8,7 @@ export default function HomeJsonLd() {
         name: "How much does Glow Social cost?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social Core costs $99 per month with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for a freelancer.",
+          text: "Glow Social plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month. There are no free trials, no contracts, and customers can cancel anytime.",
         },
       },
       {
@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for business owners who hate social media but know customers check it. For $99/month, you get 12 custom posts written in your voice, designed for your business, and scheduled for you with Google Business Profile visibility.",
+          text: "Glow Social is a done-for-you social media service for business owners who hate social media but know customers check it. Core is $99/month and includes 12 custom posts written in your voice, designed for your business, and scheduled for you with Google Business Profile visibility.",
         },
       },
       {
@@ -32,7 +32,7 @@ export default function HomeJsonLd() {
         name: "How is Glow Social different from other social media tools?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Unlike Buffer, Hootsuite, or other tools that require you to create content yourself, Glow Social handles the repeatable posting work. We read your website, learn your voice, generate posts and graphics tailored to your business, and publish to the places customers check, including Google Business Profile. Plans start at $99.",
+          text: "Unlike Buffer, Hootsuite, or other tools that require you to create content yourself, Glow Social handles the repeatable posting work. We read your website, learn your voice, generate posts and graphics tailored to your business, and publish to the places customers check, including Google Business Profile. Plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month.",
         },
       },
       {

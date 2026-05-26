@@ -79,7 +79,7 @@ const organizationSchema = {
     "@type": "Offer",
     price: "99",
     priceCurrency: "USD",
-    description: "12 custom posts per month, written in your voice and scheduled for you",
+    description: "Core is $99/month. Pro is $149/month. Unlimited is $299/month. No free trials. No contracts. Cancel anytime.",
   },
   founder: {
     "@type": "Person",
@@ -150,7 +150,7 @@ export default function RootLayout({ children }) {
 
               mc.registerTool({
                 name: "get-pricing",
-                description: "Get current Glow Social pricing information. Glo Core is $99/mo (12 posts), Glo Pro is $149/mo (20+ posts, reviews), Glo Unlimited is $299/mo (unlimited).",
+                description: "Get current Glow Social pricing information. Glo Core is $99/mo (12 posts), Glo Pro is $149/mo (20+ posts, reviews), Glo Unlimited is $299/mo (unlimited). No free trials. No contracts. Cancel anytime.",
                 inputSchema: { type: "object", properties: {} },
                 execute: function() {
                   return {
@@ -164,8 +164,8 @@ export default function RootLayout({ children }) {
               });
 
               mc.registerTool({
-                name: "start-trial",
-                description: "Navigate to Glow Social signup to start a subscription. No free trial — plans start at $99/mo with no contract.",
+                name: "start-subscription",
+                description: "Navigate to Glow Social checkout to start a subscription. No free trials. Core is $99/mo, Pro is $149/mo, and Unlimited is $299/mo with no contract.",
                 inputSchema: {
                   type: "object",
                   properties: {

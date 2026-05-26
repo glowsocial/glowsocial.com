@@ -4,7 +4,7 @@ import { useEffect, useRef, useState, useMemo } from "react";
 import Link from "next/link";
 import HomeJsonLd from "./HomeJsonLd";
 import LatestInsights from "./LatestInsights";
-import { getPricing, isPriceIncreaseActive } from "../pricing-config";
+import { getPricing } from "../pricing-config";
 import "../home.css";
 
 export default function HomeClient({ posts }) {
@@ -47,18 +47,6 @@ export default function HomeClient({ posts }) {
   return (
     <>
       <HomeJsonLd />
-
-      {/* ============ ANNOUNCEMENT BAR — Price increase urgency (hidden after May 1) ============ */}
-      {!isPriceIncreaseActive() && (
-        <div className="announce-bar">
-          <div className="container announce-bar-inner">
-            <span>
-              <strong>Current pricing ends April 30.</strong>{" "}
-              <a href="#pricing">Lock in {pricing.startingAtShort} before prices increase →</a>
-            </span>
-          </div>
-        </div>
-      )}
 
       {/* ============ HERO — Emotional trigger first ============ */}
       <section className="hero">
@@ -627,7 +615,7 @@ export default function HomeClient({ posts }) {
       <section className="pricing" id="pricing" data-animate>
         <div className={`container ${visibleSections.has("pricing") ? "fade-in" : "fade-hidden"}`}>
           <h2>A social media system for {pricing.startingAtFull}.</h2>
-          <p className="section-sub">Consistent, professional content at a price built for small businesses. No contracts. Cancel anytime.</p>
+          <p className="section-sub">{pricing.summaryFull} {pricing.billingPolicy}</p>
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
@@ -678,7 +666,7 @@ export default function HomeClient({ posts }) {
       <section className="final-cta">
         <div className="container">
           <h2>Hate social media?<br />Good. We built this for you.</h2>
-          <p>You do not need to become a content creator. You need your business to look active, trustworthy, and open for business.<br />Plans start at {pricing.startingAtFull}.</p>
+          <p>You do not need to become a content creator. You need your business to look active, trustworthy, and open for business.<br />{pricing.summaryFull} {pricing.billingPolicy}</p>
           <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">GET MY SOCIAL MEDIA HANDLED</a>
         </div>
       </section>
@@ -689,7 +677,7 @@ export default function HomeClient({ posts }) {
           <h2>Questions from business owners who hate social media</h2>
           <div className="faq-list">
             <details className="faq-item"><summary>Will this get me more customers?</summary><p>It will not replace advertising. What it does is help convert the customers you are already almost getting. When someone hears about you through word of mouth, Google, or a referral, they often check your social media before taking the next step. If your last post was six months ago, they may hesitate. Fresh, professional content helps your business look active when that trust check happens.</p></details>
-            <details className="faq-item"><summary>How much does Glow Social cost?</summary><p>Glow Social Core costs {pricing.startingAtFull} with no contracts or commitments. Compare that to $3,000+/month for a marketing agency or $300+/month for an overseas contractor. You can cancel anytime and keep access through the end of your paid period.</p></details>
+            <details className="faq-item"><summary>How much does Glow Social cost?</summary><p>{pricing.summaryFull} {pricing.billingPolicy} Compare that to $3,000+/month for a marketing agency or $300+/month for an overseas contractor. You keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary>Can I cancel anytime?</summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary>What if I don&apos;t like the content?</summary><p>You have full editorial control. Edit any post before it goes live, regenerate content with different direction, or write your own. Every post is customized to your brand voice and can be adjusted before it publishes.</p></details>
             <details className="faq-item"><summary>How long does setup take?</summary><p>About 5 minutes. Answer a few questions about your business, connect your social media accounts, and you&apos;re done. No job posting, no interviews, no training required.</p></details>
@@ -699,7 +687,7 @@ export default function HomeClient({ posts }) {
             <details className="faq-item"><summary>How does the Google Review integration work?</summary><p>Google Review monitoring is included in Glo Pro and Glo Unlimited plans. Once connected, Glow Social monitors your reviews automatically and you can respond from your dashboard.</p></details>
             <details className="faq-item"><summary>Which platforms does Glow Social support?</summary><p>Glow Social supports the major platforms local businesses use, including Facebook, Instagram, LinkedIn, TikTok, Google Business Profile, Pinterest, and more. You only connect the platforms that matter for your business.</p></details>
             <details className="faq-item"><summary>Who is Glow Social best for?</summary><p>Business owners who know social media matters and hate having to personally manage it. If you have ever said &ldquo;I know I should be posting more&rdquo; while also having no desire to become a content creator, this is built for you.</p></details>
-            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. For {pricing.startingAtFull}, you get 12 custom posts a month, written in your voice, designed for your business, and scheduled for you, with Google Business Profile visibility and approval controls before content goes live.</p></details>
+            <details className="faq-item"><summary>What is Glow Social?</summary><p>Glow Social is a done-for-you social media service for small businesses. Core is {pricing.startingAtFull} and includes 12 custom posts a month, written in your voice, designed for your business, and scheduled for you, with Google Business Profile visibility and approval controls before content goes live.</p></details>
             <details className="faq-item"><summary>How does Glow Social compare to hiring a social media manager?</summary><p>A social media manager can cost $300-$500/month or more, requires onboarding, and still needs management. Glow Social starts at {pricing.startingAtFull} and handles the repeatable production work: writing, design, scheduling, and publishing rhythm.</p></details>
           </div>
         </div>

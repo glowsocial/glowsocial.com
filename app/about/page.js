@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { getPricing } from "../pricing-config";
 import "./about.css";
 
 export const metadata = {
@@ -8,6 +9,8 @@ export const metadata = {
 };
 
 export default function About() {
+  const pricing = getPricing();
+
   return (
     <>
       <script
@@ -57,9 +60,9 @@ export default function About() {
             </div>
             <div className="founder-text">
               <p className="founder-label">Meet the Founder</p>
-              <h2>Hi, I'm Kathleen.</h2>
+              <h2>Hi, I&apos;m Kathleen.</h2>
               <p>
-                I've spent 15+ years in digital marketing, helping businesses of all
+                I&apos;ve spent 15+ years in digital marketing, helping businesses of all
                 sizes grow their online presence.
               </p>
               <p>
@@ -68,13 +71,13 @@ export default function About() {
                 craft but completely invisible online.</strong>
               </p>
               <p>
-                The roofer who'd been in business 20 years — losing jobs to a franchise
+                The roofer who&apos;d been in business 20 years — losing jobs to a franchise
                 with better social media. The wedding photographer whose stunning work
                 nobody could find. The coach with transformational results and zero
                 online presence.
               </p>
               <p>
-                They didn't need another tool to learn. They needed someone to
+                They didn&apos;t need another tool to learn. They needed someone to
                 just <em>do it</em> for them.
               </p>
               <p className="founder-punchline">So I built Glow Social.</p>
@@ -103,22 +106,22 @@ export default function About() {
 
           <h2>Who We Serve</h2>
           <p>
-            We're built for the businesses that make a town worth living in:
+            We&apos;re built for the businesses that make a town worth living in:
             restaurants, salons, contractors, dentists, gyms, law firms,
-            boutiques, and every other local business that's too busy serving
+            boutiques, and every other local business that&apos;s too busy serving
             customers to post on Instagram.
           </p>
           <p>
             If you live where you work and your success makes your community
-            better — you're who we built this for.
+            better — you&apos;re who we built this for.
           </p>
           <p>
-            Visibility shouldn't be a luxury only corporations can afford.{" "}
+            Visibility shouldn&apos;t be a luxury only corporations can afford.{" "}
             <Link href="/manifesto">Read our manifesto</Link>.
           </p>
 
           <div className="about-cta">
-            <p className="about-cta-price">No contracts. Cancel anytime.</p>
+            <p className="about-cta-price">{pricing.summaryFull} {pricing.billingPolicy}</p>
             <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg">
               Start Your Glow Social Account →
             </a>

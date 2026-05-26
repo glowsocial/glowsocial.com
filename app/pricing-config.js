@@ -28,5 +28,7 @@ export function getPricing() {
     startingAt: '$99',
     startingAtFull: '$99/month',
     startingAtShort: '$99/mo',
+    summaryFull: 'Core $99/month. Pro $149/month. Unlimited $299/month.',
+    billingPolicy: 'No free trials. No contracts. Cancel anytime.',
   };
 }
