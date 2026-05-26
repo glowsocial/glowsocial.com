@@ -10,9 +10,38 @@ export const metadata = {
   },
 };
 
+function ToolJsonLd() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "Posting Frequency Calculator for Local Businesses",
+    applicationCategory: "BusinessApplication",
+    operatingSystem: "Web",
+    url: "https://glowsocial.com/tools/posting-frequency-calculator",
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "USD",
+    },
+    provider: {
+      "@type": "Organization",
+      name: "Glow Social",
+      url: "https://glowsocial.com",
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 export default function PostingFrequencyCalculatorPage() {
   return (
     <>
+      <ToolJsonLd />
       <section className="tools-hero">
         <div className="tools-hero-inner">
           <h1>Posting Frequency Calculator</h1>

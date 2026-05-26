@@ -17,6 +17,7 @@ function ToolJsonLd() {
     name: "Social Media Management Cost Calculator",
     applicationCategory: "BusinessApplication",
     operatingSystem: "Web",
+    url: "https://glowsocial.com/tools/social-media-management-cost-calculator",
     offers: {
       "@type": "Offer",
       price: "0",

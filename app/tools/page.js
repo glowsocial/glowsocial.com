@@ -34,9 +34,37 @@ const tools = [
   },
 ];
 
+function ToolsJsonLd() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Social Media Calculators and Planning Tools",
+    description:
+      "Free calculators for local businesses comparing social media management costs, posting frequency, and ROI.",
+    url: "https://glowsocial.com/tools",
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: tools.map((tool, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: tool.title,
+        url: `https://glowsocial.com${tool.href}`,
+      })),
+    },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 export default function ToolsPage() {
   return (
     <>
+      <ToolsJsonLd />
       <section className="tools-hero">
         <div className="tools-hero-inner">
           <h1>Social Media Calculators for Local Businesses</h1>

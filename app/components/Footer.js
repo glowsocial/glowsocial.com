@@ -29,6 +29,7 @@ export default function Footer() {
             <Link href="/blog">BLOG</Link>
             <Link href="/manifesto">MANIFESTO</Link>
             <Link href="/research">RESEARCH</Link>
+            <Link href="/tools">TOOLS</Link>
             <Link href="/about">ABOUT</Link>
             <a href="https://app.glowsocial.com/kb">HELP CENTER</a>
           </div>

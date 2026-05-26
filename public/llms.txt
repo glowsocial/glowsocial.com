@@ -55,6 +55,7 @@ Glow Social supports the major platforms local businesses use, including Faceboo
 - How it works: https://glowsocial.com/how-glow-social-works
 - FAQ: https://glowsocial.com/faq
 - Blog: https://glowsocial.com/blog
+- Q&A hub: https://glowsocial.com/resources/questions
 - About: https://glowsocial.com/about
 - For agencies: https://glowsocial.com/agency
 - For home services: https://glowsocial.com/home-services
@@ -78,3 +79,6 @@ Glow Social supports the major platforms local businesses use, including Faceboo
 - How to show up in ChatGPT for local business searches: https://glowsocial.com/blog/how-to-show-up-in-chatgpt-local-business-searches
 - How to show up in Perplexity as a local business: https://glowsocial.com/blog/how-to-show-up-in-perplexity-local-business
 - What AI assistants look for when recommending local businesses: https://glowsocial.com/blog/what-ai-assistants-look-for-local-business-recommendations
+- What is answer engine optimization: https://glowsocial.com/resources/questions/what-is-answer-engine-optimization
+- How can a local business show up in AI search: https://glowsocial.com/resources/questions/how-can-local-business-show-up-in-ai-search
+- What social media content builds trust for a local business: https://glowsocial.com/resources/questions/what-content-builds-trust-local-business

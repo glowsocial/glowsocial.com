@@ -102,6 +102,7 @@ export default function Header() {
                 <Link href="/about" onClick={closeAll}>ABOUT</Link>
                 <Link href="/manifesto" onClick={closeAll}>MANIFESTO</Link>
                 <Link href="/research" onClick={closeAll}>RESEARCH</Link>
+                <Link href="/tools" onClick={closeAll}>TOOLS</Link>
                 <a href="https://app.glowsocial.com/kb" onClick={closeAll}>HELP CENTER</a>
               </div>
             )}
@@ -175,6 +176,7 @@ export default function Header() {
                 <Link href="/about" onClick={closeAll}>ABOUT</Link>
                 <Link href="/manifesto" onClick={closeAll}>MANIFESTO</Link>
                 <Link href="/research" onClick={closeAll}>RESEARCH</Link>
+                <Link href="/tools" onClick={closeAll}>TOOLS</Link>
                 <a href="https://app.glowsocial.com/kb" onClick={closeAll}>HELP CENTER</a>
               </div>
             )}
