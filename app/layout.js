@@ -26,33 +26,33 @@ export const metadata = {
     },
   },
   title: {
-    default: "Glow Social | Social media for business owners who hate social media",
+    default: "Glow Social | Your social media, handled",
     template: "%s | Glow Social",
   },
   description:
-    "Glow Social gives business owners 12 custom social media posts a month, written in their voice and scheduled for them, so they look active online without becoming content creators.",
+    "Glow Social keeps your business active online with posts written in your voice, designed for your business, approved by you, and published where customers check.",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://glowsocial.com",
     siteName: "Glow Social",
-    title: "Glow Social | Social media for business owners who hate social media",
+    title: "Glow Social | Your social media, handled",
     description:
-      "For business owners who hate posting, but know customers check. 12 custom posts a month, written in your voice and scheduled for you.",
+      "Your business is open. Your online presence should make that obvious. Glow Social handles the posts, graphics, approvals, and publishing.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Glow Social — social media for business owners who hate social media. 12 custom posts a month, written and scheduled for you.",
+        alt: "Glow Social — your social media handled with posts written, designed, approved, and published for your business.",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Glow Social | Social media for business owners who hate social media",
+    title: "Glow Social | Your social media, handled",
     description:
-      "12 custom posts a month, written in your voice and scheduled for you, so your business looks active when customers check.",
+      "Glow Social keeps your business active online with posts written in your voice and published where customers check.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
@@ -72,7 +72,7 @@ const organizationSchema = {
   url: "https://glowsocial.com",
   logo: "https://glowsocial.com/icon.png",
   description:
-    "Social media for business owners who hate social media. Glow Social creates 12 custom posts a month, writes in your voice, creates graphics, and schedules posts to the platforms customers check.",
+    "Glow Social keeps local businesses active online by creating, designing, approving, and publishing social posts where customers check.",
   applicationCategory: "SocialMediaApplication",
   operatingSystem: "Web",
   offers: {

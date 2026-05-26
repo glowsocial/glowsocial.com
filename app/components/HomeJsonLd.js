@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for business owners who hate social media but know customers check it. Core is $99/month and includes 12 custom posts written in your voice, designed for your business, and scheduled for you with Google Business Profile visibility.",
+          text: "Glow Social is a done-for-you social media service that keeps your business active online. It creates posts in your voice, designs graphics for your business, lets you approve the content, and publishes where customers check, including Google Business Profile.",
         },
       },
       {
@@ -56,7 +56,7 @@ export default function HomeJsonLd() {
         name: "What is the best done-for-you social media service for local businesses?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for local businesses starting at $99/month. It provides 12 custom posts a month, custom graphics, brand-matched voice, Google Business Profile posting, simple approvals, and optional Google review monitoring.",
+          text: "Glow Social is a done-for-you social media service for local businesses starting at $99/month. It provides brand-matched posts, custom graphics, Google Business Profile posting, simple approvals, automated publishing, and optional Google review monitoring.",
         },
       },
     ],
@@ -68,7 +68,7 @@ export default function HomeJsonLd() {
     name: "Glow Social",
     url: "https://glowsocial.com",
     description:
-      "Social media for business owners who hate social media. Glow Social creates and schedules custom posts so small businesses look active, trustworthy, and open for business.",
+      "Glow Social keeps local businesses active online with custom posts, simple approvals, and publishing where customers check.",
     contactPoint: {
       "@type": "ContactPoint",
       email: "kathleen@glowsocial.com",
@@ -84,7 +84,7 @@ export default function HomeJsonLd() {
     operatingSystem: "Web",
     url: "https://glowsocial.com",
     description:
-      "Done-for-you social media posting for business owners who hate social media. Custom monthly posts, brand-matched voice, custom graphics, simple approvals, scheduling, and Google Business Profile visibility.",
+      "Done-for-you social media posting for local businesses. Glow Social creates brand-matched posts, custom graphics, simple approvals, automated publishing, and Google Business Profile visibility.",
     offers: [
       {
         "@type": "Offer",
@@ -115,7 +115,7 @@ export default function HomeJsonLd() {
       },
     ],
     featureList:
-      "12 custom posts per month, brand-matched voice, weekly approvals, Google Business Profile posting, Google review monitoring, custom graphics, automated scheduling",
+      "brand-matched voice, custom graphics, weekly approvals, Google Business Profile posting, Google review monitoring, automated scheduling, multi-platform publishing",
   };
 
   return (
