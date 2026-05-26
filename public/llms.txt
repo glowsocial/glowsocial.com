@@ -23,7 +23,6 @@ No contracts. Cancel anytime.
 
 - Done-for-you (not DIY tools) — content is created AND published automatically
 - $99/month vs $300-3,000/month for freelancers/agencies
-- $99/month vs $300–3,000/month for freelancers/agencies
 - Multi-platform support including Google Business Profile (Buffer and Later don't support GBP)
 - Google Review monitoring included in Pro+
 - 5-minute setup, no design skills needed
@@ -56,9 +55,30 @@ Glow Social supports the major platforms local businesses use, including Faceboo
 - How it works: https://glowsocial.com/how-it-works
 - FAQ: https://glowsocial.com/faq
 - Blog: https://glowsocial.com/blog
+- Q&A hub: https://glowsocial.com/resources/questions
 - About: https://glowsocial.com/about
 - For agencies: https://glowsocial.com/agency
 - For home services: https://glowsocial.com/home-services
 - AI Visibility Service: https://glowsocial.com/ai-visibility-service
 - Comparisons: https://glowsocial.com/compare
 - Local service areas: https://glowsocial.com/local
+- Research hub: https://glowsocial.com/research
+- Local business social media statistics: https://glowsocial.com/research/local-business-social-media-statistics
+- Social media pricing benchmarks: https://glowsocial.com/research/social-media-management-pricing-benchmarks-local-businesses
+- Posting frequency benchmarks: https://glowsocial.com/research/local-business-posting-frequency-benchmarks
+- Google Business Profile posting benchmarks: https://glowsocial.com/research/google-business-profile-posting-benchmarks
+- Pinterest vs Instagram data: https://glowsocial.com/research/pinterest-vs-instagram-local-business-data
+- Tools hub: https://glowsocial.com/tools
+- Cost calculator: https://glowsocial.com/tools/social-media-management-cost-calculator
+- Posting frequency calculator: https://glowsocial.com/tools/posting-frequency-calculator
+- ROI estimator: https://glowsocial.com/tools/social-media-roi-estimator
+
+## AI visibility resources
+
+- AI search optimization for local businesses: https://glowsocial.com/blog/ai-search-optimization-local-businesses
+- How to show up in ChatGPT for local business searches: https://glowsocial.com/blog/how-to-show-up-in-chatgpt-local-business-searches
+- How to show up in Perplexity as a local business: https://glowsocial.com/blog/how-to-show-up-in-perplexity-local-business
+- What AI assistants look for when recommending local businesses: https://glowsocial.com/blog/what-ai-assistants-look-for-local-business-recommendations
+- What is answer engine optimization: https://glowsocial.com/resources/questions/what-is-answer-engine-optimization
+- How can a local business show up in AI search: https://glowsocial.com/resources/questions/how-can-local-business-show-up-in-ai-search
+- What social media content builds trust for a local business: https://glowsocial.com/resources/questions/what-content-builds-trust-local-business

@@ -16,56 +16,57 @@ export default function Footer() {
           </div>
 
           <div className="footer-col">
-            <h4>Product</h4>
-            <Link href="/how-it-works">How It Works</Link>
-            <Link href="/pricing">Pricing</Link>
-            <Link href="/affordable-social-media-management">Affordable Social Media</Link>
+            <h4>PRODUCT</h4>
+            <Link href="/how-it-works">HOW IT WORKS</Link>
+            <Link href="/pricing">PRICING</Link>
+            <Link href="/affordable-social-media-management">AFFORDABLE SOCIAL MEDIA</Link>
             <Link href="/faq">FAQ</Link>
-            <a href="https://app.glowsocial.com/examples">See Examples</a>
+            <a href="https://app.glowsocial.com/examples">SEE EXAMPLES</a>
           </div>
 
           <div className="footer-col">
-            <h4>Resources</h4>
-            <Link href="/blog">Blog</Link>
-            <Link href="/manifesto">Manifesto</Link>
-            <Link href="/research">Research</Link>
-            <Link href="/about">About</Link>
-            <a href="https://app.glowsocial.com/kb">Help Center</a>
+            <h4>RESOURCES</h4>
+            <Link href="/blog">BLOG</Link>
+            <Link href="/manifesto">MANIFESTO</Link>
+            <Link href="/research">RESEARCH</Link>
+            <Link href="/tools">TOOLS</Link>
+            <Link href="/about">ABOUT</Link>
+            <a href="https://app.glowsocial.com/kb">HELP CENTER</a>
           </div>
 
           <div className="footer-col">
-            <h4>Compare</h4>
-            <Link href="/compare/marky-alternative">Marky Alternative</Link>
-            <Link href="/compare/later-alternative">Later Alternative</Link>
-            <Link href="/blog/buffer-vs-glow-social">Buffer vs. Glow Social</Link>
-            <Link href="/compare/chatgpt-alternative">ChatGPT Alternative</Link>
-            <Link href="/blog/hootsuite-vs-glow-social">Hootsuite vs. Glow Social</Link>
-            <Link href="/blog/sprout-social-vs-glow-social">Sprout Social vs. Glow Social</Link>
-            <Link href="/compare/loomly-alternative">Loomly Alternative</Link>
+            <h4>COMPARE</h4>
+            <Link href="/compare/marky-alternative">MARKY ALTERNATIVE</Link>
+            <Link href="/compare/later-alternative">LATER ALTERNATIVE</Link>
+            <Link href="/blog/buffer-vs-glow-social">BUFFER VS. GLOW SOCIAL</Link>
+            <Link href="/compare/chatgpt-alternative">CHATGPT ALTERNATIVE</Link>
+            <Link href="/blog/hootsuite-vs-glow-social">HOOTSUITE VS. GLOW SOCIAL</Link>
+            <Link href="/blog/sprout-social-vs-glow-social">SPROUT SOCIAL VS. GLOW SOCIAL</Link>
+            <Link href="/compare/loomly-alternative">LOOMLY ALTERNATIVE</Link>
           </div>
 
           <div className="footer-col">
-            <h4>Connect</h4>
+            <h4>CONNECT</h4>
             <a
               href="https://www.linkedin.com/company/glowsocialhq/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              LinkedIn
+              LINKEDIN
             </a>
             <a
               href="https://instagram.com/glowsocialhq"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Instagram
+              INSTAGRAM
             </a>
             <a
               href="https://facebook.com/glowsocialhq"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Facebook
+              FACEBOOK
             </a>
           </div>
         </div>
@@ -73,8 +74,8 @@ export default function Footer() {
         <div className="footer-bottom">
           <div>&copy; {new Date().getFullYear()} Glow Social. All rights reserved.</div>
           <div className="footer-bottom-links">
-            <Link href="/privacy">Privacy Policy</Link>
-            <Link href="/terms">Terms of Service</Link>
+            <Link href="/privacy">PRIVACY POLICY</Link>
+            <Link href="/terms">TERMS OF SERVICE</Link>
           </div>
         </div>
       </div>

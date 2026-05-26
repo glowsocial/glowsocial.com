@@ -1,4 +1,10 @@
-import { getAllBlogPosts, getAllLocalPages, getAllComparisonPages, getAllQuestions } from "@/lib/posts";
+import {
+  getAllBlogPosts,
+  getAllLocalPages,
+  getAllComparisonPages,
+  getAllQuestions,
+  getAllResearchPages,
+} from "@/lib/posts";
 
 const BASE_URL = "https://glowsocial.com";
 
@@ -31,6 +37,13 @@ export default function sitemap() {
     priority: 0.7,
   }));
 
+  const researchPages = getAllResearchPages().map((page) => ({
+    url: `${BASE_URL}/research/${page.slug}`,
+    lastModified: page.date ? new Date(page.date) : new Date(),
+    changeFrequency: "monthly",
+    priority: 0.8,
+  }));
+
   const staticPages = [
     { path: "", priority: 1.0, changeFrequency: "weekly" },
     { path: "/blog", priority: 0.8, changeFrequency: "daily" },
@@ -55,6 +68,11 @@ export default function sitemap() {
     { path: "/manifesto", priority: 0.5, changeFrequency: "yearly" },
     { path: "/lets-meet", priority: 0.6, changeFrequency: "monthly" },
     { path: "/resources/questions", priority: 0.8, changeFrequency: "daily" },
+    { path: "/tools", priority: 0.8, changeFrequency: "monthly" },
+    { path: "/tools/social-media-management-cost-calculator", priority: 0.8, changeFrequency: "monthly" },
+    { path: "/tools/diy-vs-agency-cost-calculator", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/tools/posting-frequency-calculator", priority: 0.8, changeFrequency: "monthly" },
+    { path: "/tools/social-media-roi-estimator", priority: 0.8, changeFrequency: "monthly" },
   ].map(({ path, priority, changeFrequency }) => ({
     url: `${BASE_URL}${path}`,
     lastModified: new Date(),
@@ -68,5 +86,6 @@ export default function sitemap() {
     ...localPages,
     ...comparisonPages,
     ...questionsPages,
+    ...researchPages,
   ];
 }
