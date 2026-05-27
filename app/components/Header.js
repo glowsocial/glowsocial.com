@@ -1,111 +1,84 @@
-"use client";
+/* eslint-disable @next/next/no-html-link-for-pages */
 
-import Link from "next/link";
-import { useState, useEffect, useRef } from "react";
+const compareLinks = [
+  ["/compare/marky-alternative", "VS MARKY"],
+  ["/compare/later-alternative", "VS LATER"],
+  ["/blog/buffer-vs-glow-social", "VS BUFFER"],
+  ["/blog/hootsuite-vs-glow-social", "VS HOOTSUITE"],
+  ["/blog/sprout-social-vs-glow-social", "VS SPROUT SOCIAL"],
+  ["/compare/chatgpt-alternative", "VS CHATGPT"],
+  ["/compare/loomly-alternative", "VS LOOMLY"],
+];
+
+const resourceLinks = [
+  ["/blog", "BLOG"],
+  ["/affordable-social-media-management", "AFFORDABLE SOCIAL MEDIA"],
+  ["/about", "ABOUT"],
+  ["/manifesto", "MANIFESTO"],
+  ["/research", "RESEARCH"],
+  ["/tools", "TOOLS"],
+];
+
+function Chevron({ className = "nav-chevron" }) {
+  return (
+    <svg className={className} width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+      <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+function DropdownLinks({ links }) {
+  return (
+    <>
+      {links.map(([href, label]) => (
+        <a href={href} key={href}>
+          {label}
+        </a>
+      ))}
+    </>
+  );
+}
 
 export default function Header() {
-  const [mobileOpen, setMobileOpen] = useState(false);
-  const [activeDropdown, setActiveDropdown] = useState(null);
-  const headerRef = useRef(null);
-
-  // Close dropdowns when clicking outside
-  useEffect(() => {
-    function handleClickOutside(e) {
-      if (headerRef.current && !headerRef.current.contains(e.target)) {
-        setActiveDropdown(null);
-      }
-    }
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
-  }, []);
-
-  // Close mobile menu on route change (escape key too)
-  useEffect(() => {
-    function handleEsc(e) {
-      if (e.key === "Escape") {
-        setMobileOpen(false);
-        setActiveDropdown(null);
-      }
-    }
-    document.addEventListener("keydown", handleEsc);
-    return () => document.removeEventListener("keydown", handleEsc);
-  }, []);
-
-  // Prevent body scroll when mobile menu is open
-  useEffect(() => {
-    document.body.style.overflow = mobileOpen ? "hidden" : "";
-    return () => { document.body.style.overflow = ""; };
-  }, [mobileOpen]);
-
-  const toggleDropdown = (name) => {
-    setActiveDropdown(activeDropdown === name ? null : name);
-  };
-
-  const closeAll = () => {
-    setMobileOpen(false);
-    setActiveDropdown(null);
-  };
-
   return (
-    <header className="site-header" ref={headerRef}>
+    <header className="site-header">
+      <input className="mobile-menu-checkbox" type="checkbox" id="mobile-nav-toggle" />
+
       <div className="container">
-        <Link href="/" className="site-logo" onClick={closeAll}>
-          <img src="/images/glow-social-logo.png" alt="Glow Social" />
-        </Link>
+        <a href="/" className="site-logo">
+          <img
+            src="/images/glow-social-logo.png"
+            alt="Glow Social"
+            width="676"
+            height="196"
+            decoding="async"
+            fetchPriority="high"
+          />
+        </a>
 
-        {/* Desktop Nav */}
-        <nav className="site-nav">
-          <Link href="/how-it-works">HOW IT WORKS</Link>
-          <Link href="/pricing">PRICING</Link>
+        <nav className="site-nav" aria-label="Primary navigation">
+          <a href="/how-it-works">HOW IT WORKS</a>
+          <a href="/pricing">PRICING</a>
 
-          {/* Compare Dropdown */}
           <div className="nav-dropdown-wrapper">
-            <button
-              className="nav-dropdown-trigger"
-              onClick={() => toggleDropdown("compare")}
-              aria-expanded={activeDropdown === "compare"}
-            >
+            <button className="nav-dropdown-trigger" type="button">
               COMPARE
-              <svg className="nav-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none">
-                <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
+              <Chevron />
             </button>
-            {activeDropdown === "compare" && (
-              <div className="nav-dropdown">
-                <Link href="/compare/marky-alternative" onClick={closeAll}>VS MARKY</Link>
-                <Link href="/compare/later-alternative" onClick={closeAll}>VS LATER</Link>
-                <Link href="/blog/buffer-vs-glow-social" onClick={closeAll}>VS BUFFER</Link>
-                <Link href="/blog/hootsuite-vs-glow-social" onClick={closeAll}>VS HOOTSUITE</Link>
-                <Link href="/blog/sprout-social-vs-glow-social" onClick={closeAll}>VS SPROUT SOCIAL</Link>
-                <Link href="/compare/chatgpt-alternative" onClick={closeAll}>VS CHATGPT</Link>
-                <Link href="/compare/loomly-alternative" onClick={closeAll}>VS LOOMLY</Link>
-              </div>
-            )}
+            <div className="nav-dropdown">
+              <DropdownLinks links={compareLinks} />
+            </div>
           </div>
 
-          {/* Resources Dropdown */}
           <div className="nav-dropdown-wrapper">
-            <button
-              className="nav-dropdown-trigger"
-              onClick={() => toggleDropdown("resources")}
-              aria-expanded={activeDropdown === "resources"}
-            >
+            <button className="nav-dropdown-trigger" type="button">
               RESOURCES
-              <svg className="nav-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none">
-                <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
+              <Chevron />
             </button>
-            {activeDropdown === "resources" && (
-              <div className="nav-dropdown">
-                <Link href="/blog" onClick={closeAll}>BLOG</Link>
-                <Link href="/affordable-social-media-management" onClick={closeAll}>AFFORDABLE SOCIAL MEDIA</Link>
-                <Link href="/about" onClick={closeAll}>ABOUT</Link>
-                <Link href="/manifesto" onClick={closeAll}>MANIFESTO</Link>
-                <Link href="/research" onClick={closeAll}>RESEARCH</Link>
-                <Link href="/tools" onClick={closeAll}>TOOLS</Link>
-                <a href="https://app.glowsocial.com/kb" onClick={closeAll}>HELP CENTER</a>
-              </div>
-            )}
+            <div className="nav-dropdown">
+              <DropdownLinks links={resourceLinks} />
+              <a href="https://app.glowsocial.com/kb">HELP CENTER</a>
+            </div>
           </div>
         </nav>
 
@@ -118,80 +91,54 @@ export default function Header() {
           </a>
         </div>
 
-        {/* Mobile Menu Toggle */}
-        <button
-          className={`mobile-menu-toggle ${mobileOpen ? "is-active" : ""}`}
+        <label
+          className="mobile-menu-toggle"
+          htmlFor="mobile-nav-toggle"
           aria-label="Toggle menu"
-          onClick={() => setMobileOpen(!mobileOpen)}
+          aria-controls="mobile-menu"
         >
           <span></span>
           <span></span>
           <span></span>
-        </button>
+        </label>
       </div>
 
-      {/* Mobile Menu */}
-      {mobileOpen && (
-        <div className="mobile-menu">
-          <nav className="mobile-nav">
-            <Link href="/how-it-works" onClick={closeAll}>HOW IT WORKS</Link>
-            <Link href="/pricing" onClick={closeAll}>PRICING</Link>
+      <div className="mobile-menu" id="mobile-menu">
+        <nav className="mobile-nav" aria-label="Mobile navigation">
+          <a href="/how-it-works">HOW IT WORKS</a>
+          <a href="/pricing">PRICING</a>
 
-            {/* Compare accordion */}
-            <button
-              className="mobile-nav-section"
-              onClick={() => toggleDropdown("m-compare")}
-            >
+          <details className="mobile-nav-details">
+            <summary className="mobile-nav-section">
               COMPARE
-              <svg className={`nav-chevron ${activeDropdown === "m-compare" ? "is-open" : ""}`} width="10" height="6" viewBox="0 0 10 6" fill="none">
-                <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
-            </button>
-            {activeDropdown === "m-compare" && (
-              <div className="mobile-nav-sub">
-                <Link href="/compare/marky-alternative" onClick={closeAll}>VS MARKY</Link>
-                <Link href="/compare/later-alternative" onClick={closeAll}>VS LATER</Link>
-                <Link href="/blog/buffer-vs-glow-social" onClick={closeAll}>VS BUFFER</Link>
-                <Link href="/blog/hootsuite-vs-glow-social" onClick={closeAll}>VS HOOTSUITE</Link>
-                <Link href="/blog/sprout-social-vs-glow-social" onClick={closeAll}>VS SPROUT SOCIAL</Link>
-                <Link href="/compare/chatgpt-alternative" onClick={closeAll}>VS CHATGPT</Link>
-                <Link href="/compare/loomly-alternative" onClick={closeAll}>VS LOOMLY</Link>
-              </div>
-            )}
-
-            {/* Resources accordion */}
-            <button
-              className="mobile-nav-section"
-              onClick={() => toggleDropdown("m-resources")}
-            >
-              RESOURCES
-              <svg className={`nav-chevron ${activeDropdown === "m-resources" ? "is-open" : ""}`} width="10" height="6" viewBox="0 0 10 6" fill="none">
-                <path d="M1 1L5 5L9 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
-            </button>
-            {activeDropdown === "m-resources" && (
-              <div className="mobile-nav-sub">
-                <Link href="/blog" onClick={closeAll}>BLOG</Link>
-                <Link href="/affordable-social-media-management" onClick={closeAll}>AFFORDABLE SOCIAL MEDIA</Link>
-                <Link href="/about" onClick={closeAll}>ABOUT</Link>
-                <Link href="/manifesto" onClick={closeAll}>MANIFESTO</Link>
-                <Link href="/research" onClick={closeAll}>RESEARCH</Link>
-                <Link href="/tools" onClick={closeAll}>TOOLS</Link>
-                <a href="https://app.glowsocial.com/kb" onClick={closeAll}>HELP CENTER</a>
-              </div>
-            )}
-
-            <div className="mobile-nav-ctas">
-              <a href="https://app.glowsocial.com/login" className="btn btn--outline btn--block" onClick={closeAll}>
-                LOG IN
-              </a>
-              <a href="https://app.glowsocial.com/signup" className="btn btn--primary btn--block" onClick={closeAll}>
-                GET STARTED
-              </a>
+              <Chevron />
+            </summary>
+            <div className="mobile-nav-sub">
+              <DropdownLinks links={compareLinks} />
             </div>
-          </nav>
-        </div>
-      )}
+          </details>
+
+          <details className="mobile-nav-details">
+            <summary className="mobile-nav-section">
+              RESOURCES
+              <Chevron />
+            </summary>
+            <div className="mobile-nav-sub">
+              <DropdownLinks links={resourceLinks} />
+              <a href="https://app.glowsocial.com/kb">HELP CENTER</a>
+            </div>
+          </details>
+
+          <div className="mobile-nav-ctas">
+            <a href="https://app.glowsocial.com/login" className="btn btn--outline btn--block">
+              LOG IN
+            </a>
+            <a href="https://app.glowsocial.com/signup" className="btn btn--primary btn--block">
+              GET STARTED
+            </a>
+          </div>
+        </nav>
+      </div>
     </header>
   );
 }

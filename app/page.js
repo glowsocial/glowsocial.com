@@ -1,5 +1,5 @@
-import HomeClient from "./components/HomeClient";
+import HomePageContent from "./components/HomePageContent";
 
 export default function HomePage() {
-  return <HomeClient />;
+  return <HomePageContent />;
 }

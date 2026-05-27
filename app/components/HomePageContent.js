@@ -1,51 +1,14 @@
-"use client";
-
-import { useEffect, useRef, useState, useMemo } from "react";
-import Link from "next/link";
 import HomeJsonLd from "./HomeJsonLd";
 import { getPricing } from "../pricing-config";
+import StickyMobileCta from "./StickyMobileCta";
 import "../home.css";
 
 function BrandName() {
   return <span className="brand-nowrap">Glow Social</span>;
 }
 
-export default function HomeClient() {
-  const [activeTab, setActiveTab] = useState("connect");
-  const [visibleSections, setVisibleSections] = useState(new Set());
-  const pricing = useMemo(() => getPricing(), []);
-
-  // Intersection observer for fade-in animations
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            setVisibleSections((prev) => new Set([...prev, entry.target.id]));
-          }
-        });
-      },
-      { threshold: 0.15 }
-    );
-    document.querySelectorAll("[data-animate]").forEach((el) => observer.observe(el));
-    return () => observer.disconnect();
-  }, []);
-
-  // Sticky mobile CTA
-  useEffect(() => {
-    const stickyCta = document.getElementById("stickyCta");
-    const hero = document.querySelector(".hero");
-    if (hero && stickyCta) {
-      const observer = new IntersectionObserver(
-        (entries) => {
-          stickyCta.classList.toggle("visible", !entries[0].isIntersecting);
-        },
-        { threshold: 0 }
-      );
-      observer.observe(hero);
-      return () => observer.disconnect();
-    }
-  }, []);
+export default function HomePageContent() {
+  const pricing = getPricing();
 
   return (
     <>
@@ -70,25 +33,21 @@ export default function HomeClient() {
           </p>
           <form
             className="hero-url-form"
-            onSubmit={(e) => {
-              e.preventDefault();
-              const url = e.target.elements.website.value.trim();
-              if (url) {
-                const encoded = encodeURIComponent(url);
-                window.location.href = `https://app.glowsocial.com/preview?url=${encoded}`;
-              }
-            }}
+            action="https://app.glowsocial.com/preview"
+            method="get"
             id="hero-url-form"
           >
             <div className="hero-url-input-wrap">
               <svg className="hero-url-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
               <input
                 type="text"
-                name="website"
+                name="url"
                 placeholder="yourwebsite.com"
                 className="hero-url-input"
                 autoComplete="off"
+                inputMode="url"
                 id="hero-url-input"
+                required
               />
               <button type="submit" className="hero-url-btn" id="hero-url-submit">
                 SEE WHAT WE&apos;D POST →
@@ -149,8 +108,8 @@ export default function HomeClient() {
 
 
       {/* ============ THE PROBLEM ============ */}
-      <section className="brain-problem" id="brain-problem" data-animate>
-        <div className={`container ${visibleSections.has("brain-problem") ? "fade-in" : "fade-hidden"}`}>
+      <section className="brain-problem" id="brain-problem">
+        <div className="container">
           <h2>Your business is active.<br />The internet should show that.</h2>
           <p className="section-sub">
             Customers are not looking for a perfect content strategy. They are checking whether your business looks current, real, and worth contacting.
@@ -177,8 +136,8 @@ export default function HomeClient() {
       </section>
 
       {/* ============ SOLUTION — What Glow Social handles ============ */}
-      <section className="features" id="features" data-animate>
-        <div className={`container ${visibleSections.has("features") ? "fade-in" : "fade-hidden"}`}>
+      <section className="features" id="features">
+        <div className="container">
           <h2>What <BrandName /> gives you</h2>
           <p className="section-sub">A steady online presence that feels like your business, without adding social media to your week.</p>
           <div className="features-grid">
@@ -203,41 +162,45 @@ export default function HomeClient() {
       </section>
 
       {/* ============ HOW IT WORKS — Tabbed ============ */}
-      <section className="how" id="how" data-animate>
-        <div className={`container ${visibleSections.has("how") ? "fade-in" : "fade-hidden"}`}>
+      <section className="how" id="how">
+        <div className="container">
           <h2>A few details once.<br /><BrandName /> keeps showing up for you.</h2>
           <p className="section-sub">Setup is short. After that, <BrandName /> turns your business details into a steady, handled online presence.</p>
 
           <div className="how-tabs">
-            <div className="how-tab-buttons">
-              <button
-                className={`how-tab-btn ${activeTab === "connect" ? "active" : ""}`}
-                onClick={() => setActiveTab("connect")}
-                id="tab-connect"
+            <input className="how-tab-input" type="radio" name="home-how-tab" id="tab-connect" defaultChecked />
+            <input className="how-tab-input" type="radio" name="home-how-tab" id="tab-pick" />
+            <input className="how-tab-input" type="radio" name="home-how-tab" id="tab-post" />
+
+            <div className="how-tab-buttons" aria-label="How Glow Social works">
+              <label
+                className="how-tab-btn"
+                htmlFor="tab-connect"
+                id="tab-connect-label"
               >
                 <span className="step-num">1</span>
                 <span>SETUP</span>
-              </button>
-              <button
-                className={`how-tab-btn ${activeTab === "pick" ? "active" : ""}`}
-                onClick={() => setActiveTab("pick")}
-                id="tab-pick"
+              </label>
+              <label
+                className="how-tab-btn"
+                htmlFor="tab-pick"
+                id="tab-pick-label"
               >
                 <span className="step-num">2</span>
                 <span>READY</span>
-              </button>
-              <button
-                className={`how-tab-btn ${activeTab === "post" ? "active" : ""}`}
-                onClick={() => setActiveTab("post")}
-                id="tab-post"
+              </label>
+              <label
+                className="how-tab-btn"
+                htmlFor="tab-post"
+                id="tab-post-label"
               >
                 <span className="step-num">3</span>
                 <span>LIVE</span>
-              </button>
+              </label>
             </div>
 
             <div className="how-tab-panels">
-              <div className={`how-tab-panel ${activeTab === "connect" ? "active" : ""}`} data-panel="connect">
+              <div className="how-tab-panel how-tab-panel--connect" data-panel="connect" aria-labelledby="tab-connect-label">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
                     <h3><BrandName /> learns your business.</h3>
@@ -276,7 +239,7 @@ export default function HomeClient() {
                 </div>
               </div>
 
-              <div className={`how-tab-panel ${activeTab === "pick" ? "active" : ""}`} data-panel="pick">
+              <div className="how-tab-panel how-tab-panel--pick" data-panel="pick" aria-labelledby="tab-pick-label">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
                     <h3>Posts are prepared for you.</h3>
@@ -284,12 +247,12 @@ export default function HomeClient() {
                     <p>You can take a quick look when you want, but you are never starting from a blank page.</p>
                   </div>
                   <div className="how-panel-img">
-                    <img src="/images/app-sparks.png" alt="Glow Social sparks picker — swipe through content ideas and choose the ones you love" />
+                    <img src="/images/app-sparks.png" alt="Glow Social sparks picker - swipe through content ideas and choose the ones you love" loading="lazy" decoding="async" width="504" height="489" />
                   </div>
                 </div>
               </div>
 
-              <div className={`how-tab-panel ${activeTab === "post" ? "active" : ""}`} data-panel="post">
+              <div className="how-tab-panel how-tab-panel--post" data-panel="post" aria-labelledby="tab-post-label">
                 <div className="how-panel-content">
                   <div className="how-panel-text">
                     <h3>Your pages stay current.</h3>
@@ -401,8 +364,8 @@ export default function HomeClient() {
       </section>
 
       {/* ============ GBP + REVIEWS ============ */}
-      <section className="gbp-reviews" id="gbp" data-animate>
-        <div className={`container ${visibleSections.has("gbp") ? "fade-in" : "fade-hidden"}`}>
+      <section className="gbp-reviews" id="gbp">
+        <div className="container">
           <h2>Where local trust gets checked</h2>
           <p className="section-sub"><BrandName /> keeps the places customers already look from going quiet.</p>
           <div className="gbp-grid">
@@ -435,8 +398,8 @@ export default function HomeClient() {
       </section>
 
       {/* ============ PRICING ============ */}
-      <section className="pricing" id="pricing" data-animate>
-        <div className={`container ${visibleSections.has("pricing") ? "fade-in" : "fade-hidden"}`}>
+      <section className="pricing" id="pricing">
+        <div className="container">
           <h2>Choose how handled you want it.</h2>
           <p className="section-sub">Start with the level of presence you want. Add review monitoring and more formats only when they are useful. {pricing.billingPolicy}</p>
           <div className="pricing-grid">
@@ -512,15 +475,15 @@ export default function HomeClient() {
             alt="ElevenLabs Startup Grant Recipient"
             width={250}
             height={50}
+            loading="lazy"
+            decoding="async"
             style={{ display: 'block' }}
           />
         </a>
       </div>
 
       {/* STICKY MOBILE CTA */}
-      <div className="sticky-mobile-cta" id="stickyCta">
-        <a href="https://app.glowsocial.com/">SEE WHAT WE&apos;D POST</a>
-      </div>
+      <StickyMobileCta />
     </>
   );
 }

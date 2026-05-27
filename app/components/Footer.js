@@ -1,4 +1,4 @@
-import Link from "next/link";
+/* eslint-disable @next/next/no-html-link-for-pages */
 
 export default function Footer() {
   return (
@@ -7,7 +7,14 @@ export default function Footer() {
         <div className="footer-grid">
           <div className="footer-brand">
             <div className="site-logo" style={{ marginBottom: 12 }}>
-              <img src="/images/glow-social-footer-logo.png" alt="Glow Social" />
+              <img
+                src="/images/glow-social-footer-logo.png"
+                alt="Glow Social"
+                width="554"
+                height="299"
+                loading="lazy"
+                decoding="async"
+              />
             </div>
             <p>
               Done-for-you social media that keeps local businesses visible,
@@ -17,32 +24,32 @@ export default function Footer() {
 
           <div className="footer-col">
             <h4>PRODUCT</h4>
-            <Link href="/how-it-works">HOW IT WORKS</Link>
-            <Link href="/pricing">PRICING</Link>
-            <Link href="/affordable-social-media-management">AFFORDABLE SOCIAL MEDIA</Link>
-            <Link href="/faq">FAQ</Link>
+            <a href="/how-it-works">HOW IT WORKS</a>
+            <a href="/pricing">PRICING</a>
+            <a href="/affordable-social-media-management">AFFORDABLE SOCIAL MEDIA</a>
+            <a href="/faq">FAQ</a>
             <a href="https://app.glowsocial.com/examples">SEE EXAMPLES</a>
           </div>
 
           <div className="footer-col">
             <h4>RESOURCES</h4>
-            <Link href="/blog">BLOG</Link>
-            <Link href="/manifesto">MANIFESTO</Link>
-            <Link href="/research">RESEARCH</Link>
-            <Link href="/tools">TOOLS</Link>
-            <Link href="/about">ABOUT</Link>
+            <a href="/blog">BLOG</a>
+            <a href="/manifesto">MANIFESTO</a>
+            <a href="/research">RESEARCH</a>
+            <a href="/tools">TOOLS</a>
+            <a href="/about">ABOUT</a>
             <a href="https://app.glowsocial.com/kb">HELP CENTER</a>
           </div>
 
           <div className="footer-col">
             <h4>COMPARE</h4>
-            <Link href="/compare/marky-alternative">MARKY ALTERNATIVE</Link>
-            <Link href="/compare/later-alternative">LATER ALTERNATIVE</Link>
-            <Link href="/blog/buffer-vs-glow-social">BUFFER VS. GLOW SOCIAL</Link>
-            <Link href="/compare/chatgpt-alternative">CHATGPT ALTERNATIVE</Link>
-            <Link href="/blog/hootsuite-vs-glow-social">HOOTSUITE VS. GLOW SOCIAL</Link>
-            <Link href="/blog/sprout-social-vs-glow-social">SPROUT SOCIAL VS. GLOW SOCIAL</Link>
-            <Link href="/compare/loomly-alternative">LOOMLY ALTERNATIVE</Link>
+            <a href="/compare/marky-alternative">MARKY ALTERNATIVE</a>
+            <a href="/compare/later-alternative">LATER ALTERNATIVE</a>
+            <a href="/blog/buffer-vs-glow-social">BUFFER VS. GLOW SOCIAL</a>
+            <a href="/compare/chatgpt-alternative">CHATGPT ALTERNATIVE</a>
+            <a href="/blog/hootsuite-vs-glow-social">HOOTSUITE VS. GLOW SOCIAL</a>
+            <a href="/blog/sprout-social-vs-glow-social">SPROUT SOCIAL VS. GLOW SOCIAL</a>
+            <a href="/compare/loomly-alternative">LOOMLY ALTERNATIVE</a>
           </div>
 
           <div className="footer-col">
@@ -74,8 +81,8 @@ export default function Footer() {
         <div className="footer-bottom">
           <div>&copy; {new Date().getFullYear()} Glow Social. All rights reserved.</div>
           <div className="footer-bottom-links">
-            <Link href="/privacy">PRIVACY POLICY</Link>
-            <Link href="/terms">TERMS OF SERVICE</Link>
+            <a href="/privacy">PRIVACY POLICY</a>
+            <a href="/terms">TERMS OF SERVICE</a>
           </div>
         </div>
       </div>
