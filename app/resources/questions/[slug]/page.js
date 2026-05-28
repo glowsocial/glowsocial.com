@@ -73,7 +73,11 @@ function stripMarkdown(value) {
     .replace(/```[\s\S]*?```/g, "")
     .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
     .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-    .replace(/[#>*_`-]/g, "")
+    .replace(/^#{1,6}\s+/gm, "")
+    .replace(/^\s*>\s?/gm, "")
+    .replace(/^\s*[-*+]\s+/gm, "")
+    .replace(/^\s*\d+\.\s+/gm, "")
+    .replace(/[*_`]/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -83,28 +87,23 @@ function getDirectAnswer(content, fallback = "") {
   return stripMarkdown(match ? match[1] : fallback);
 }
 
-function QAPageJsonLd({ question }) {
+function QuestionFaqJsonLd({ question }) {
   const answer = getDirectAnswer(question.content, question.description);
   if (!answer) return null;
 
   const schema = {
     "@context": "https://schema.org",
-    "@type": "QAPage",
-    mainEntity: {
-      "@type": "Question",
-      name: question.title,
-      answerCount: 1,
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: answer,
-        author: {
-          "@type": "Organization",
-          name: "Glow Social",
-          url: "https://glowsocial.com",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: question.title,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: answer,
         },
-        dateCreated: question.date,
       },
-    },
+    ],
   };
 
   return (
@@ -187,7 +186,7 @@ export default async function QuestionPage({ params }) {
         slug={slug}
         body={question.content}
       />
-      <QAPageJsonLd question={question} />
+      <QuestionFaqJsonLd question={question} />
       <BreadcrumbJsonLd title={question.title} slug={slug} />
       <PersonJsonLd />
       
