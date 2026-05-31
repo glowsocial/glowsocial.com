@@ -72,7 +72,18 @@ export default function HomePageContent() {
             </span>
             <h1>
               <span>Social media for</span>
-              <span>local businesses.</span>
+              <span className="hero-audience" aria-hidden="true">
+                <span className="hero-audience-track">
+                  <span>cafes.</span>
+                  <span>salons.</span>
+                  <span>contractors.</span>
+                  <span>clinics.</span>
+                  <span>realtors.</span>
+                  <span>local shops.</span>
+                  <span>cafes.</span>
+                </span>
+              </span>
+              <span className="visually-hidden">local businesses.</span>
             </h1>
             <p className="hero-sub">
               Paste your website. <BrandName /> turns it into finished posts for Instagram, Facebook, LinkedIn, and Google Business Profile.

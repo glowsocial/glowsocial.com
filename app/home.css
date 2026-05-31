@@ -37,6 +37,28 @@
   to { opacity: 1; transform: translateY(0); }
 }
 
+@keyframes audienceSwap {
+  0%, 10% { transform: translateY(0); }
+  14%, 24% { transform: translateY(-1.1em); }
+  28%, 38% { transform: translateY(-2.2em); }
+  42%, 52% { transform: translateY(-3.3em); }
+  56%, 66% { transform: translateY(-4.4em); }
+  70%, 80% { transform: translateY(-5.5em); }
+  84%, 100% { transform: translateY(-6.6em); }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* ---- Announcement Bar ---- */
 .announce-bar {
   background: var(--navy);
@@ -158,8 +180,26 @@
   overflow-wrap: anywhere;
 }
 
-.hero h1 span {
+.hero h1 > span {
   display: block;
+}
+
+.hero-audience {
+  height: 1.1em;
+  line-height: 1.1;
+  overflow: hidden;
+}
+
+.hero-audience-track {
+  display: block;
+  animation: audienceSwap 15s cubic-bezier(0.76, 0, 0.24, 1) infinite;
+  will-change: transform;
+}
+
+.hero-audience-track span {
+  display: block;
+  height: 1.1em;
+  line-height: 1.1;
 }
 
 .accent {
@@ -1004,6 +1044,16 @@
   .hero-url-icon { display: none; }
   .hero-url-input { width: 100%; text-align: center; padding: 8px 4px; }
   .hero-url-btn { width: 100%; padding: 14px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-audience-track {
+    animation: none;
+  }
+
+  .hero-audience-track span:not(:first-child) {
+    display: none;
+  }
 }
 
 /* Keep homepage copy in natural sentence case. */
