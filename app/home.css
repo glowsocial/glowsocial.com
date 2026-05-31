@@ -38,13 +38,8 @@
 }
 
 @keyframes audienceSwap {
-  0%, 10% { transform: translateY(0); }
-  14%, 24% { transform: translateY(-1.1em); }
-  28%, 38% { transform: translateY(-2.2em); }
-  42%, 52% { transform: translateY(-3.3em); }
-  56%, 66% { transform: translateY(-4.4em); }
-  70%, 80% { transform: translateY(-5.5em); }
-  84%, 100% { transform: translateY(-6.6em); }
+  from { transform: translateY(0); }
+  to { transform: translateY(-13.2em); }
 }
 
 .visually-hidden {
@@ -192,14 +187,21 @@
 
 .hero-audience-track {
   display: block;
-  animation: audienceSwap 15s cubic-bezier(0.76, 0, 0.24, 1) infinite;
+  animation: audienceSwap 28s steps(12, end) infinite;
   will-change: transform;
 }
 
 .hero-audience-track span {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 1.1em;
-  line-height: 1.1;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.hero-audience-compact {
+  transform: scale(0.78);
 }
 
 .accent {

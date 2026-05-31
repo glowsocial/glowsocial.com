@@ -233,10 +233,16 @@ export default function HomePageContent() {
               <span className="hero-audience" aria-hidden="true">
                 <span className="hero-audience-track">
                   <span>cafes.</span>
+                  <span>e-commerce.</span>
+                  <span className="hero-audience-compact">insurance agents.</span>
+                  <span>med spas.</span>
+                  <span className="hero-audience-compact">wellness clinics.</span>
+                  <span>life coaches.</span>
+                  <span className="hero-audience-compact">business coaches.</span>
+                  <span>Realtors.</span>
                   <span>salons.</span>
                   <span>contractors.</span>
                   <span>clinics.</span>
-                  <span>realtors.</span>
                   <span>local shops.</span>
                   <span>cafes.</span>
                 </span>
