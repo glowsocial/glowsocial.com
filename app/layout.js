@@ -25,19 +25,19 @@ export const metadata = {
     },
   },
   title: {
-    default: "Glow Social | Your social media, handled",
+    default: "Glow Social | Done-for-you social media for local businesses",
     template: "%s | Glow Social",
   },
   description:
-    "Glow Social keeps your business active online with posts written in your voice, designed for your business, and published where customers check.",
+    "Glow Social keeps local businesses active online with posts written in your voice and published to social channels plus Google Business Profile.",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://glowsocial.com",
     siteName: "Glow Social",
-    title: "Glow Social | Your social media, handled",
+    title: "Glow Social | Done-for-you social media for local businesses",
     description:
-      "Your business is open. Your online presence should make that obvious. Glow Social handles the posts, graphics, scheduling, and publishing.",
+      "Glow Social turns your website into finished posts and publishes them where local customers check, including Google Business Profile.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
@@ -49,9 +49,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Glow Social | Your social media, handled",
+    title: "Glow Social | Done-for-you social media for local businesses",
     description:
-      "Glow Social keeps your business active online with posts written in your voice and published where customers check.",
+      "Glow Social keeps local businesses active online with posts written in your voice and published where customers check.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
