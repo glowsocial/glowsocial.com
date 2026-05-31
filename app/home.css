@@ -1831,7 +1831,7 @@
     min-height: 0;
     padding: 16px;
   }
-  .scene-signal-grid { grid-template-columns: 1fr; }
+  .scene-panel--onboarding { grid-template-columns: 1fr; }
   .scene-week-header { display: grid; gap: 4px; }
   .approval-image { height: 150px; }
   .approval-actions { width: 100%; }
