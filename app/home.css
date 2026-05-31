@@ -935,16 +935,14 @@
   padding-bottom: 18px;
 }
 
-.scene-browser-bar span,
-.refine-dots span {
+.scene-browser-bar span {
   width: 9px;
   height: 9px;
   border-radius: 999px;
   background: rgba(25, 39, 52, 0.18);
 }
 
-.scene-post-row,
-.refine-message {
+.scene-post-row {
   border: 1px solid rgba(25, 39, 52, 0.1);
   border-radius: 10px;
   background: var(--paper);
@@ -1181,50 +1179,78 @@
   margin-top: 12px;
 }
 
-.scene-panel--refine {
+.scene-panel--cadence {
   display: grid;
-  align-content: center;
-  gap: 14px;
+  align-content: start;
+  gap: 16px;
   background:
-    repeating-linear-gradient(90deg, rgba(25,39,52,0.035) 0, rgba(25,39,52,0.035) 1px, transparent 1px, transparent 72px),
-    repeating-linear-gradient(0deg, rgba(25,39,52,0.028) 0, rgba(25,39,52,0.028) 1px, transparent 1px, transparent 72px),
-    var(--paper);
+    linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(221, 236, 247, 0.48)),
+    var(--white);
 }
 
-.refine-message {
-  max-width: 430px;
-  padding: 16px 18px;
-  color: var(--text);
-  font-size: 0.94rem;
-  line-height: 1.5;
+.cadence-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 18px;
 }
 
-.refine-message--user {
-  justify-self: end;
-  background: var(--navy);
-  color: var(--white);
-  border-color: var(--navy);
+.cadence-header span,
+.cadence-row span {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
-.refine-message--glow {
-  display: grid;
-  gap: 8px;
-  background: var(--white);
-}
-
-.refine-message--glow strong {
+.cadence-header strong {
   color: var(--navy);
   font-family: var(--font-heading);
+  font-size: 1.45rem;
+  line-height: 1.05;
 }
 
-.refine-message--glow span {
+.cadence-list {
+  display: grid;
+  gap: 12px;
+}
+
+.cadence-row {
+  position: relative;
+  padding: 16px 16px 16px 20px;
+  border: 1px solid rgba(25, 39, 52, 0.1);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.cadence-row::before {
+  content: "";
+  position: absolute;
+  inset: 14px auto 14px 0;
+  width: 5px;
+  border-radius: 999px;
+  background: rgba(25, 39, 52, 0.16);
+}
+
+.cadence-row--live::before {
+  background: var(--accent);
+}
+
+.cadence-row strong {
+  display: block;
+  margin-top: 7px;
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.cadence-row p {
+  margin: 7px 0 0;
   color: var(--text-muted);
-}
-
-.refine-dots {
-  display: flex;
-  gap: 7px;
-  margin-left: 18px;
+  font-size: 0.84rem;
+  line-height: 1.45;
 }
 
 /* ---- Backed By Badge ---- */
@@ -1846,6 +1872,7 @@
   }
   .outcome-summary { display: grid; gap: 4px; }
   .outcome-feed { grid-template-columns: 1fr; }
+  .cadence-header { display: grid; gap: 4px; }
   .outcome-stats div {
     min-height: 74px;
     padding: 12px 10px;

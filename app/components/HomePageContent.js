@@ -182,7 +182,7 @@ function WorkflowScenes() {
         <div className="workflow-scene-copy">
           <span className="workflow-step">3. Approve what feels right</span>
           <h3>You stay in control without doing the work.</h3>
-          <p>Skip, approve, or adjust posts before they publish. The goal is less babysitting, not another dashboard to manage.</p>
+          <p>Skip or approve posts before they publish. The goal is less babysitting, not another dashboard to manage.</p>
         </div>
         <div className="scene-panel scene-panel--approval" aria-label="Approval queue preview">
           <div className="approval-card">
@@ -200,17 +200,32 @@ function WorkflowScenes() {
 
       <article className="workflow-scene workflow-scene--flip">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">4. Refine the voice</span>
-          <h3>Tell it what sounds off.</h3>
-          <p>When a post is close but not quite right, give plain-language direction. The next draft gets closer to the way your business actually speaks.</p>
+          <span className="workflow-step">4. Stay visible every week</span>
+          <h3>Your channels keep looking current.</h3>
+          <p>Once posts are approved, the important reminders, proof, and local updates keep moving to the places customers already check.</p>
         </div>
-        <div className="scene-panel scene-panel--refine" aria-label="Post refinement preview">
-          <div className="refine-message refine-message--user">Less polished. Make it sound more like a neighborhood cafe.</div>
-          <div className="refine-message refine-message--glow">
-            <strong>Updated caption</strong>
-            <span>We baked extra sourdough this morning. Stop in before the lunch rush if you want a warm loaf for the weekend.</span>
+        <div className="scene-panel scene-panel--cadence" aria-label="Posting cadence outcome preview">
+          <div className="cadence-header">
+            <span>After approval</span>
+            <strong>Active all month</strong>
           </div>
-          <div className="refine-dots" aria-hidden="true"><span></span><span></span><span></span></div>
+          <div className="cadence-list">
+            <div className="cadence-row cadence-row--live">
+              <span>Live this week</span>
+              <strong>Fresh pastry case before the morning rush</strong>
+              <p>Instagram and Facebook stay current for regulars.</p>
+            </div>
+            <div className="cadence-row">
+              <span>Ready next</span>
+              <strong>Weekend brunch hours and directions</strong>
+              <p>Google Business has a useful update for local searchers.</p>
+            </div>
+            <div className="cadence-row">
+              <span>Still covered</span>
+              <strong>Catering reminder for office orders</strong>
+              <p>LinkedIn gets the business-facing post it needs.</p>
+            </div>
+          </div>
         </div>
       </article>
     </div>
@@ -544,7 +559,7 @@ export default function HomePageContent() {
             <details className="faq-item"><summary><span className="faq-question">How much does <BrandName /> cost?</span></summary><p>{pricing.summaryFull} {pricing.billingPolicy} You keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I cancel anytime?</span></summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Setup takes a few minutes. After that, <BrandName /> prepares and publishes the posts. You can check in before things go live, but you are not keeping a posting system alive or starting from scratch.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">What if something does not sound right?</span></summary><p>You stay in control. Flag it, skip it, or adjust direction before posts go live. <BrandName /> learns from your website and business details, but you always have the final say.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">What if something does not sound right?</span></summary><p>You stay in control. Skip anything that does not fit before it goes live. <BrandName /> learns from your website and business details, but you always have the final say on what gets published.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the place local customers search does not go quiet.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know their online presence matters but do not want to become content creators, hire an agency, or keep remembering to post.</p></details>
           </div>
