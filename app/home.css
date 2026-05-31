@@ -310,19 +310,19 @@
   animation: heroReveal 0.9s 0.12s ease both;
 }
 
-.product-showcase-stage {
+.hero-workflow-stage {
   position: relative;
-  min-height: 468px;
+  min-height: 482px;
   isolation: isolate;
 }
 
-.product-showcase-stage::before {
+.hero-workflow-stage::before {
   content: "";
   position: absolute;
   left: 50%;
-  bottom: 16px;
-  width: min(860px, 78vw);
-  height: 210px;
+  bottom: 10px;
+  width: min(900px, 78vw);
+  height: 220px;
   transform: translateX(-50%);
   background: radial-gradient(ellipse at center, rgba(25, 39, 52, 0.18), transparent 68%);
   filter: blur(18px);
@@ -330,57 +330,218 @@
   z-index: -1;
 }
 
-.product-screen,
+.hero-screen,
 .instagram-preview {
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.94);
   border: 1px solid rgba(25, 39, 52, 0.12);
   box-shadow: 0 24px 70px rgba(25, 39, 52, 0.16);
 }
 
-.product-screen {
+.hero-screen {
   position: absolute;
-  display: block;
-  margin: 0;
   border-radius: 18px;
 }
 
-.product-screen img {
-  width: 100%;
-  height: auto;
+.hero-screen-bar {
+  display: grid;
+  grid-template-columns: 8px 8px 8px 1fr;
+  gap: 7px;
+  align-items: center;
+  min-height: 38px;
+  padding: 0 14px;
+  border-bottom: 1px solid rgba(25, 39, 52, 0.08);
+  background: rgba(221, 236, 247, 0.48);
 }
 
-.product-screen--dashboard {
-  top: 26px;
-  left: 5%;
-  width: min(620px, 54%);
+.hero-screen-bar span {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--everglow);
+}
+
+.hero-screen-bar span:nth-child(2) {
+  background: var(--accent-dark);
+}
+
+.hero-screen-bar span:nth-child(3) {
+  background: var(--accent);
+}
+
+.hero-screen-bar strong {
+  justify-self: end;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.hero-screen--checkout {
+  left: 4%;
+  bottom: 42px;
+  width: min(318px, 29%);
   transform: rotate(-2.4deg);
-  opacity: 0.92;
   z-index: 1;
 }
 
-.product-screen--sparks {
-  right: 11%;
+.hero-screen--work {
   top: 18px;
-  width: min(250px, 24%);
-  transform: rotate(3.5deg);
+  right: 8%;
+  width: min(358px, 31%);
+  transform: rotate(2.8deg);
   z-index: 2;
 }
 
-.product-screen--review {
+.hero-screen--review {
   left: 50%;
   bottom: 0;
-  width: min(670px, 58%);
-  height: 430px;
+  width: min(620px, 54%);
   transform: translateX(-50%) rotate(-0.7deg);
-  border-radius: 20px;
   z-index: 3;
 }
 
-.product-screen--review img {
-  height: 100%;
-  object-fit: cover;
-  object-position: top center;
+.hero-checkout-card,
+.hero-work-card,
+.hero-review-card {
+  padding: 18px;
+}
+
+.hero-checkout-card {
+  display: grid;
+  gap: 12px;
+}
+
+.hero-checkout-card > div:first-child,
+.hero-review-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.hero-checkout-card span,
+.hero-work-card > span,
+.hero-review-header span,
+.hero-draft-list span {
+  display: block;
+  color: var(--everglow);
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero-checkout-card strong,
+.hero-checkout-card b,
+.hero-progress-list strong,
+.hero-draft-list strong {
+  color: var(--navy);
+  font-size: 0.86rem;
+  line-height: 1.25;
+}
+
+.hero-checkout-card label {
+  display: grid;
+  gap: 6px;
+}
+
+.hero-checkout-card label b {
+  display: block;
+  min-height: 40px;
+  padding: 10px 12px;
+  border: 1px solid rgba(25, 39, 52, 0.12);
+  border-radius: 8px;
+  background: var(--paper);
+  font-weight: 600;
+}
+
+.hero-checkout-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  border-radius: 9px;
+  background: var(--accent);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero-work-card h3,
+.hero-review-header h3 {
+  margin: 5px 0 0;
+  color: var(--navy);
+  font-size: 1.28rem;
+  line-height: 1.05;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.hero-progress-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.hero-progress-list div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 10px;
+  border: 1px solid rgba(25, 39, 52, 0.1);
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.hero-progress-list i {
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  background: var(--accent);
+  box-shadow: inset 0 0 0 5px rgba(255, 255, 255, 0.68);
+}
+
+.hero-review-header b {
+  padding: 8px 13px;
+  border-radius: 9px;
+  background: var(--accent);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero-draft-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.hero-draft-list div {
+  padding: 14px;
+  border: 1px solid rgba(25, 39, 52, 0.1);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.76);
+}
+
+.hero-draft-list strong {
+  display: block;
+  margin-top: 5px;
+  font-size: 0.98rem;
+}
+
+.hero-draft-list p {
+  margin: 7px 0 0;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  line-height: 1.45;
 }
 
 .instagram-preview {
@@ -430,9 +591,11 @@
   font-size: 0.72rem;
 }
 
-.instagram-preview img {
-  width: 100%;
-  height: auto;
+.instagram-preview-photo {
+  height: 280px;
+  background-image: url("/images/instagram-preview-cafe.png");
+  background-position: top center;
+  background-size: cover;
 }
 
 .instagram-preview-actions {
@@ -1482,23 +1645,23 @@
     max-width: 760px;
     margin-top: 36px;
   }
-  .product-showcase-stage {
+  .hero-workflow-stage {
     min-height: 520px;
   }
-  .product-screen--dashboard {
+  .hero-screen--checkout {
     left: 0;
-    width: 70%;
+    width: 34%;
   }
-  .product-screen--review {
+  .hero-screen--review {
     width: 78%;
   }
-  .product-screen--sparks {
+  .hero-screen--work {
     right: 0;
-    width: 30%;
+    width: 39%;
   }
   .instagram-preview {
     right: 0;
-    width: 34%;
+    width: 36%;
   }
   .showcase-card--linkedin,
   .showcase-card--google {
@@ -1559,15 +1722,15 @@
     width: 100%;
     margin-top: 28px;
   }
-  .product-showcase-stage {
+  .hero-workflow-stage {
     display: grid;
     gap: 12px;
     min-height: 0;
   }
-  .product-showcase-stage::before {
+  .hero-workflow-stage::before {
     display: none;
   }
-  .product-screen,
+  .hero-screen,
   .instagram-preview {
     position: relative;
     top: auto;
@@ -1578,26 +1741,25 @@
     transform: none;
     border-radius: 16px;
   }
-  .product-screen--dashboard,
-  .product-screen--sparks {
+  .hero-screen--checkout,
+  .hero-screen--work {
     display: none;
   }
-  .product-screen--review {
-    max-height: 330px;
+  .hero-screen--review {
+    max-height: 360px;
   }
-  .product-screen--review img {
-    height: 330px;
-    object-fit: cover;
-    object-position: top center;
+  .hero-review-card {
+    padding: 14px;
+  }
+  .hero-draft-list div {
+    padding: 12px;
   }
   .instagram-preview {
     max-width: 310px;
     justify-self: center;
   }
-  .instagram-preview img {
-    max-height: 330px;
-    object-fit: cover;
-    object-position: top center;
+  .instagram-preview-photo {
+    height: 330px;
   }
   .showcase-card-art--photo { height: 230px; }
   .showcase-card p { font-size: 0.82rem; }

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import HomeJsonLd from "./HomeJsonLd";
 import { getPricing } from "../pricing-config";
 import StickyMobileCta from "./StickyMobileCta";
@@ -10,39 +9,80 @@ function BrandName() {
 
 function HeroSocialShowcase() {
   return (
-    <div className="hero-showcase" aria-label="Glow Social app screenshots and Instagram preview">
-      <div className="product-showcase-stage">
-        <figure className="product-screen product-screen--dashboard">
-          <Image
-            src="/images/app-dashboard.png"
-            alt="Glow Social dashboard showing connected accounts, schedule, content sparks, and content pipeline"
-            width={986}
-            height={489}
-            priority
-          />
-        </figure>
+    <div className="hero-showcase" aria-label="Glow Social workflow and Instagram preview">
+      <div className="hero-workflow-stage">
+        <article className="hero-screen hero-screen--checkout" aria-label="Secure checkout preview">
+          <div className="hero-screen-bar">
+            <span></span><span></span><span></span>
+            <strong>checkout.glowsocial.com</strong>
+          </div>
+          <div className="hero-checkout-card">
+            <div>
+              <span>Glo Pro</span>
+              <strong>$149/month</strong>
+            </div>
+            <label>
+              <span>Business name</span>
+              <b>Morning Routine Cafe</b>
+            </label>
+            <label>
+              <span>Website URL</span>
+              <b>morningroutinecafe.com</b>
+            </label>
+            <div className="hero-checkout-button">Subscribe</div>
+          </div>
+        </article>
 
-        <figure className="product-screen product-screen--sparks">
-          <Image
-            src="/images/app-sparks.png"
-            alt="Glow Social app format picker with a content spark ready for approval"
-            width={504}
-            height={489}
-            priority
-          />
-        </figure>
+        <article className="hero-screen hero-screen--work" aria-label="Workspace setup preview">
+          <div className="hero-screen-bar">
+            <span></span><span></span><span></span>
+            <strong>Workspace setup</strong>
+          </div>
+          <div className="hero-work-card">
+            <span>Work started</span>
+            <h3>Your first posts are getting drafted now.</h3>
+            <div className="hero-progress-list">
+              <div><i></i><strong>Reviewing your website</strong></div>
+              <div><i></i><strong>Matching your brand style</strong></div>
+              <div><i></i><strong>Drafting your first posts</strong></div>
+            </div>
+          </div>
+        </article>
 
-        <figure className="product-screen product-screen--review">
-          <Image
-            src="/images/app-post.png"
-            alt="Glow Social app review screen with generated image, caption, platforms, and publishing controls"
-            width={909}
-            height={847}
-            priority
-          />
-        </figure>
+        <article className="hero-screen hero-screen--review" aria-label="Review drafts preview">
+          <div className="hero-screen-bar">
+            <span></span><span></span><span></span>
+            <strong>Review drafts</strong>
+          </div>
+          <div className="hero-review-card">
+            <div className="hero-review-header">
+              <div>
+                <span>Action required</span>
+                <h3>First drafts</h3>
+              </div>
+              <b>Review</b>
+            </div>
+            <div className="hero-draft-list">
+              <div>
+                <span>Ready to review</span>
+                <strong>A softer start before the morning rush</strong>
+                <p>Fresh bread, warm coffee, and a front door that is open when your customers need it.</p>
+              </div>
+              <div>
+                <span>Ready to review</span>
+                <strong>Why regulars check your page before they visit</strong>
+                <p>A quick reminder that your hours, menu, and updates are active where people look first.</p>
+              </div>
+              <div>
+                <span>Ready to review</span>
+                <strong>Weekend brunch hours and directions</strong>
+                <p>A Google Business Profile post for people deciding where to go next.</p>
+              </div>
+            </div>
+          </div>
+        </article>
 
-        <article className="instagram-preview" aria-label="Instagram preview of a Glow Social post">
+        <article className="instagram-preview" aria-label="Instagram preview of an approved Glow Social post">
           <div className="instagram-preview-top">
             <span className="instagram-avatar">ig</span>
             <div>
@@ -50,13 +90,7 @@ function HeroSocialShowcase() {
               <span>Phoenix, AZ</span>
             </div>
           </div>
-          <Image
-            src="/images/instagram-preview-cafe.png"
-            alt="Instagram-style preview of a cafe post created by Glow Social"
-            width={382}
-            height={510}
-            priority
-          />
+          <div className="instagram-preview-photo" role="img" aria-label="Cafe doorway post image created by Glow Social"></div>
           <div className="instagram-preview-actions" aria-hidden="true">
             <span></span>
             <span></span>
