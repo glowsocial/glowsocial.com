@@ -1,3 +1,4 @@
+import Image from "next/image";
 import HomeJsonLd from "./HomeJsonLd";
 import { getPricing } from "../pricing-config";
 import StickyMobileCta from "./StickyMobileCta";
@@ -9,48 +10,61 @@ function BrandName() {
 
 function HeroSocialShowcase() {
   return (
-    <div className="hero-showcase" aria-label="Published post previews created by Glow Social">
-      <article className="showcase-card showcase-card--linkedin">
-        <div className="showcase-card-top">
-          <span className="showcase-platform">in</span>
-          <div>
-            <strong>Hudson Mercer</strong>
-            <span>1h</span>
-          </div>
-        </div>
-        <p>Client reminder: appointment slots are open for the end of the month. Book early if you need a morning time.</p>
-        <div className="showcase-card-art showcase-card-art--text">
-          <strong>Open appointments</strong>
-          <span>Now booking this month</span>
-        </div>
-      </article>
+    <div className="hero-showcase" aria-label="Glow Social app screenshots and Instagram preview">
+      <div className="product-showcase-stage">
+        <figure className="product-screen product-screen--dashboard">
+          <Image
+            src="/images/app-dashboard.png"
+            alt="Glow Social dashboard showing connected accounts, schedule, content sparks, and content pipeline"
+            width={986}
+            height={489}
+            priority
+          />
+        </figure>
 
-      <article className="showcase-card showcase-card--instagram">
-        <div className="showcase-card-top">
-          <span className="showcase-platform showcase-platform--ig">ig</span>
-          <div>
-            <strong>morningroutinecafe</strong>
-            <span>Phoenix, AZ</span>
-          </div>
-        </div>
-        <div className="showcase-card-art showcase-card-art--photo" aria-hidden="true"></div>
-        <p>Fresh bread, warm coffee, and a front door that is open when you need a softer start.</p>
-      </article>
+        <figure className="product-screen product-screen--sparks">
+          <Image
+            src="/images/app-sparks.png"
+            alt="Glow Social app format picker with a content spark ready for approval"
+            width={504}
+            height={489}
+            priority
+          />
+        </figure>
 
-      <article className="showcase-card showcase-card--google">
-        <div className="showcase-card-top">
-          <span className="showcase-platform showcase-platform--google">G</span>
-          <div>
-            <strong>Google Business Profile</strong>
-            <span>Posted today</span>
+        <figure className="product-screen product-screen--review">
+          <Image
+            src="/images/app-post.png"
+            alt="Glow Social app review screen with generated image, caption, platforms, and publishing controls"
+            width={909}
+            height={847}
+            priority
+          />
+        </figure>
+
+        <article className="instagram-preview" aria-label="Instagram preview of a Glow Social post">
+          <div className="instagram-preview-top">
+            <span className="instagram-avatar">ig</span>
+            <div>
+              <strong>morningroutinecafe</strong>
+              <span>Phoenix, AZ</span>
+            </div>
           </div>
-        </div>
-        <p>Fresh activity where local customers check before they call, visit, or book.</p>
-        <div className="showcase-card-art showcase-card-art--gbp">
-          <strong>Open today</strong>
-          <span>Directions | Call | Website</span>
-        </div>
-      </article>
+          <Image
+            src="/images/instagram-preview-cafe.png"
+            alt="Instagram-style preview of a cafe post created by Glow Social"
+            width={382}
+            height={510}
+            priority
+          />
+          <div className="instagram-preview-actions" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <p><strong>morningroutinecafe</strong> Fresh bread, warm coffee, and a front door that is open when you need a softer start.</p>
+        </article>
+      </div>
     </div>
   );
 }

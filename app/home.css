@@ -277,7 +277,7 @@
 
 /* Hero proof strip */
 .hero-proof {
-  display: flex;
+  display: none;
   justify-content: center;
   gap: 18px;
   margin-top: 24px;
@@ -305,13 +305,168 @@
 .hero-showcase {
   position: relative;
   z-index: 1;
-  display: grid;
-  grid-template-columns: minmax(230px, 0.92fr) minmax(280px, 1.16fr) minmax(230px, 0.92fr);
-  gap: 18px;
-  align-items: end;
-  width: min(1220px, 100%);
-  margin: 42px auto 0;
+  width: min(1180px, 100%);
+  margin: 44px auto 0;
   animation: heroReveal 0.9s 0.12s ease both;
+}
+
+.product-showcase-stage {
+  position: relative;
+  min-height: 468px;
+  isolation: isolate;
+}
+
+.product-showcase-stage::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 16px;
+  width: min(860px, 78vw);
+  height: 210px;
+  transform: translateX(-50%);
+  background: radial-gradient(ellipse at center, rgba(25, 39, 52, 0.18), transparent 68%);
+  filter: blur(18px);
+  opacity: 0.58;
+  z-index: -1;
+}
+
+.product-screen,
+.instagram-preview {
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(25, 39, 52, 0.12);
+  box-shadow: 0 24px 70px rgba(25, 39, 52, 0.16);
+}
+
+.product-screen {
+  position: absolute;
+  display: block;
+  margin: 0;
+  border-radius: 18px;
+}
+
+.product-screen img {
+  width: 100%;
+  height: auto;
+}
+
+.product-screen--dashboard {
+  top: 26px;
+  left: 5%;
+  width: min(620px, 54%);
+  transform: rotate(-2.4deg);
+  opacity: 0.92;
+  z-index: 1;
+}
+
+.product-screen--sparks {
+  right: 11%;
+  top: 18px;
+  width: min(250px, 24%);
+  transform: rotate(3.5deg);
+  z-index: 2;
+}
+
+.product-screen--review {
+  left: 50%;
+  bottom: 0;
+  width: min(670px, 58%);
+  height: 430px;
+  transform: translateX(-50%) rotate(-0.7deg);
+  border-radius: 20px;
+  z-index: 3;
+}
+
+.product-screen--review img {
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.instagram-preview {
+  position: absolute;
+  right: 4%;
+  bottom: 8px;
+  width: min(294px, 26%);
+  border-radius: 24px;
+  transform: rotate(2.2deg);
+  z-index: 4;
+}
+
+.instagram-preview-top {
+  display: grid;
+  grid-template-columns: 34px 1fr;
+  gap: 10px;
+  align-items: center;
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(25, 39, 52, 0.08);
+}
+
+.instagram-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: #e94b84;
+  color: var(--white);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.instagram-preview-top strong {
+  display: block;
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  line-height: 1.1;
+}
+
+.instagram-preview-top span:not(.instagram-avatar) {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+}
+
+.instagram-preview img {
+  width: 100%;
+  height: auto;
+}
+
+.instagram-preview-actions {
+  display: flex;
+  gap: 8px;
+  padding: 10px 14px 0;
+}
+
+.instagram-preview-actions span {
+  width: 14px;
+  height: 14px;
+  border: 1.8px solid var(--navy);
+  border-radius: 50%;
+}
+
+.instagram-preview-actions span:nth-child(2) {
+  border-radius: 3px;
+}
+
+.instagram-preview-actions span:nth-child(3) {
+  margin-left: auto;
+  border-radius: 3px 3px 1px 1px;
+}
+
+.instagram-preview p {
+  margin: 0;
+  padding: 8px 14px 14px;
+  color: var(--text);
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.instagram-preview p strong {
+  color: var(--navy);
 }
 
 .showcase-card {
@@ -1324,12 +1479,26 @@
   .hero-actions,
   .hero-proof { justify-content: center; }
   .hero-showcase {
-    grid-template-columns: 1fr 1fr;
     max-width: 760px;
     margin-top: 36px;
   }
-  .showcase-card--google {
-    display: none;
+  .product-showcase-stage {
+    min-height: 520px;
+  }
+  .product-screen--dashboard {
+    left: 0;
+    width: 70%;
+  }
+  .product-screen--review {
+    width: 78%;
+  }
+  .product-screen--sparks {
+    right: 0;
+    width: 30%;
+  }
+  .instagram-preview {
+    right: 0;
+    width: 34%;
   }
   .showcase-card--linkedin,
   .showcase-card--google {
@@ -1387,15 +1556,48 @@
   .hero-actions .btn { width: 100%; }
   .hero-proof { display: none; }
   .hero-showcase {
-    grid-template-columns: 1fr;
     width: 100%;
     margin-top: 28px;
   }
-  .showcase-card--linkedin,
-  .showcase-card--google { display: none; }
-  .showcase-card--instagram {
+  .product-showcase-stage {
+    display: grid;
+    gap: 12px;
     min-height: 0;
-    border-radius: 12px 12px 0 0;
+  }
+  .product-showcase-stage::before {
+    display: none;
+  }
+  .product-screen,
+  .instagram-preview {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+    transform: none;
+    border-radius: 16px;
+  }
+  .product-screen--dashboard,
+  .product-screen--sparks {
+    display: none;
+  }
+  .product-screen--review {
+    max-height: 330px;
+  }
+  .product-screen--review img {
+    height: 330px;
+    object-fit: cover;
+    object-position: top center;
+  }
+  .instagram-preview {
+    max-width: 310px;
+    justify-self: center;
+  }
+  .instagram-preview img {
+    max-height: 330px;
+    object-fit: cover;
+    object-position: top center;
   }
   .showcase-card-art--photo { height: 230px; }
   .showcase-card p { font-size: 0.82rem; }
