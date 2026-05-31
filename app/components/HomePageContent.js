@@ -55,6 +55,164 @@ function HeroSocialShowcase() {
   );
 }
 
+function WorkflowScenes() {
+  return (
+    <div className="workflow-scenes">
+      <article className="workflow-scene">
+        <div className="workflow-scene-copy">
+          <span className="workflow-step">1. Add your website</span>
+          <h3>Your site becomes the brief.</h3>
+          <p>We pull the useful parts out of the business you already built: services, location details, offers, proof, and the way you naturally talk.</p>
+        </div>
+        <div className="scene-panel scene-panel--site" aria-label="Website scan preview">
+          <div className="scene-browser-bar">
+            <span></span><span></span><span></span>
+          </div>
+          <div className="scene-url-card">
+            <span>morningroutinecafe.com</span>
+            <strong>Local cafe | Phoenix, AZ</strong>
+          </div>
+          <div className="scene-signal-grid">
+            <div><span>Services</span><strong>Catering, espresso, brunch</strong></div>
+            <div><span>Voice</span><strong>Warm, neighborly, relaxed</strong></div>
+            <div><span>Proof</span><strong>Local favorite since 2019</strong></div>
+            <div><span>Hooks</span><strong>Morning routine, seasonal menu</strong></div>
+          </div>
+        </div>
+      </article>
+
+      <article className="workflow-scene workflow-scene--flip">
+        <div className="workflow-scene-copy">
+          <span className="workflow-step">2. Get a useful posting plan</span>
+          <h3>Not a blank calendar. Actual posts.</h3>
+          <p>Captions, visuals, and channel formats are prepared together, so review starts with finished work instead of a vague list of content ideas.</p>
+        </div>
+        <div className="scene-panel scene-panel--calendar" aria-label="Content plan preview">
+          <div className="scene-week-header">
+            <strong>This week</strong>
+            <span>Ready for review</span>
+          </div>
+          <div className="scene-post-row">
+            <span>Instagram</span>
+            <strong>Fresh pastry case before the morning rush</strong>
+          </div>
+          <div className="scene-post-row">
+            <span>Google Business</span>
+            <strong>Weekend brunch hours and directions</strong>
+          </div>
+          <div className="scene-post-row">
+            <span>Facebook</span>
+            <strong>Catering reminder for office orders</strong>
+          </div>
+          <div className="scene-channel-row" aria-label="Supported channels">
+            <span>Facebook</span>
+            <span>Instagram</span>
+            <span>LinkedIn</span>
+            <span>Google</span>
+          </div>
+        </div>
+      </article>
+
+      <article className="workflow-scene">
+        <div className="workflow-scene-copy">
+          <span className="workflow-step">3. Approve what feels right</span>
+          <h3>You stay in control without doing the work.</h3>
+          <p>Skip, approve, or adjust posts before they publish. The goal is less babysitting, not another dashboard to manage.</p>
+        </div>
+        <div className="scene-panel scene-panel--approval" aria-label="Approval queue preview">
+          <div className="approval-card">
+            <span className="approval-platform">Instagram</span>
+            <div className="approval-image"></div>
+            <p>Fresh bread, warm coffee, and a front door that is open when you need a softer start.</p>
+          </div>
+          <div className="approval-actions">
+            <button type="button">Skip</button>
+            <button type="button">Approve</button>
+          </div>
+          <span className="approval-count">8 posts waiting</span>
+        </div>
+      </article>
+
+      <article className="workflow-scene workflow-scene--flip">
+        <div className="workflow-scene-copy">
+          <span className="workflow-step">4. Refine the voice</span>
+          <h3>Tell it what sounds off.</h3>
+          <p>When a post is close but not quite right, give plain-language direction. The next draft gets closer to the way your business actually speaks.</p>
+        </div>
+        <div className="scene-panel scene-panel--refine" aria-label="Post refinement preview">
+          <div className="refine-message refine-message--user">Less polished. Make it sound more like a neighborhood cafe.</div>
+          <div className="refine-message refine-message--glow">
+            <strong>Updated caption</strong>
+            <span>We baked extra sourdough this morning. Stop in before the lunch rush if you want a warm loaf for the weekend.</span>
+          </div>
+          <div className="refine-dots" aria-hidden="true"><span></span><span></span><span></span></div>
+        </div>
+      </article>
+    </div>
+  );
+}
+
+function ValueComparison({ pricing }) {
+  return (
+    <section className="value-compare" id="compare-options">
+      <div className="container">
+        <h2>Compared to the usual options, this is the lighter lift.</h2>
+        <p className="section-sub">The real alternative is not another scheduler. It is your time, an agency retainer, or hiring someone before you are ready.</p>
+        <div className="value-table-wrap">
+          <table className="value-table">
+            <thead>
+              <tr>
+                <th></th>
+                <th><BrandName /></th>
+                <th>Doing it yourself</th>
+                <th>Agency</th>
+                <th>Hiring</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th>Monthly cost</th>
+                <td><strong>Starts at {pricing.startingAtShort}</strong></td>
+                <td>Hidden hours every week</td>
+                <td>$1k-$5k+ retainers</td>
+                <td>$4k+/mo before overhead</td>
+              </tr>
+              <tr>
+                <th>Time to first draft</th>
+                <td><strong>Minutes</strong></td>
+                <td>Whenever you get to it</td>
+                <td>After onboarding</td>
+                <td>After recruiting</td>
+              </tr>
+              <tr>
+                <th>Who makes the posts</th>
+                <td><strong>Handled from your site</strong></td>
+                <td>You</td>
+                <td>Account team</td>
+                <td>Employee</td>
+              </tr>
+              <tr>
+                <th>Google Business Profile</th>
+                <td><strong>Included</strong></td>
+                <td>Usually forgotten</td>
+                <td>Often an add-on</td>
+                <td>Depends on the hire</td>
+              </tr>
+              <tr>
+                <th>Commitment</th>
+                <td><strong>No contracts</strong></td>
+                <td>Your evenings</td>
+                <td>Retainer terms</td>
+                <td>Payroll</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 export default function HomePageContent() {
   const pricing = getPricing();
 
@@ -171,36 +329,7 @@ export default function HomePageContent() {
             <BrandName /> turns the business you already built into finished social content, then keeps it moving on the channels that matter locally.
           </p>
 
-          <div className="workflow-grid">
-            <div className="workflow-card">
-              <div className="workflow-num">1</div>
-              <h3>Add your website</h3>
-              <p>We pull in services, offers, location details, and the way your business already talks.</p>
-            </div>
-            <div className="workflow-card">
-              <div className="workflow-num">2</div>
-              <h3>Review real drafts</h3>
-              <p>Captions and graphics are prepared for you, so you are reacting to finished work instead of a blank screen.</p>
-            </div>
-            <div className="workflow-card">
-              <div className="workflow-num">3</div>
-              <h3>Approve or adjust</h3>
-              <p>Skip, edit, or approve posts before they go live. The system learns what sounds right for your business.</p>
-            </div>
-            <div className="workflow-card">
-              <div className="workflow-num">4</div>
-              <h3>Stay visible</h3>
-              <p><BrandName /> publishes across your social profiles and Google Business Profile on a steady rhythm.</p>
-            </div>
-          </div>
-
-          <div className="workflow-channels" aria-label="Supported visibility channels">
-            <span>Facebook</span>
-            <span>Instagram</span>
-            <span>LinkedIn</span>
-            <span>Threads</span>
-            <span>Google Business Profile</span>
-          </div>
+          <WorkflowScenes />
 
           <div className="section-cta">
             <a href="https://app.glowsocial.com/preview" className="btn btn--primary" id="workflow-cta">See what we&apos;d post</a>
@@ -412,6 +541,8 @@ export default function HomePageContent() {
           </div>
         </div>
       </section>
+
+      <ValueComparison pricing={pricing} />
 
       {/* ============ FINAL CTA — Emotional close ============ */}
       <section className="final-cta">
