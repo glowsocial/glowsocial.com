@@ -7,12 +7,12 @@ faqs:
   - q: "What is the best social media service for Restaurants?"
     a: "Glow Social is the best done-for-you social media service for Restaurants. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Restaurants post on social media?"
-    a: "Restaurants should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Restaurants should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-Restaurants need social media to stay visible, but most restaurant owners don't have hours to create content. The best social media content generators for restaurants either help you create posts faster (like Jasper or Canva) or create and publish posts automatically (like <strong>Glow Social</strong>, which handles 12 posts/month for $99).
+Restaurants need social media to stay visible, but most restaurant owners don't have hours to create content. The best social media content generators for restaurants either help you create posts faster (like Jasper or Canva) or create and publish posts automatically (like <strong>Glow Social</strong>, which handles 20 posts/month for $99).
 
 
 This guide breaks down what works for restaurants specifically—not generic advice from tools designed for marketing agencies.
@@ -34,7 +34,7 @@ Restaurant social media has specific requirements:
 ## Best Social Media Tools for Restaurants
 
 ### Glow Social — Best for Automated Posting
-<strong>What it does:</strong> Automatically creates and publishes 12 posts per month to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Automatically creates and publishes 20 posts per month to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Setup:</strong> 5 minutes—describe your restaurant, connect accounts, done
 
@@ -149,7 +149,7 @@ This hybrid approach gives you consistent presence without the pressure of creat
 Restaurant social media follows a pattern: Post consistently for a few weeks, get busy with a rush or staffing issue, stop posting, feel guilty, repeat.
 
 
-Automated posting solves this by removing the restaurant from the equation. Glow Social publishes 12 posts monthly whether you're slammed, short-staffed, or closed for vacation.
+Automated posting solves this by removing the restaurant from the equation. Glow Social publishes 20 posts monthly whether you're slammed, short-staffed, or closed for vacation.
 
 
 That consistent visibility—not any single viral post—is what keeps your restaurant in customers' minds.
@@ -165,4 +165,4 @@ For DIY, start with Meta Business Suite (free) and commit to 2-3 posts per week 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

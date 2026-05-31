@@ -5,7 +5,7 @@ slug: "social-media-mistakes-local-business"
 date: "2026-01-29"
 faqs:
   - q: "How often should a small business post on social media?"
-    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
   - q: "What happens if you stop posting on social media?"
     a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
   - q: "How many emojis are too many for a business social media post?"
@@ -25,7 +25,7 @@ Most small business owners know they should post consistently on social media, b
 <strong>Why it happens:</strong> Social media feels urgent until business gets busy, then it drops to the bottom of the list.
 
 
-<strong>The fix:</strong> Either batch-create content monthly or use automated posting software. Glow Social publishes 12 posts per month automatically for $99—no matter how busy you get.
+<strong>The fix:</strong> Either batch-create content monthly or use automated posting software. Glow Social publishes 20 posts per month automatically for $99—no matter how busy you get.
 
 
 ## 2. Only Posting When You Need Customers
@@ -194,4 +194,4 @@ For automated, consistent posting, Glow Social handles content creation and publ
 
 ---
 
-**About Glow Social:** Software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+**About Glow Social:** Software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

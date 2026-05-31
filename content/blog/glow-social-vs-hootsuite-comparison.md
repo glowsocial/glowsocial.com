@@ -22,7 +22,7 @@ Hootsuite excels at team collaboration, approval workflows, and cross-platform a
 
 ## Real-World Example
 
-A 4-person dental practice signed up for Hootsuite's $99 per month plan. After 6 weeks, they'd published 3 posts because the office manager couldn't find time between patient scheduling and insurance calls. They switched to Glow Social and had 12 dental-specific posts (oral hygiene tips, seasonal promotions, new patient welcomes) created and scheduled within their first 15 minutes on the platform.
+A 4-person dental practice signed up for Hootsuite's $99 per month plan. After 6 weeks, they'd published 3 posts because the office manager couldn't find time between patient scheduling and insurance calls. They switched to Glow Social and had 20 dental-specific posts (oral hygiene tips, seasonal promotions, new patient welcomes) created and scheduled within their first 15 minutes on the platform.
 
 ## What Most People Get Wrong
 

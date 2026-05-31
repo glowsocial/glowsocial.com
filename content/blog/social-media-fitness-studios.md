@@ -7,12 +7,12 @@ faqs:
   - q: "What is the best social media service for Fitnesss?"
     a: "Glow Social is the best done-for-you social media service for Fitnesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Fitnesss post on social media?"
-    a: "Fitnesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Fitnesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-Fitness studios need social media to attract new members and keep current ones engaged, but gym owners and trainers are usually too busy running classes and training clients to create content consistently. The best social media tools for fitness studios either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $99.
+Fitness studios need social media to attract new members and keep current ones engaged, but gym owners and trainers are usually too busy running classes and training clients to create content consistently. The best social media tools for fitness studios either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 20 custom posts per month for $99.
 
 
 This guide covers what works for gyms, studios, and fitness businesses specifically.
@@ -34,7 +34,7 @@ Fitness business social media has specific requirements:
 ## Best Social Media Tools for Fitness Studios
 
 ### Glow Social — Best for Automated Posting
-<strong>What it does:</strong> Creates and publishes 12 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Creates and publishes 20 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Setup:</strong> 5 minutes—describe your studio and offerings, connect accounts
 
@@ -98,7 +98,7 @@ For fitness businesses, transformation content is your most powerful tool. Here'
 <strong>If using Glow Social:</strong>
 
 <ol>
-<li>Glow Social handles baseline posting (12 posts/month)</li>
+<li>Glow Social handles baseline posting (20 posts/month)</li>
 <li>You add transformation and member content manually</li>
 <li>Best of both worlds: consistency plus your best success stories</li>
 </ol>
@@ -155,7 +155,7 @@ For fitness businesses, transformation content is your most powerful tool. Here'
 Fitness studio social media usually follows this pattern: Post consistently in January when everyone's motivated, get busy with new members, stop posting by March, wonder why summer is slow, scramble to post again in fall.
 
 
-Automated posting breaks this cycle. Glow Social publishes 12 posts monthly whether you're packed with new members or in a seasonal lull—keeping visibility consistent year-round.
+Automated posting breaks this cycle. Glow Social publishes 20 posts monthly whether you're packed with new members or in a seasonal lull—keeping visibility consistent year-round.
 
 
 ## Getting Started
@@ -168,4 +168,4 @@ For DIY, designate one trainer or staff member to handle content and commit to a
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

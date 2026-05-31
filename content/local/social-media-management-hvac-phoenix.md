@@ -1,6 +1,6 @@
 ---
 title: "Social Media for HVAC Companies in Phoenix — $99/Mo, Posted For You"
-description: "Skip the $1,500/mo agency. Glow Social creates 12 HVAC-specific posts/month with seasonal tips, before-and-after photos, and maintenance reminders — $99/mo, 5-minute setup."
+description: "Skip the $1,500/mo agency. Glow Social creates 20 HVAC-specific posts/month with seasonal tips, before-and-after photos, and maintenance reminders — $99/mo, 5-minute setup."
 slug: "social-media-management-hvac-phoenix"
 date: "2026-03-17"
 city: "Phoenix"

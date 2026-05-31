@@ -39,7 +39,7 @@ Metricool is one of the most underrated social media tools on the market. Its an
 
 **Metricool** gives you the best possible view of your social media performance. You see what's working, what isn't, how competitors are doing, and when to post. Then you create and schedule the content.
 
-**Glow Social** skips all of that. No dashboards, no competitor comparisons, no optimal posting time analysis. Just 12 professional posts per month, published automatically.
+**Glow Social** skips all of that. No dashboards, no competitor comparisons, no optimal posting time analysis. Just 20 professional posts per month, published automatically.
 
 These tools answer different questions:
 - **Metricool answers:** "How is my social media performing?" → Requires you to do social media first
@@ -98,4 +98,4 @@ Compare also: [Social Media Management Pricing Guide](/blog/social-media-managem
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

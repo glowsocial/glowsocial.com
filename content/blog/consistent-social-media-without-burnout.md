@@ -5,11 +5,11 @@ slug: "consistent-social-media-without-burnout"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
-    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
 ---
 
 Staying consistent on social media is the number one struggle for small business owners. You know you should post regularly, but between serving customers, managing operations, and everything else, social media always falls to the bottom of the list. Here's how to stay consistent without burning out—or how to automate it entirely.
@@ -111,7 +111,7 @@ Consistent 3x/week beats ambitious 7x/week that collapses after two weeks.
 If consistency is the goal and creating content is the problem, remove yourself from the equation:
 
 
-<strong>Glow Social</strong> creates and publishes 12 posts per month automatically for $99. You set it up once (5 minutes), and posts go out whether you're busy, on vacation, or just don't feel like thinking about social media.
+<strong>Glow Social</strong> creates and publishes 20 posts per month automatically for $99. You set it up once (5 minutes), and posts go out whether you're busy, on vacation, or just don't feel like thinking about social media.
 
 
 No batching needed. No content calendar to manage. No "what should I post?" ever again.
@@ -173,4 +173,4 @@ For DIY consistency, start with monthly batching: block 3 hours on the first of 
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

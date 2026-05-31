@@ -9,7 +9,7 @@ faqs:
   - q: "Is social media management worth the investment for small businesses?"
     a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Before you invest in social media tools—or automated posting like Glow Social—it's worth understanding what social media can and can't do for a local business. Spoiler: It's usually not the biggest lever for getting customers, but it does play an important supporting role.
@@ -158,7 +158,7 @@ None of this shows up in week one. It accumulates.
 
 ## Getting Started
 
-For consistent social posting without significant time investment, Glow Social handles 12 posts/month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For consistent social posting without significant time investment, Glow Social handles 20 posts/month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 The key is maintaining presence long enough to see results—not expecting instant payoff.
@@ -170,7 +170,7 @@ The key is maintaining presence long enough to see results—not expecting insta
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Plumbing business?

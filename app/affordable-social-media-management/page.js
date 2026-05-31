@@ -10,7 +10,7 @@ const PAGE_URL = "https://glowsocial.com/affordable-social-media-management";
 export const metadata = {
   title: "Affordable Social Media Marketing for Small Businesses",
   description:
-    "Affordable social media marketing and management for small businesses. Glow Social creates, designs, and publishes 12+ posts starting at $99/month.",
+    "Affordable social media marketing and management for small businesses. Glow Social creates, designs, and publishes 20 posts starting at $99/month.",
   alternates: {
     canonical: "/affordable-social-media-management",
   },
@@ -82,7 +82,7 @@ function JsonLd({ pricing }) {
           name: "Is $99/month enough for social media management?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Yes, if you need consistent baseline posting rather than a full agency. Glow Social creates 12+ posts per month, designs graphics, and publishes to connected platforms starting at $99/month.",
+            text: "Yes, if you need consistent baseline posting rather than a full agency. Glow Social creates 20 posts per month, designs graphics, and publishes to connected platforms starting at $99/month.",
           },
         },
         {
@@ -148,7 +148,7 @@ export default function AffordableSocialMediaManagementPage() {
               </Link>
             </div>
             <div className="affordable-proof-row" aria-label="Glow Social proof points">
-              <span>12+ posts/month</span>
+              <span>20 posts/month</span>
               <span>5-minute setup</span>
               <span>No contracts</span>
               <span>Google Business Profile</span>
@@ -360,7 +360,7 @@ export default function AffordableSocialMediaManagementPage() {
             <details className="faq-item">
               <summary>Can I get social media management for under $100/month?</summary>
               <p>
-                Yes. Glow Social starts at {pricing.startingAtFull} and includes 12+ posts per
+                Yes. Glow Social starts at {pricing.startingAtFull} and includes 20 posts per
                 month. Traditional freelancers and agencies usually cost more because a person is
                 manually creating and managing the content.
               </p>

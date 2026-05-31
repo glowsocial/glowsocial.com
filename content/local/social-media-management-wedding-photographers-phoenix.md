@@ -1,6 +1,6 @@
 ---
 title: "Social Media for Wedding Photographers in Phoenix — $99/Mo, Stay Booked"
-description: "Too busy shooting to post? Glow Social creates 12 photographer-specific posts/month and publishes them to Instagram, Facebook, and Google — $99/mo, set up in 5 minutes."
+description: "Too busy shooting to post? Glow Social creates 20 photographer-specific posts/month and publishes them to Instagram, Facebook, and Google — $99/mo, set up in 5 minutes."
 slug: "social-media-management-wedding-photographers-phoenix"
 date: "2026-02-23"
 city: "Phoenix"

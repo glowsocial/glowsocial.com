@@ -5,7 +5,7 @@ slug: "minimum-posting-frequency-business-growth"
 date: "2026-03-17"
 faqs:
   - q: "How often should a small business post on social media?"
-    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
   - q: "What happens if you stop posting on social media?"
     a: "Inactive social media pages signal to potential customers that your business may be closed or unreliable. Most platforms also reduce reach for accounts that post inconsistently."
   - q: "How long does it take to see results from social media?"
@@ -93,7 +93,7 @@ The reason most small businesses can't maintain 3x per week isn't a lack of idea
 
 **Content frameworks**: Use repeating categories — Monday tips, Wednesday behind-the-scenes, Friday customer stories. Frameworks eliminate the "what should I post?" paralysis.
 
-**Done-for-you automation**: [Glow Social](https://glowsocial.com) creates and publishes 12+ posts per month (3x per week) automatically for $99/month. You review and approve; the system handles everything else.
+**Done-for-you automation**: [Glow Social](https://glowsocial.com) creates and publishes 20 posts per month, covering the 3x-per-week baseline automatically for $99/month. You review and approve; the system handles everything else.
 
 ## The Bottom Line
 

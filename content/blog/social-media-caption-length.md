@@ -219,7 +219,7 @@ Once that mix is in place, caption length becomes easier. You are not guessing. 
 
 If figuring out the right caption length, hashtag strategy, and posting schedule for each platform sounds like a lot of work — it is. That's exactly why [Glow Social's affordable social media management service](/affordable-social-media-management) exists.
 
-Glow Social creates and publishes 12+ posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — with platform-optimized captions, professional graphics, and your brand voice built in.
+Glow Social creates and publishes 20 posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — with platform-optimized captions, professional graphics, and your brand voice built in.
 
 **$99/month. 5-minute setup. No contracts.**
 
@@ -229,4 +229,4 @@ Glow Social creates and publishes 12+ posts per month across Facebook, Instagram
 
 **Related guides:** [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [See the affordable social media management service](/affordable-social-media-management).
+**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [See the affordable social media management service](/affordable-social-media-management).

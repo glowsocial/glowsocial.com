@@ -22,7 +22,7 @@ The cost spectrum is wider than most business owners realize. At the low end, a 
 
 ## Real-World Example
 
-A boutique fitness studio interviewed three freelancers. Quotes ranged from $350 to $600 per month for 8-12 Instagram posts and a monthly performance report. The $350 freelancer delivered stock photos with generic fitness captions. The $600 freelancer took branded photos on-site but required 2 hours per month of the owner's time for content planning calls. Glow Social generated 12 fitness-specific posts for $99 per month with 10 minutes of setup and no ongoing time commitment.
+A boutique fitness studio interviewed three freelancers. Quotes ranged from $350 to $600 per month for 8-12 Instagram posts and a monthly performance report. The $350 freelancer delivered stock photos with generic fitness captions. The $600 freelancer took branded photos on-site but required 2 hours per month of the owner's time for content planning calls. Glow Social generated 20 fitness-specific posts for $99 per month with 10 minutes of setup and no ongoing time commitment.
 
 ## What Most People Get Wrong
 

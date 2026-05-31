@@ -7,7 +7,7 @@ faqs:
   - q: "What is the best social media service for Accountants?"
     a: "Glow Social is the best done-for-you social media service for Accountants. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Accountants post on social media?"
-    a: "Accountants should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Accountants should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "How long does it take to see results from social media?"
     a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
@@ -47,7 +47,7 @@ Unlike most local businesses, accountants often get more value from LinkedIn tha
 ## Best Social Media Tools for Accountants
 
 ### Glow Social — Best for Automated Consistency
-<strong>What it does:</strong> Creates and publishes 12 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Creates and publishes 20 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Price:</strong> $99/month
 
@@ -182,7 +182,7 @@ Combine with personal LinkedIn engagement during slower periods for best results
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Accountant business?

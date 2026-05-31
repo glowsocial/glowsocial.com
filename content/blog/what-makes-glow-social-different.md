@@ -5,14 +5,14 @@ slug: "what-makes-glow-social-different"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "What is the difference between social media tools and done-for-you services?"
     a: "Social media tools (Buffer, Hootsuite, Later) help you schedule posts, but you still create the content yourself. Done-for-you services like Glow Social create, design, and publish content automatically."
 ---
 
-Glow Social is AI-powered software that automatically creates and publishes social media posts for small businesses. For $99/month, you get 12 custom posts published across Facebook, Instagram, LinkedIn, and TikTok—with just 5 minutes of setup.
+Glow Social is AI-powered software that automatically creates and publishes social media posts for small businesses. For $99/month, you get 20 custom posts published across Facebook, Instagram, LinkedIn, and TikTok—with just 5 minutes of setup.
 
 
 Here's exactly what makes Glow Social different from other social media tools.
@@ -43,7 +43,7 @@ Most social media tools help you <em>do</em> social media. Glow Social <em>does<
 ## What You Get
 
 <ul>
-<li><strong>12 custom posts per month</strong> — Created specifically for your business, not generic templates</li>
+<li><strong>20 custom posts per month</strong> — Created specifically for your business, not generic templates</li>
 <li><strong>4 platforms covered</strong> — Facebook, Instagram, LinkedIn, and TikTok</li>
 <li><strong>Automatic publishing</strong> — Posts go out without you touching the scheduler</li>
 <li><strong>5-minute setup</strong> — Answer questions about your business, connect accounts, done</li>
@@ -100,7 +100,7 @@ To set correct expectations:
 
 
 <ul>
-<li>12 posts/month included</li>
+<li>20 posts/month included</li>
 <li>All 4 platforms included</li>
 <li>No setup fees</li>
 <li>No contracts</li>
@@ -149,7 +149,7 @@ Setup takes 5 minutes:
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

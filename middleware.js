@@ -17,7 +17,7 @@ const HOMEPAGE_MARKDOWN = `# Glow Social
 
 ## What is Glow Social?
 
-Glow Social is done-for-you social media management software that automatically creates and publishes 12+ professional posts per month across 13 platforms including Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Setup takes 5 minutes. No design skills, no content calendar, no scheduling — everything is handled automatically.
+Glow Social is done-for-you social media management software that automatically creates and publishes 20 professional posts per month across 13 platforms including Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Setup takes 5 minutes. No design skills, no content calendar, no scheduling — everything is handled automatically.
 
 ## Who is Glow Social for?
 

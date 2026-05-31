@@ -10,7 +10,7 @@ faqs:
     a: "Most agents should spend $99-100/month on social media. Done-for-you tools like Glow Social cost $99/month. Freelance managers cost $300-500/month but add human creativity and engagement. Agencies ($1,000+/month) are overkill for most individual agents."
 ---
 
-Real estate agents need consistent social media to stay top-of-mind with potential buyers and sellers, but most agents are too busy showing homes and closing deals to create content. The best social media solutions for real estate either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $99.
+Real estate agents need consistent social media to stay top-of-mind with potential buyers and sellers, but most agents are too busy showing homes and closing deals to create content. The best social media solutions for real estate either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 20 custom posts per month for $99.
 
 
 This guide covers what works for real estate specifically, not generic marketing advice.
@@ -32,7 +32,7 @@ Real estate social media has specific requirements:
 ## Best Social Media Tools for Real Estate Agents
 
 ### Glow Social — Best for Automated Posting
-<strong>What it does:</strong> Creates and publishes 12 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Creates and publishes 20 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Setup:</strong> 5 minutes—describe your market and expertise, connect accounts
 
@@ -146,7 +146,7 @@ This hybrid approach keeps you visible automatically while allowing you to add p
 Real estate social media follows a pattern: Post consistently while building a pipeline, get busy with transactions, stop posting, realize you have no pipeline, scramble to post again.
 
 
-Automated posting breaks this cycle. Glow Social publishes 12 posts monthly whether you're closing three deals or waiting for leads. That consistent visibility is what keeps you top-of-mind in your market.
+Automated posting breaks this cycle. Glow Social publishes 20 posts monthly whether you're closing three deals or waiting for leads. That consistent visibility is what keeps you top-of-mind in your market.
 
 
 ## Getting Started
@@ -161,7 +161,7 @@ See also: [Social Media Manager Pricing](/blog/freelance-social-media-manager-ch
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Real Estate business?

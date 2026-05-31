@@ -96,7 +96,7 @@ Instead of giving you a calendar to fill, it handles the work that usually gets 
 - platform scheduling
 - publishing
 
-Glow Social sits in this category. It creates and publishes 12 custom posts per month for $99/month. That is why it does not have a free plan: the product is not empty software access. The product is the content output.
+Glow Social sits in this category. It creates and publishes 20 custom posts per month for $99/month. That is why it does not have a free plan: the product is not empty software access. The product is the content output.
 
 ## Why Glow Social Does Not Offer a Free Plan
 
@@ -145,4 +145,4 @@ For the service page, see [affordable social media management from Glow Social](
 
 ---
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

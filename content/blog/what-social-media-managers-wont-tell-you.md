@@ -111,7 +111,7 @@ What a social media manager charges vs. what most small businesses need:
 
 <table>
 <tr><th>What You're Paying For</th><th>Typical Manager Cost</th><th>What You Need</th><th>Cheapest Solution</th></tr>
-<tr><td>Consistent posting</td><td>$300-500/month</td><td>12 posts/month</td><td>$99/month (Glow Social)</td></tr>
+<tr><td>Consistent posting</td><td>$300-500/month</td><td>20 posts/month</td><td>$99/month (Glow Social)</td></tr>
 <tr><td>Content creation</td><td>Included above</td><td>Simple, on-brand posts</td><td>Included in Glow Social</td></tr>
 <tr><td>Strategy</td><td>$500-1,500/month</td><td>"Post 3x/week, be helpful"</td><td>Free (you just read it)</td></tr>
 <tr><td>Analytics</td><td>$200-500/month</td><td>"Do I have recent posts?"</td><td>Free (look at your page)</td></tr>
@@ -136,7 +136,7 @@ Related: [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-medi
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

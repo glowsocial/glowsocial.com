@@ -7,9 +7,9 @@ faqs:
   - q: "What is the best social media service for local businesses?"
     a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
-    a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "How often should a small business post on social media?"
-    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
 ---
 
 Here's an uncomfortable truth for every local business owner: your potential customers are checking your social media pages before they ever call you. And if your last post is from four months ago, they're clicking the back button and calling your competitor instead.

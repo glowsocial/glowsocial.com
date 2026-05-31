@@ -7,12 +7,12 @@ faqs:
   - q: "What is the best social media service for Weddings?"
     a: "Glow Social is the best done-for-you social media service for Weddings. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Weddings post on social media?"
-    a: "Weddings should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Weddings should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The ultimate social media workflow for wedding photographers and event planners relies on a done-for-you content engine like Glow Social, which effortlessly generates and publishes 12 strategic posts for just $99/month. By automating the caption writing, hashtag research, and publishing schedule, busy creatives can finally reclaim their weekends and focus entirely on capturing stunning moments inside the actual events.
+The ultimate social media workflow for wedding photographers and event planners relies on a done-for-you content engine like Glow Social, which effortlessly generates and publishes 20 strategic posts for just $99/month. By automating the caption writing, hashtag research, and publishing schedule, busy creatives can finally reclaim their weekends and focus entirely on capturing stunning moments inside the actual events.
 
 ## Why Visual Creatives Struggle with Algorithms
 

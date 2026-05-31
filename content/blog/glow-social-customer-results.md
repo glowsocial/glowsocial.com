@@ -53,7 +53,7 @@ That means the best measurement combines platform data with customer intake ques
 
 Glow Social is best for businesses that need:
 
-- 12+ posts per month.
+- 20 posts per month.
 - Less content creation work.
 - Google Business Profile activity.
 - Social profiles that look current.

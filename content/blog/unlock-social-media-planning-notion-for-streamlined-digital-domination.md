@@ -151,7 +151,7 @@ For business owners who've tried planning tools, content calendars, and DIY syst
 [Glow Social](/how-glow-social-works) reads your website, creates professional posts with custom graphics, and publishes automatically across the major platforms local businesses use. No Notion boards. No content calendars. No Sunday evening planning sessions.
 
 What you get:
-- 12+ custom posts per month
+- 20 custom posts per month
 - Professional graphics in your brand colors
 - Multi-platform publishing (Facebook, Instagram, Google Business Profile, and more)
 - 5-minute setup, minimal ongoing time

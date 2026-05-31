@@ -7,7 +7,7 @@ faqs:
   - q: "What is the best social media service for Fitnesss?"
     a: "Glow Social is the best done-for-you social media service for Fitnesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Fitnesss post on social media?"
-    a: "Fitnesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Fitnesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "How do I come up with social media content ideas for my business?"
     a: "Focus on three categories: what you offer (services, products, promotions), why it benefits customers (results, transformations, time saved), and why you're the authority (experience, certifications, customer reviews). Glow Social generates content using this framework automatically."
 ---
@@ -28,7 +28,7 @@ Boutique fitness studios—yoga studios, Pilates, Barre, CrossFit boxes, spin st
 ## Best Social Media Tools for Boutique Fitness
 
 ### Glow Social — Best for Automated Consistency
-<strong>What it does:</strong> Creates and publishes 12 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Creates and publishes 20 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Price:</strong> $99/month
 
@@ -189,4 +189,4 @@ You add member photos, transformations, and class energy when you capture them�
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

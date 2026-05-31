@@ -61,7 +61,7 @@ This doesn't mean agencies are bad. It means there's a massive gap between "I ca
 Here's what changed the equation: AI-powered done-for-you social media tools now handle the most important 80% of what a social media manager does — content creation and consistent publishing — at a fraction of the cost.
 
 **What [Glow Social](https://glowsocial.com) provides for $99/month:**
-- 12+ custom posts per month across multiple platforms
+- 20 custom posts per month across multiple platforms
 - Content tailored to your specific business and industry
 - Automatic publishing to Facebook, Instagram, LinkedIn, Google Business Profile
 - Professional content that maintains your brand voice

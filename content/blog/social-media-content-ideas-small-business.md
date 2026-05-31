@@ -101,7 +101,7 @@ These drive action — but keep them under 20% of your total posts:
 - **Wednesday:** Behind-the-scenes (#11-20)
 - **Friday:** Social proof (#21-30) or engagement (#31-40)
 
-**The zero-effort method:** Let software do it. [Glow Social](https://glowsocial.com) creates 12 industry-specific posts per month and publishes them automatically for $99/month. You never have to stare at a blank screen again.
+**The zero-effort method:** Let software do it. [Glow Social](https://glowsocial.com) creates 20 industry-specific posts per month and publishes them automatically for $99/month. You never have to stare at a blank screen again.
 
 
 ## The Real Problem Isn't Ideas — It's Execution
@@ -110,10 +110,10 @@ You bookmarked this post. You might even write a few captions today. But will yo
 
 Most small business owners stop posting after 6-8 weeks because the execution overhead — coming up with ideas, writing captions, creating images, scheduling — compounds into hours they don't have.
 
-If you want the posting without the work, [Glow Social handles it for $99/month](https://app.glowsocial.com/). 12 posts per month, created and published automatically. Setup takes 5 minutes.
+If you want the posting without the work, [Glow Social handles it for $99/month](https://app.glowsocial.com/). 20 posts per month, created and published automatically. Setup takes 5 minutes.
 
 ---
 
 **Related reading:** [How much time does social media take?](/blog/average-time-social-media-marketing) · [Social media caption length guide](/blog/social-media-caption-length) · [Best affordable social media management](/blog/best-affordable-social-media-management-small-business) · [Done-for-you social media guide](/blog/done-for-you-social-media-guide)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

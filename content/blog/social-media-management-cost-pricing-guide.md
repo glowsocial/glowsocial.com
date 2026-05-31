@@ -81,7 +81,7 @@ AI-powered services create and publish content automatically.
 **How it works with Glow Social:**
 <ul>
 <li>5-minute setup — answer questions about your business</li>
-<li>AI creates 12 posts per month with custom images</li>
+<li>AI creates 20 posts per month with custom images</li>
 <li>Posts published automatically to Facebook, Instagram, LinkedIn, TikTok</li>
 <li>No content calendar, no brainstorming, no design work</li>
 </ul>
@@ -92,7 +92,7 @@ AI-powered services create and publish content automatically.
 
 **True cost:** $99/month
 
-**Trade-offs:** Fixed at 12 posts/month. AI content is professional but not deeply personal. No engagement management. Best for maintaining presence, not building a massive following.
+**Trade-offs:** Fixed at 20 posts/month. AI content is professional but not deeply personal. No engagement management. Best for maintaining presence, not building a massive following.
 
 <a href="https://glowsocial.com">Try Glow Social →</a>
 
@@ -164,4 +164,4 @@ Related: [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-medi
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

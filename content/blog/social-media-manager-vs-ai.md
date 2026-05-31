@@ -67,7 +67,7 @@ AI-powered tools like Glow Social focus on automated content and publishing:
 <li>Handle special campaigns or launches</li>
 </ul>
 
-<strong>Cost:</strong> $99/month for Glow Social (12 posts to 4 platforms)
+<strong>Cost:</strong> $99/month for Glow Social (20 posts to 4 platforms)
 
 
 ## When to Hire a Social Media Manager
@@ -121,7 +121,7 @@ Some businesses use both:
 
 
 <ul>
-<li><strong>AI posting</strong> handles baseline content (12 posts/month)</li>
+<li><strong>AI posting</strong> handles baseline content (20 posts/month)</li>
 <li><strong>Part-time human help</strong> handles engagement, special campaigns, and customer service</li>
 </ul>
 
@@ -195,7 +195,7 @@ For hiring, start with freelance platforms like Upwork or local referrals, and p
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

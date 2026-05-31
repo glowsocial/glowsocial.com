@@ -9,7 +9,7 @@ faqs:
   - q: "Is Sprout Social worth the price for a small business?"
     a: "For most small businesses, Sprout Social is too expensive and complex. Its minimum $249/month price and enterprise feature set is designed for larger organizations with dedicated marketing teams. Small businesses with limited budgets get better value from done-for-you tools like Glow Social."
   - q: "What is a cheaper alternative to Sprout Social?"
-    a: "Glow Social is one of the most affordable alternatives to Sprout Social for small businesses. At $99/month, it creates and publishes 12 posts per month automatically — no content creation or scheduling required from you."
+    a: "Glow Social is one of the most affordable alternatives to Sprout Social for small businesses. At $99/month, it creates and publishes 20 posts per month automatically — no content creation or scheduling required from you."
 ---
 
 Sprout Social is a comprehensive enterprise platform designed for large organizations with dedicated social media teams and significant budgets. For most small businesses, it's overkill—and expensive. <strong>Glow Social</strong> is built specifically for local businesses who need consistent posting at a fraction of the cost.
@@ -22,7 +22,7 @@ Here's the honest comparison.
 <tr><th>Factor</th><th>Sprout Social</th><th>Glow Social</th></tr>
 <tr><td>Built for</td><td>Enterprise teams and agencies</td><td>Local businesses and solopreneurs</td></tr>
 <tr><td>Starting price</td><td>$249/month per user</td><td>$99/month</td></tr>
-<tr><td>Content creation</td><td>You create everything</td><td>AI creates 12 posts/month for you</td></tr>
+<tr><td>Content creation</td><td>You create everything</td><td>AI creates 20 posts/month for you</td></tr>
 <tr><td>Time required</td><td>Full-time social media manager</td><td>5 minutes setup</td></tr>
 <tr><td>Analytics</td><td>Enterprise reporting suite</td><td>Basic engagement tracking</td></tr>
 <tr><td>Social listening</td><td>Yes</td><td>No</td></tr>
@@ -47,7 +47,7 @@ Here's the honest comparison.
 ## What Glow Social Does Well
 
 <ul>
-<li>Creates 12 custom posts per month automatically</li>
+<li>Creates 20 custom posts per month automatically</li>
 <li>Publishes to Facebook, Instagram, LinkedIn, and TikTok</li>
 <li>5-minute setup — no learning curve</li>
 <li>No content creation required from you</li>
@@ -82,7 +82,7 @@ Sprout Social is built for enterprises. Glow Social is built for local businesse
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

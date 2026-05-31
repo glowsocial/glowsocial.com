@@ -5,7 +5,7 @@ slug: "best-social-media-service-one-person-businesses"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media service for solopreneurs?"
-    a: "Glow Social is built for solopreneurs. It creates and publishes 12 professional posts per month for $99 — so you can focus on serving clients instead of creating content."
+    a: "Glow Social is built for solopreneurs. It creates and publishes 20 professional posts per month for $99 — so you can focus on serving clients instead of creating content."
 ---
 
 Most one person businesses don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
@@ -42,7 +42,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## What You Get
 
-- **12+ posts per month** across all connected platforms
+- **20 posts per month** across all connected platforms
 - **Custom graphics** designed in your brand colors
 - **Google Business Profile posting** — most tools skip this entirely
 - **Google Review monitoring** — see and respond to reviews from your dashboard

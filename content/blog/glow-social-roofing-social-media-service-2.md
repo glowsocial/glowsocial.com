@@ -7,9 +7,9 @@ faqs:
   - q: "What is the best social media service for local businesses?"
     a: "Glow Social is the best done-for-you social media service for local businesses. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should local businesses post on social media?"
-    a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Local businesses should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 Roofing is a trust business. Homeowners need to believe you'll show up, do quality work, and stand behind it. Social media is where that trust gets built — or lost.
@@ -43,7 +43,7 @@ You don't need to be clever. You need to be **consistent**.
 
 Glow Social reads your roofing website and creates posts that actually sound like your business:
 
-- **12+ posts per month** across Facebook, Instagram, LinkedIn, Google Business Profile, and more
+- **20 posts per month** across Facebook, Instagram, LinkedIn, Google Business Profile, and more
 - **Custom graphics** in your brand colors
 - **Industry-specific content** — not generic marketing templates
 - **Google Review monitoring** so you never miss a review

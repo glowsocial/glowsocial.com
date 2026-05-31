@@ -1,6 +1,6 @@
 ---
 title: "Social Media for Landscapers in Phoenix — $99/Mo, Posted For You"
-description: "Skip the $1,500/mo agency. Glow Social creates and publishes 12 landscaping posts/month to Facebook, Instagram, and Google Business Profile — all for $99/mo with 5-minute setup."
+description: "Skip the $1,500/mo agency. Glow Social creates and publishes 20 landscaping posts/month to Facebook, Instagram, and Google Business Profile — all for $99/mo with 5-minute setup."
 slug: "social-media-management-landscapers-phoenix"
 date: "2026-03-17"
 city: "Phoenix"

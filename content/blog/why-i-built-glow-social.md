@@ -84,7 +84,7 @@ I wanted to build something that people would actually use. Not a premium produc
 
 Glow Social reads your website, learns what your business does, and creates social media content that sounds like you. Not generic "Happy Monday!" posts. Not stock photo nonsense. Real content about your actual services, aimed at your actual customers.
 
-It publishes 12+ posts per month across Facebook, Instagram, LinkedIn, Google Business Profile, and more. You approve the content — or let it go out automatically if you trust the system. Either way, your pages stay active. You look open. You look professional. You look like a business worth calling.
+It publishes 20 posts per month across Facebook, Instagram, LinkedIn, Google Business Profile, and more. You approve the content — or let it go out automatically if you trust the system. Either way, your pages stay active. You look open. You look professional. You look like a business worth calling.
 
 All for $99/month. No contracts. No setup fees. Cancel anytime.
 

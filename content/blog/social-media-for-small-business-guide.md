@@ -115,7 +115,7 @@ The real question isn't "how much does it cost?" — it's "how much is your time
 
 For the full pricing breakdown, see our [social media management cost guide](/blog/social-media-management-cost-pricing-guide).
 
-For most small businesses under $1M in revenue, the choice is between DIY (free but time-consuming) and done-for-you AI ($99/month and hands-off). [Glow Social](https://glowsocial.com) offers the latter — 12 custom posts per month, created and published automatically to all your platforms.
+For most small businesses under $1M in revenue, the choice is between DIY (free but time-consuming) and done-for-you AI ($99/month and hands-off). [Glow Social](https://glowsocial.com) offers the latter — 20 custom posts per month, created and published automatically to all your platforms.
 
 
 ## The Biggest Mistake: Treating Social Media Like a Campaign
@@ -146,4 +146,4 @@ The businesses that grow aren't the ones with the biggest budgets. They're the o
 
 **Related reading:** [47 content ideas for small business](/blog/social-media-content-ideas-small-business) · [Best posting schedule for small business](/blog/social-media-posting-schedule-small-business) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Social media caption length guide](/blog/social-media-caption-length) · [Best affordable social media management](/blog/best-affordable-social-media-management-small-business) · [How to hire a social media manager](/blog/how-to-hire-social-media-manager)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

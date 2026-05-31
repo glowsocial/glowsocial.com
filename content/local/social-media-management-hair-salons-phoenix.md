@@ -1,6 +1,6 @@
 ---
 title: "Social Media for Hair Salons in Phoenix — $99/Mo, Fill More Chairs"
-description: "Skip the $1,500/mo agency. Glow Social creates 12 salon-specific posts/month — style trends, transformations, and seasonal tips — published to Instagram, Facebook, and Google. $99/mo."
+description: "Skip the $1,500/mo agency. Glow Social creates 20 salon-specific posts/month — style trends, transformations, and seasonal tips — published to Instagram, Facebook, and Google. $99/mo."
 slug: "social-media-management-hair-salons-phoenix"
 date: "2026-03-17"
 city: "Phoenix"

@@ -176,7 +176,7 @@ The clean comparison is:
 <tr><th>If you need...</th><th>Use...</th></tr>
 <tr><td>A free or low-cost place to schedule posts you already made</td><td>Buffer</td></tr>
 <tr><td>A visual calendar for photos, Reels, TikToks, and Instagram planning</td><td>Later</td></tr>
-<tr><td>12 custom posts created and published for you every month</td><td>Glow Social</td></tr>
+<tr><td>20 custom posts created and published for you every month</td><td>Glow Social</td></tr>
 </table>
 
 Glow Social costs $99/month. Before paying, you can look at the kind of content it creates for local businesses and decide whether done-for-you social media is the actual thing you were looking for.
@@ -193,4 +193,4 @@ Pricing and plan limits can change. For the current official details, check [Buf
 
 **Related guides:** [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom social media posts per month for local businesses. $99/month, 5-minute setup, no contracts. [See the affordable social media management service](/affordable-social-media-management).
+**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom social media posts per month for local businesses. $99/month, 5-minute setup, no contracts. [See the affordable social media management service](/affordable-social-media-management).

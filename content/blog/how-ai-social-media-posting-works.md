@@ -5,7 +5,7 @@ slug: "how-ai-social-media-posting-works"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How long does it take to see results from social media?"
@@ -43,7 +43,7 @@ The AI creates posts based on:
 <li><strong>Seasonal relevance:</strong> Timely content when appropriate</li>
 </ol>
 
-Each month, 12 fresh posts are generated—not recycled templates.
+Each month, 20 fresh posts are generated—not recycled templates.
 
 
 ## What Posts Look Like
@@ -159,9 +159,9 @@ With Glow Social running:
 
 ## Getting Started
 
-Glow Social is $99/month for 12 posts across Facebook, Instagram, LinkedIn, and TikTok. Setup takes about 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+Glow Social is $99/month for 20 posts across Facebook, Instagram, LinkedIn, and TikTok. Setup takes about 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

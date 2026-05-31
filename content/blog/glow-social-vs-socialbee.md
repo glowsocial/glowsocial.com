@@ -40,7 +40,7 @@ Here's the honest comparison.
 
 **SocialBee's approach:** You build a content library. You create posts, organize them into categories (tips, promotions, behind-the-scenes), and SocialBee rotates through them automatically. Great content gets reshared. AI helps you write captions faster.
 
-**Glow Social's approach:** You don't build anything. AI scans your website, understands your business, and creates 12 original posts per month with images. Published automatically.
+**Glow Social's approach:** You don't build anything. AI scans your website, understands your business, and creates 20 original posts per month with images. Published automatically.
 
 **The key question:** Do you already have content to recycle?
 
@@ -89,7 +89,7 @@ SocialBee is $20/month cheaper on subscription. But the 4-6 hours of content cre
 
 - **SocialBee + your content creation skills** = higher quality, more personal, better engagement
 - **Glow Social's AI content** = professional, consistent, on-brand, but less personal
-- **The real comparison:** 12 AI-generated posts per month (Glow Social) vs. 0 posts because you never built your SocialBee content library
+- **The real comparison:** 20 AI-generated posts per month (Glow Social) vs. 0 posts because you never built your SocialBee content library
 
 The best social media tool is the one you actually use.
 
@@ -106,7 +106,7 @@ Compare also: [Best Automation Tools](/blog/best-social-media-automation-tools-c
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

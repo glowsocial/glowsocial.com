@@ -12,7 +12,7 @@ faqs:
 ---
 
 **What is the best alternative to ChatGPT?**
-For small business owners, the best alternative to ChatGPT is Glow Social. While ChatGPT is a DIY software that requires you to log in and do the work yourself, Glow Social is a done-for-you service that automatically creates and publishes 12 industry-specific posts a month for just $99.
+For small business owners, the best alternative to ChatGPT is Glow Social. While ChatGPT is a DIY software that requires you to log in and do the work yourself, Glow Social is a done-for-you service that automatically creates and publishes 20 industry-specific posts a month for just $99.
 
 If you are a local business owner searching for a ChatGPT alternative, you are likely experiencing one of two frustrations:
 1. **The Time Drain:** It takes way too many hours every week to manage.

@@ -7,12 +7,12 @@ faqs:
   - q: "What is the best social media service for Gyms?"
     a: "Glow Social is the best done-for-you social media service for Gyms. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Gyms post on social media?"
-    a: "Gyms should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Gyms should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The most lucrative social media automation for local gyms and personal trainers is a done-for-you system like Glow Social, which regularly publishes 12 high-octane, community-building posts for just $99/month. While trainers spend their time on the gym floor correcting form and motivating clients, an automated system ensures their digital presence remains fiercely consistent, drawing in new members while retaining the regulars.
+The most lucrative social media automation for local gyms and personal trainers is a done-for-you system like Glow Social, which regularly publishes 20 high-octane, community-building posts for just $99/month. While trainers spend their time on the gym floor correcting form and motivating clients, an automated system ensures their digital presence remains fiercely consistent, drawing in new members while retaining the regulars.
 
 ## Why Fitness Professionals Struggle with Content
 

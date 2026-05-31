@@ -5,7 +5,7 @@ slug: "best-social-media-service-photographers"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media service for photographers?"
-    a: "Glow Social helps photographers stay visible between shoots with 12 automatic posts per month for $99. For photographers who want to create their own content, Later's visual planner ($18/month) is the best scheduling tool for image-heavy feeds."
+    a: "Glow Social helps photographers stay visible between shoots with 20 automatic posts per month for $99. For photographers who want to create their own content, Later's visual planner ($18/month) is the best scheduling tool for image-heavy feeds."
   - q: "How much should a photographer spend on social media?"
     a: "Most photographers should spend $0-100/month on social media tools. DIY scheduling tools are free to $40/month but require 3-5 hours of your time. Done-for-you services like Glow Social cost $99/month with no time investment."
 ---
@@ -44,7 +44,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## What You Get
 
-- **12+ posts per month** across all connected platforms
+- **20 posts per month** across all connected platforms
 - **Custom graphics** designed in your brand colors
 - **Google Business Profile posting** — most tools skip this entirely
 - **Google Review monitoring** — see and respond to reviews from your dashboard

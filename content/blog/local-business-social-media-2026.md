@@ -96,7 +96,7 @@ Good enough means:
 <li><strong>Professional images</strong> — not stock photos that look like every other business</li>
 </ul>
 
-That's 12 posts per month. Created manually, that's 5-8 hours of work. Created with AI tools, that's less than 30 minutes of review time.
+That's 20 posts per month. Created manually, that's 5-8 hours of work. Created with AI tools, that's less than 30 minutes of review time.
 
 ## The Tools That Make It Possible
 
@@ -110,7 +110,7 @@ AI-powered social media tools have gone from "interesting experiment" to "produc
 <li>Cost less than a single lunch meeting per month</li>
 </ul>
 
-Glow Social, for example, creates and automatically publishes 12 custom posts per month starting at $99. The AI reads your website to learn your voice, generates content ideas (called Sparks), and creates full posts with custom images. Setup takes 5 minutes. Monthly time investment: about 2 minutes to review and approve.
+Glow Social, for example, creates and automatically publishes 20 custom posts per month starting at $99. The AI reads your website to learn your voice, generates content ideas (called Sparks), and creates full posts with custom images. Setup takes 5 minutes. Monthly time investment: about 2 minutes to review and approve.
 
 That's not "social media management." That's checking a box. The social media happens in the background while you run your business.
 

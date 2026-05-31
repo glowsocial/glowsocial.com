@@ -86,7 +86,7 @@ That's why most contractors try social media for 3-4 weeks before the job sites 
 Done-for-you social media services like [Glow Social](/how-glow-social-works) remove the time barrier entirely. Here's how it works:
 
 1. **We read your website** to understand your services, service area, and brand voice
-2. **We create 12+ custom posts per month** with professional graphics in your brand colors
+2. **We create 20 custom posts per month** with professional graphics in your brand colors
 3. **We format and publish** across Facebook, Instagram, Google Business Profile, and more
 4. **You review and approve** with a few taps — that's it
 

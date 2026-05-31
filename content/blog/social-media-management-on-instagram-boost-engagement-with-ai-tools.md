@@ -151,7 +151,7 @@ You don't need to master Instagram overnight. Start with what's sustainable:
 
 **Month 2+:** Evaluate what's working and adjust. Consider [AI tools](/blog/social-media-and-ai-transform-your-digital-dominance-effortlessly) to handle the creation and scheduling so you can focus on engagement.
 
-For a hands-off approach, [Glow Social](/how-glow-social-works) creates Instagram-ready posts with professional graphics and publishes them automatically. 12+ posts per month, custom graphics, all platforms included.
+For a hands-off approach, [Glow Social](/how-glow-social-works) creates Instagram-ready posts with professional graphics and publishes them automatically. 20 posts per month, custom graphics, all platforms included.
 
 **$99/month.** [Get Started](https://app.glowsocial.com/)
 

@@ -81,7 +81,7 @@ export function GET() {
             amount: "99.00",
             currency: "USD",
             description:
-              "Glow Social subscription — 12+ posts/month starting at $99",
+              "Glow Social subscription — 20 posts/month starting at $99",
           },
           responses: {
             200: { description: "Content generated" },

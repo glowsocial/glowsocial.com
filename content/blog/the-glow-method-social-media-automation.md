@@ -9,7 +9,7 @@ faqs:
   - q: "Is social media management worth the investment for small businesses?"
     a: "Yes. Consistent social media builds trust and keeps your business visible. 76% of consumers check a business's social media before visiting. Done-for-you services like Glow Social make it affordable at $99/month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 **What is the GLOW Method in social media marketing?** The GLOW Method is a 4-step framework (Generate Strategy, Learn Brand Voice, Optimize Distribution, Weekly Consistency) used to fully automate social media marketing for local businesses. It allows platforms like Glow Social to replace expensive marketing agencies for just $99/month.

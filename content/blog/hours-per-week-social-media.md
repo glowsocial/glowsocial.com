@@ -5,11 +5,11 @@ slug: "hours-per-week-social-media"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
     a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
-    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 12+ posts per month automatically."
+    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
 ---
 
 You're busy running your business. Social media feels like another chore. Here's the honest answer: You need fewer hours than you think—or zero hours if you automate it. Most small businesses can maintain an effective social presence with 1-3 hours per month (batching) or $99/month (automated posting with Glow Social).
@@ -35,7 +35,7 @@ For baseline social media visibility (staying visible, not going viral):
 
 
 <ul>
-<li><strong>Posting frequency:</strong> 3x per week (12 posts/month)</li>
+<li><strong>Posting frequency:</strong> 3x per week (20 posts/month)</li>
 <li><strong>Engagement:</strong> 5-10 minutes daily responding to comments/DMs</li>
 <li><strong>Total time:</strong> 3-5 hours/month (if you do it yourself)</li>
 </ul>
@@ -98,7 +98,7 @@ If you're reading this and thinking "I don't even have 2-4 hours per month," aut
 <strong>Glow Social:</strong>
 
 <ul>
-<li>Creates 12 posts/month for you</li>
+<li>Creates 20 posts/month for you</li>
 <li>Publishes automatically to Facebook, Instagram, LinkedIn, TikTok</li>
 <li>Setup: 5 minutes</li>
 <li>Ongoing time: Occasional approvals if you want, or zero</li>
@@ -166,4 +166,4 @@ Either way, you don't need 10+ hours per month. You just need consistent visibil
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

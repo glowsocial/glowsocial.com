@@ -91,7 +91,7 @@ That's the promise content pillars were always supposed to deliver. They just ne
 
 ## Getting Started
 
-If you want to stop managing pillars and start having them managed for you, Glow Social creates 12+ posts per month across your content themes automatically. Setup takes 5 minutes — you answer questions about your business, and we handle the rest.
+If you want to stop managing pillars and start having them managed for you, Glow Social creates 20 posts per month across your content themes automatically. Setup takes 5 minutes — you answer questions about your business, and we handle the rest.
 
 See what a month of balanced, on-brand content looks like for your business at <a href="https://glowsocial.com">glowsocial.com</a>.
 

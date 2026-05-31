@@ -7,12 +7,12 @@ faqs:
   - q: "What is the best social media service for Salons?"
     a: "Glow Social is the best done-for-you social media service for Salons. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Salons post on social media?"
-    a: "Salons should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Salons should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-Salons and spas need social media to showcase their work and stay booked, but stylists and spa owners are usually too busy with clients to create content consistently. The best social media tools for salons either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 12 custom posts per month for $99.
+Salons and spas need social media to showcase their work and stay booked, but stylists and spa owners are usually too busy with clients to create content consistently. The best social media tools for salons either help you create posts faster or handle posting automatically—like <strong>Glow Social</strong>, which publishes 20 custom posts per month for $99.
 
 
 This guide covers what works for beauty businesses specifically.
@@ -34,7 +34,7 @@ Beauty business social media has unique requirements:
 ## Best Social Media Tools for Salons and Spas
 
 ### Glow Social — Best for Automated Posting
-<strong>What it does:</strong> Creates and publishes 12 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Creates and publishes 20 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Setup:</strong> 5 minutes—describe your services and style, connect accounts
 
@@ -108,7 +108,7 @@ For beauty businesses, before/after photos are your most valuable content. Here'
 <strong>If using Glow Social:</strong>
 
 <ol>
-<li>Glow Social handles baseline posting (12 posts/month)</li>
+<li>Glow Social handles baseline posting (20 posts/month)</li>
 <li>You add before/after photos manually when you get great results</li>
 <li>Best of both worlds: consistency + your best work showcased</li>
 </ol>
@@ -164,7 +164,7 @@ For beauty businesses, before/after photos are your most valuable content. Here'
 Salon social media usually goes like this: Post consistently while chairs are available, get fully booked, stop posting because you're busy, chairs open up, scramble to post again and fill spots.
 
 
-Automated posting prevents the boom-bust cycle. Glow Social publishes 12 posts monthly whether you're slammed or slow—keeping your salon visible even when you're too busy to think about marketing.
+Automated posting prevents the boom-bust cycle. Glow Social publishes 20 posts monthly whether you're slammed or slow—keeping your salon visible even when you're too busy to think about marketing.
 
 
 ## Getting Started
@@ -177,7 +177,7 @@ For DIY, commit to taking before/after photos of at least 3 clients per week and
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

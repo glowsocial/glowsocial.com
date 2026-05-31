@@ -144,7 +144,7 @@ Notice something? **The cheapest option isn't the free one** — it's the one th
 Glow Social exists precisely because of this math. Instead of spending 20+ hours a month creating and scheduling content, our software:
 
 - **Reads your website** to learn your brand voice, services, and differentiators
-- **Creates 12+ custom posts per month** with professional graphics — not generic templates
+- **Creates 20 custom posts per month** with professional graphics — not generic templates
 - **Publishes automatically** to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile
 - **Monitors your Google Reviews** so you never miss one
 
@@ -175,4 +175,4 @@ If your goal is simply to **stay visible and look professional online** without 
 
 **Related guides:** [Affordable social media management service](/affordable-social-media-management) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [Social media caption length guide](/blog/social-media-caption-length) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management guide](/blog/best-affordable-social-media-management-small-business) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

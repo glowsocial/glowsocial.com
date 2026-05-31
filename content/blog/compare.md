@@ -7,7 +7,7 @@ faqs:
   - q: "What is the best social media tool for small businesses?"
     a: "It depends on your needs and budget. For done-for-you posting with zero time investment, Glow Social costs $99/month. For DIY scheduling, Buffer starts free. For enterprise teams, Hootsuite or Sprout Social offer advanced features starting at $99-249/month."
   - q: "How does Glow Social compare to other social media tools?"
-    a: "Unlike scheduling tools like Buffer and Hootsuite that require you to create content, Glow Social creates and publishes 12 posts per month automatically for $99/month. It's social media done for you, not social media tools to do it yourself."
+    a: "Unlike scheduling tools like Buffer and Hootsuite that require you to create content, Glow Social creates and publishes 20 posts per month automatically for $99/month. It's social media done for you, not social media tools to do it yourself."
 ---
 
 Not sure which social media solution is right for your business? We've created honest, side-by-side comparisons so you can decide based on your budget, time, and what you actually need.
@@ -71,7 +71,7 @@ Not sure which social media solution is right for your business? We've created h
 <tr><td>Content Recycling (SocialBee)</td><td>$29-179</td><td>4-6 hours</td><td>No (recycling only)</td></tr>
 <tr><td>Agency Tools (Sendible)</td><td>$29-750</td><td>5-10 hours</td><td>No</td></tr>
 <tr><td>Enterprise Tools (Hootsuite, Sprout, Vista Social)</td><td>$39-249</td><td>5-10 hours</td><td>No</td></tr>
-<tr><td>Done-For-You (Glow Social)</td><td>$99</td><td>5 minutes</td><td>Yes — 12 posts/month</td></tr>
+<tr><td>Done-For-You (Glow Social)</td><td>$99</td><td>5 minutes</td><td>Yes — 20 posts/month</td></tr>
 <tr><td>Freelancer</td><td>$300-2,000</td><td>2-4 hours</td><td>Yes</td></tr>
 <tr><td>Agency</td><td>$1,000-3,000+</td><td>2-4 hours</td><td>Yes</td></tr>
 </table>
@@ -89,4 +89,4 @@ Not sure which social media solution is right for your business? We've created h
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

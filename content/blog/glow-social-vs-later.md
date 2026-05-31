@@ -9,7 +9,7 @@ faqs:
   - q: "Does Later create content for you?"
     a: "No. Later provides AI writing credits for captions (5 per month on the Starter plan), but you must create all visual content yourself. Later's strength is visual planning and scheduling — not content creation. Glow Social creates complete posts with images automatically."
   - q: "How much does Later cost compared to Glow Social?"
-    a: "Later's Starter plan starts at $18.75/month when billed yearly for 1 user and 30 scheduled posts per profile. The Growth plan starts at $37.50/month when billed yearly for 180 posts per profile and collaboration features. Glow Social costs $99/month for 12 done-for-you posts with images. Later is cheaper as software, but it requires 5-10 hours of your time; Glow Social requires 5 minutes."
+    a: "Later's Starter plan starts at $18.75/month when billed yearly for 1 user and 30 scheduled posts per profile. The Growth plan starts at $37.50/month when billed yearly for 180 posts per profile and collaboration features. Glow Social costs $99/month for 20 done-for-you posts with images. Later is cheaper as software, but it requires 5-10 hours of your time; Glow Social requires 5 minutes."
   - q: "Can I use Later for my local business?"
     a: "Yes, but Later is designed for brands that create visual content (photos, Reels, Stories). If you're a local business that doesn't take professional photos or create video content, Later's visual planning features won't help much. A done-for-you service like Glow Social ($99/month) is more practical for businesses that don't create content."
 ---
@@ -74,7 +74,7 @@ Glow Social makes more sense if you:
 <tr><td>Subscription</td><td>$99/month</td><td>$18.75/month billed yearly</td><td>$37.50/month billed yearly</td></tr>
 <tr><td>Your time</td><td>0 hours</td><td>5-10 hours/month</td><td>5-10 hours/month</td></tr>
 <tr><td>Time value @ $50/hr</td><td>$0</td><td>$250-500</td><td>$250-500</td></tr>
-<tr><td>Post limit</td><td>12 posts/month</td><td>30 per profile</td><td>180 per profile</td></tr>
+<tr><td>Post limit</td><td>20 posts/month</td><td>30 per profile</td><td>180 per profile</td></tr>
 <tr><td><strong>True monthly cost</strong></td><td><strong>$99</strong></td><td><strong>$268.75-518.75</strong></td><td><strong>$287.50-537.50</strong></td></tr>
 </table>
 
@@ -93,4 +93,4 @@ Compare also: [Later pricing and free plan](/blog/later-pricing-free-plan-2026) 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

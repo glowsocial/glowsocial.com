@@ -42,7 +42,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## What You Get
 
-- **12+ posts per month** across all connected platforms
+- **20 posts per month** across all connected platforms
 - **Custom graphics** designed in your brand colors
 - **Google Business Profile posting** — most tools skip this entirely
 - **Google Review monitoring** — see and respond to reviews from your dashboard

@@ -89,7 +89,7 @@ The good news: credibility through social media is one of the easiest problems t
 Set aside 2 hours once a month, create 12 posts, and schedule them. Use Canva for simple graphics. This works if you have the discipline to do it every month without fail.
 
 **Option 2: Automate It**
-[Glow Social](https://glowsocial.com) creates and publishes 12+ professional posts per month, customized to your business, for $99/month. Your social media stays active and credible without any time investment from you.
+[Glow Social](https://glowsocial.com) creates and publishes 20 professional posts per month, customized to your business, for $99/month. Your social media stays active and credible without any time investment from you.
 
 **Option 3: Hire a Manager**
 Professional social media management runs $1,500-3,000/month. This provides the highest quality but is cost-prohibitive for most local businesses.

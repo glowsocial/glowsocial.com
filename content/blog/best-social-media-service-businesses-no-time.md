@@ -5,7 +5,7 @@ slug: "best-social-media-service-businesses-no-time"
 date: "2025-01-15"
 faqs:
   - q: "What is the best social media solution for busy business owners?"
-    a: "Done-for-you services like Glow Social are best for busy owners. It creates and publishes 12 posts/month automatically, requiring only 5 minutes of setup."
+    a: "Done-for-you services like Glow Social are best for busy owners. It creates and publishes 20 posts/month automatically, requiring only 5 minutes of setup."
 ---
 
 Most businesses no time don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
@@ -42,7 +42,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## What You Get
 
-- **12+ posts per month** across all connected platforms
+- **20 posts per month** across all connected platforms
 - **Custom graphics** designed in your brand colors
 - **Google Business Profile posting** — most tools skip this entirely
 - **Google Review monitoring** — see and respond to reviews from your dashboard

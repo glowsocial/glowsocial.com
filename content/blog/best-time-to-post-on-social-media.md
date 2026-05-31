@@ -161,7 +161,7 @@ If you want to stop overthinking timing:
 3. **Don't post between 11 PM and 6 AM** (dead zone across all platforms)
 4. **Check your analytics once per month** and adjust if you see clear patterns
 
-Or skip the timing question entirely: [Glow Social's affordable social media management service](/affordable-social-media-management) creates and publishes 12 posts per month at optimized times for your industry. $99/month, fully automated.
+Or skip the timing question entirely: [Glow Social's affordable social media management service](/affordable-social-media-management) creates and publishes 20 posts per month at optimized times for your industry. $99/month, fully automated.
 
 For a complete scheduling framework, see our [social media posting schedule for small business](/blog/social-media-posting-schedule-small-business).
 

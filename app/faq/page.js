@@ -20,7 +20,7 @@ export default function FAQ() {
                 "name": "What is Glow Social?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Glow Social is done-for-you social media posting for local businesses. We create and publish custom social media content for your business automatically — 12+ posts per month across major platforms, starting at $99/month."
+                  "text": "Glow Social is done-for-you social media posting for local businesses. We create and publish custom social media content for your business automatically — 20 posts per month across major platforms, starting at $99/month."
                 }
               },
               {
@@ -79,7 +79,7 @@ export default function FAQ() {
           <p>
             Glow Social is done-for-you social media posting for local
             businesses. We create and publish custom social media content for
-            your business automatically — 12+ posts per month across 12
+            your business automatically — 20 posts per month across 12
             platforms, starting at $99/month.
           </p>
 
@@ -130,7 +130,7 @@ export default function FAQ() {
 
           <h2>How many posts do I get per month?</h2>
           <p>
-            The Core plan includes 12+ posts per month. Posts are distributed
+            The Core plan includes 20 posts per month. Posts are distributed
             across your connected platforms to maintain consistent visibility.
           </p>
 

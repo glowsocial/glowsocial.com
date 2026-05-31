@@ -5,7 +5,7 @@ slug: "best-social-media-service-coaches-consultants"
 date: "2025-01-15"
 faqs:
   - q: "What social media service is best for coaches?"
-    a: "Glow Social is ideal for coaches and consultants because it creates thought-leadership content automatically. $99/month for 12 posts that position you as an expert."
+    a: "Glow Social is ideal for coaches and consultants because it creates thought-leadership content automatically. $99/month for 20 posts that position you as an expert."
 ---
 
 Most coaches consultants don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
@@ -42,7 +42,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## What You Get
 
-- **12+ posts per month** across all connected platforms
+- **20 posts per month** across all connected platforms
 - **Custom graphics** designed in your brand colors
 - **Google Business Profile posting** — most tools skip this entirely
 - **Google Review monitoring** — see and respond to reviews from your dashboard

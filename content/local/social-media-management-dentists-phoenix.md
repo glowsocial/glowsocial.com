@@ -1,6 +1,6 @@
 ---
 title: "Social Media for Dentists in Phoenix — $99/Mo, Zero Effort"
-description: "Skip the $1,500/mo agency. Glow Social creates and publishes 12 dental-specific posts/month to Facebook, Instagram, and Google Business Profile — $99/mo, 5-minute setup."
+description: "Skip the $1,500/mo agency. Glow Social creates and publishes 20 dental-specific posts/month to Facebook, Instagram, and Google Business Profile — $99/mo, 5-minute setup."
 slug: "social-media-management-dentists-phoenix"
 date: "2026-02-23"
 city: "Phoenix"

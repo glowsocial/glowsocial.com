@@ -9,7 +9,7 @@ faqs:
   - q: "Which AI social media tool is best for small businesses?"
     a: "For small businesses with limited time, done-for-you AI tools like Glow Social ($99/month, zero time investment) are most practical. For businesses with a social media person who wants to work faster, AI-enhanced scheduling tools like Vista Social or Buffer are better. For businesses creating long-form content, AI writing tools like Jasper are useful."
   - q: "Can AI completely replace a social media manager?"
-    a: "AI can replace the content creation and publishing parts of social media management. Done-for-you tools like Glow Social create and post 12 posts per month automatically. However, AI cannot yet replace community management (responding to comments/DMs), crisis communication, or strategic campaign planning. The best approach for most small businesses is AI for posting plus minimal human engagement."
+    a: "AI can replace the content creation and publishing parts of social media management. Done-for-you tools like Glow Social create and post 20 posts per month automatically. However, AI cannot yet replace community management (responding to comments/DMs), crisis communication, or strategic campaign planning. The best approach for most small businesses is AI for posting plus minimal human engagement."
   - q: "What's the difference between AI writing tools and done-for-you social media?"
     a: "AI writing tools like Jasper and Copy.ai generate text that you then copy, customize, pair with images, and publish manually. Done-for-you platforms like Glow Social handle the entire process — content creation, image generation, and publishing — automatically. Writing tools save 30-50% of your time. Done-for-you tools save 95-100% of your time."
 ---
@@ -119,7 +119,7 @@ But these tools use AI in fundamentally different ways. Understanding the differ
 **Examples and pricing:**
 <table>
 <tr><th>Tool</th><th>Starting Price</th><th>Content Created</th></tr>
-<tr><td>Glow Social</td><td>$99/mo</td><td>12 posts/month with images, fully automatic</td></tr>
+<tr><td>Glow Social</td><td>$99/mo</td><td>20 posts/month with images, fully automatic</td></tr>
 <tr><td>Feedbird</td><td>$99-299/mo</td><td>15-30+ posts/month, human + AI hybrid</td></tr>
 <tr><td>99 Dollar Social</td><td>$99/platform/mo</td><td>Daily posts, human writers</td></tr>
 </table>
@@ -157,4 +157,4 @@ Related: [Best Automation Tools That Create Content](/blog/best-social-media-aut
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

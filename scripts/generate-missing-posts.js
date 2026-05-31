@@ -99,7 +99,7 @@ Setup takes about 5 minutes. Posts start going out immediately.
 
 ## What You Get
 
-- **12+ posts per month** across all connected platforms
+- **20 posts per month** across all connected platforms
 - **Custom graphics** designed in your brand colors
 - **Google Business Profile posting** — most tools skip this entirely
 - **Google Review monitoring** — see and respond to reviews from your dashboard
@@ -143,7 +143,7 @@ If you're looking for a **${competitor} alternative**, you're probably frustrate
 
 Most social media tools — ${competitor} included — are scheduling platforms. They help you post, but you still have to write every caption, design every graphic, and manage every content calendar yourself.
 
-**Glow Social** takes a different approach: it creates and publishes your content automatically. For **$99/month**, you get 12+ custom posts per month across 13 platforms — including Google Business Profile, which most tools skip entirely.
+**Glow Social** takes a different approach: it creates and publishes your content automatically. For **$99/month**, you get 20 custom posts per month across 13 platforms — including Google Business Profile, which most tools skip entirely.
 
 ## ${competitor} vs Glow Social: Quick Comparison
 
@@ -170,7 +170,7 @@ No content calendar. No graphic design. No agonizing over captions.
 
 ## What Glow Social Includes
 
-- **12+ posts per month** customized to your business
+- **20 posts per month** customized to your business
 - **13 platforms** including Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile
 - **Custom graphics** in your brand colors
 - **Google Review monitoring** — see and respond to reviews from your dashboard
@@ -272,7 +272,7 @@ If you value your time at even $25/hour, 10 hours of DIY social media costs $250
 
 ## What Glow Social Offers Differently
 
-- **12+ posts per month** created from your actual website content
+- **20 posts per month** created from your actual website content
 - **13 platforms** including Google Business Profile (most tools skip this)
 - **Google Review monitoring** included in every plan
 - **Custom graphics** in your brand colors
@@ -349,7 +349,7 @@ Consistent posting signals:
 We read your website to understand your services, brand voice, and style. Then we create custom posts — not templates — that sound like you wrote them on your best day.
 
 Every month you get:
-- **12+ custom posts** across Facebook, Instagram, LinkedIn, and Google Business Profile
+- **20 custom posts** across Facebook, Instagram, LinkedIn, and Google Business Profile
 - **Professional graphics** in your brand colors
 - **Google Review monitoring** so you never miss a new review
 - **Automatic publishing** — posts go out on schedule without your involvement
@@ -393,7 +393,7 @@ Use tools like Buffer or Later to schedule posts. You'll spend 5-10 hours per mo
 Get human creativity and custom strategy, but you'll still need to manage the relationship and provide direction.
 
 **Use done-for-you software ($99/month):**
-Glow Social creates and publishes 12+ posts per month automatically. Setup takes 5 minutes, and posts are customized to your business — not generic templates.
+Glow Social creates and publishes 20 posts per month automatically. Setup takes 5 minutes, and posts are customized to your business — not generic templates.
 
 **Hire an agency ($2,000+/month):**
 Full-service marketing with strategy, content, and reporting. Best for businesses with budget for comprehensive marketing support.

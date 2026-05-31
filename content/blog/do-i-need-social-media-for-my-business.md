@@ -70,7 +70,7 @@ It requires: **consistent, professional posts that show you're active.** That's 
 
 If you're a local business — restaurant, salon, contractor, dental office, retail shop — you need social media. Not because it will make you go viral, but because **inactive pages cost you customers you'll never know about.**
 
-The cheapest way to solve this permanently is Glow Social: $99/month, 12 automatic posts, 5-minute setup, no content creation required.
+The cheapest way to solve this permanently is Glow Social: $99/month, 20 automatic posts, 5-minute setup, no content creation required.
 
 **Not ready for $99/month yet?** Start with our free Profile Kit — it sets up all your social media profiles in 15 minutes, no credit card needed.
 
@@ -80,7 +80,7 @@ Compare your options: [Done-For-You vs. DIY](/blog/done-for-you-vs-diy-social-me
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

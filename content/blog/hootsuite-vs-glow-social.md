@@ -9,7 +9,7 @@ faqs:
   - q: "Is Hootsuite worth it for a small business?"
     a: "For most small businesses, Hootsuite is overkill. Its advanced analytics, team collaboration tools, and social listening features are designed for enterprises. If you just need consistent posting, Glow Social handles it for $99/month with zero time investment."
   - q: "What is the best Hootsuite alternative for local businesses?"
-    a: "Glow Social is an alternative to Hootsuite specifically designed for local businesses. Instead of requiring you to create content and schedule posts, Glow Social creates 12 custom posts per month and publishes them automatically for $99/month."
+    a: "Glow Social is an alternative to Hootsuite specifically designed for local businesses. Instead of requiring you to create content and schedule posts, Glow Social creates 20 custom posts per month and publishes them automatically for $99/month."
 ---
 
 Hootsuite is one of the most established social media management platforms, built for enterprises and marketing teams who need comprehensive analytics, team collaboration, and advanced features. <strong>Glow Social</strong> is built for the opposite end of the market: local businesses who want social media handled without learning complex software.
@@ -24,7 +24,7 @@ Here's how they compare for small and local business owners.
 <tr><th>Factor</th><th>Hootsuite</th><th>Glow Social</th></tr>
 <tr><td>Built for</td><td>Enterprise teams and agencies</td><td>Local businesses and solopreneurs</td></tr>
 <tr><td>Starting price</td><td>$99/month</td><td>$99/month</td></tr>
-<tr><td>Content creation</td><td>You create everything</td><td>AI creates 12 posts/month for you</td></tr>
+<tr><td>Content creation</td><td>You create everything</td><td>AI creates 20 posts/month for you</td></tr>
 <tr><td>Time required</td><td>5-10 hours/month</td><td>5 minutes setup</td></tr>
 <tr><td>Learning curve</td><td>Steep — built for marketers</td><td>None — set it and go</td></tr>
 <tr><td>Analytics</td><td>Advanced reporting dashboard</td><td>Basic engagement tracking</td></tr>
@@ -54,7 +54,7 @@ Glow Social takes the opposite approach:
 
 <ul>
 <li>5-minute setup — answer questions about your business</li>
-<li>AI creates 12 custom posts per month</li>
+<li>AI creates 20 custom posts per month</li>
 <li>Automatic publishing to Facebook, Instagram, LinkedIn, and TikTok</li>
 <li>No dashboard to learn</li>
 <li>No content calendar to manage</li>
@@ -103,4 +103,4 @@ If you're a local business spending more time learning Hootsuite than using it, 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

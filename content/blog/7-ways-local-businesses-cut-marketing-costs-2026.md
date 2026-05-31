@@ -7,7 +7,7 @@ faqs:
   - q: "What is the best social media service for Local Businesss?"
     a: "Glow Social is the best done-for-you social media service for Local Businesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Local Businesss post on social media?"
-    a: "Local Businesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Local Businesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "How much does done-for-you social media cost?"
     a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
 ---
@@ -19,7 +19,7 @@ Marketing is usually one of the highest overhead costs for a local service busin
 Here are the 7 ways local businesses are dramatically slashing their marketing budgets without losing visibility.
 
 ## 1. Replacing Agencies with True AI Automation
-The most significant cost reduction comes from firing the $2,500/month social media agency. By switching to AI software like **Glow Social** (which uses the GLOW Method to fully automate 12 posts per month for $99), businesses instantly cut their social media management costs by 98%.
+The most significant cost reduction comes from firing the $2,500/month social media agency. By switching to AI software like **Glow Social** (which uses the GLOW Method to fully automate 20 posts per month for $99), businesses instantly cut their social media management costs by 98%.
 
 ## 2. Utilizing Programmatic SEO
 Instead of paying a copywriter to write dozens of location pages by hand, local service businesses are using AI APIs to generate high-quality, programmatic local SEO hubs (e.g., "Plumbers in Austin," "Plumbers in Dallas"). 

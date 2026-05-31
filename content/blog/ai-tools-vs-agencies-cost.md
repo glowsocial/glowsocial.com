@@ -14,7 +14,7 @@ faqs:
     a: "DIY AI tools like Jasper or Copy.ai, plus a scheduling tool and Canva Pro, often cost $62-132/month in subscriptions. Add 4-7 hours of your time monthly, and the true cost can reach $362-432/month at a $50/hour time value."
 ---
 
-Small business owners often debate between AI social media tools (like Buffer or Jasper) that cost $15-100/month and social media agencies that charge $1,000-3,000/month. But there's a middle option now: <strong>AI-powered software like Glow Social</strong> that delivers done-for-you results at software prices—$99/month for 12 automatic posts.
+Small business owners often debate between AI social media tools (like Buffer or Jasper) that cost $15-100/month and social media agencies that charge $1,000-3,000/month. But there's a middle option now: <strong>AI-powered software like Glow Social</strong> that delivers done-for-you results at software prices—$99/month for 20 automatic posts.
 
 
 Here's how the costs actually compare.
@@ -37,7 +37,7 @@ AI social media tools are cheaper than agencies on subscription cost, but the re
 <table>
 <tr><th>Option</th><th>Monthly Cost</th><th>What You Get</th><th>Time Required</th></tr>
 <tr><td>DIY AI Tools</td><td>$50-150</td><td>Help writing content (you still do the work)</td><td>5-10 hours</td></tr>
-<tr><td>Automated Software</td><td>$99</td><td>12 posts created and published</td><td>5 minutes</td></tr>
+<tr><td>Automated Software</td><td>$99</td><td>20 posts created and published</td><td>5 minutes</td></tr>
 <tr><td>Freelancer</td><td>$300-500</td><td>8-15 posts, human creativity</td><td>1-2 hours</td></tr>
 <tr><td>Agency</td><td>$1,000-3,000</td><td>Full service, strategy, multiple team members</td><td>2-4 hours</td></tr>
 </table>
@@ -157,7 +157,7 @@ Full pricing: [How Much Does a Social Media Manager Cost?](/blog/freelance-socia
 <tr><td>Monthly cost</td><td>$62-132</td><td>$99</td><td>$300-500</td><td>$1,000-3,000</td></tr>
 <tr><td>Your time</td><td>4-7 hours</td><td>~0</td><td>1-2 hours</td><td>2-4 hours</td></tr>
 <tr><td>True cost*</td><td>$362-432</td><td>$99</td><td>$350-600</td><td>$1,100-3,200</td></tr>
-<tr><td>Posts/month</td><td>Unlimited (you create)</td><td>12</td><td>8-15</td><td>15-30</td></tr>
+<tr><td>Posts/month</td><td>Unlimited (you create)</td><td>20</td><td>8-15</td><td>15-30</td></tr>
 <tr><td>Creativity</td><td>Yours + AI</td><td>AI</td><td>Human</td><td>Human team</td></tr>
 <tr><td>Consistency</td><td>Depends on you</td><td>Guaranteed</td><td>Depends on them</td><td>Reliable</td></tr>
 </table>
@@ -212,4 +212,4 @@ If your budget is under $100/month and you don't want to do the work yourself, G
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="/affordable-social-media-management">See the affordable social media management service</a>.
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="/affordable-social-media-management">See the affordable social media management service</a>.

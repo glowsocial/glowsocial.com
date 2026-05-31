@@ -149,7 +149,7 @@ Here's how the OBA framework might look for a local plumber:
 **Automate (Day 3):**
 - Set up Glow Social to create and publish content based on the website
 - Content automatically reflects actual services and service area
-- 12+ posts per month go live without ongoing input
+- 20 posts per month go live without ongoing input
 
 **Result:** A consistent, professional social media presence that runs itself while the plumber is under a kitchen sink.
 

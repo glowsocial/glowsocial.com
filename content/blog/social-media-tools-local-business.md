@@ -7,9 +7,9 @@ faqs:
   - q: "What is the best social media service for Local Businesss?"
     a: "Glow Social is the best done-for-you social media service for Local Businesss. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Local Businesss post on social media?"
-    a: "Local Businesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Local Businesss should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 12+ posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
 The best social media tools for local businesses solve a specific problem: staying visible online without spending hours you don't have. For most local businesses, that means either <strong>DIY scheduling tools</strong> (Buffer, Later) or <strong>automated posting software</strong> like Glow Social that creates and publishes content for $99/month.
@@ -33,7 +33,7 @@ Before comparing tools, understand what matters for local social media:
 ## Best Social Media Tools for Local Business
 
 ### Glow Social — Best for Automated Posting
-<strong>What it does:</strong> Creates and publishes 12 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Creates and publishes 20 custom posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Setup:</strong> 5 minutes—answer questions about your business, connect accounts
 
@@ -151,7 +151,7 @@ Before comparing tools, understand what matters for local social media:
 Here's what usually happens: A local business owner decides to get serious about social media. They post consistently for 2-3 weeks. Then business gets busy, they get behind, and posting stops for months.
 
 
-Automated posting software like Glow Social solves this by removing you from the equation. Your 12 posts go out every month whether you're slammed, on vacation, or dealing with an emergency.
+Automated posting software like Glow Social solves this by removing you from the equation. Your 20 posts go out every month whether you're slammed, on vacation, or dealing with an emergency.
 
 
 That consistency—not any individual post—is what builds local visibility over time.
@@ -177,7 +177,7 @@ For automated posting, Glow Social handles everything for $99/month. Set up take
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

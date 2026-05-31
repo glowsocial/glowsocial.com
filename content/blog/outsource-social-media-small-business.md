@@ -30,7 +30,7 @@ If you answered yes to any two, outsource it. Here's how to pick the right optio
 
 ### Option 1: AI Done-For-You Software ($99/month)
 
-**What you get:** 12 custom posts per month, created and published automatically to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile.
+**What you get:** 20 custom posts per month, created and published automatically to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile.
 
 **What you don't get:** Community management, paid ad strategy, influencer outreach.
 

@@ -25,7 +25,7 @@ Here's the honest comparison.
 <tr><td>What it does</td><td>Creates AND publishes content for you</td><td>Helps you schedule and manage content you create</td></tr>
 <tr><td>Monthly cost</td><td>$99 (single plan)</td><td>$39-199 (tiered plans)</td></tr>
 <tr><td>Your time</td><td>5 minutes setup</td><td>5-10 hours/month</td></tr>
-<tr><td>Creates content?</td><td>✅ Yes — 12 posts/month</td><td>❌ No — AI caption assist only</td></tr>
+<tr><td>Creates content?</td><td>✅ Yes — 20 posts/month</td><td>❌ No — AI caption assist only</td></tr>
 <tr><td>Creates images?</td><td>✅ Yes — included</td><td>❌ No — you source images</td></tr>
 <tr><td>Auto-publishes?</td><td>✅ Yes — fully automatic</td><td>✅ Yes — after you create and schedule</td></tr>
 <tr><td>Analytics</td><td>Basic</td><td>Advanced (reports, benchmarks, competitor tracking)</td></tr>
@@ -130,7 +130,7 @@ Compare also: [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social) · [Bu
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

@@ -12,7 +12,7 @@ faqs:
     a: "Yes. If your goal is a professional social media presence without writing posts yourself, Glow Social replaces both your scheduling tool and your content creation process for one flat monthly fee."
 ---
 
-SocialBee and Glow Social both promise to simplify social media, but they work differently. <strong>SocialBee</strong> is a scheduling and management tool with AI features—you still create content, it helps organize and recycle it. <strong>Glow Social</strong> creates and publishes content automatically—12 posts per month for $99 without requiring you to write or schedule anything.
+SocialBee and Glow Social both promise to simplify social media, but they work differently. <strong>SocialBee</strong> is a scheduling and management tool with AI features—you still create content, it helps organize and recycle it. <strong>Glow Social</strong> creates and publishes content automatically—20 posts per month for $99 without requiring you to write or schedule anything.
 
 
 The choice depends on how much of the work you want to do yourself.
@@ -56,7 +56,7 @@ Glow Social takes a simpler approach—it handles everything automatically:
 
 <ul>
 <li>You answer questions about your business during 5-minute setup</li>
-<li>Software creates 12 custom posts per month</li>
+<li>Software creates 20 custom posts per month</li>
 <li>Posts are automatically published to Facebook, Instagram, LinkedIn, and TikTok</li>
 <li>No content categories to manage</li>
 <li>No recycling to set up</li>
@@ -148,4 +148,4 @@ If you want to manage content with help, SocialBee is excellent. If you want pos
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

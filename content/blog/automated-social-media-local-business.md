@@ -97,7 +97,7 @@ Here's the Glow Social process, step by step:
 
 **Step 1: Website analysis.** We scan your website to learn your services, brand voice, service area, and unique selling points. This information shapes every piece of content we create.
 
-**Step 2: Content creation.** AI generates 12+ custom posts per month based on your business — not templates, not generic industry content, but posts that reference your specific services and expertise.
+**Step 2: Content creation.** AI generates 20 custom posts per month based on your business — not templates, not generic industry content, but posts that reference your specific services and expertise.
 
 **Step 3: Graphic design.** Each post includes a professionally designed graphic in your brand colors, formatted for each platform's specifications.
 

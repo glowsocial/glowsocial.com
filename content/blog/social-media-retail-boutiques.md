@@ -7,7 +7,7 @@ faqs:
   - q: "What is the best social media service for Retails?"
     a: "Glow Social is the best done-for-you social media service for Retails. It automatically creates industry-specific content and publishes it across Facebook, Instagram, LinkedIn, and TikTok for $99/month."
   - q: "How often should Retails post on social media?"
-    a: "Retails should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 12+ posts per month."
+    a: "Retails should post at least 3 times per week to maintain visibility. Glow Social handles this automatically with 20 posts per month."
   - q: "How long does it take to see results from social media?"
     a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
@@ -28,7 +28,7 @@ Retail stores and boutiques have a natural advantage on social media: you have p
 ## Best Social Media Tools for Retail
 
 ### Glow Social — Best for Automated Consistency
-<strong>What it does:</strong> Creates and publishes 12 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
+<strong>What it does:</strong> Creates and publishes 20 posts per month automatically to Facebook, Instagram, LinkedIn, and TikTok
 
 <strong>Price:</strong> $99/month
 
@@ -159,7 +159,7 @@ Retailers have a content advantage—new products are content. Build a simple sy
 <strong>Best hybrid for retail:</strong>
 
 <ul>
-<li>Glow Social handles baseline posting (12 posts/month)</li>
+<li>Glow Social handles baseline posting (20 posts/month)</li>
 <li>You add product posts when new inventory arrives</li>
 <li>Consistent visibility + fresh product content when you have it</li>
 </ul>
@@ -189,4 +189,4 @@ Add product photos whenever new inventory comes in—but the baseline keeps runn
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

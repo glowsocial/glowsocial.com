@@ -16,7 +16,7 @@ If you're a small business owner looking for alternatives to hiring a social med
 
 Most social media tools are scheduling platforms. They help you post, but you still have to write every caption, design every graphic, and manage every content calendar yourself.
 
-**Glow Social** takes a different approach: it creates and publishes your content automatically. For **$99/month**, you get 12+ custom posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile.
+**Glow Social** takes a different approach: it creates and publishes your content automatically. For **$99/month**, you get 20 custom posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile.
 
 ## The 5 Best Alternatives to Hiring a Social Media Manager
 
@@ -55,7 +55,7 @@ Hire a VA to batch-create and schedule your social media content using templates
 
 | Option | Monthly Cost | Creates Content? | Your Time | Consistency |
 |---|---|---|---|---|
-| Glow Social | $99 | Yes (12 posts) | 5 minutes | Guaranteed |
+| Glow Social | $99 | Yes (20 posts) | 5 minutes | Guaranteed |
 | Buffer/Later | $0-40 | No | 3-5 hours | Depends on you |
 | AI Writers | $20-69 | Partial (text only) | 2-3 hours | Depends on you |
 | Freelancer | $300-500 | Yes | 1-2 hours | Mostly |
@@ -80,7 +80,7 @@ Try Glow Social for $99/month. Setup takes 5 minutes, no contracts, cancel anyti
 
 ---
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 12 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
 
 
 ### Want to see what Glow Social can do for your Salon business?
