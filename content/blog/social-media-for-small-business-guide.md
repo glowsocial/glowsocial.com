@@ -146,4 +146,4 @@ The businesses that grow aren't the ones with the biggest budgets. They're the o
 
 **Related reading:** [47 content ideas for small business](/blog/social-media-content-ideas-small-business) · [Best posting schedule for small business](/blog/social-media-posting-schedule-small-business) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Social media caption length guide](/blog/social-media-caption-length) · [Best affordable social media management](/blog/best-affordable-social-media-management-small-business) · [How to hire a social media manager](/blog/how-to-hire-social-media-manager)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

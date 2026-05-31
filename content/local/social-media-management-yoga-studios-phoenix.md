@@ -1,6 +1,6 @@
 ---
 title: "Social Media Management for Yoga Studios in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for yoga studios in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
+description: "Looking for affordable social media management for yoga studios in Phoenix? Glow Social is a done-for-you social media software that automates your posting for just $99/mo."
 slug: "social-media-management-yoga-studios-phoenix"
 date: "2026-03-17"
 city: "Phoenix"
@@ -19,13 +19,13 @@ When yoga studio owners explore social media help, they quickly realize that loc
 
 What you actually need isn't a full marketing team. You need a consistent, calming online presence that reflects your studio's energy and keeps your community engaged between classes.
 
-## Why Yoga Studios Are Switching to Done-For-You AI
+## Why Yoga Studios Are Switching to Done-For-You Posting
 
 Instead of paying agency rates or spending Sunday mornings batch-creating content instead of practicing, yoga studios across Phoenix are moving to done-for-you automation.
 
 **[Glow Social](https://glowsocial.com)** provides a complete social media management solution designed for wellness businesses:
 *   **Industry-Specific Content:** We create content about mindfulness, yoga benefits, class highlights, wellness tips, and community building — not generic fitness posts.
-*   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
+*   **20 Posts Per Month:** Your accounts stay active with fresh posts throughout the month across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
 *   **Flat $99/Month:** About the cost of one class package — but it brings in new members all month.
 

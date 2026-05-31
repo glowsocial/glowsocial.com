@@ -7,7 +7,7 @@ faqs:
   - q: "Can social media be fully automated for small businesses?"
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
-    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+    a: "Modern done-for-you services use your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "What is the difference between social media tools and done-for-you services?"
     a: "Social media tools (Buffer, Hootsuite, Later) help you schedule posts, but you still create the content yourself. Done-for-you services like Glow Social create, design, and publish content automatically."
 ---
@@ -44,9 +44,8 @@ Glow Social removes the execution burden entirely. Posts go out whether you're b
 
 ## Pricing
 
-Glow Social Core starts at **$99/month**. No contracts, no commitments, cancel anytime.
+Glow Social Core starts at **$99/month** and includes 20 posts per month. Pro adds carousel posts, video posts, custom campaign posts, review monitoring, and analytics. No contracts, no commitments, cancel anytime.
 
 Compare that to a freelance social media manager ($300-500/month) or an agency ($2,000+/month).
 
 [Get Started — $99/month](https://app.glowsocial.com/)
-

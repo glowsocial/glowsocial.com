@@ -9,7 +9,7 @@ faqs:
   - q: "Is Buffer or Glow Social cheaper?"
     a: "Buffer starts free for up to 3 channels. Paid plans start at $5 per channel per month when billed yearly, so 4 paid channels on Essentials cost about $20/month. Glow Social costs $99/month. However, Buffer requires 3-5 hours of your time monthly for content creation. If your time is worth more than $20/hour, Glow Social's total cost can be lower."
   - q: "Can you use Buffer and Glow Social together?"
-    a: "Yes. Some businesses use Glow Social for baseline consistency (12 automated posts/month) and Buffer to schedule occasional manual posts like promotions, events, or time-sensitive content."
+    a: "Yes. Some businesses use Glow Social for baseline consistency (20 automated posts/month) and Buffer to schedule occasional manual posts like promotions, events, or time-sensitive content."
 ---
 
 Buffer and Glow Social both help small businesses with social media, but they work completely differently. <strong>Buffer</strong> is a scheduling tool—you create content, it helps you post it at the right times. <strong>Glow Social</strong> is automated posting software—it creates and publishes 20 posts per month for $99 without requiring you to write anything.
@@ -40,7 +40,7 @@ Buffer is one of the most popular social media scheduling tools, and for good re
 <li>Free tier that works for small accounts</li>
 <li>Optimal timing suggestions</li>
 <li>Basic analytics to see what's working</li>
-<li>AI assistant to help brainstorm ideas</li>
+<li>Writing assistant to help brainstorm ideas</li>
 </ul>
 
 <strong>Best for:</strong> People who enjoy creating social media content and want help scheduling and organizing it.
@@ -121,7 +121,7 @@ If your time is worth more than $20/hour, Glow Social can cost less than DIY wit
 
 ## Can You Use Both?
 
-Yes. Some businesses use Glow Social for baseline consistency (12 automated posts/month) and Buffer to schedule occasional manual posts—promotions, events, or content that needs specific timing.
+Yes. Some businesses use Glow Social for baseline consistency (20 automated posts/month) and Buffer to schedule occasional manual posts—promotions, events, or content that needs specific timing.
 
 
 This gives you consistent presence without the pressure of creating all your content yourself.
@@ -137,4 +137,4 @@ If you enjoy content creation and have the time, Buffer is a solid choice. Also 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

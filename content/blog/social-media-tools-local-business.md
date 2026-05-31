@@ -173,11 +173,11 @@ For automated posting, Glow Social handles everything for $99/month. Set up take
 
 <hr>
 
-<strong>**Related reading:** [Best tools under $50/month](/blog/social-media-tools-under-50) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [AI tools vs agencies cost](/blog/ai-tools-vs-agencies-cost)
+<strong>**Related reading:** [Best tools under $50/month](/blog/social-media-tools-under-50) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social)
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

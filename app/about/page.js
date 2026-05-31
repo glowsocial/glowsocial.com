@@ -5,7 +5,7 @@ import "./about.css";
 
 export const metadata = {
   title: "About Glow Social",
-  description: "Glow Social is done-for-you social media for local businesses. We exist to keep Main Street visible.",
+  description: "Glow Social keeps local businesses looking active, current, and trustworthy online with done-for-you social media posting.",
 };
 
 export default function About() {
@@ -40,12 +40,47 @@ export default function About() {
       <section className="blog-hero">
         <div className="container">
           <h1>About Glow Social</h1>
-          <p>The marketing department local businesses deserve — but could never afford. Until now.</p>
+          <p>We keep local businesses looking active, current, and trustworthy online.</p>
         </div>
       </section>
 
       <article className="blog-post">
         <div className="blog-post-content">
+          <section className="about-proof" aria-label="Glow Social at a glance">
+            <div>
+              <strong>20</strong>
+              <span>finished posts every month</span>
+            </div>
+            <div>
+              <strong>$99</strong>
+              <span>starting monthly price</span>
+            </div>
+            <div>
+              <strong>5 min</strong>
+              <span>typical setup time</span>
+            </div>
+            <div>
+              <strong>15+</strong>
+              <span>years in digital marketing</span>
+            </div>
+          </section>
+
+          <section className="about-intro">
+            <p className="founder-label">Why We Exist</p>
+            <h2>Your profiles should not make your business look abandoned.</h2>
+            <p>
+              Customers check your Google listing, reviews, Facebook page, and
+              Instagram before they call. When those places look stale, trust
+              drops before you ever get a chance to explain.
+            </p>
+            <p>
+              Glow Social exists for the owners who are already doing the real
+              work: fixing roofs, cutting hair, treating patients, running
+              payroll, serving tables, training clients, and taking care of
+              customers. You should not have to become a content creator just to
+              look open, active, and worth calling.
+            </p>
+          </section>
 
           <section className="founder-section">
             <div className="founder-photo-wrap">
@@ -86,14 +121,19 @@ export default function About() {
 
           <h2>What We Do</h2>
           <p>
-            Glow Social creates and publishes social media content for local
-            businesses — automatically. We read your website, learn your brand
-            voice, and create custom posts that sound like you wrote them on
-            your best day.
+            Glow Social creates 20 finished posts each month for local
+            businesses, publishes across the platforms customers check, and
+            includes Google Business Profile visibility.
           </p>
           <p>
-            No templates. No generic content. No hours spent staring at a blank
+            We read your website, learn your brand voice, and create custom
+            posts that sound like your business on its clearest day. No
+            templates. No generic filler. No hours spent staring at a blank
             screen wondering what to post.
+          </p>
+          <p>
+            Pro adds carousel posts, video posts, campaign support, review
+            monitoring, and analytics for businesses with more going on.
           </p>
 
           <h2>How It Works</h2>
@@ -103,6 +143,54 @@ export default function About() {
             <li><strong>Review and publish</strong> — Approve your posts with 3 taps</li>
           </ol>
           <p>Setup takes 5 minutes. Your first posts are ready the same day.</p>
+
+          <section className="about-difference">
+            <p className="founder-label">What Makes Us Different</p>
+            <h2>Built for local trust, not internet fame.</h2>
+            <div className="about-difference-grid">
+              <div>
+                <h3>Google Business is part of the storefront.</h3>
+                <p>
+                  For local businesses, Google often matters more than another
+                  social feed. We treat Google Business Profile visibility as a
+                  core part of the job.
+                </p>
+              </div>
+              <div>
+                <h3>Reviews matter as much as posts.</h3>
+                <p>
+                  A current profile and a strong review presence work together.
+                  Pro includes Google Review monitoring so reputation is not an
+                  afterthought.
+                </p>
+              </div>
+              <div>
+                <h3>Consistency beats virality.</h3>
+                <p>
+                  Most local businesses do not need to go viral. They need to
+                  look open, reliable, and easy to trust every time a customer
+                  checks them out.
+                </p>
+              </div>
+              <div>
+                <h3>You stay in control.</h3>
+                <p>
+                  Review before posts go live, edit what needs editing, or let
+                  the system run when you are comfortable.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section className="about-not">
+            <p className="founder-label">What We Do Not Do</p>
+            <ul>
+              <li>We do not make you become an influencer.</li>
+              <li>We do not hand you another complicated tool to manage.</li>
+              <li>We do not chase trends that have nothing to do with your customers.</li>
+              <li>We do not fill your feed with generic filler just to say something posted.</li>
+            </ul>
+          </section>
 
           <h2>Who We Serve</h2>
           <p>
@@ -123,7 +211,7 @@ export default function About() {
           <div className="about-cta">
             <p className="about-cta-price">{pricing.summaryFull} {pricing.billingPolicy}</p>
             <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg">
-              Start Your Glow Social Account →
+              Let Glow Handle My Social Media →
             </a>
           </div>
         </div>

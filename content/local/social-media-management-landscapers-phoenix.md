@@ -19,13 +19,13 @@ When looking for social media help, most landscaping companies in Phoenix get qu
 
 What you actually need is simple: consistent posts that showcase your work, build trust with homeowners, and keep you top-of-mind when it's time for a new patio, lawn renovation, or pool-area redesign.
 
-## Why Landscapers Are Switching to Done-For-You AI
+## Why Landscapers Are Switching to Done-For-You Posting
 
 Instead of paying agency rates or spending your weekends on Canva, landscaping businesses across Phoenix are moving to done-for-you automation.
 
 **[Glow Social](https://glowsocial.com)** provides a complete social media management solution designed for service businesses:
 *   **Industry-Specific Content:** We don't post generic filler. We create content about desert landscaping, hardscaping, seasonal tips, and project showcases relevant to the Phoenix market.
-*   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
+*   **20 Posts Per Month:** Your accounts stay active with fresh posts throughout the month across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
 *   **Flat $99/Month:** Less than what most companies spend on one yard of decomposed granite.
 

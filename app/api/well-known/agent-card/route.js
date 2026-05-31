@@ -53,7 +53,7 @@ export function GET() {
         tags: ["social-media", "content-generation", "marketing"],
         examples: [
           "Generate social media posts for https://example.com",
-          "Create 12 posts for a local dentist",
+          "Create 20 posts for a local dentist",
         ],
       },
       {

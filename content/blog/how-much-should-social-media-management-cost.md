@@ -12,7 +12,7 @@ faqs:
   - q: "Is paying for social media management worth it for small businesses?"
     a: "Yes, if you choose a service that actually handles the content creation. The math works clearly: if your time is worth $50/hr and you spend 15 hours/month on social media, that's $750/month in opportunity cost. A $99–$99/month done-for-you service that eliminates that time investment generates a significant positive return."
   - q: "Why does social media management cost so much at agencies?"
-    a: "Agency pricing reflects labor costs, not time spent. A social media team includes account managers, copywriters, graphic designers, and strategists — all billed to your retainer whether or not they worked on your account that week. AI-powered services eliminate most of that labor cost while delivering equivalent content output, which is why they can price at $99–$99/month."
+    a: "Agency pricing reflects labor costs, not time spent. A social media team includes account managers, copywriters, graphic designers, and strategists — all billed to your retainer whether or not they worked on your account that week. done-for-you services eliminate most of that labor cost while delivering equivalent content output, which is why they can price at $99–$99/month."
 ---
 
 The first thing business owners learn when they start researching social media management is that the price range is absurd. You can find services at $99/month and services at $5,000/month. Both claim to handle your social media. That doesn't make sense until you understand what "social media management" actually means in each case.
@@ -80,7 +80,7 @@ Agency or senior freelancer tier. Expect $800–$2,000+/month for real results.
 
 **Per-platform surcharges.** If Instagram is $X and adding LinkedIn costs $200 more, the service is nickel-and-diming you for things that should be table stakes.
 
-**Long contract requirements.** Agencies require contracts because their onboarding cost is high and they need to recoup it. AI-powered services don't have that problem — month-to-month is the norm.
+**Long contract requirements.** Agencies require contracts because their onboarding cost is high and they need to recoup it. done-for-you services don't have that problem — month-to-month is the norm.
 
 **"Social media management" that requires you to supply content.** If you're paying someone and still writing your own captions, you haven't bought social media management. You've bought a scheduler.
 

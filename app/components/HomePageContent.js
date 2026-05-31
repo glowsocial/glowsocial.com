@@ -112,19 +112,34 @@ function WorkflowScenes() {
           <h3>Your site becomes the brief.</h3>
           <p>We pull the useful parts out of the business you already built: services, location details, offers, proof, and the way you naturally talk.</p>
         </div>
-        <div className="scene-panel scene-panel--site" aria-label="Website scan preview">
-          <div className="scene-browser-bar">
-            <span></span><span></span><span></span>
+        <div className="scene-panel scene-panel--onboarding" aria-label="Glow Social workspace setup preview">
+          <div className="scene-onboarding-copy">
+            <span>Work started</span>
+            <h4>Your first posts are getting drafted now.</h4>
+            <p>Nothing is publishing yet. You will review every post before anything can go live.</p>
           </div>
-          <div className="scene-url-card">
-            <span>morningroutinecafe.com</span>
-            <strong>Local cafe | Phoenix, AZ</strong>
-          </div>
-          <div className="scene-signal-grid">
-            <div><span>Services</span><strong>Catering, espresso, brunch</strong></div>
-            <div><span>Voice</span><strong>Warm, neighborly, relaxed</strong></div>
-            <div><span>Proof</span><strong>Local favorite since 2019</strong></div>
-            <div><span>Hooks</span><strong>Morning routine, seasonal menu</strong></div>
+          <div className="scene-progress-list">
+            <div className="scene-progress-row">
+              <i className="scene-progress-dot scene-progress-done"></i>
+              <div>
+                <strong>Reviewing your website</strong>
+                <p>We are reading your site and pulling out the useful parts.</p>
+              </div>
+            </div>
+            <div className="scene-progress-row">
+              <i className="scene-progress-dot scene-progress-active"></i>
+              <div>
+                <strong>Matching your brand style</strong>
+                <p>We use brand details only where the evidence is clear.</p>
+              </div>
+            </div>
+            <div className="scene-progress-row">
+              <i className="scene-progress-dot scene-progress-upcoming"></i>
+              <div>
+                <strong>Drafting your first posts</strong>
+                <p>This starts as soon as the content mix is ready.</p>
+              </div>
+            </div>
           </div>
         </div>
       </article>
@@ -472,7 +487,7 @@ export default function HomePageContent() {
               <h3>Glo Core</h3>
               <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
-                <li><strong>Steady posting</strong> for your core presence</li>
+                <li><strong>20 finished posts/month</strong> for your core presence</li>
                 <li><strong>Brand-matched voice</strong> from your website</li>
                 <li><strong>Google Business</strong> visibility included</li>
                 <li><strong>Simple control</strong> before posts go live</li>
@@ -485,8 +500,8 @@ export default function HomePageContent() {
               <div className="price"><span className="price-amount">{pricing.pro.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Core, plus:</li>
-                <li><strong>More posting coverage</strong> for stronger momentum</li>
-                <li><strong>Carousel and video formats</strong></li>
+                <li><strong>Carousel posts</strong> for richer stories</li>
+                <li><strong>Video posts</strong> for higher-visibility moments</li>
                 <li><strong>Campaign support</strong> for promos and events</li>
                 <li><strong>Google review monitoring</strong></li>
               </ul>

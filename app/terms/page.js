@@ -31,7 +31,7 @@ export default function Terms() {
             businesses. Our service includes:
           </p>
           <ul>
-            <li>AI-generated social media posts customized to your business</li>
+            <li>Social media posts customized to your business</li>
             <li>Automated publishing to connected social media platforms</li>
             <li>Google Business Profile posting</li>
             <li>Google Review monitoring</li>
@@ -150,7 +150,7 @@ export default function Terms() {
 
           <h2>Content Review</h2>
           <p>
-            While our AI creates content customized to your business, you are
+            While Glow Social creates content customized to your business, you are
             responsible for reviewing and approving content before it is
             published. Glow Social is not liable for any content published with
             your approval that may be inaccurate, inappropriate, or in violation

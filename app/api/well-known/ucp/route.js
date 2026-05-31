@@ -11,7 +11,7 @@ export function GET() {
       profile: {
         name: "Glow Social",
         description:
-          "Affordable done-for-you social media posting for local businesses — 20 posts/month across the major platforms local businesses use, starting at $99/mo.",
+          "Affordable done-for-you social media posting for local businesses - 20 posts/month across the major platforms local businesses use, starting at $99/mo.",
         url: "https://glowsocial.com",
         logo: "https://glowsocial.com/icon.png",
       },

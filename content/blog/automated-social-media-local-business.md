@@ -9,7 +9,7 @@ faqs:
   - q: "Is automated social media worth it for a small business?"
     a: "Yes. Consistent social media presence drives 2-4x more leads than inconsistent posting. Since most small business owners abandon manual posting within weeks, automation is the only realistic path to consistency. Done-for-you services like Glow Social cost less than a single hour of most business owners' time."
   - q: "Will automated social media posts sound generic?"
-    a: "It depends on the tool. Basic scheduling tools require you to write content yourself. AI-powered services like Glow Social read your actual website to learn your brand voice, services, and location — then create content that sounds like your specific business, not a template."
+    a: "It depends on the tool. Basic scheduling tools require you to write content yourself. done-for-you services like Glow Social read your actual website to learn your brand voice, services, and location — then create content that sounds like your specific business, not a template."
 ---
 
 Automated social media isn't about bots spamming your followers. It's about getting professional, brand-matched content published consistently — without you doing the work.
@@ -97,7 +97,7 @@ Here's the Glow Social process, step by step:
 
 **Step 1: Website analysis.** We scan your website to learn your services, brand voice, service area, and unique selling points. This information shapes every piece of content we create.
 
-**Step 2: Content creation.** AI generates 20 custom posts per month based on your business — not templates, not generic industry content, but posts that reference your specific services and expertise.
+**Step 2: Content creation.** Glow Social creates 20 custom posts per month based on your business — not templates, not generic industry content, but posts that reference your specific services and expertise.
 
 **Step 3: Graphic design.** Each post includes a professionally designed graphic in your brand colors, formatted for each platform's specifications.
 

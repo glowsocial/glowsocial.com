@@ -11,7 +11,7 @@ faqs:
   - q: "How much does a social media management agency cost?"
     a: "Social media agencies charge $1,000-3,000/month for small business packages and $3,000-10,000+ for comprehensive service. Most require 3-12 month contracts. Agency pricing typically includes strategy, content creation, community management, and reporting."
   - q: "Is it cheaper to hire a social media manager or use software?"
-    a: "Software is significantly cheaper. Done-for-you software like Glow Social costs $99/month for 12 automated posts. A freelancer usually costs $300-500/month for a basic package. When you factor in your time managing the freelancer, the true cost gap is even wider. Software wins on cost and consistency; humans win on creativity, strategy, and engagement."
+    a: "Software is significantly cheaper. Done-for-you software like Glow Social costs $99/month for 20 automated posts. A freelancer usually costs $300-500/month for a basic package. When you factor in your time managing the freelancer, the true cost gap is even wider. Software wins on cost and consistency; humans win on creativity, strategy, and engagement."
   - q: "How much should a small business budget for social media marketing?"
     a: "Most small businesses should budget $50-500/month for social media marketing. At the low end ($99-100/month), done-for-you software handles consistent posting. At the mid range ($300-500/month), a freelancer adds human creativity. Above $1,000/month, agencies provide comprehensive strategy and execution."
   - q: "What does a social media manager actually do?"
@@ -139,7 +139,7 @@ This is the table most pricing guides skip. When you factor in the value of your
 <tr><td>Your monthly time</td><td>5-10 hours</td><td>~0 hours</td><td>1-2 hours</td><td>2-4 hours</td></tr>
 <tr><td>Time cost (at $30/hour)</td><td>$150-300</td><td>$0</td><td>$30-60</td><td>$60-120</td></tr>
 <tr><td><strong>True monthly cost</strong></td><td><strong>$165-350</strong></td><td><strong>$99</strong></td><td><strong>$330-560</strong></td><td><strong>$1,060-3,120</strong></td></tr>
-<tr><td>Posts per month</td><td>Unlimited (you create)</td><td>12</td><td>8-20</td><td>15-30+</td></tr>
+<tr><td>Posts per month</td><td>Unlimited (you create)</td><td>20</td><td>8-20</td><td>15-30+</td></tr>
 <tr><td>Content quality</td><td>Depends on you</td><td>AI-generated, brand-matched</td><td>Human creativity</td><td>Professional team</td></tr>
 <tr><td>Consistency guaranteed?</td><td>No</td><td>Yes</td><td>Mostly</td><td>Yes</td></tr>
 </table>
@@ -181,4 +181,4 @@ Don't let perfect be the enemy of posted. Consistent, good-enough content beats 
 
 **Related guides:** [Affordable social media management service](/affordable-social-media-management) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Affordable social media management guide](/blog/best-affordable-social-media-management-small-business) · [Metricool alternative](/compare/metricool-alternative) · [Crowdfire alternative](/compare/crowdfire-alternative)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [See the affordable social media management service](/affordable-social-media-management).
+**About Glow Social:** Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [See the affordable social media management service](/affordable-social-media-management).

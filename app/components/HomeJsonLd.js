@@ -93,7 +93,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "12 custom posts per month, brand-matched voice, scheduling, and Google Business Profile visibility",
+          "20 custom posts per month, brand-matched voice, scheduling, and Google Business Profile visibility",
       },
       {
         "@type": "Offer",
@@ -102,7 +102,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "20+ posts/month, carousels, videos, custom posts, performance analytics",
+          "20 standard posts plus carousel posts, video posts, custom campaign posts, performance analytics",
       },
       {
         "@type": "Offer",

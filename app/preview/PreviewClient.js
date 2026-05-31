@@ -15,12 +15,12 @@ const SLIDES = [
   },
   {
     step: 'Writing your posts',
-    headline: '12 posts, written and scheduled',
-    description: 'Every month you get fresh content distributed across Facebook, Instagram, LinkedIn, and more. Published automatically on a Mon/Wed/Fri schedule.',
+    headline: 'Preview posts, written and scheduled',
+    description: 'You get fresh content distributed across Facebook, Instagram, LinkedIn, and more. Published automatically on a steady weekly schedule.',
   },
   {
-    step: 'Generating images',
-    headline: 'AI-generated images matched to every post',
+    step: 'Preparing images',
+    headline: 'Custom images matched to every post',
     description: 'Each post gets a custom photorealistic image tailored to your industry and content. No stock photos, no Canva templates.',
   },
   {
@@ -193,15 +193,15 @@ export default function PreviewClient() {
             <div className="preview-content">
               <div className="preview-badge">Free for Any Business — No Card, No Login</div>
               <h1 className="preview-hl">
-                See a month of done-for-you social media — written for your business
+                See a sample batch of done-for-you social media — written for your business
               </h1>
               <p className="preview-sub">
-                Drop your website below. We scan your services, your tone, and your brand — then write 12 posts that sound like you wrote them on your best day.
+                Drop your website below. We scan your services, your tone, and your brand — then write preview posts that sound like you wrote them on your best day.
               </p>
               <div className="preview-features">
                 {[
                   ['Reads your actual website', 'We scan your services, tone, and unique value to write posts that sound like you.'],
-                  ['AI images for every post', 'Custom photorealistic images tailored to your industry. No stock photos.'],
+                  ['Custom images for every post', 'Photorealistic images tailored to your industry. No stock photos.'],
                   ['Scheduled and ready to go', 'A full month of content on a Mon/Wed/Fri schedule. Copy it straight into your channels.'],
                 ].map(([title, desc]) => (
                   <div key={title} className="preview-feature">
@@ -217,7 +217,7 @@ export default function PreviewClient() {
             <div className="preview-form-wrapper">
               <div className="preview-card">
                 <h2>Get your free preview</h2>
-                <p>12 posts, custom images, and a content calendar — in 60 seconds.</p>
+                <p>12 preview posts, custom images, and a content calendar — in 60 seconds.</p>
                 <form onSubmit={handleSubmit} className="preview-form">
                   <div className="form-group">
                     <label htmlFor="preview-url">Your Website URL</label>
@@ -260,7 +260,7 @@ export default function PreviewClient() {
           <div className="container">
             <div className="proof-banner">
               <p>
-                <strong>Stop guessing what to post.</strong> Our AI reads your website and writes a full month of social media content — in your voice, for your customers, in about 60 seconds.
+                <strong>Stop guessing what to post.</strong> We read your website and write a preview batch of social media content — in your voice, for your customers, in about 60 seconds.
               </p>
             </div>
           </div>

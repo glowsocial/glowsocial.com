@@ -20,7 +20,7 @@ Most social media tools are scheduling platforms. They help you post, but you st
 
 ## The 5 Best Alternatives to Hiring a Social Media Manager
 
-### 1. Done-For-You AI Software (Glow Social) — $99/month
+### 1. Done-For-You Posting Software (Glow Social) — $99/month
 Content created AND published for you. No scheduling, no graphic design, no content calendar. Setup takes 5 minutes.
 
 **Best for:** Business owners who want posting handled completely without spending time on it.
@@ -80,7 +80,7 @@ Try Glow Social for $99/month. Setup takes 5 minutes, no contracts, cancel anyti
 
 ---
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
 
 
 ### Want to see what Glow Social can do for your Salon business?

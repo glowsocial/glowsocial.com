@@ -12,7 +12,7 @@ faqs:
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-Financial advisors and accountants can automate their social media compliantly by using a done-for-you content system like Glow Social, which generates 20 educational, SEC/FINRA-friendly posts per month for just $99. Because financial professionals operate in a highly regulated industry, the most effective strategy is to broadcast timeless financial literacy and tax education that builds authority without ever triggering compliance violations.
+Financial advisors and accountants can automate their social media compliantly by using a done-for-you content system like Glow Social, which creates 20 educational, compliance-friendly posts per month for just $99. Because financial professionals operate in a highly regulated industry, the most effective strategy is to broadcast timeless financial literacy and tax education that builds authority without ever triggering compliance violations.
 
 ## Why Compliance Kills DIY Social Media
 

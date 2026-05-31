@@ -124,7 +124,7 @@ The best posting schedule is the one you'll actually maintain. If you can't sust
 
 | Your Situation | Do This |
 |---|---|
-| You enjoy creating content | Batch 20 posts monthly with [Buffer](https://buffer.com) (free) |
+| You enjoy creating content | Batch 12 posts monthly with [Buffer](https://buffer.com) (free) |
 | You have content but hate scheduling | Use [Later](https://later.com) for visual planning ($18/mo) |
 | You have no time for content creation | Use [Glow Social](https://glowsocial.com) ($99/mo, fully automated) |
 | You need strategy + community management | [Hire a freelancer](/blog/how-to-hire-social-media-manager) ($300-800/mo) |
@@ -133,4 +133,4 @@ The best posting schedule is the one you'll actually maintain. If you can't sust
 
 **Related reading:** [How much time does social media take?](/blog/average-time-social-media-marketing) · [47 content ideas for small business](/blog/social-media-content-ideas-small-business) · [Social media caption length guide](/blog/social-media-caption-length) · [Best affordable social media management](/blog/best-affordable-social-media-management-small-business)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)

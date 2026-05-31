@@ -50,7 +50,7 @@ Every business owner knows these strategies. The challenge is finding 10-15 hour
 
 Glow Social creates and publishes professional Instagram content for your business — posts, graphics, and captions, all customized to your brand.
 
-- 12+ posts per month across Instagram and 12 other platforms
+- 20 posts per month across Instagram and 12 other platforms
 - Custom graphics in your brand colors
 - Content that reflects your actual services
 - 5-minute setup, no marketing knowledge required

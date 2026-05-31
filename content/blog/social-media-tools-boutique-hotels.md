@@ -12,7 +12,7 @@ faqs:
     a: "Done-for-you social media services range from $99/month (Glow Social) to $3,000+/month (agencies). Freelance social media managers typically charge $300-500/month."
 ---
 
-The best social media tool for boutique hotels and bed and breakfasts is a done-for-you automation system like Glow Social, which regularly publishes 20 engaging, visually-rich posts across 4 platforms for only $99/month. In the hospitality industry, a steady stream of beautiful, location-centric social media content is the ultimate driver of direct bookings, drastically cutting down on expensive OTA (Online Travel Agency) commission fees.
+The best social media tool for boutique hotels and bed and breakfasts is a done-for-you automation system like Glow Social, which regularly publishes 20 engaging, visually rich posts across 4 platforms for only $99/month. In the hospitality industry, a steady stream of beautiful, location-centric social media content is the ultimate driver of direct bookings, drastically cutting down on expensive OTA (Online Travel Agency) commission fees.
 
 ## Why B&Bs Need Automated Marketing
 

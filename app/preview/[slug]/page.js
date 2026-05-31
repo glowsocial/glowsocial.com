@@ -136,7 +136,7 @@ export default async function PreviewLandingPage({ params }) {
               </div>
               <div className="preview-feature">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="check-icon"><polyline points="20 6 9 17 4 12" /></svg>
-                <span><strong>AI images for every post:</strong> Custom photorealistic images tailored to {niche.name.toLowerCase()}.</span>
+                <span><strong>Custom images for every post:</strong> Photorealistic images tailored to {niche.name.toLowerCase()}.</span>
               </div>
               <div className="preview-feature">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="check-icon"><polyline points="20 6 9 17 4 12" /></svg>
@@ -148,7 +148,7 @@ export default async function PreviewLandingPage({ params }) {
           <div className="preview-form-wrapper">
             <div className="preview-card">
               <h2>Get your free preview</h2>
-              <p>12 posts, custom images, and a content calendar — in 60 seconds.</p>
+              <p>12 preview posts, custom images, and a content calendar — in 60 seconds.</p>
               
               {/* Form submits to /preview/{slug}?url=...&email=... which the Next.js
                   rewrite proxies through to app.glowsocial.com/preview/{slug}.
@@ -179,7 +179,7 @@ export default async function PreviewLandingPage({ params }) {
       <section className="preview-proof">
         <div className="container">
           <div className="proof-banner">
-            <p><strong>Stop guessing what to post.</strong> Our AI-powered agency builds your entire social calendar based on your actual business data.</p>
+            <p><strong>Stop guessing what to post.</strong> We build your social calendar from your actual business data.</p>
           </div>
         </div>
       </section>

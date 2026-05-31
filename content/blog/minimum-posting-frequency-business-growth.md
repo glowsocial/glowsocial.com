@@ -93,7 +93,7 @@ The reason most small businesses can't maintain 3x per week isn't a lack of idea
 
 **Content frameworks**: Use repeating categories — Monday tips, Wednesday behind-the-scenes, Friday customer stories. Frameworks eliminate the "what should I post?" paralysis.
 
-**Done-for-you automation**: [Glow Social](https://glowsocial.com) creates and publishes 20 posts per month, covering the 3x-per-week baseline automatically for $99/month. You review and approve; the system handles everything else.
+**Done-for-you automation**: [Glow Social](https://glowsocial.com) creates and publishes 20 posts per month (3x per week) automatically for $99/month. You review and approve; the system handles everything else.
 
 ## The Bottom Line
 

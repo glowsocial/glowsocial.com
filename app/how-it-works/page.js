@@ -119,13 +119,13 @@ function PlanPreview({ pricing }) {
     {
       name: pricing.core.name,
       price: pricing.core.display,
-      detail: "12 posts per month",
+      detail: "20 posts per month",
       href: "https://app.glowsocial.com/checkout?plan=core",
     },
     {
       name: pricing.pro.name,
       price: pricing.pro.display,
-      detail: "More posts, plus review monitoring",
+      detail: "Carousels, video, plus review monitoring",
       href: "https://app.glowsocial.com/checkout?plan=pro",
       featured: true,
     },

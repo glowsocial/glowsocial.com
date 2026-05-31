@@ -3,7 +3,7 @@ import { getAllBlogPosts, getAllComparisonPages } from "@/lib/posts";
 const BASE_URL = "https://glowsocial.com";
 const FEED_TITLE = "Glow Social Blog";
 const FEED_DESCRIPTION =
-  "Social media tips, automation strategies, and marketing insights for local businesses and agencies. AI-powered social media management by Glow Social.";
+  "Social media tips, automation strategies, and marketing insights for local businesses and agencies. Done-for-you social media management by Glow Social.";
 
 /**
  * Escape XML special characters

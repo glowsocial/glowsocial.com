@@ -93,4 +93,4 @@ Compare also: [Later pricing and free plan](/blog/later-pricing-free-plan-2026) 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

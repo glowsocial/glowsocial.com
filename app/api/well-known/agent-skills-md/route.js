@@ -25,8 +25,8 @@ AI agents can use this skill to help users set up automated social media posting
 
 | Plan | Price | Posts/Month |
 |------|-------|------------|
-| Glo Core | $99/mo | 12 |
-| Glo Pro | $149/mo | 20+ |
+| Glo Core | $99/mo | 20 |
+| Glo Pro | $149/mo | 20 plus carousels and video |
 | Glo Unlimited | $299/mo | Unlimited |
 
 No free trials. No contracts. Cancel anytime.

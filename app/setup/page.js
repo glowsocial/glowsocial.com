@@ -17,7 +17,7 @@ const PLATFORMS = [
 
 const STEPS = [
   { num: "1", title: "Enter your website", desc: "We scan your site and pull your business name, description, logo, services, phone number, and images." },
-  { num: "2", title: "AI writes your bios", desc: "Platform-specific bios tailored to each network's character limits and conventions. Written to sound like you, not a robot." },
+  { num: "2", title: "We write your bios", desc: "Platform-specific bios tailored to each network's character limits and conventions. Written to sound like you, not a robot." },
   { num: "3", title: "Copy, paste, done", desc: "Every field has a copy button. Click, paste into the signup form, and you're live on that platform in minutes." },
 ];
 

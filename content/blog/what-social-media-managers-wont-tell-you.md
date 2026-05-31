@@ -32,7 +32,7 @@ The social media industry standard recommendation is "post daily for maximum eng
 
 Going from 3x/week to daily gives you ~15% more engagement but costs 4x more time. For a local restaurant or dental office, that math doesn't work.
 
-**What you actually need:** 3 posts per week. That's 12 posts per month.
+**What you actually need:** a consistent, sustainable posting rhythm.
 
 ## 2. 90% of Social Media Value Comes From Existing
 
@@ -136,7 +136,7 @@ Related: [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-medi
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

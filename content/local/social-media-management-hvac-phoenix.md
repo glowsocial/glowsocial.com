@@ -19,13 +19,13 @@ Most HVAC companies that look into professional social media management get quot
 
 What you really need isn't elaborate marketing campaigns. You need a consistent stream of professional posts that prove you're active, responsive, and the obvious choice when someone's AC breaks at 2 PM in August.
 
-## Why HVAC Companies Are Switching to Done-For-You AI
+## Why HVAC Companies Are Switching to Done-For-You Posting
 
 Instead of bleeding agency fees or letting your social media collect dust, HVAC businesses across Phoenix are moving to done-for-you automation.
 
 **[Glow Social](https://glowsocial.com)** provides a complete social media management solution built for home service businesses:
 *   **Industry-Specific Content:** We don't post generic tips. We create content around AC maintenance, seasonal HVAC prep, energy-saving advice, and the specific challenges of desert climate systems.
-*   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
+*   **20 Posts Per Month:** Your accounts stay active with fresh posts throughout the month across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
 *   **Flat $99/Month:** Less than the cost of a standard thermostat install.
 

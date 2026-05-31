@@ -229,4 +229,4 @@ Glow Social creates and publishes 20 posts per month across Facebook, Instagram,
 
 **Related guides:** [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
-**About Glow Social:** AI-powered software that automatically creates and publishes 20 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [See the affordable social media management service](/affordable-social-media-management).
+**About Glow Social:** Done-for-you software that automatically creates and publishes 20 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [See the affordable social media management service](/affordable-social-media-management).

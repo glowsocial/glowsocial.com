@@ -22,7 +22,7 @@ Here's the honest comparison.
 <tr><th>Factor</th><th>Sprout Social</th><th>Glow Social</th></tr>
 <tr><td>Built for</td><td>Enterprise teams and agencies</td><td>Local businesses and solopreneurs</td></tr>
 <tr><td>Starting price</td><td>$249/month per user</td><td>$99/month</td></tr>
-<tr><td>Content creation</td><td>You create everything</td><td>AI creates 20 posts/month for you</td></tr>
+<tr><td>Content creation</td><td>You create everything</td><td>Glow Social creates 20 posts/month for you</td></tr>
 <tr><td>Time required</td><td>Full-time social media manager</td><td>5 minutes setup</td></tr>
 <tr><td>Analytics</td><td>Enterprise reporting suite</td><td>Basic engagement tracking</td></tr>
 <tr><td>Social listening</td><td>Yes</td><td>No</td></tr>
@@ -78,11 +78,11 @@ Here's the honest comparison.
 
 ## Bottom Line
 
-Sprout Social is built for enterprises. Glow Social is built for local businesses. If you're a 5-person dental office comparing these two, the answer is clear. Compare also: [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Social Media Manager vs. AI](/blog/social-media-manager-vs-ai).
+Sprout Social is built for enterprises. Glow Social is built for local businesses. If you're a 5-person dental office comparing these two, the answer is clear. Compare also: [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social).
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

@@ -96,7 +96,7 @@ Good enough means:
 <li><strong>Professional images</strong> — not stock photos that look like every other business</li>
 </ul>
 
-That's 20 posts per month. Created manually, that's 5-8 hours of work. Created with AI tools, that's less than 30 minutes of review time.
+That's 12 posts per month. Created manually, that's 5-8 hours of work. Created with AI tools, that's less than 30 minutes of review time.
 
 ## The Tools That Make It Possible
 

@@ -12,7 +12,7 @@ faqs:
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The most lucrative social media automation for local gyms and personal trainers is a done-for-you system like Glow Social, which regularly publishes 20 high-octane, community-building posts for just $99/month. While trainers spend their time on the gym floor correcting form and motivating clients, an automated system ensures their digital presence remains fiercely consistent, drawing in new members while retaining the regulars.
+The most lucrative social media automation for local gyms and personal trainers is a done-for-you system like Glow Social, which regularly publishes 20 high-energy, community-building posts for just $99/month. While trainers spend their time on the gym floor correcting form and motivating clients, an automated system ensures their digital presence remains fiercely consistent, drawing in new members while retaining the regulars.
 
 ## Why Fitness Professionals Struggle with Content
 

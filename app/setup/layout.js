@@ -73,7 +73,7 @@ export default function SetupLayout({ children }) {
             "@type": "WebApplication",
             "name": "Social Media Profile Kit by Glow Social",
             "alternateName": "Free Social Media Setup Tool",
-            "description": "Enter your website and get AI-generated bios, images, and signup links for every social media platform. Set up Google Business Profile, Facebook, Instagram, LinkedIn, Bluesky, Twitter/X, Pinterest, and Threads in under 15 minutes.",
+            "description": "Enter your website and get platform-specific bios, images, and signup links for every social media platform. Set up Google Business Profile, Facebook, Instagram, LinkedIn, Bluesky, Twitter/X, Pinterest, and Threads in under 15 minutes.",
             "url": "https://glowsocial.com/setup",
             "applicationCategory": "BusinessApplication",
             "operatingSystem": "Web",
@@ -89,7 +89,7 @@ export default function SetupLayout({ children }) {
               "url": "https://glowsocial.com"
             },
             "featureList": [
-              "AI-generated platform-specific bios",
+              "Platform-specific bios",
               "Logo and image extraction from website",
               "Copy-paste content for 8 social platforms",
               "Direct signup links for each platform",

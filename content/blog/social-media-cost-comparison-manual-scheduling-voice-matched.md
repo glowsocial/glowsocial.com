@@ -7,7 +7,7 @@ faqs:
   - q: "How much does social media management really cost?"
     a: "The true cost depends on your approach: DIY tools cost $0-50/month in subscriptions but 5-10 hours of your time. Scheduling tools with a freelancer cost $300-500/month. Done-for-you AI software like Glow Social costs $99/month with near-zero time investment. Agencies charge $1,000-3,000+/month."
   - q: "What is the cheapest way to manage social media for a small business?"
-    a: "The cheapest in total cost (subscriptions plus time value) is done-for-you AI software like Glow Social at $99/month with zero time required. DIY tools are cheaper in subscriptions but cost more when you factor in 5-10 hours of your monthly time."
+    a: "The cheapest in total cost (subscriptions plus time value) is done-for-you social media software like Glow Social at $99/month with zero time required. DIY tools are cheaper in subscriptions but cost more when you factor in 5-10 hours of your monthly time."
 ---
 
 The cheapest social media tool isn't always the cheapest option. When you add up subscription costs, your time creating content, and the cost of inconsistency, the real numbers look different.
@@ -39,4 +39,4 @@ Compare also: [AI Tools vs. Agencies](/blog/ai-tools-vs-agencies-cost) · [Done-
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

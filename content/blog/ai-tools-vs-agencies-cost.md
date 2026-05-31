@@ -212,4 +212,4 @@ If your budget is under $100/month and you don't want to do the work yourself, G
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="/affordable-social-media-management">See the affordable social media management service</a>.
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="/affordable-social-media-management">See the affordable social media management service</a>.

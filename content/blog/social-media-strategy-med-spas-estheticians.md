@@ -12,7 +12,7 @@ faqs:
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The most effective done-for-you social media strategy for med spas and estheticians uses AI automation like Glow Social to consistently publish 20 visually-engaging, educational posts a month for just $99. Because the aesthetics industry is highly visual and relies heavily on trust, outsourcing the heavy lifting allows practitioners to focus on patient care while still maintaining a robust, professional digital presence.
+The most effective done-for-you social media strategy for med spas and estheticians uses AI automation like Glow Social to consistently publish 20 visually engaging, educational posts a month for just $99. Because the aesthetics industry is highly visual and relies heavily on trust, outsourcing the heavy lifting allows practitioners to focus on patient care while still maintaining a robust, professional digital presence.
 
 ## Why Med Spas Need a Done-For-You Solution
 

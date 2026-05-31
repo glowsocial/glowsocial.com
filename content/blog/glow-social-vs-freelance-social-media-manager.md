@@ -57,7 +57,7 @@ A good freelancer handles more than just posting:
 Glow Social is automated posting software — not a person:
 
 <ul>
-<li><strong>Content creation:</strong> AI generates 20 posts per month based on your business</li>
+<li><strong>Content creation:</strong> Glow Social creates 20 posts per month based on your business</li>
 <li><strong>Graphics:</strong> Professional images included</li>
 <li><strong>Publishing:</strong> Automatic to Facebook, Instagram, LinkedIn, and TikTok</li>
 <li><strong>Setup:</strong> 5 minutes to answer questions about your business</li>
@@ -130,4 +130,4 @@ Compare also: [Social Media Manager vs. AI](/blog/social-media-manager-vs-ai) ·
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

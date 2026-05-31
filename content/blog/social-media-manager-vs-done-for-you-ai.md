@@ -1,5 +1,5 @@
 ---
-title: "Social Media Manager vs. Done-For-You AI: I've Tried Both"
+title: "Social Media Manager vs. Done-For-You Posting: I've Tried Both"
 description: "After 15 years in digital marketing — including running a content agency — here's my honest take on when to hire a human, when to use AI, and what most local businesses actually need."
 slug: "social-media-manager-vs-done-for-you-ai"
 date: "2026-03-26"

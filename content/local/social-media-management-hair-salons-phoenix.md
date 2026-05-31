@@ -19,13 +19,13 @@ When salon owners in Phoenix look for marketing help, they're quoted $1,500 to $
 
 What you really need isn't a big-budget campaign. You need consistent, professional posts that showcase transformations, highlight your team, and remind your neighborhood that you exist.
 
-## Why Hair Salons Are Switching to Done-For-You AI
+## Why Hair Salons Are Switching to Done-For-You Posting
 
 Instead of paying agency rates or staying up late trying to make Reels, salons across Phoenix are moving to done-for-you automation.
 
 **[Glow Social](https://glowsocial.com)** provides a complete social media management solution designed for beauty businesses:
 *   **Industry-Specific Content:** We create content about haircare tips, trending styles, seasonal color inspiration, and behind-the-chair moments — not generic beauty fluff.
-*   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
+*   **20 Posts Per Month:** Your accounts stay active with fresh posts throughout the month across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
 *   **Flat $99/Month:** About the price of one cut and color — but it fills chairs all month long.
 

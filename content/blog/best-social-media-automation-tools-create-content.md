@@ -39,7 +39,7 @@ Glow Social is pure done-for-you. It scans your website, learns your business, a
 
 **Best for:** Local businesses (restaurants, salons, contractors, dental offices) who need a consistent social media presence but don't have time to create content.
 
-**Limitations:** Fixed at 20 posts/month. No engagement management (responding to comments/DMs). Not for businesses that need custom campaigns or creative control.
+**Limitations:** Core includes standard posts only; Pro adds richer formats and campaign support. No engagement management (responding to comments/DMs). Not for businesses that need custom campaigns or creative control.
 
 <a href="https://glowsocial.com">Try Glow Social →</a>
 
@@ -130,7 +130,7 @@ Compare more: [Compare All Social Media Solutions](/blog/compare) · [Social Med
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Dentist business?

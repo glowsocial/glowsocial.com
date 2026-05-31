@@ -1,6 +1,6 @@
 ---
 title: "Social Media Management for Chiropractors in Phoenix (Done-For-You)"
-description: "Looking for affordable social media management for chiropractors in Phoenix? Glow Social is a done-for-you AI software that automates your posting for just $99/mo."
+description: "Looking for affordable social media management for chiropractors in Phoenix? Glow Social is a done-for-you social media software that automates your posting for just $99/mo."
 slug: "social-media-management-chiropractors-phoenix"
 date: "2026-03-17"
 city: "Phoenix"
@@ -19,13 +19,13 @@ When searching for social media management for chiropractors in Phoenix, most pr
 
 You don't need an elaborate marketing team producing cinematic content. You need a consistent, professional presence that proves to potential patients that you're active, credible, and the best choice for their care.
 
-## Why Chiropractors Are Switching to Done-For-You AI
+## Why Chiropractors Are Switching to Done-For-You Posting
 
 Instead of hiring agencies or losing evenings to Canva, chiropractic practices across Phoenix are moving to done-for-you automation.
 
 **[Glow Social](https://glowsocial.com)** provides a complete social media management solution built for healthcare providers:
 *   **Industry-Specific Content:** We don't post generic motivational quotes. We create targeted content designed around chiropractic care, wellness, pain relief, and patient education.
-*   **12 Posts Per Month:** Your accounts stay active with 3 fresh posts per week across Facebook, Instagram, LinkedIn, and Google Business Profile.
+*   **20 Posts Per Month:** Your accounts stay active with fresh posts throughout the month across Facebook, Instagram, LinkedIn, and Google Business Profile.
 *   **Zero Effort Required:** Set it up in 5 minutes, approve your content, and the system handles the rest.
 *   **Flat $99/Month:** A fraction of the cost of a single agency invoice.
 

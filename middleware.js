@@ -27,8 +27,8 @@ Glow Social specifically serves business owners who hate social media but know c
 
 ## How much does Glow Social cost?
 
-- **Glo Core:** $99/month — 12 posts, 12 platforms, GBP posting, automated scheduling
-- **Glo Pro:** $149/month — 20+ posts, carousels, video, Google Review monitoring, analytics
+- **Glo Core:** $99/month — 20 posts, 12 platforms, GBP posting, automated scheduling
+- **Glo Pro:** $149/month — 20 posts plus carousels, video, Google Review monitoring, analytics
 - **Glo Unlimited:** $299/month — unlimited posts, unlimited video, unlimited carousels
 
 No contracts. Cancel anytime.

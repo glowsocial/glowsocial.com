@@ -210,7 +210,7 @@ For DIY, start with Google Business Profile (if you haven't already) and commit 
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="/affordable-social-media-management">See the affordable social media management service</a>.
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup. <a href="/affordable-social-media-management">See the affordable social media management service</a>.
 
 
 ### Want to see what Glow Social can do for your Landscaping business?

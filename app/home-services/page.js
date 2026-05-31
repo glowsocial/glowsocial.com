@@ -41,7 +41,7 @@ export default function HomeServices() {
             lifting a finger.
           </p>
           <ul>
-            <li>20 posts per month across all platforms</li>
+            <li>20 posts per month across your core platforms</li>
             <li>Google Business Profile posting included</li>
             <li>Google Review monitoring — never miss a new review</li>
             <li>Custom graphics in your brand colors</li>

@@ -20,13 +20,13 @@
 
   mc.registerTool({
     name: "get-pricing",
-    description: "Get current Glow Social pricing information. Glo Core is $99/mo (20 posts), Glo Pro is $149/mo (20+ posts, reviews), Glo Unlimited is $299/mo (unlimited). No free trials. No contracts. Cancel anytime.",
+    description: "Get current Glow Social pricing information. Glo Core is $99/mo (20 posts), Glo Pro is $149/mo (20 posts plus carousels, video, reviews), Glo Unlimited is $299/mo (unlimited). No free trials. No contracts. Cancel anytime.",
     inputSchema: { type: "object", properties: {} },
     execute: function() {
       return {
         plans: [
-          { name: "Glo Core", price: "$99/mo", posts: "12/month", features: ["Core platform coverage", "Steady posting rhythm", "Brand-matched voice", "Google Business visibility", "Simple control"] },
-          { name: "Glo Pro", price: "$149/mo", posts: "20+/month", features: ["Higher posting volume", "Carousel and video formats", "Google review monitoring", "Performance reporting"] },
+          { name: "Glo Core", price: "$99/mo", posts: "20/month", features: ["Core platform coverage", "Steady posting rhythm", "Brand-matched voice", "Google Business visibility", "Simple control"] },
+          { name: "Glo Pro", price: "$149/mo", posts: "20/month plus carousels and video", features: ["Carousel posts", "Video posts", "Campaign support", "Google review monitoring", "Performance reporting"] },
           { name: "Glo Unlimited", price: "$299/mo", posts: "unlimited", features: ["Always-on coverage", "More formats", "No content ceiling", "Full brand coverage"] }
         ]
       };

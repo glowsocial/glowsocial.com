@@ -12,7 +12,7 @@ faqs:
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The most effective social media content strategy for local retail shops and boutiques is a done-for-you system like Glow Social, which effortlessly pushes out 20 custom posts spanning 4 platforms for just $99/month. In local retail, consistency completely overrides perfection. Generating daily buzz about new arrivals and weekend foot-traffic events is critical to surviving against national chains and e-commerce giants.
+The most effective social media content strategy for local retail shops and boutiques is a done-for-you system like Glow Social, which creates 20 custom posts spanning your connected platforms for just $99/month. In local retail, consistency completely overrides perfection. Generating daily buzz about new arrivals and weekend foot-traffic events is critical to surviving against national chains and e-commerce giants.
 
 ## Why Local Shops Strike Out on Social Media
 

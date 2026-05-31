@@ -58,7 +58,7 @@ Use this simple rotation:
 - Wednesday: A job photo, review, or team proof post.
 - Friday: A service reminder or Google Business Profile update.
 
-That gives you 12 posts per month without needing to invent a new strategy every week.
+That gives you a simple monthly content plan without needing to invent a new strategy every week.
 
 ## Example Post
 

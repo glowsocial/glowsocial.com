@@ -20,7 +20,7 @@ export default function FAQ() {
                 "name": "What is Glow Social?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Glow Social is done-for-you social media posting for local businesses. We create and publish custom social media content for your business automatically — 20 posts per month across major platforms, starting at $99/month."
+                  "text": "Glow Social is done-for-you social media posting for local businesses. We create and publish custom social media content for your business automatically - 20 posts per month across major platforms, starting at $99/month."
                 }
               },
               {

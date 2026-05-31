@@ -83,7 +83,7 @@ function QuestionCard({ question, className = "blog-card" }) {
 
 export const metadata = {
   title: "Social Media & Marketing Q&A",
-  description: "Direct, expert answers to your questions about automated social media content, scheduling, brand voice, and AI-powered marketing.",
+  description: "Direct, expert answers to your questions about social media content, scheduling, brand voice, and practical marketing.",
 };
 
 export default function QuestionsPage() {

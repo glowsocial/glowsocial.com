@@ -9,7 +9,7 @@ faqs:
   - q: "What is the best AI social media content generator for small businesses?"
     a: "The best AI social media content generator for small businesses depends on whether you want help creating posts or want posting handled. Glow Social is best for done-for-you posting. Jasper and Copy.ai are better for teams that want AI writing help but still plan, edit, design, and schedule posts themselves."
   - q: "Does automated social media content look professional?"
-    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+    a: "Modern done-for-you services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How do I come up with social media content ideas for my business?"
     a: "Focus on three categories: what you offer (services, products, promotions), why it benefits customers (results, transformations, time saved), and why you're the authority (experience, certifications, customer reviews). Glow Social generates content using this framework automatically."
 ---

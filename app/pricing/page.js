@@ -43,8 +43,8 @@ export default function PricingPage() {
                 <span className="price-period">/month</span>
               </div>
               <ul>
+                <li><strong>20 Finished Posts</strong> every month</li>
                 <li><strong>Total Coverage</strong> for your core social storefront</li>
-                <li><strong>Zero Maintenance</strong> posting rhythm</li>
                 <li><strong>Brand Protection</strong> from website-informed voice</li>
                 <li><strong>Google Business</strong> visibility included</li>
                 <li><strong>Weekly approvals</strong> before posts go live</li>
@@ -68,8 +68,8 @@ export default function PricingPage() {
               </div>
               <ul>
                 <li>Everything in Core, plus:</li>
-                <li><strong>More Momentum</strong> with higher posting volume</li>
-                <li><strong>Scroll-Stopping Formats</strong> for carousels and video</li>
+                <li><strong>Carousel Posts</strong> for richer stories</li>
+                <li><strong>Video Posts</strong> for higher-visibility moments</li>
                 <li><strong>On-Demand Campaigns</strong> for promos and events</li>
                 <li><strong>Reputation Awareness</strong> with Google Review monitoring</li>
                 <li><strong>Performance Clarity</strong> on what is working</li>
@@ -222,9 +222,9 @@ export default function PricingPage() {
                   <td>{pricing.unlimited.display}</td>
                 </tr>
                 <tr>
-                  <td>Posts per month</td>
-                  <td>12</td>
-                  <td className="highlight-col"><strong>20+</strong></td>
+                  <td>Standard posts per month</td>
+                  <td>20</td>
+                  <td className="highlight-col"><strong>20</strong></td>
                   <td>Unlimited</td>
                 </tr>
                 <tr>
@@ -240,7 +240,7 @@ export default function PricingPage() {
                   <td>Unlimited</td>
                 </tr>
                 <tr>
-                  <td>Custom posts</td>
+                  <td>Custom campaign posts</td>
                   <td>—</td>
                   <td className="highlight-col"><strong>8</strong></td>
                   <td>Unlimited</td>
@@ -312,7 +312,7 @@ export default function PricingPage() {
                 </tr>
                 <tr>
                   <td>Posts per month</td>
-                  <td className="highlight-col"><strong>12+</strong></td>
+                  <td className="highlight-col"><strong>20</strong></td>
                   <td>8–12</td>
                   <td>12–20</td>
                   <td>2–4</td>
@@ -393,10 +393,10 @@ export default function PricingPage() {
             <details className="faq-item">
               <summary>What&apos;s the difference between Core and Pro?</summary>
               <p>
-                Core gives you a steady, professional social storefront with
-                brand-matched posts, Google Business Profile visibility, and
-                approval controls before posts go live. Pro adds more publishing momentum,
-                carousel and video formats, custom campaign posts, Google
+                Core gives you 20 finished posts each month, Google Business
+                Profile visibility, brand-matched posts, and approval controls
+                before posts go live. Pro adds carousel and video formats,
+                custom campaign posts, Google
                 Review monitoring, and performance analytics.
               </p>
             </details>

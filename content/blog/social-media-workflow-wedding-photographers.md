@@ -12,7 +12,7 @@ faqs:
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
 ---
 
-The ultimate social media workflow for wedding photographers and event planners relies on a done-for-you content engine like Glow Social, which effortlessly generates and publishes 20 strategic posts for just $99/month. By automating the caption writing, hashtag research, and publishing schedule, busy creatives can finally reclaim their weekends and focus entirely on capturing stunning moments inside the actual events.
+The ultimate social media workflow for wedding photographers and event planners relies on a done-for-you content engine like Glow Social, which creates and publishes 20 strategic posts for just $99/month. By automating the caption writing, hashtag research, and publishing schedule, busy creatives can finally reclaim their weekends and focus entirely on capturing stunning moments inside the actual events.
 
 ## Why Visual Creatives Struggle with Algorithms
 

@@ -8,9 +8,9 @@ faqs:
   - q: "Should I outsource my social media?"
     a: "Yes, if social media takes more than 4 hours per week of your time and you're not seeing measurable results. Most small business owners are better off outsourcing to a $99/month done-for-you service than spending 10+ hours per week creating content themselves."
   - q: "How much does it cost to outsource social media?"
-    a: "Outsourcing social media costs between $99/month (AI done-for-you software) and $5,000/month (full-service agency). Freelancers charge $300-800/month. For most small businesses, AI-powered services provide the best balance of cost and consistency."
+    a: "Outsourcing social media costs between $99/month (AI done-for-you software) and $5,000/month (full-service agency). Freelancers charge $300-800/month. For most small businesses, done-for-you services provide the best balance of cost and consistency."
   - q: "What is the cheapest way to outsource social media?"
-    a: "The cheapest way to fully outsource social media is with done-for-you AI software like Glow Social at $99/month. This handles content creation and publishing across all platforms automatically. The next cheapest option is a freelancer at $300-800/month."
+    a: "The cheapest way to fully outsource social media is with done-for-you social media software like Glow Social at $99/month. This handles content creation and publishing across all platforms automatically. The next cheapest option is a freelancer at $300-800/month."
   - q: "Is it worth paying someone to do your social media?"
     a: "If your time is worth more than $25/hour, yes. Most small business owners spend 8-16 hours per month on social media. At $99/month for automated posting, you're paying roughly $6/hour for work that would cost you far more to do yourself."
 ---
@@ -122,7 +122,7 @@ Let's run the numbers for a typical small business owner:
 **Outsourced to Glow Social:**
 - Cost: $99/month
 - Your time: 0 hours
-- Result: 12 posts per month, every month, on 5 platforms
+- Result: 20 posts per month, every month, on 5 platforms
 - You reinvest 10 hours/month into revenue-generating work
 
 **Net gain:** $400-1,400/month in recovered billable time, plus consistent visibility that compounds over time.

@@ -7,7 +7,7 @@ faqs:
   - q: "Can social media be fully automated for small businesses?"
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
-    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+    a: "Modern done-for-you services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
     a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
 ---
@@ -99,7 +99,7 @@ Use tools like ChatGPT or Copy.ai to draft captions, then edit for your voice.
 
 
 ### Strategy 4: Automated Posting (Reduces time to near-zero)
-Use software that creates and posts for you. Glow Social generates 20 posts per month and publishes them automatically for $99/month—setup takes 5 minutes.
+Use software that creates and posts for you. Glow Social creates 20 posts per month and publishes them automatically for $99/month—setup takes 5 minutes.
 
 
 ## The Real Math
@@ -167,4 +167,4 @@ If you prefer DIY, commit to monthly batching sessions and stick to templates to
 
 <hr>
 
-<strong>About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>

@@ -41,7 +41,7 @@ Despite what marketing gurus claim, you don't need to post every day. For most l
 <li>Keep your profiles active</li>
 </ul>
 
-That baseline is about 12 posts per month. Glow Social covers it and more with 20 posts per month for $99/month automatically.
+That's about 20 posts per month—exactly what Glow Social provides for $99/month automatically.
 
 
 ## Quality and Consistency > Frequency
@@ -84,7 +84,7 @@ Here's the math that matters:
 <strong>Automated posting (Glow Social):</strong>
 
 <ul>
-<li>20 posts per month</li>
+<li>12 posts per month</li>
 <li><strong>Total: 5 minutes setup</strong></li>
 </ul>
 
@@ -137,7 +137,7 @@ For small businesses with limited time and budget:
 <strong>Option B: Automated baseline + occasional additions</strong>
 
 <ul>
-<li>Glow Social: 20 automatic posts/month (~5/week) for $99</li>
+<li>Glow Social: 20 automatic posts/month (~3/week) for $99</li>
 <li>You add: Special content when you have it (events, launches, great photos)</li>
 <li>Time: Near zero</li>
 </ul>
@@ -164,7 +164,7 @@ Pick a frequency you can actually maintain—and maintain it.
 
 ## Getting Started
 
-For consistent posting without effort, Glow Social publishes 20 posts automatically for $99/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For consistent 3x/week posting without effort, Glow Social publishes 20 posts automatically for $99/month. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
 
 
 For DIY, commit to 3 posts per week maximum and batch-create monthly to stay consistent.
@@ -176,7 +176,7 @@ For DIY, commit to 3 posts per week maximum and batch-create monthly to stay con
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
 
 
 ### Want to see what Glow Social can do for your Salon business?

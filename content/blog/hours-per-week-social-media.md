@@ -7,7 +7,7 @@ faqs:
   - q: "Can social media be fully automated for small businesses?"
     a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
   - q: "Does automated social media content look professional?"
-    a: "Modern AI-powered services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+    a: "Modern done-for-you services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
   - q: "How often should a small business post on social media?"
     a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
 ---
@@ -35,7 +35,7 @@ For baseline social media visibility (staying visible, not going viral):
 
 
 <ul>
-<li><strong>Posting frequency:</strong> 3x per week (20 posts/month)</li>
+<li><strong>Posting frequency:</strong> 3x per week (12 posts/month)</li>
 <li><strong>Engagement:</strong> 5-10 minutes daily responding to comments/DMs</li>
 <li><strong>Total time:</strong> 3-5 hours/month (if you do it yourself)</li>
 </ul>
@@ -166,4 +166,4 @@ Either way, you don't need 10+ hours per month. You just need consistent visibil
 
 ---
 
-About Glow Social:</strong> AI-powered software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
