@@ -108,37 +108,39 @@ function WorkflowScenes() {
     <div className="workflow-scenes">
       <article className="workflow-scene">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">1. Add your website</span>
-          <h3>Your site becomes the brief.</h3>
-          <p>We pull the useful parts out of the business you already built: services, location details, offers, proof, and the way you naturally talk.</p>
+          <span className="workflow-step">1. Look active where people check</span>
+          <h3>Your profiles stop looking abandoned.</h3>
+          <p>Customers see current posts, useful reminders, and proof that your business is open and paying attention.</p>
         </div>
-        <div className="scene-panel scene-panel--onboarding" aria-label="Glow Social workspace setup preview">
-          <div className="scene-onboarding-copy">
-            <span>Work started</span>
-            <h4>Your first posts are getting drafted now.</h4>
-            <p>Nothing is publishing yet. You will review every post before anything can go live.</p>
+        <div className="scene-panel scene-panel--outcomes" aria-label="Social media outcomes preview">
+          <div className="outcome-summary">
+            <span>What customers see</span>
+            <strong>Active this week</strong>
           </div>
-          <div className="scene-progress-list">
-            <div className="scene-progress-row">
-              <i className="scene-progress-dot scene-progress-done"></i>
-              <div>
-                <strong>Reviewing your website</strong>
-                <p>We are reading your site and pulling out the useful parts.</p>
-              </div>
+          <div className="outcome-stats" aria-label="Posting outcomes">
+            <div>
+              <strong>20</strong>
+              <span>finished posts</span>
             </div>
-            <div className="scene-progress-row">
-              <i className="scene-progress-dot scene-progress-active"></i>
-              <div>
-                <strong>Matching your brand style</strong>
-                <p>We use brand details only where the evidence is clear.</p>
-              </div>
+            <div>
+              <strong>4</strong>
+              <span>places covered</span>
             </div>
-            <div className="scene-progress-row">
-              <i className="scene-progress-dot scene-progress-upcoming"></i>
-              <div>
-                <strong>Drafting your first posts</strong>
-                <p>This starts as soon as the content mix is ready.</p>
-              </div>
+            <div>
+              <strong>0</strong>
+              <span>quiet profiles</span>
+            </div>
+          </div>
+          <div className="outcome-feed">
+            <div className="outcome-feed-card outcome-feed-card--instagram">
+              <span>Instagram</span>
+              <strong>Fresh pastry case before the morning rush</strong>
+              <p>New post ready for customers checking you today.</p>
+            </div>
+            <div className="outcome-feed-card outcome-feed-card--google">
+              <span>Google Business</span>
+              <strong>Weekend brunch hours and directions</strong>
+              <p>A timely update where local searchers are already looking.</p>
             </div>
           </div>
         </div>
@@ -393,9 +395,9 @@ export default function HomePageContent() {
       {/* ============ WORKFLOW — Product in four steps ============ */}
       <section className="workflow" id="how">
         <div className="container">
-          <h2>From your website to posts customers can see.</h2>
+          <h2>The outcome: your business looks active online.</h2>
           <p className="section-sub">
-            <BrandName /> turns the business you already built into finished social content, then keeps it moving on the channels that matter locally.
+            <BrandName /> turns the business you already built into finished social content customers can actually see, then keeps it moving on the channels that matter locally.
           </p>
 
           <WorkflowScenes />
