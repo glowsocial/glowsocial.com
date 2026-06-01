@@ -18,6 +18,8 @@ const heroPlatformSlides = [
     caption: "Fresh bread, warm coffee, and a softer start before the day gets loud.",
     accent: "instagram",
     initials: "ig",
+    time: "1h",
+    offset: "18px",
   },
   {
     platform: "Facebook",
@@ -29,6 +31,8 @@ const heroPlatformSlides = [
     caption: "A quick reminder for homeowners who want thicker grass without overthinking it.",
     accent: "facebook",
     initials: "fb",
+    time: "2h",
+    offset: "0px",
   },
   {
     platform: "LinkedIn",
@@ -40,6 +44,8 @@ const heroPlatformSlides = [
     caption: "A practical note on programs, timing, and the parts of the process worth planning first.",
     accent: "linkedin",
     initials: "in",
+    time: "1h",
+    offset: "28px",
   },
   {
     platform: "Google Business",
@@ -51,71 +57,56 @@ const heroPlatformSlides = [
     caption: "A useful update for people checking maps before they decide where to book.",
     accent: "google",
     initials: "g",
+    time: "Today",
+    offset: "8px",
   },
 ];
 
-function HeroPlatformSlideshow() {
+const heroPlatformRailSlides = [...heroPlatformSlides, ...heroPlatformSlides];
+
+function HeroPlatformRail() {
   return (
-    <article className="hero-platform-carousel" aria-label="Example posts prepared for social channels">
-      <div className="hero-platform-stage">
-        {heroPlatformSlides.map((slide, index) => (
-          <section
-            className={`hero-platform-slide hero-platform-slide--${slide.accent}`}
+    <div className="hero-platform-rail" aria-label="Examples of finished posts prepared for social channels">
+      <div className="hero-platform-track" aria-hidden="true">
+        {heroPlatformRailSlides.map((slide, index) => (
+          <article
+            className={`hero-platform-card hero-platform-card--${slide.accent}`}
             style={{
-              "--slide-index": index,
               "--post-image": `url(${slide.image})`,
+              "--card-offset": slide.offset,
             }}
-            key={slide.platform}
+            key={`${slide.platform}-${index}`}
           >
             <div className="hero-platform-top">
               <span className="hero-platform-avatar">{slide.initials}</span>
               <div>
                 <strong>{slide.handle}</strong>
-                <span>{slide.meta}</span>
+                <span>{slide.time}</span>
               </div>
-              <em>{slide.platform}</em>
+              <em aria-label={slide.platform}></em>
             </div>
+            <p className="hero-platform-lead">{slide.caption}</p>
             <div className="hero-platform-image" role="img" aria-label={slide.imageAlt}></div>
-            <div className="hero-platform-actions" aria-hidden="true">
-              <span></span>
-              <span></span>
-              <span></span>
-              <span></span>
-            </div>
             <div className="hero-platform-copy">
               <strong>{slide.title}</strong>
-              <p>{slide.caption}</p>
+              <span>{slide.platform}</span>
             </div>
-          </section>
+            <div className="hero-platform-actions" aria-hidden="true">
+              <span>Like</span>
+              <span>Comment</span>
+              <span>Share</span>
+            </div>
+          </article>
         ))}
       </div>
-      <div className="hero-platform-dots" aria-hidden="true">
-        {heroPlatformSlides.map((slide, index) => (
-          <span style={{ "--dot-index": index }} key={slide.platform}></span>
-        ))}
-      </div>
-    </article>
+    </div>
   );
 }
 
 function HeroSocialShowcase() {
   return (
-    <div className="hero-showcase" aria-label="Glow Social app and social channel previews">
-      <div className="hero-preview-wall">
-        <article className="hero-app-window" aria-label="Glow Social post review screen">
-          <div className="hero-window-bar">
-            <span></span><span></span><span></span>
-            <strong>app.glowsocial.com</strong>
-          </div>
-          <div
-            className="hero-app-shot"
-            role="img"
-            aria-label="Actual Glow Social review screen with a finished post and caption"
-          ></div>
-        </article>
-
-        <HeroPlatformSlideshow />
-      </div>
+    <div className="hero-showcase" aria-label="Glow Social channel preview rail">
+      <HeroPlatformRail />
     </div>
   );
 }
