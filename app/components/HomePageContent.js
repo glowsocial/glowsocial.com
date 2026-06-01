@@ -7,11 +7,54 @@ function BrandName() {
   return <span className="brand-nowrap">Glow Social</span>;
 }
 
-const heroPlatformSlides = [
+const heroRailCards = [
   {
+    type: "checkout",
+    label: "URL submitted",
+    handle: "yourwebsite.com",
+    time: "Step 1",
+    title: "Your website goes in",
+    caption: "Glow Social pulls the business context we need without sending you through a long intake form.",
+    accent: "setup",
+    initials: "01",
+    offset: "18px",
+  },
+  {
+    type: "work",
+    label: "Work started",
+    handle: "Workspace setup",
+    time: "Step 2",
+    title: "Your first posts are getting drafted",
+    caption: "We review your site, match your brand style, and prepare the first batch in the background.",
+    accent: "work",
+    initials: "02",
+    offset: "0px",
+    items: [
+      ["Reviewing your website", "done"],
+      ["Matching your brand style", "active"],
+      ["Drafting your first posts", "active"],
+    ],
+  },
+  {
+    type: "review",
+    label: "Review drafts",
+    handle: "First drafts",
+    time: "Step 3",
+    title: "You approve what fits",
+    caption: "Nothing publishes until you review the draft, approve it, or skip it.",
+    accent: "review",
+    initials: "03",
+    offset: "28px",
+    drafts: [
+      "A quick reminder before your next appointment",
+      "Three signs your skin needs a calmer routine",
+      "How to keep color-treated hair bright in summer",
+    ],
+  },
+  {
+    type: "social",
     platform: "Instagram",
     handle: "morningroutinecafe",
-    meta: "Phoenix, AZ",
     image: "/images/home/hero-instagram-post.png",
     imageAlt: "Cafe storefront post image prepared for Instagram",
     title: "Open early, every morning",
@@ -19,12 +62,12 @@ const heroPlatformSlides = [
     accent: "instagram",
     initials: "ig",
     time: "1h",
-    offset: "18px",
+    offset: "8px",
   },
   {
+    type: "social",
     platform: "Facebook",
     handle: "Greenview Landscaping",
-    meta: "Neighborhood service update",
     image: "/images/home/hero-facebook-post.png",
     imageAlt: "Landscaping tools post image prepared for Facebook",
     title: "A better lawn starts before summer",
@@ -32,12 +75,12 @@ const heroPlatformSlides = [
     accent: "facebook",
     initials: "fb",
     time: "2h",
-    offset: "0px",
+    offset: "18px",
   },
   {
+    type: "social",
     platform: "LinkedIn",
     handle: "Desert Key Realty",
-    meta: "Market note",
     image: "/images/home/hero-linkedin-post.png",
     imageAlt: "Real estate office post image prepared for LinkedIn",
     title: "Buyers still have options",
@@ -45,12 +88,12 @@ const heroPlatformSlides = [
     accent: "linkedin",
     initials: "in",
     time: "1h",
-    offset: "28px",
+    offset: "0px",
   },
   {
+    type: "social",
     platform: "Google Business",
     handle: "Arc & Align Wellness",
-    meta: "Local search update",
     image: "/images/home/hero-google-post.png",
     imageAlt: "Wellness clinic room post image prepared for Google Business Profile",
     title: "New patient appointments are open",
@@ -62,20 +105,78 @@ const heroPlatformSlides = [
   },
 ];
 
-const heroPlatformRailSlides = [...heroPlatformSlides, ...heroPlatformSlides];
+const heroRailLoop = [...heroRailCards, ...heroRailCards];
+
+function HeroProcessVisual({ card }) {
+  if (card.type === "checkout") {
+    return (
+      <div className="hero-process-window hero-process-window--checkout">
+        <div className="hero-process-field">
+          <span>Website URL</span>
+          <strong>yourwebsite.com</strong>
+        </div>
+        <div className="hero-process-field">
+          <span>Business context</span>
+          <strong>Services, voice, proof, local details</strong>
+        </div>
+        <div className="hero-process-submit">Generate preview</div>
+      </div>
+    );
+  }
+
+  if (card.type === "review") {
+    return (
+      <div className="hero-process-window hero-process-window--review">
+        <div className="hero-review-head">
+          <span>Action required</span>
+          <strong>Ready to review</strong>
+        </div>
+        <div className="hero-draft-list">
+          {card.drafts.map((draft) => (
+            <div className="hero-draft-card" key={draft}>
+              <span>Draft</span>
+              <strong>{draft}</strong>
+              <div aria-hidden="true">
+                <i></i>
+                <i></i>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="hero-process-window hero-process-window--work">
+      <div className="hero-work-copy">
+        <span>Work started</span>
+        <strong>Your first posts are getting drafted now.</strong>
+      </div>
+      <div className="hero-progress-list">
+        {card.items.map(([item, status]) => (
+          <div className="hero-progress-row" key={item}>
+            <span className={`hero-progress-dot hero-progress-dot--${status}`}></span>
+            <strong>{item}</strong>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
 
 function HeroPlatformRail() {
   return (
     <div className="hero-platform-rail" aria-label="Examples of finished posts prepared for social channels">
       <div className="hero-platform-track" aria-hidden="true">
-        {heroPlatformRailSlides.map((slide, index) => (
+        {heroRailLoop.map((slide, index) => (
           <article
-            className={`hero-platform-card hero-platform-card--${slide.accent}`}
+            className={`hero-platform-card hero-platform-card--${slide.accent} hero-platform-card--${slide.type}`}
             style={{
-              "--post-image": `url(${slide.image})`,
+              "--post-image": slide.image ? `url(${slide.image})` : undefined,
               "--card-offset": slide.offset,
             }}
-            key={`${slide.platform}-${index}`}
+            key={`${slide.type}-${slide.handle}-${index}`}
           >
             <div className="hero-platform-top">
               <span className="hero-platform-avatar">{slide.initials}</span>
@@ -83,18 +184,22 @@ function HeroPlatformRail() {
                 <strong>{slide.handle}</strong>
                 <span>{slide.time}</span>
               </div>
-              <em aria-label={slide.platform}></em>
+              <em aria-label={slide.platform || slide.label}></em>
             </div>
             <p className="hero-platform-lead">{slide.caption}</p>
-            <div className="hero-platform-image" role="img" aria-label={slide.imageAlt}></div>
+            {slide.type === "social" ? (
+              <div className="hero-platform-image" role="img" aria-label={slide.imageAlt}></div>
+            ) : (
+              <HeroProcessVisual card={slide} />
+            )}
             <div className="hero-platform-copy">
               <strong>{slide.title}</strong>
-              <span>{slide.platform}</span>
+              <span>{slide.platform || slide.label}</span>
             </div>
             <div className="hero-platform-actions" aria-hidden="true">
-              <span>Like</span>
-              <span>Comment</span>
-              <span>Share</span>
+              <span>{slide.type === "social" ? "Like" : "Start"}</span>
+              <span>{slide.type === "social" ? "Comment" : "Review"}</span>
+              <span>{slide.type === "social" ? "Share" : "Approve"}</span>
             </div>
           </article>
         ))}
@@ -318,31 +423,8 @@ export default function HomePageContent() {
               <span>Social media</span>
               <span>handled for you.</span>
             </h1>
-            <div className="hero-audience-row" aria-hidden="true">
-              <span>Built for</span>
-              <span className="hero-audience">
-                <span className="hero-audience-track">
-                  <span>cafes.</span>
-                  <span>e-commerce.</span>
-                  <span>insurance agents.</span>
-                  <span>med spas.</span>
-                  <span>wellness clinics.</span>
-                  <span>life coaches.</span>
-                  <span>business coaches.</span>
-                  <span>Realtors.</span>
-                  <span>salons.</span>
-                  <span>contractors.</span>
-                  <span>clinics.</span>
-                  <span>local shops.</span>
-                  <span>cafes.</span>
-                </span>
-              </span>
-            </div>
-            <span className="visually-hidden">
-              Built for local businesses including cafes, e-commerce, insurance agents, med spas, wellness clinics, life coaches, business coaches, Realtors, salons, contractors, clinics, and local shops.
-            </span>
             <p className="hero-sub">
-              Drop in your URL. <BrandName /> turns your website into finished posts for Instagram, Facebook, LinkedIn, Threads, and Google Business Profile.
+              Drop in your URL. <BrandName /> prepares your first drafts, you approve what fits, and we keep Instagram, Facebook, LinkedIn, Threads, and Google Business Profile current.
             </p>
             <form
               className="hero-url-form"
