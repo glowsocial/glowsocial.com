@@ -324,14 +324,14 @@ function CustomerProof() {
         <blockquote className="proof-quote">
           <span aria-hidden="true">&ldquo;</span>
           <p>
-            I almost do not want to tell other business owners about Glow Social. It makes
-            me look like I have a content team, and I kind of want to keep it as my trade secret.
+            I forgot I even had social media. That is the point. My profiles stay current,
+            but I am not stuck planning content every week.
           </p>
           <footer>
             <div className="proof-avatar" aria-hidden="true" />
             <div>
               <strong>Small business owner</strong>
-              <small>Glow Social customer</small>
+              <small>Wants to keep Glow Social a trade secret</small>
             </div>
           </footer>
         </blockquote>
