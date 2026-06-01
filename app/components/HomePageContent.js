@@ -7,6 +7,97 @@ function BrandName() {
   return <span className="brand-nowrap">Glow Social</span>;
 }
 
+const heroPlatformSlides = [
+  {
+    platform: "Instagram",
+    handle: "morningroutinecafe",
+    meta: "Phoenix, AZ",
+    image: "/images/home/hero-instagram-post.png",
+    imageAlt: "Cafe storefront post image prepared for Instagram",
+    title: "Open early, every morning",
+    caption: "Fresh bread, warm coffee, and a softer start before the day gets loud.",
+    accent: "instagram",
+    initials: "ig",
+  },
+  {
+    platform: "Facebook",
+    handle: "Greenview Landscaping",
+    meta: "Neighborhood service update",
+    image: "/images/home/hero-facebook-post.png",
+    imageAlt: "Landscaping tools post image prepared for Facebook",
+    title: "A better lawn starts before summer",
+    caption: "A quick reminder for homeowners who want thicker grass without overthinking it.",
+    accent: "facebook",
+    initials: "fb",
+  },
+  {
+    platform: "LinkedIn",
+    handle: "Desert Key Realty",
+    meta: "Market note",
+    image: "/images/home/hero-linkedin-post.png",
+    imageAlt: "Real estate office post image prepared for LinkedIn",
+    title: "Buyers still have options",
+    caption: "A practical note on programs, timing, and the parts of the process worth planning first.",
+    accent: "linkedin",
+    initials: "in",
+  },
+  {
+    platform: "Google Business",
+    handle: "Arc & Align Wellness",
+    meta: "Local search update",
+    image: "/images/home/hero-google-post.png",
+    imageAlt: "Wellness clinic room post image prepared for Google Business Profile",
+    title: "New patient appointments are open",
+    caption: "A useful update for people checking maps before they decide where to book.",
+    accent: "google",
+    initials: "g",
+  },
+];
+
+function HeroPlatformSlideshow() {
+  return (
+    <article className="hero-platform-carousel" aria-label="Example posts prepared for social channels">
+      <div className="hero-platform-stage">
+        {heroPlatformSlides.map((slide, index) => (
+          <section
+            className={`hero-platform-slide hero-platform-slide--${slide.accent}`}
+            style={{
+              "--slide-index": index,
+              "--post-image": `url(${slide.image})`,
+            }}
+            key={slide.platform}
+          >
+            <div className="hero-platform-top">
+              <span className="hero-platform-avatar">{slide.initials}</span>
+              <div>
+                <strong>{slide.handle}</strong>
+                <span>{slide.meta}</span>
+              </div>
+              <em>{slide.platform}</em>
+            </div>
+            <div className="hero-platform-image" role="img" aria-label={slide.imageAlt}></div>
+            <div className="hero-platform-actions" aria-hidden="true">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <div className="hero-platform-copy">
+              <strong>{slide.title}</strong>
+              <p>{slide.caption}</p>
+            </div>
+          </section>
+        ))}
+      </div>
+      <div className="hero-platform-dots" aria-hidden="true">
+        {heroPlatformSlides.map((slide, index) => (
+          <span style={{ "--dot-index": index }} key={slide.platform}></span>
+        ))}
+      </div>
+    </article>
+  );
+}
+
 function HeroSocialShowcase() {
   return (
     <div className="hero-showcase" aria-label="Glow Social app and social channel previews">
@@ -23,26 +114,7 @@ function HeroSocialShowcase() {
           ></div>
         </article>
 
-        <article className="hero-social-card hero-social-card--instagram" aria-label="Instagram post preview">
-          <div className="hero-social-top">
-            <span className="hero-social-avatar">ig</span>
-            <div>
-              <strong>morningroutinecafe</strong>
-              <span>Phoenix, AZ</span>
-            </div>
-          </div>
-          <div className="hero-social-photo" role="img" aria-label="Cafe doorway social post image"></div>
-          <div className="hero-social-actions" aria-hidden="true">
-            <span></span><span></span><span></span>
-          </div>
-          <p><strong>morningroutinecafe</strong> Fresh bread, warm coffee, and a front door that is open when you need a softer start.</p>
-        </article>
-
-        <article className="hero-social-card hero-social-card--google" aria-label="Google Business post preview">
-          <span>Google Business Profile</span>
-          <strong>Weekend brunch hours are live.</strong>
-          <p>A useful local update for people checking maps before they decide where to go.</p>
-        </article>
+        <HeroPlatformSlideshow />
       </div>
     </div>
   );
