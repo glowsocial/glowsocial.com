@@ -17,7 +17,7 @@ export default function Footer() {
               />
             </div>
             <p>
-              Done-for-you social media that keeps local businesses visible,
+              Done-for-you social media that keeps your business visible,
               trusted, and top-of-mind.
             </p>
           </div>

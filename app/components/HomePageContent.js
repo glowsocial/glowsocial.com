@@ -7,199 +7,94 @@ function BrandName() {
   return <span className="brand-nowrap">Glow Social</span>;
 }
 
-const heroRailCards = [
+const heroPostCards = [
   {
-    type: "checkout",
-    label: "URL submitted",
-    handle: "yourwebsite.com",
-    time: "Step 1",
-    title: "Your website goes in",
-    caption: "Glow Social pulls the business context we need without sending you through a long intake form.",
-    accent: "setup",
-    initials: "01",
-    offset: "18px",
-  },
-  {
-    type: "work",
-    label: "Work started",
-    handle: "Workspace setup",
-    time: "Step 2",
-    title: "Your first posts are getting drafted",
-    caption: "We review your site, match your brand style, and prepare the first batch in the background.",
-    accent: "work",
-    initials: "02",
-    offset: "0px",
-    items: [
-      ["Reviewing your website", "done"],
-      ["Matching your brand style", "active"],
-      ["Drafting your first posts", "active"],
-    ],
-  },
-  {
-    type: "review",
-    label: "Review drafts",
-    handle: "First drafts",
-    time: "Step 3",
-    title: "You approve what fits",
-    caption: "Nothing publishes until you review the draft, approve it, or skip it.",
-    accent: "review",
-    initials: "03",
-    offset: "28px",
-    drafts: [
-      "A quick reminder before your next appointment",
-      "Three signs your skin needs a calmer routine",
-      "How to keep color-treated hair bright in summer",
-    ],
-  },
-  {
-    type: "social",
     platform: "Instagram",
-    handle: "morningroutinecafe",
-    image: "/images/home/hero-instagram-post.png",
-    imageAlt: "Cafe storefront post image prepared for Instagram",
-    title: "Open early, every morning",
-    caption: "Fresh bread, warm coffee, and a softer start before the day gets loud.",
-    accent: "instagram",
-    initials: "ig",
+    handle: "Morning Routine Cafe",
     time: "1h",
-    offset: "8px",
+    caption: "Fresh bread, warm coffee, and a softer start before the day gets loud.",
+    image: "/images/home/hero-instagram-post.png",
+    imageAlt: "Instagram-style post image for a cafe",
+    accent: "instagram",
+    offset: "12px",
   },
   {
-    type: "social",
     platform: "Facebook",
     handle: "Greenview Landscaping",
-    image: "/images/home/hero-facebook-post.png",
-    imageAlt: "Landscaping tools post image prepared for Facebook",
-    title: "A better lawn starts before summer",
-    caption: "A quick reminder for homeowners who want thicker grass without overthinking it.",
-    accent: "facebook",
-    initials: "fb",
     time: "2h",
-    offset: "18px",
-  },
-  {
-    type: "social",
-    platform: "LinkedIn",
-    handle: "Desert Key Realty",
-    image: "/images/home/hero-linkedin-post.png",
-    imageAlt: "Real estate office post image prepared for LinkedIn",
-    title: "Buyers still have options",
-    caption: "A practical note on programs, timing, and the parts of the process worth planning first.",
-    accent: "linkedin",
-    initials: "in",
-    time: "1h",
+    caption: "A quick reminder for homeowners who want thicker grass without overthinking it.",
+    image: "/images/home/hero-facebook-post.png",
+    imageAlt: "Facebook-style post image for landscaping",
+    accent: "facebook",
     offset: "0px",
   },
   {
-    type: "social",
+    platform: "LinkedIn",
+    handle: "Desert Key Realty",
+    time: "1h",
+    caption: "A practical note on programs, timing, and the parts of the process worth planning first.",
+    image: "/images/home/hero-linkedin-post.png",
+    imageAlt: "LinkedIn-style post image for real estate",
+    accent: "linkedin",
+    offset: "16px",
+  },
+  {
     platform: "Google Business",
     handle: "Arc & Align Wellness",
-    image: "/images/home/hero-google-post.png",
-    imageAlt: "Wellness clinic room post image prepared for Google Business Profile",
-    title: "New patient appointments are open",
-    caption: "A useful update for people checking maps before they decide where to book.",
-    accent: "google",
-    initials: "g",
     time: "Today",
-    offset: "8px",
+    caption: "A useful update for people checking maps before they decide where to book.",
+    image: "/images/home/hero-google-post.png",
+    imageAlt: "Google Business Profile-style post image for a wellness business",
+    accent: "google",
+    offset: "6px",
   },
 ];
 
-const heroRailLoop = [...heroRailCards, ...heroRailCards];
+const heroRailLoop = [...heroPostCards, ...heroPostCards];
 
-function HeroProcessVisual({ card }) {
-  if (card.type === "checkout") {
-    return (
-      <div className="hero-process-window hero-process-window--checkout">
-        <div className="hero-process-field">
-          <span>Website URL</span>
-          <strong>yourwebsite.com</strong>
-        </div>
-        <div className="hero-process-field">
-          <span>Business context</span>
-          <strong>Services, voice, proof, local details</strong>
-        </div>
-        <div className="hero-process-submit">Generate preview</div>
-      </div>
-    );
-  }
-
-  if (card.type === "review") {
-    return (
-      <div className="hero-process-window hero-process-window--review">
-        <div className="hero-review-head">
-          <span>Action required</span>
-          <strong>Ready to review</strong>
-        </div>
-        <div className="hero-draft-list">
-          {card.drafts.map((draft) => (
-            <div className="hero-draft-card" key={draft}>
-              <span>Draft</span>
-              <strong>{draft}</strong>
-              <div aria-hidden="true">
-                <i></i>
-                <i></i>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-    );
-  }
-
+function WorkflowScreenshot({ src, alt, className = "" }) {
   return (
-    <div className="hero-process-window hero-process-window--work">
-      <div className="hero-work-copy">
-        <span>Work started</span>
-        <strong>Your first posts are getting drafted now.</strong>
-      </div>
-      <div className="hero-progress-list">
-        {card.items.map(([item, status]) => (
-          <div className="hero-progress-row" key={item}>
-            <span className={`hero-progress-dot hero-progress-dot--${status}`}></span>
-            <strong>{item}</strong>
-          </div>
-        ))}
-      </div>
+    <div className={`workflow-shot ${className}`}>
+      <img src={src} alt={alt} loading="lazy" decoding="async" />
     </div>
   );
 }
 
 function HeroPlatformRail() {
   return (
-    <div className="hero-platform-rail" aria-label="Examples of finished posts prepared for social channels">
+    <div className="hero-platform-rail" aria-label="Examples of finished social posts">
       <div className="hero-platform-track" aria-hidden="true">
         {heroRailLoop.map((slide, index) => (
           <article
-            className={`hero-platform-card hero-platform-card--${slide.accent} hero-platform-card--${slide.type}`}
+            className={`hero-post-card hero-post-card--${slide.accent}`}
             style={{
-              "--post-image": slide.image ? `url(${slide.image})` : undefined,
               "--card-offset": slide.offset,
             }}
-            key={`${slide.type}-${slide.handle}-${index}`}
+            key={`${slide.platform}-${slide.handle}-${index}`}
           >
-            <div className="hero-platform-top">
-              <span className="hero-platform-avatar">{slide.initials}</span>
+            <div className="hero-post-top">
+              <span className="hero-post-avatar">{slide.platform.slice(0, 2)}</span>
               <div>
                 <strong>{slide.handle}</strong>
                 <span>{slide.time}</span>
               </div>
-              <em aria-label={slide.platform || slide.label}></em>
+              <em>{slide.platform}</em>
             </div>
-            <p className="hero-platform-lead">{slide.caption}</p>
-            {slide.type === "social" ? (
-              <div className="hero-platform-image" role="img" aria-label={slide.imageAlt}></div>
-            ) : (
-              <HeroProcessVisual card={slide} />
-            )}
-            <div className="hero-platform-copy">
-              <strong>{slide.title}</strong>
-              <span>{slide.platform || slide.label}</span>
+            <p className="hero-post-caption">{slide.caption}</p>
+            <div className="hero-post-media">
+              <img
+                src={slide.image}
+                alt={slide.imageAlt}
+                width={382}
+                height={510}
+                loading={index < heroPostCards.length ? "eager" : "lazy"}
+                decoding="async"
+              />
             </div>
-            <div className="hero-platform-actions" aria-hidden="true">
-              <span>{slide.type === "social" ? "Like" : "Start"}</span>
-              <span>{slide.type === "social" ? "Comment" : "Review"}</span>
-              <span>{slide.type === "social" ? "Share" : "Approve"}</span>
+            <div className="hero-post-actions">
+              <span>Like</span>
+              <span>Comment</span>
+              <span>Share</span>
             </div>
           </article>
         ))}
@@ -221,122 +116,48 @@ function WorkflowScenes() {
     <div className="workflow-scenes">
       <article className="workflow-scene">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">1. Add your website</span>
-          <h3>Start with the business you already built.</h3>
-          <p>Your services, offers, location details, and proof become the source material for posts that sound like you.</p>
+          <span className="workflow-step">1. Posts are prepared</span>
+          <h3>Your first batch shows up ready to review.</h3>
+          <p>Drop in your URL and Glow Social prepares a batch of finished posts. When they are ready, the dashboard tells you exactly what needs attention.</p>
         </div>
-        <div className="scene-panel scene-panel--source" aria-label="Website to finished posts preview">
-          <div className="source-column">
-            <span>Source material</span>
-            <div className="source-card">
-              <strong>Services</strong>
-              <p>Catering, espresso, brunch</p>
-            </div>
-            <div className="source-card">
-              <strong>Local details</strong>
-              <p>Phoenix cafe, open every morning</p>
-            </div>
-            <div className="source-card">
-              <strong>Proof</strong>
-              <p>Neighborhood favorite since 2019</p>
-            </div>
-          </div>
-          <div className="source-output">
-            <span>Becomes</span>
-            <strong>20 finished posts/month</strong>
-            <p>Useful reminders, service explainers, local updates, and social proof ready for review.</p>
-          </div>
+        <div className="scene-panel scene-panel--screenshot" aria-label="Dashboard showing posts ready to review">
+          <WorkflowScreenshot
+            src="/images/home/dashboard-%20items%20needed.png"
+            alt="Glow Social dashboard showing 20 posts ready to review"
+          />
         </div>
       </article>
 
       <article className="workflow-scene workflow-scene--flip">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">2. We make the posts</span>
-          <h3>Finished work replaces the blank calendar.</h3>
-          <p>Captions, visuals, and channel formats are prepared together, so review starts with real posts instead of another content chore.</p>
+          <span className="workflow-step">2. You review what matters</span>
+          <h3>Edit, approve, or remove a post.</h3>
+          <p>Open any post to check the image and caption. Keep what fits, adjust anything that needs your voice, and remove what should not go live.</p>
         </div>
-        <div className="scene-panel scene-panel--outcomes" aria-label="Finished monthly posting output preview">
-          <div className="outcome-summary">
-            <span>Monthly output</span>
-            <strong>Ready to review</strong>
-          </div>
-          <div className="outcome-stats" aria-label="Posting output">
-            <div>
-              <strong>20</strong>
-              <span>finished posts</span>
-            </div>
-            <div>
-              <strong>5</strong>
-              <span>channels covered</span>
-            </div>
-            <div>
-              <strong>0</strong>
-              <span>blank calendars</span>
-            </div>
-          </div>
-          <div className="outcome-feed">
-            <div className="outcome-feed-card outcome-feed-card--instagram">
-              <span>Instagram</span>
-              <strong>Fresh pastry case before the morning rush</strong>
-              <p>New post ready for customers checking you today.</p>
-            </div>
-            <div className="outcome-feed-card outcome-feed-card--google">
-              <span>Google Business</span>
-              <strong>Weekend brunch hours and directions</strong>
-              <p>A timely update where local searchers are already looking.</p>
-            </div>
-          </div>
+        <div className="scene-panel scene-panel--screenshot" aria-label="Edit post modal">
+          <WorkflowScreenshot
+            src="/images/home/review%20edit%20modal.png"
+            alt="Glow Social edit post modal with image and caption fields"
+          />
         </div>
       </article>
 
       <article className="workflow-scene">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">3. You approve or skip</span>
-          <h3>Final say stays simple.</h3>
-          <p>Check the posts that are ready, approve what fits, and skip anything that should not go live.</p>
+          <span className="workflow-step">3. We keep it moving</span>
+          <h3>Approved posts follow your schedule.</h3>
+          <p>Set posting days, time slots, and platform limits once. After that, Glow Social keeps the queue moving and only interrupts you when something needs review.</p>
         </div>
-        <div className="scene-panel scene-panel--approval" aria-label="Simple approval preview">
-          <div className="approval-card">
-            <span className="approval-platform">Instagram</span>
-            <div className="approval-image"></div>
-            <p>Fresh bread, warm coffee, and a front door that is open when you need a softer start.</p>
-          </div>
-          <div className="approval-actions">
-            <button type="button">Skip</button>
-            <button type="button">Approve</button>
-          </div>
-          <span className="approval-count">8 posts waiting</span>
-        </div>
-      </article>
-
-      <article className="workflow-scene workflow-scene--flip">
-        <div className="workflow-scene-copy">
-          <span className="workflow-step">4. We keep you current</span>
-          <h3>Social and local search stay alive.</h3>
-          <p>Instagram, Facebook, LinkedIn, Threads, and Google Business Profile keep getting the useful updates customers check for.</p>
-        </div>
-        <div className="scene-panel scene-panel--cadence" aria-label="Posting cadence outcome preview">
-          <div className="cadence-header">
-            <span>Where it goes</span>
-            <strong>Social + Google</strong>
-          </div>
-          <div className="cadence-list">
-            <div className="cadence-row cadence-row--live">
-              <span>Live this week</span>
-              <strong>Fresh pastry case before the morning rush</strong>
-              <p>Instagram and Facebook stay current for regulars.</p>
-            </div>
-            <div className="cadence-row">
-              <span>Ready next</span>
-              <strong>Weekend brunch hours and directions</strong>
-              <p>Google Business has a useful update for local searchers.</p>
-            </div>
-            <div className="cadence-row">
-              <span>Still covered</span>
-              <strong>Catering reminder for office orders</strong>
-              <p>LinkedIn gets the business-facing post it needs.</p>
-            </div>
-          </div>
+        <div className="scene-panel scene-panel--screenshot scene-panel--stacked" aria-label="Schedule and covered dashboard states">
+          <WorkflowScreenshot
+            src="/images/home/schedule.png"
+            alt="Glow Social schedule settings with posting days, time slots, timezone, and platform limits"
+          />
+          <WorkflowScreenshot
+            src="/images/home/dashboard%20-%20all%20caught%20up.png"
+            alt="Glow Social dashboard all caught up state with next scheduled post"
+            className="workflow-shot--secondary"
+          />
         </div>
       </article>
     </div>
@@ -411,20 +232,21 @@ export default function HomePageContent() {
     <>
       <HomeJsonLd />
 
-      {/* ============ HERO — Local product promise ============ */}
+      {/* ============ HERO — Product promise ============ */}
       <section className="hero">
         <div className="container hero-stage">
           <div className="hero-copy">
             <span className="hero-badge">
               <span className="badge-dot"></span>
-              Done-for-you local social media
+              Done-for-you social media
             </span>
             <h1>
               <span>Social media</span>
-              <span>handled for you.</span>
+              <span className="hero-for-line">for <strong>your business</strong></span>
+              <span>handled.</span>
             </h1>
             <p className="hero-sub">
-              Drop in your URL. <BrandName /> prepares your first drafts, you approve what fits, and we keep Instagram, Facebook, LinkedIn, Threads, and Google Business Profile current.
+              Drop in your URL. <BrandName /> prepares your first drafts, you approve what fits, and we keep Instagram, Facebook, LinkedIn, Threads, and Google Business Profile current on autopilot.
             </p>
             <form
               className="hero-url-form"
@@ -647,7 +469,7 @@ export default function HomePageContent() {
             <details className="faq-item"><summary><span className="faq-question">Can I cancel anytime?</span></summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Setup takes a few minutes. After that, <BrandName /> prepares and publishes the posts. You can check in before things go live, but you are not keeping a posting system alive or starting from scratch.</p></details>
             <details className="faq-item"><summary><span className="faq-question">What if something does not sound right?</span></summary><p>You stay in control. Skip anything that does not fit before it goes live. <BrandName /> learns from your website and business details, but you always have the final say on what gets published.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the place local customers search does not go quiet.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the profile customers check does not go quiet.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know their online presence matters but do not want to become content creators, hire an agency, or keep remembering to post.</p></details>
           </div>
         </div>

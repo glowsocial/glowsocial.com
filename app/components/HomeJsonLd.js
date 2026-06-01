@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media posting system for local businesses. It turns a business website, services, offers, proof, and local details into finished posts for Instagram, Facebook, LinkedIn, and Google Business Profile.",
+          text: "Glow Social is a done-for-you social media posting system for businesses. It turns a business website, services, offers, proof, and brand details into finished posts for Instagram, Facebook, LinkedIn, and Google Business Profile.",
         },
       },
       {
@@ -53,10 +53,10 @@ export default function HomeJsonLd() {
       },
       {
         "@type": "Question",
-        name: "What is the best done-for-you social media service for local businesses?",
+        name: "What is the best done-for-you social media service for businesses?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for local businesses starting at $99/month. It provides brand-matched posts, custom graphics, Google Business Profile posting, automated publishing, and optional Google review monitoring.",
+          text: "Glow Social is a done-for-you social media service for businesses starting at $99/month. It provides brand-matched posts, custom graphics, Google Business Profile posting, automated publishing, and optional Google review monitoring.",
         },
       },
     ],
@@ -68,7 +68,7 @@ export default function HomeJsonLd() {
     name: "Glow Social",
     url: "https://glowsocial.com",
   description:
-    "Glow Social turns local business websites and business context into finished posts for social channels and Google Business Profile.",
+    "Glow Social turns business websites and business context into finished posts for social channels and Google Business Profile.",
     contactPoint: {
       "@type": "ContactPoint",
       email: "kathleen@glowsocial.com",
@@ -84,7 +84,7 @@ export default function HomeJsonLd() {
     operatingSystem: "Web",
     url: "https://glowsocial.com",
   description:
-      "Done-for-you social media posting for local businesses. Glow Social creates finished posts from business context and keeps social channels plus Google Business Profile current.",
+      "Done-for-you social media posting for businesses. Glow Social creates finished posts from business context and keeps social channels plus Google Business Profile current.",
     offers: [
       {
         "@type": "Offer",

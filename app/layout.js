@@ -25,7 +25,7 @@ export const metadata = {
     },
   },
   title: {
-    default: "Glow Social | Done-for-you social media for local businesses",
+    default: "Glow Social | Done-for-you social media for your business",
     template: "%s | Glow Social",
   },
   description:
@@ -35,7 +35,7 @@ export const metadata = {
     locale: "en_US",
     url: "https://glowsocial.com",
     siteName: "Glow Social",
-    title: "Glow Social | Done-for-you social media for local businesses",
+    title: "Glow Social | Done-for-you social media for your business",
     description:
       "Glow Social turns your website, services, offers, and proof into finished posts for social channels plus Google Business Profile.",
     images: [
@@ -49,7 +49,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Glow Social | Done-for-you social media for local businesses",
+    title: "Glow Social | Done-for-you social media for your business",
     description:
       "Glow Social turns your website and business context into finished posts for social channels plus Google Business Profile.",
     images: ["https://glowsocial.com/images/og-image.png"],
@@ -71,7 +71,7 @@ const organizationSchema = {
   url: "https://glowsocial.com",
   logo: "https://glowsocial.com/icon.png",
   description:
-    "Glow Social keeps local businesses active online by creating, designing, scheduling, and publishing social posts where customers check.",
+    "Glow Social keeps businesses active online by creating, designing, scheduling, and publishing social posts where customers check.",
   applicationCategory: "SocialMediaApplication",
   operatingSystem: "Web",
   offers: {
