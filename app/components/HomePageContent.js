@@ -252,29 +252,32 @@ export default function HomePageContent() {
               Done-for-you local social media
             </span>
             <h1>
-              <span>Social posts</span>
-              <span className="hero-line-with-audience">
-                <span>for&nbsp;</span>
-                <span className="hero-audience" aria-hidden="true">
-                  <span className="hero-audience-track">
-                    <span>cafes.</span>
-                    <span>e-commerce.</span>
-                    <span className="hero-audience-compact">insurance agents.</span>
-                    <span>med spas.</span>
-                    <span className="hero-audience-compact">wellness clinics.</span>
-                    <span>life coaches.</span>
-                    <span className="hero-audience-compact">business coaches.</span>
-                    <span>Realtors.</span>
-                    <span>salons.</span>
-                    <span>contractors.</span>
-                    <span>clinics.</span>
-                    <span>local shops.</span>
-                    <span>cafes.</span>
-                  </span>
+              <span>Social media</span>
+              <span>handled for you.</span>
+            </h1>
+            <div className="hero-audience-row" aria-hidden="true">
+              <span>Built for</span>
+              <span className="hero-audience">
+                <span className="hero-audience-track">
+                  <span>cafes.</span>
+                  <span>e-commerce.</span>
+                  <span>insurance agents.</span>
+                  <span>med spas.</span>
+                  <span>wellness clinics.</span>
+                  <span>life coaches.</span>
+                  <span>business coaches.</span>
+                  <span>Realtors.</span>
+                  <span>salons.</span>
+                  <span>contractors.</span>
+                  <span>clinics.</span>
+                  <span>local shops.</span>
+                  <span>cafes.</span>
                 </span>
               </span>
-              <span className="visually-hidden">for local businesses.</span>
-            </h1>
+            </div>
+            <span className="visually-hidden">
+              Built for local businesses including cafes, e-commerce, insurance agents, med spas, wellness clinics, life coaches, business coaches, Realtors, salons, contractors, clinics, and local shops.
+            </span>
             <p className="hero-sub">
               Drop in your URL. <BrandName /> turns your website into finished posts for Instagram, Facebook, LinkedIn, Threads, and Google Business Profile.
             </p>
