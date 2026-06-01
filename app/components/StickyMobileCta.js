@@ -27,7 +27,7 @@ export default function StickyMobileCta() {
 
   return (
     <div className="sticky-mobile-cta" id="stickyCta" ref={ctaRef}>
-      <a href="https://app.glowsocial.com/preview">GENERATE PREVIEW</a>
+      <a href="https://app.glowsocial.com/preview">GET A PREVIEW</a>
     </div>
   );
 }
