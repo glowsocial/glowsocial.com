@@ -10,58 +10,48 @@ function BrandName() {
 const preparedPostCards = [
   {
     title: "Morning routine cafe",
-    channels: ["Instagram", "Facebook"],
-    caption: "Fresh bread, warm coffee, and a softer start before the day gets loud.",
+    caption: "The best cafes are not just selling coffee. They give people a reliable third place before the day starts.",
     image: "/images/home/hero-instagram-post.png",
     imageAlt: "Generated post image for a cafe",
     accent: "instagram",
-    label: "Post 01",
     offset: "6px",
   },
   {
     title: "Greenview landscaping",
-    channels: ["Facebook", "Google"],
-    caption: "A quick reminder for homeowners who want thicker grass without overthinking it.",
+    caption: "If your lawn only gets attention when it looks bad, you are already working from behind. The greenest yards are planned earlier.",
     image: "/images/home/hero-facebook-post.png",
     imageAlt: "Generated post image for a landscaping business",
     accent: "facebook",
-    label: "Post 02",
     offset: "0px",
   },
   {
     title: "Desert key realty",
-    channels: ["LinkedIn", "Facebook"],
-    caption: "A practical note on programs, timing, and the parts of the process worth planning first.",
+    caption: "Most buyers focus on the listing price. The smarter move is understanding timing, programs, and what needs to be ready first.",
     image: "/images/home/hero-linkedin-post.png",
     imageAlt: "Generated post image for a real estate business",
     accent: "linkedin",
-    label: "Post 03",
     offset: "8px",
   },
   {
     title: "Arc and align wellness",
-    channels: ["Google Business", "Instagram"],
-    caption: "A useful update for people checking maps before they decide where to book.",
+    caption: "Before someone books, they want proof you understand their problem. Your posts can answer that before they call.",
     image: "/images/home/hero-google-post.png",
     imageAlt: "Generated post image for a wellness business",
     accent: "google",
-    label: "Post 04",
     offset: "3px",
   },
 ];
 
-const heroRailLoop = [...preparedPostCards, ...preparedPostCards];
-
 const outcomeCards = [
   {
     label: "Website scan",
-    title: "We figure out what you should talk about.",
-    body: "Glow Social scans your website to understand your services, expertise, offers, proof, and point of view.",
+    title: "We find posts worth making.",
+    body: "Glow Social scans your website, then applies our own marketing process shaped by 20+ years of experience.",
   },
   {
-    label: "Thought leadership",
-    title: "You get 20 posts built from that strategy.",
-    body: "We turn the topics your audience should hear from you about into finished posts with captions and visuals.",
+    label: "Better topics",
+    title: "You get 20 posts with a reason to exist.",
+    body: "The posts focus on what customers care about, why they should trust you, and what makes you different.",
   },
   {
     label: "Approval",
@@ -71,7 +61,7 @@ const outcomeCards = [
   {
     label: "Publishing",
     title: "Connect your accounts and the schedule runs.",
-    body: "Once your socials are connected, approved posts go out automatically on the posting rhythm you choose.",
+    body: "Once your socials are connected, approved posts go out automatically on the days and times you choose.",
   },
 ];
 
@@ -87,11 +77,11 @@ const channelChips = [
 ];
 
 const beforeAfterRows = [
-  ["Wondering what you should talk about", "A topic strategy pulled from your own website"],
-  ["Starting from a blank content calendar", "20 thought-leadership posts ready to review"],
-  ["Trying to remember every platform", "One approval queue for social and Google"],
+  ["Filling the calendar with generic holiday and staff posts", "Posts about what customers care about and why they should trust you"],
+  ["Starting from a blank content calendar", "20 posts ready to review"],
+  ["Trying to remember where to post", "One place to review social and Google posts"],
   ["Posting only when business slows down", "Approved posts going out on schedule"],
-  ["Paying agency prices before you need an agency", "Done-for-you coverage starting at $99/month"],
+  ["Paying agency prices before you need an agency", "Done-for-you posting starting at $99/month"],
 ];
 
 const testimonialQuotes = [
@@ -111,50 +101,47 @@ function WorkflowScreenshot({ src, alt, className = "" }) {
   );
 }
 
-function HeroPreparedBatch() {
+function HeroBlackBoxPreview() {
   return (
-    <div className="hero-batch-preview" aria-label="Preview batch of prepared Glow Social posts">
-      <div className="hero-batch-header">
-        <div>
-          <span>Thought leadership batch</span>
-          <strong>20 posts ready to review</strong>
+    <div className="hero-blackbox-preview" aria-label="Glow Social turns a website into finished posts">
+      <div className="blackbox-stage">
+        <div className="blackbox-core" aria-hidden="true">
+          <div className="blackbox-input-chip">yourbusiness.com</div>
+          <div className="blackbox-mark">glow</div>
+          <div className="blackbox-lines">
+            <span />
+            <span />
+            <span />
+          </div>
         </div>
-        <em>Built from your website</em>
-      </div>
-      <div className="hero-batch-track" aria-hidden="true">
-        {heroRailLoop.map((slide, index) => (
-          <article
-            className={`hero-draft-card hero-draft-card--${slide.accent}`}
-            style={{
-              "--card-offset": slide.offset,
-            }}
-            key={`${slide.title}-${index}`}
-          >
-            <div className="hero-draft-media">
-              <img
-                src={slide.image}
-                alt={slide.imageAlt}
-                width={382}
-                height={510}
-                loading={index < preparedPostCards.length ? "eager" : "lazy"}
-                decoding="async"
-              />
-            </div>
-            <div className="hero-draft-body">
-              <div className="hero-draft-meta">
-                <span>{slide.label}</span>
-                <em>Ready to review</em>
+        <div className="blackbox-output-rail" aria-hidden="true">
+          {preparedPostCards.map((slide, index) => (
+            <article
+              className={`hero-video-card hero-video-card--${slide.accent}`}
+              style={{
+                "--card-offset": slide.offset,
+              }}
+              key={slide.title}
+            >
+              <div className="hero-video-media">
+                <img
+                  src={slide.image}
+                  alt=""
+                  width={382}
+                  height={510}
+                  loading={index < preparedPostCards.length ? "eager" : "lazy"}
+                  decoding="async"
+                />
+                <span className="hero-video-play" />
+                <span className="hero-video-progress" />
               </div>
-              <h3>{slide.title}</h3>
-              <p>{slide.caption}</p>
-              <div className="hero-draft-channels">
-                {slide.channels.map((channel) => (
-                  <span key={channel}>{channel}</span>
-                ))}
+              <div className="hero-video-body">
+                <h3>{slide.title}</h3>
+                <p>{slide.caption}</p>
               </div>
-            </div>
-          </article>
-        ))}
+            </article>
+          ))}
+        </div>
       </div>
     </div>
   );
@@ -162,8 +149,8 @@ function HeroPreparedBatch() {
 
 function HeroSocialShowcase() {
   return (
-    <div className="hero-showcase" aria-label="Glow Social prepared post batch">
-      <HeroPreparedBatch />
+    <div className="hero-showcase" aria-label="Glow Social website-to-posts preview">
+      <HeroBlackBoxPreview />
     </div>
   );
 }
@@ -174,9 +161,9 @@ function OutcomeSection() {
       <div className="container">
         <div className="outcome-heading">
           <span className="section-kicker">What changes</span>
-          <h2 id="outcome-heading">Your online presence stops depending on spare time.</h2>
+          <h2 id="outcome-heading">Your social media stops depending on spare time.</h2>
           <p className="section-sub">
-            Glow Social gives you a simple operating rhythm: drafts prepared from your business,
+            Glow Social gives you a simple process: posts prepared from your business,
             quick review, and steady publishing where customers check.
           </p>
         </div>
@@ -209,21 +196,19 @@ function ChannelCoverage() {
   );
 }
 
-function PreparedBatchMockup() {
+function StrategyScreensPreview() {
   return (
-    <div className="prepared-batch-mockup" aria-label="Twenty posts prepared for review">
-      <div className="prepared-batch-top">
-        <span>Batch created</span>
-        <strong>20 posts ready to review</strong>
-      </div>
-      <div className="prepared-batch-grid" aria-hidden="true">
-        {preparedPostCards.map((post) => (
-          <div className={`prepared-batch-card prepared-batch-card--${post.accent}`} key={post.label}>
-            <img src={post.image} alt="" loading="lazy" decoding="async" />
-            <span>{post.label}</span>
-          </div>
-        ))}
-      </div>
+    <div className="strategy-screens">
+      <WorkflowScreenshot
+        src="/images/home/what%20your%20posts%20are%20based%20on.png"
+        alt="Glow Social strategy fields for customer problems, best outcome, and differentiators"
+        className="workflow-shot--strategy-base"
+      />
+      <WorkflowScreenshot
+        src="/images/home/content%20topics.png"
+        alt="Glow Social content topics generated for a business"
+        className="workflow-shot--strategy-topics"
+      />
     </div>
   );
 }
@@ -234,19 +219,19 @@ function WorkflowScenes() {
       <article className="workflow-scene">
         <div className="workflow-scene-copy">
           <span className="workflow-step">1. Give us your website</span>
-          <h3>We figure out what you should talk about.</h3>
-          <p>Enter your URL and Glow Social scans your website to understand your business, your expertise, and the topics that can build your thought leadership.</p>
+          <h3>We find what you should talk about.</h3>
+          <p>Glow Social scans your website, then runs it through our own marketing process shaped by 20+ years of experience to find what customers care about, why they should trust you, and what makes you different.</p>
         </div>
-        <div className="scene-panel scene-panel--prepared" aria-label="Twenty prepared posts">
-          <PreparedBatchMockup />
+        <div className="scene-panel scene-panel--strategy" aria-label="Website strategy and content topics">
+          <StrategyScreensPreview />
         </div>
       </article>
 
       <article className="workflow-scene workflow-scene--flip">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">2. We create the posts</span>
-          <h3>You get 20 posts ready to approve.</h3>
-          <p>Open each post to check the image and caption. Swap the image, edit the caption, approve it, or remove anything that does not fit.</p>
+          <span className="workflow-step">2. Review your posts</span>
+          <h3>Approve them all or change what needs it.</h3>
+          <p>Approve everything at once, or open a post to edit its caption, swap its image, approve it, or remove it before it joins the schedule.</p>
         </div>
         <div className="scene-panel scene-panel--screenshot" aria-label="Edit post modal">
           <WorkflowScreenshot
@@ -314,24 +299,24 @@ function CustomerProof() {
     <section className="customer-proof" id="testimonials" aria-labelledby="proof-heading">
       <div className="container customer-proof-inner">
         <div className="proof-copy">
-          <span className="section-kicker">Customer proof</span>
-          <h2 id="proof-heading">Built for owners who are too busy to become content creators.</h2>
+          <span className="section-kicker">Customer quote</span>
+          <h2 id="proof-heading">Built for owners who are too busy to plan posts.</h2>
           <p>
-            Glow Social is intentionally quiet software: it prepares the work, shows you what
-            needs review, and keeps moving once you approve it.
+            Glow Social prepares the work, shows you what needs review,
+            and keeps moving once you approve it.
           </p>
         </div>
         <blockquote className="proof-quote">
           <span aria-hidden="true">&ldquo;</span>
           <p>
-            I forgot I even had social media. That is the point. My profiles stay current,
-            but I am not stuck planning content every week.
+            My profiles finally look alive without me having to become a content person.
+            I just review what is ready and get back to running the business.
           </p>
           <footer>
             <div className="proof-avatar" aria-hidden="true" />
             <div>
               <strong>Small business owner</strong>
-              <small>Wants to keep Glow Social a trade secret</small>
+              <small>Wants to keep Glow Social their little secret</small>
             </div>
           </footer>
         </blockquote>
@@ -362,8 +347,8 @@ function ValueComparison({ pricing }) {
   return (
     <section className="value-compare" id="compare-options">
       <div className="container">
-        <h2>Use Glow Social when the bottleneck is knowing what to say.</h2>
-        <p className="section-sub">The real alternative is not another scheduler. It is your time, an agency retainer, or hiring someone to figure out the strategy and make the posts.</p>
+        <h2>For business owners who have better things to do than plan posts.</h2>
+        <p className="section-sub">You do not need more filler for the calendar. You need posts based on what you know, what customers ask, and why they should trust you.</p>
         <div className="value-table-wrap">
           <table className="value-table">
             <thead>
@@ -380,8 +365,8 @@ function ValueComparison({ pricing }) {
                 <th>Monthly cost</th>
                 <td><strong>Starts at {pricing.startingAtShort}</strong></td>
                 <td>Hidden hours every week</td>
-                <td>$1k-$5k+ retainers</td>
-                <td>$4k+/mo before overhead</td>
+                <td>$1k-$5k+ monthly fees</td>
+                <td>$4k+/mo before extra costs</td>
               </tr>
               <tr>
                 <th>Time to first draft</th>
@@ -391,8 +376,8 @@ function ValueComparison({ pricing }) {
                 <td>After recruiting</td>
               </tr>
               <tr>
-                <th>Who makes the posts</th>
-                <td><strong>Created from your website strategy</strong></td>
+                <th>What the posts are based on</th>
+                <td><strong>Your site + 20+ years of marketing judgment</strong></td>
                 <td>You</td>
                 <td>Account team</td>
                 <td>Employee</td>
@@ -408,7 +393,7 @@ function ValueComparison({ pricing }) {
                 <th>Commitment</th>
                 <td><strong>No contracts</strong></td>
                 <td>Your evenings</td>
-                <td>Retainer terms</td>
+                <td>Agency contract</td>
                 <td>Payroll</td>
               </tr>
             </tbody>
@@ -440,7 +425,7 @@ export default function HomePageContent() {
               <span>handled.</span>
             </h1>
             <p className="hero-sub">
-              Drop in your URL. <BrandName /> figures out what you should talk about, creates 20 thought-leadership posts, and schedules them after you approve.
+              Enter your website. We&apos;ll prepare 20 posts for you.
             </p>
             <form
               className="hero-url-form"
@@ -521,16 +506,16 @@ export default function HomePageContent() {
       {/* ============ PRICING ============ */}
       <section className="pricing" id="pricing">
         <div className="container">
-          <h2>Pick the monthly coverage you need.</h2>
+          <h2>Pick how much posting you want handled.</h2>
           <p className="section-sub">Start with steady monthly posts. Add review monitoring, carousels, video posts, and campaign support when they are useful. {pricing.billingPolicy}</p>
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
               <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
-                <li><strong>20 thought-leadership posts/month</strong> for your core presence</li>
-                <li><strong>Topic strategy</strong> from your website</li>
-                <li><strong>Google Business</strong> visibility included</li>
+                <li><strong>20 posts/month</strong> based on what your customers care about</li>
+                <li><strong>Post topics</strong> pulled from your website</li>
+                <li><strong>Google Business</strong> posts included</li>
                 <li><strong>Simple control</strong> before posts go live</li>
               </ul>
               <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">START WITH CORE</a>
@@ -542,8 +527,8 @@ export default function HomePageContent() {
               <ul>
                 <li>Everything in Core, plus:</li>
                 <li><strong>Carousel posts</strong> for richer stories</li>
-                <li><strong>Video posts</strong> for higher-visibility moments</li>
-                <li><strong>Campaign support</strong> for promos and events</li>
+                <li><strong>Video posts</strong> when a topic needs more than text</li>
+                <li><strong>Posts for promos and events</strong></li>
                 <li><strong>Google review monitoring</strong></li>
               </ul>
               <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">START WITH PRO</a>
@@ -553,9 +538,9 @@ export default function HomePageContent() {
               <div className="price"><span className="price-amount">{pricing.unlimited.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
-                <li><strong>Always-on coverage</strong> for bigger seasons</li>
-                <li><strong>No content ceiling</strong> when you have more to share</li>
-                <li><strong>Full brand coverage</strong> across campaigns</li>
+                <li><strong>More posts</strong> for bigger seasons</li>
+                <li><strong>More posts</strong> when you have more to share</li>
+                <li><strong>Campaign posts</strong> across your offers and events</li>
               </ul>
               <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">START WITH UNLIMITED</a>
             </div>
@@ -569,7 +554,7 @@ export default function HomePageContent() {
       {/* ============ FINAL CTA — Emotional close ============ */}
       <section className="final-cta">
         <div className="container">
-          <h2>Build thought leadership<br />without adding social media to your week.</h2>
+          <h2>Show what you know<br />without adding social media to your week.</h2>
           <p><BrandName /> figures out what to say, creates the posts, and keeps your business visible where customers already check.<br />{pricing.summaryFull} {pricing.billingPolicy}</p>
           <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">GET MY SOCIAL MEDIA HANDLED</a>
         </div>
@@ -584,9 +569,10 @@ export default function HomePageContent() {
             <details className="faq-item"><summary><span className="faq-question">How much does <BrandName /> cost?</span></summary><p>{pricing.summaryFull} {pricing.billingPolicy} You keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I cancel anytime?</span></summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Give us your website, review the posts, approve what fits, and connect your social accounts. After that, approved posts go out on schedule.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">How does <BrandName /> know what to post?</span></summary><p>We use your website plus our own marketing process shaped by 20+ years of experience to identify what customers care about, why they should trust you, and what makes you different.</p></details>
             <details className="faq-item"><summary><span className="faq-question">What if something does not sound right?</span></summary><p>You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the profile customers check does not go quiet.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know their online presence matters but do not want to become content creators, hire an agency, or keep remembering to post.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know social media matters but do not want to make content, hire an agency, or keep remembering to post.</p></details>
           </div>
         </div>
       </section>
