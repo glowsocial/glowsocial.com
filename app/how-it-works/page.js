@@ -48,7 +48,7 @@ const steps = [
     number: "05",
     eyebrow: "Review drafts",
     title: "Nothing publishes until you approve it.",
-    body: "When the drafts are ready, open the app, review each post, edit anything you want, and connect the profiles you want kept active.",
+    body: "When the drafts are ready, open the app, approve what fits, skip anything that does not, and connect the profiles you want kept active.",
     preview: "review",
   },
 ];

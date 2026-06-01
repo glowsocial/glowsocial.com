@@ -791,6 +791,82 @@
   flex-shrink: 0;
 }
 
+/* ---- Difference ---- */
+.difference {
+  padding: 74px 0;
+  background: var(--paper);
+  border-bottom: 1px solid rgba(25, 39, 52, 0.08);
+}
+
+.difference-header {
+  max-width: 780px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.difference-header h2 {
+  color: var(--navy);
+  font-size: clamp(2rem, 4vw, 3.35rem);
+  line-height: 1.02;
+  margin-bottom: 18px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.difference-header p {
+  margin: 0 auto;
+  max-width: 690px;
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  line-height: 1.68;
+}
+
+.difference-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 38px;
+}
+
+.difference-card {
+  min-height: 230px;
+  padding: 22px 18px;
+  border: 1px solid rgba(25, 39, 52, 0.1);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.74);
+}
+
+.difference-card span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  margin-bottom: 18px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(215, 226, 120, 0.26);
+  color: var(--navy);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.difference-card h3 {
+  color: var(--navy);
+  font-size: 1.14rem;
+  line-height: 1.18;
+  margin-bottom: 11px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.difference-card p {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  line-height: 1.58;
+}
+
 /* ---- Workflow ---- */
 .workflow {
   padding: 76px 0;
@@ -965,6 +1041,102 @@
   font-family: var(--font-heading);
   font-size: 0.96rem;
   line-height: 1.3;
+}
+
+.scene-panel--source {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.92fr);
+  gap: 16px;
+  align-items: stretch;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(221, 236, 247, 0.5)),
+    var(--white);
+}
+
+.source-column,
+.source-output {
+  display: grid;
+  align-content: start;
+  gap: 12px;
+}
+
+.source-column > span,
+.source-output span {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.source-card,
+.source-output {
+  border: 1px solid rgba(25, 39, 52, 0.1);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.source-card {
+  padding: 14px 15px;
+}
+
+.source-card strong,
+.source-output strong {
+  display: block;
+  color: var(--navy);
+  font-family: var(--font-heading);
+  line-height: 1.2;
+}
+
+.source-card strong {
+  font-size: 0.98rem;
+}
+
+.source-card p,
+.source-output p {
+  margin: 7px 0 0;
+  color: var(--text-muted);
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.source-output {
+  position: relative;
+  justify-content: center;
+  padding: 24px;
+  background: var(--navy);
+  color: var(--white);
+  overflow: hidden;
+}
+
+.source-output::after {
+  content: "";
+  position: absolute;
+  right: -44px;
+  bottom: -44px;
+  width: 130px;
+  height: 130px;
+  border-radius: 999px;
+  background: rgba(215, 226, 120, 0.25);
+}
+
+.source-output span,
+.source-output p {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.source-output strong {
+  position: relative;
+  z-index: 1;
+  color: var(--white);
+  font-size: 1.95rem;
+  line-height: 1.05;
+}
+
+.source-output p {
+  position: relative;
+  z-index: 1;
+  font-size: 0.92rem;
 }
 
 .scene-panel--outcomes {
@@ -1765,6 +1937,7 @@
   }
   .features-grid { grid-template-columns: 1fr; }
   .brain-grid { grid-template-columns: 1fr; }
+  .difference-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .pricing-grid { grid-template-columns: 1fr; max-width: 400px; margin: 40px auto 0; }
   .workflow-grid { grid-template-columns: repeat(2, 1fr); }
   .workflow-scenes { gap: 34px; }
@@ -1860,6 +2033,9 @@
   .showcase-card-art--photo { height: 230px; }
   .showcase-card p { font-size: 0.82rem; }
   .trust-bar-inner { flex-direction: column; gap: 12px; text-align: center; }
+  .difference { padding: 56px 0; }
+  .difference-grid { grid-template-columns: 1fr; }
+  .difference-card { min-height: 0; }
   .workflow { padding: 56px 0; }
   .workflow-grid { grid-template-columns: 1fr; }
   .workflow-card { min-height: 0; }
@@ -1870,6 +2046,8 @@
     min-height: 0;
     padding: 16px;
   }
+  .scene-panel--source { grid-template-columns: 1fr; }
+  .source-output { min-height: 190px; }
   .outcome-summary { display: grid; gap: 4px; }
   .outcome-feed { grid-template-columns: 1fr; }
   .cadence-header { display: grid; gap: 4px; }

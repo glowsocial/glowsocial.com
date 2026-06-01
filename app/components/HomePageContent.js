@@ -108,27 +108,57 @@ function WorkflowScenes() {
     <div className="workflow-scenes">
       <article className="workflow-scene">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">1. Look active where people check</span>
-          <h3>Your profiles stop looking abandoned.</h3>
-          <p>Customers see current posts, useful reminders, and proof that your business is open and paying attention.</p>
+          <span className="workflow-step">1. Start with your real business</span>
+          <h3>Your website becomes the source material.</h3>
+          <p>Services, location details, offers, and proof become the raw material for useful posts instead of generic content ideas.</p>
         </div>
-        <div className="scene-panel scene-panel--outcomes" aria-label="Social media outcomes preview">
-          <div className="outcome-summary">
-            <span>What customers see</span>
-            <strong>Active this week</strong>
+        <div className="scene-panel scene-panel--source" aria-label="Website to finished posts preview">
+          <div className="source-column">
+            <span>Source material</span>
+            <div className="source-card">
+              <strong>Services</strong>
+              <p>Catering, espresso, brunch</p>
+            </div>
+            <div className="source-card">
+              <strong>Local details</strong>
+              <p>Phoenix cafe, open every morning</p>
+            </div>
+            <div className="source-card">
+              <strong>Proof</strong>
+              <p>Neighborhood favorite since 2019</p>
+            </div>
           </div>
-          <div className="outcome-stats" aria-label="Posting outcomes">
+          <div className="source-output">
+            <span>Becomes</span>
+            <strong>20 finished posts/month</strong>
+            <p>Useful reminders, service explainers, local updates, and social proof ready for review.</p>
+          </div>
+        </div>
+      </article>
+
+      <article className="workflow-scene workflow-scene--flip">
+        <div className="workflow-scene-copy">
+          <span className="workflow-step">2. Create the posts, not the calendar</span>
+          <h3>You are not handed a blank scheduler.</h3>
+          <p>Captions, visuals, and channel formats are prepared together, so review starts with finished work instead of another empty content tool.</p>
+        </div>
+        <div className="scene-panel scene-panel--outcomes" aria-label="Finished monthly posting output preview">
+          <div className="outcome-summary">
+            <span>Monthly output</span>
+            <strong>Ready to review</strong>
+          </div>
+          <div className="outcome-stats" aria-label="Posting output">
             <div>
               <strong>20</strong>
               <span>finished posts</span>
             </div>
             <div>
               <strong>4</strong>
-              <span>places covered</span>
+              <span>channels covered</span>
             </div>
             <div>
               <strong>0</strong>
-              <span>quiet profiles</span>
+              <span>blank calendars</span>
             </div>
           </div>
           <div className="outcome-feed">
@@ -146,45 +176,13 @@ function WorkflowScenes() {
         </div>
       </article>
 
-      <article className="workflow-scene workflow-scene--flip">
-        <div className="workflow-scene-copy">
-          <span className="workflow-step">2. Get a useful posting plan</span>
-          <h3>Not a blank calendar. Actual posts.</h3>
-          <p>Captions, visuals, and channel formats are prepared together, so review starts with finished work instead of a vague list of content ideas.</p>
-        </div>
-        <div className="scene-panel scene-panel--calendar" aria-label="Content plan preview">
-          <div className="scene-week-header">
-            <strong>This week</strong>
-            <span>Ready for review</span>
-          </div>
-          <div className="scene-post-row">
-            <span>Instagram</span>
-            <strong>Fresh pastry case before the morning rush</strong>
-          </div>
-          <div className="scene-post-row">
-            <span>Google Business</span>
-            <strong>Weekend brunch hours and directions</strong>
-          </div>
-          <div className="scene-post-row">
-            <span>Facebook</span>
-            <strong>Catering reminder for office orders</strong>
-          </div>
-          <div className="scene-channel-row" aria-label="Supported channels">
-            <span>Facebook</span>
-            <span>Instagram</span>
-            <span>LinkedIn</span>
-            <span>Google</span>
-          </div>
-        </div>
-      </article>
-
       <article className="workflow-scene">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">3. Approve what feels right</span>
-          <h3>You stay in control without doing the work.</h3>
-          <p>Skip or approve posts before they publish. The goal is less babysitting, not another dashboard to manage.</p>
+          <span className="workflow-step">3. Keep approval simple</span>
+          <h3>Final say without content production.</h3>
+          <p>Approve the posts that fit and skip anything that does not. The work stays light because the posts are already made.</p>
         </div>
-        <div className="scene-panel scene-panel--approval" aria-label="Approval queue preview">
+        <div className="scene-panel scene-panel--approval" aria-label="Simple approval preview">
           <div className="approval-card">
             <span className="approval-platform">Instagram</span>
             <div className="approval-image"></div>
@@ -200,14 +198,14 @@ function WorkflowScenes() {
 
       <article className="workflow-scene workflow-scene--flip">
         <div className="workflow-scene-copy">
-          <span className="workflow-step">4. Stay visible every week</span>
-          <h3>Your channels keep looking current.</h3>
-          <p>Once posts are approved, the important reminders, proof, and local updates keep moving to the places customers already check.</p>
+          <span className="workflow-step">4. Cover social and local search</span>
+          <h3>Google Business does not get forgotten.</h3>
+          <p>The same monthly system keeps social profiles and high-intent local search surfaces current.</p>
         </div>
         <div className="scene-panel scene-panel--cadence" aria-label="Posting cadence outcome preview">
           <div className="cadence-header">
-            <span>After approval</span>
-            <strong>Active all month</strong>
+            <span>Where it goes</span>
+            <strong>Social + Google</strong>
           </div>
           <div className="cadence-list">
             <div className="cadence-row cadence-row--live">
@@ -232,11 +230,60 @@ function WorkflowScenes() {
   );
 }
 
+function DifferenceSection() {
+  const differences = [
+    {
+      label: "Not a scheduler",
+      title: "Schedulers still need you to make the posts.",
+      body: "Glow Social starts before the calendar. The posts are created for you, then prepared for publishing.",
+    },
+    {
+      label: "Not an agency retainer",
+      title: "No meetings just to keep the basics moving.",
+      body: "It is built for steady local visibility, not a custom marketing department you have to manage.",
+    },
+    {
+      label: "Not generic posting",
+      title: "The content comes from your business.",
+      body: "Your services, offers, location details, and proof give the posts something real to say.",
+    },
+    {
+      label: "Not social-only",
+      title: "Google Business is part of the system.",
+      body: "Because local customers check search, maps, reviews, hours, and social before they decide.",
+    },
+  ];
+
+  return (
+    <section className="difference" aria-label="How Glow Social is different">
+      <div className="container">
+        <div className="difference-header">
+          <h2>Glow Social handles the part other tools leave with you.</h2>
+          <p>
+            Schedulers publish content you already made. Agencies need direction, meetings, and bigger retainers.
+            {" "}
+            <BrandName /> turns your business context into a steady month of posts.
+          </p>
+        </div>
+        <div className="difference-grid">
+          {differences.map((item) => (
+            <article className="difference-card" key={item.label}>
+              <span>{item.label}</span>
+              <h3>{item.title}</h3>
+              <p>{item.body}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function ValueComparison({ pricing }) {
   return (
     <section className="value-compare" id="compare-options">
       <div className="container">
-        <h2>Compared to the usual options, this is the lighter lift.</h2>
+        <h2>Use Glow Social when the bottleneck is making the posts.</h2>
         <p className="section-sub">The real alternative is not another scheduler. It is your time, an agency retainer, or hiring someone before you are ready.</p>
         <div className="value-table-wrap">
           <table className="value-table">
@@ -306,34 +353,17 @@ export default function HomePageContent() {
           <div className="hero-copy">
             <span className="hero-badge">
               <span className="badge-dot"></span>
-              Local business social media, handled
+              Done-for-you local social media
             </span>
             <h1>
-              <span>Social media for</span>
-              <span className="hero-audience" aria-hidden="true">
-                <span className="hero-audience-track">
-                  <span>cafes.</span>
-                  <span>e-commerce.</span>
-                  <span className="hero-audience-compact">insurance agents.</span>
-                  <span>med spas.</span>
-                  <span className="hero-audience-compact">wellness clinics.</span>
-                  <span>life coaches.</span>
-                  <span className="hero-audience-compact">business coaches.</span>
-                  <span>Realtors.</span>
-                  <span>salons.</span>
-                  <span>contractors.</span>
-                  <span>clinics.</span>
-                  <span>local shops.</span>
-                  <span>cafes.</span>
-                </span>
-              </span>
-              <span className="visually-hidden">local businesses.</span>
+              <span>Your website already has</span>
+              <span>the posts in it.</span>
             </h1>
             <p className="hero-sub">
-              Paste your website. <BrandName /> turns it into finished posts for Instagram, Facebook, LinkedIn, and Google Business Profile.
+              Paste your website. <BrandName /> turns your services, offers, proof, and local details into finished posts for Instagram, Facebook, LinkedIn, and Google Business Profile.
             </p>
             <p className="hero-desc">
-              No content calendar to maintain. No generic captions. No quiet profiles making people wonder if you are still open.
+              Not a scheduler. Not an agency retainer. A steady posting system for businesses that need to look current without creating content every week.
             </p>
             <form
               className="hero-url-form"
@@ -369,15 +399,15 @@ export default function HomePageContent() {
             <div className="hero-proof">
               <div className="hero-proof-item">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-                <span>Posts created for you</span>
+                <span>Creates the posts</span>
               </div>
               <div className="hero-proof-item">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="2"/><polyline points="9 11 12 14 22 4"/></svg>
-                <span>Google Business included</span>
+                <span>Social + Google</span>
               </div>
               <div className="hero-proof-item">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-                <span>Approve before publish</span>
+                <span>Approve or skip</span>
               </div>
             </div>
           </div>
@@ -390,11 +420,11 @@ export default function HomePageContent() {
         <div className="container trust-bar-inner">
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-            <div><strong>Active</strong> every week</div>
+            <div><strong>20 posts</strong> every month</div>
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
-            <div><strong>Your voice</strong> from your site</div>
+            <div><strong>Made from</strong> your site</div>
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
@@ -407,10 +437,12 @@ export default function HomePageContent() {
         </div>
       </section>
 
+      <DifferenceSection />
+
       {/* ============ WORKFLOW — Product in four steps ============ */}
       <section className="workflow" id="how">
         <div className="container">
-          <h2>The outcome: your business looks active online.</h2>
+          <h2>How it works without making social media your job.</h2>
           <p className="section-sub">
             <BrandName /> turns the business you already built into finished social content customers can actually see, then keeps it moving on the channels that matter locally.
           </p>

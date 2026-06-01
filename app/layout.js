@@ -29,7 +29,7 @@ export const metadata = {
     template: "%s | Glow Social",
   },
   description:
-    "Glow Social keeps local businesses active online with posts written in your voice and published to social channels plus Google Business Profile.",
+    "Glow Social turns your website and business context into finished posts for social channels plus Google Business Profile.",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -37,7 +37,7 @@ export const metadata = {
     siteName: "Glow Social",
     title: "Glow Social | Done-for-you social media for local businesses",
     description:
-      "Glow Social turns your website into finished posts and publishes them where local customers check, including Google Business Profile.",
+      "Glow Social turns your website, services, offers, and proof into finished posts for social channels plus Google Business Profile.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
@@ -51,7 +51,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Glow Social | Done-for-you social media for local businesses",
     description:
-      "Glow Social keeps local businesses active online with posts written in your voice and published where customers check.",
+      "Glow Social turns your website and business context into finished posts for social channels plus Google Business Profile.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {
