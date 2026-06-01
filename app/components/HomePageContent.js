@@ -529,8 +529,8 @@ export default function HomePageContent() {
       {/* ============ PRICING ============ */}
       <section className="pricing" id="pricing">
         <div className="container">
-          <h2>Choose how handled you want it.</h2>
-          <p className="section-sub">Start with the level of presence you want. Add review monitoring and more formats only when they are useful. {pricing.billingPolicy}</p>
+          <h2>Choose your monthly posting coverage.</h2>
+          <p className="section-sub">Start with steady monthly posts. Add review monitoring, carousels, video posts, and campaign support when they are useful. {pricing.billingPolicy}</p>
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
