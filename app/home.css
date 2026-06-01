@@ -255,14 +255,14 @@
 
 .hero .btn--outline {
   color: var(--navy);
-  border-color: rgba(25, 39, 52, 0.22);
-  background: rgba(255, 255, 255, 0.62);
+  border-color: var(--accent);
+  background: rgba(215, 226, 120, 0.22);
 }
 
 .hero .btn--outline:hover {
-  background: var(--navy);
-  color: var(--white);
-  border-color: var(--navy);
+  background: var(--accent);
+  color: var(--navy);
+  border-color: var(--accent);
   transform: translateY(-1px);
 }
 
