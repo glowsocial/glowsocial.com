@@ -42,6 +42,8 @@ const preparedPostCards = [
   },
 ];
 
+const heroCarouselGroups = [preparedPostCards, preparedPostCards, preparedPostCards];
+
 const outcomeCards = [
   {
     label: "Website scan",
@@ -101,45 +103,36 @@ function WorkflowScreenshot({ src, alt, className = "" }) {
   );
 }
 
-function HeroBlackBoxPreview() {
+function HeroVideoCarousel() {
   return (
-    <div className="hero-blackbox-preview" aria-label="Glow Social turns a website into finished posts">
-      <div className="blackbox-stage">
-        <div className="blackbox-core" aria-hidden="true">
-          <div className="blackbox-input-chip">yourbusiness.com</div>
-          <div className="blackbox-mark">glow</div>
-          <div className="blackbox-lines">
-            <span />
-            <span />
-            <span />
-          </div>
-        </div>
-        <div className="blackbox-output-rail" aria-hidden="true">
-          {preparedPostCards.map((slide, index) => (
-            <article
-              className={`hero-video-card hero-video-card--${slide.accent}`}
-              style={{
-                "--card-offset": slide.offset,
-              }}
-              key={slide.title}
-            >
-              <div className="hero-video-media">
-                <img
-                  src={slide.image}
-                  alt=""
-                  width={382}
-                  height={510}
-                  loading={index < preparedPostCards.length ? "eager" : "lazy"}
-                  decoding="async"
-                />
-                <span className="hero-video-play" />
-                <span className="hero-video-progress" />
-              </div>
-              <div className="hero-video-body">
-                <h3>{slide.title}</h3>
-                <p>{slide.caption}</p>
-              </div>
-            </article>
+    <div className="hero-video-carousel" aria-label="Glow Social finished post videos">
+      <div className="blackbox-output-rail" aria-hidden="true">
+        <div className="blackbox-output-track">
+          {heroCarouselGroups.map((group, groupIndex) => (
+            <div className="blackbox-output-group" key={`video-group-${groupIndex}`}>
+              {group.map((slide, index) => (
+                <article
+                  className={`hero-video-card hero-video-card--${slide.accent}`}
+                  style={{
+                    "--card-offset": slide.offset,
+                  }}
+                  key={`${slide.title}-${groupIndex}`}
+                >
+                  <div className="hero-video-media">
+                    <img
+                      src={slide.image}
+                      alt=""
+                      width={382}
+                      height={510}
+                      loading={groupIndex === 0 && index < preparedPostCards.length ? "eager" : "lazy"}
+                      decoding="async"
+                    />
+                    <span className="hero-video-play" />
+                    <span className="hero-video-progress" />
+                  </div>
+                </article>
+              ))}
+            </div>
           ))}
         </div>
       </div>
@@ -150,7 +143,7 @@ function HeroBlackBoxPreview() {
 function HeroSocialShowcase() {
   return (
     <div className="hero-showcase" aria-label="Glow Social website-to-posts preview">
-      <HeroBlackBoxPreview />
+      <HeroVideoCarousel />
     </div>
   );
 }
@@ -268,8 +261,7 @@ function BeforeAfterSection() {
     <section className="before-after" aria-labelledby="before-after-heading">
       <div className="container">
         <h2 id="before-after-heading">
-          <span>Traditional social media is a second job.</span>
-          Glow Social turns it into a review queue.
+          From making posts yourself to approving what is ready.
         </h2>
         <div className="before-after-card">
           <div className="before-after-column before-after-column--before">
