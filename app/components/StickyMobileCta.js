@@ -8,21 +8,48 @@ export default function StickyMobileCta() {
   useEffect(() => {
     const stickyCta = ctaRef.current;
     const hero = document.querySelector(".hero");
+    const suppressSections = Array.from(
+      document.querySelectorAll(".pricing, .final-cta, .faq")
+    );
 
-    if (!stickyCta || !hero || !("IntersectionObserver" in window)) {
+    if (!stickyCta || !hero) {
       stickyCta?.classList.add("visible");
       return undefined;
     }
 
-    const observer = new IntersectionObserver(
-      (entries) => {
-        stickyCta.classList.toggle("visible", !entries[0].isIntersecting);
-      },
-      { threshold: 0 }
-    );
+    let frameId = null;
 
-    observer.observe(hero);
-    return () => observer.disconnect();
+    const updateVisibility = () => {
+      frameId = null;
+      const heroHasPassed = hero.getBoundingClientRect().bottom <= 0;
+      const hasSuppressSectionInView = suppressSections.some((section) => {
+        const rect = section.getBoundingClientRect();
+        return rect.top < window.innerHeight * 0.7 && rect.bottom > 0;
+      });
+
+      stickyCta.classList.toggle(
+        "visible",
+        heroHasPassed && !hasSuppressSectionInView
+      );
+    };
+
+    const requestVisibilityUpdate = () => {
+      if (frameId === null) {
+        frameId = window.requestAnimationFrame(updateVisibility);
+      }
+    };
+
+    updateVisibility();
+    window.addEventListener("scroll", requestVisibilityUpdate, { passive: true });
+    window.addEventListener("resize", requestVisibilityUpdate);
+
+    return () => {
+      if (frameId !== null) {
+        window.cancelAnimationFrame(frameId);
+      }
+      window.removeEventListener("scroll", requestVisibilityUpdate);
+      window.removeEventListener("resize", requestVisibilityUpdate);
+    };
   }, []);
 
   return (

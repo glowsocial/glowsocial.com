@@ -46,24 +46,24 @@ const heroCarouselGroups = [preparedPostCards, preparedPostCards, preparedPostCa
 
 const outcomeCards = [
   {
-    label: "Website scan",
-    title: "We find posts worth making.",
-    body: "Glow Social scans your website, then applies our own marketing process shaped by 20+ years of experience.",
+    label: "Customer questions",
+    title: "Answer what people already wonder.",
+    body: "We look for the problems, hesitations, and decisions your customers are trying to work through before they buy.",
   },
   {
-    label: "Better topics",
-    title: "You get 20 posts with a reason to exist.",
-    body: "The posts focus on what customers care about, why they should trust you, and what makes you different.",
+    label: "Proof and trust",
+    title: "Show why they should believe you.",
+    body: "Posts point to outcomes, experience, and useful context instead of generic reminders or empty calendar filler.",
   },
   {
-    label: "Approval",
-    title: "All you do is look them over.",
-    body: "Approve what fits, edit anything that needs your voice, swap an image, or remove a post before it goes live.",
+    label: "Your point of view",
+    title: "Sound like someone with a real take.",
+    body: "Your posts can teach, clarify, and lead instead of just announcing holidays, sales, or staff updates.",
   },
   {
-    label: "Publishing",
-    title: "Connect your accounts and the schedule runs.",
-    body: "Once your socials are connected, approved posts go out automatically on the days and times you choose.",
+    label: "Steady presence",
+    title: "Stay current where people check.",
+    body: "Approved posts keep your social channels and Google Business Profile active without asking you to remember.",
   },
 ];
 
@@ -86,22 +86,54 @@ const beforeAfterRows = [
   ["Paying agency prices before you need an agency", "Done-for-you posting starting at $99/month"],
 ];
 
-const testimonialQuotes = [
-  ["I love the carousels.", "Life Coach"],
-  ["I forgot I even had social media. That is the point.", "Tax Preparer"],
-  ["My clients think I hired a marketing team.", "Wellness Spa Owner"],
-  ["I am getting traction on profiles I did not even have before I signed up.", "Home Care Provider"],
-  ["My Mondays are lighter now. It just shows up handled.", "Mortgage Broker"],
-  ["It just quietly works. That is all I wanted.", "Real Estate Agent"],
+const productDemoSteps = [
+  {
+    step: "1. Enter",
+    title: "Your website gives us the raw material.",
+    body: "Glow Social pulls the customer problems, outcomes, and differentiators that should shape your posts.",
+    image: "/images/home/what%20your%20posts%20are%20based%20on.png",
+    imageAlt: "Glow Social fields showing what posts are based on",
+  },
+  {
+    step: "2. Build",
+    title: "We turn that into topics.",
+    body: "The first batch is built around what customers care about, not filler for the calendar.",
+    image: "/images/home/content%20topics.png",
+    imageAlt: "Glow Social content topics generated from a business website",
+  },
+  {
+    step: "3. Review",
+    title: "You get 20 posts to check.",
+    body: "Approve everything, or open a post to edit the caption, swap the image, or remove it.",
+    image: "/images/home/review%20edit%20modal.png",
+    imageAlt: "Glow Social post review modal with caption and image editing controls",
+  },
+  {
+    step: "4. Schedule",
+    title: "Approved posts go out.",
+    body: "Once your accounts are connected, the approved posts publish on the schedule you choose.",
+    image: "/images/home/schedule.png",
+    imageAlt: "Glow Social schedule view showing approved posts going out",
+  },
 ];
 
-function WorkflowScreenshot({ src, alt, className = "" }) {
-  return (
-    <div className={`workflow-shot ${className}`}>
-      <img src={src} alt={alt} loading="lazy" decoding="async" />
-    </div>
-  );
-}
+const workflowSummarySteps = [
+  {
+    number: "1",
+    title: "Give us your website",
+    body: "We scan it for the problems customers care about, the outcomes you sell, and what makes you different.",
+  },
+  {
+    number: "2",
+    title: "Review your 20 posts",
+    body: "Approve everything at once, or edit the caption, swap the image, or remove anything that does not fit.",
+  },
+  {
+    number: "3",
+    title: "Connect and schedule",
+    body: "Once your accounts are connected, approved posts publish on the days and times you choose.",
+  },
+];
 
 function HeroVideoCarousel() {
   return (
@@ -153,11 +185,10 @@ function OutcomeSection() {
     <section className="outcome-section" aria-labelledby="outcome-heading">
       <div className="container">
         <div className="outcome-heading">
-          <span className="section-kicker">What changes</span>
-          <h2 id="outcome-heading">Your social media stops depending on spare time.</h2>
+          <span className="section-kicker">Why the posts are different</span>
+          <h2 id="outcome-heading">Not a calendar full of filler.</h2>
           <p className="section-sub">
-            Glow Social gives you a simple process: posts prepared from your business,
-            quick review, and steady publishing where customers check.
+            Glow Social uses your website plus 20+ years of marketing judgment to find what is worth saying before it creates the posts.
           </p>
         </div>
         <div className="outcome-grid">
@@ -189,70 +220,33 @@ function ChannelCoverage() {
   );
 }
 
-function StrategyScreensPreview() {
+function ProductDemoSection() {
   return (
-    <div className="strategy-screens">
-      <WorkflowScreenshot
-        src="/images/home/what%20your%20posts%20are%20based%20on.png"
-        alt="Glow Social strategy fields for customer problems, best outcome, and differentiators"
-        className="workflow-shot--strategy-base"
-      />
-      <WorkflowScreenshot
-        src="/images/home/content%20topics.png"
-        alt="Glow Social content topics generated for a business"
-        className="workflow-shot--strategy-topics"
-      />
-    </div>
-  );
-}
-
-function WorkflowScenes() {
-  return (
-    <div className="workflow-scenes">
-      <article className="workflow-scene">
-        <div className="workflow-scene-copy">
-          <span className="workflow-step">1. Give us your website</span>
-          <h3>We find what you should talk about.</h3>
-          <p>Glow Social scans your website, then runs it through our own marketing process shaped by 20+ years of experience to find what customers care about, why they should trust you, and what makes you different.</p>
+    <section className="product-demo" aria-labelledby="product-demo-heading">
+      <div className="container">
+        <div className="product-demo-heading">
+          <span className="section-kicker">Product demo</span>
+          <h2 id="product-demo-heading">See what happens after you enter your website.</h2>
+          <p className="section-sub">
+            <BrandName /> scans your site, finds what is worth posting about, and prepares 20 posts for review.
+          </p>
         </div>
-        <div className="scene-panel scene-panel--strategy" aria-label="Website strategy and content topics">
-          <StrategyScreensPreview />
+        <div className="product-demo-grid">
+          {productDemoSteps.map((item) => (
+            <article className="product-demo-step" key={item.step}>
+              <div className="product-demo-shot">
+                <img src={item.image} alt={item.imageAlt} loading="lazy" decoding="async" />
+              </div>
+              <div className="product-demo-copy">
+                <span>{item.step}</span>
+                <h3>{item.title}</h3>
+                <p>{item.body}</p>
+              </div>
+            </article>
+          ))}
         </div>
-      </article>
-
-      <article className="workflow-scene workflow-scene--flip">
-        <div className="workflow-scene-copy">
-          <span className="workflow-step">2. Review your posts</span>
-          <h3>Approve them all or change what needs it.</h3>
-          <p>Approve everything at once, or open a post to edit its caption, swap its image, approve it, or remove it before it joins the schedule.</p>
-        </div>
-        <div className="scene-panel scene-panel--screenshot" aria-label="Edit post modal">
-          <WorkflowScreenshot
-            src="/images/home/review%20edit%20modal.png"
-            alt="Glow Social edit post modal with image and caption fields"
-          />
-        </div>
-      </article>
-
-      <article className="workflow-scene">
-        <div className="workflow-scene-copy">
-          <span className="workflow-step">3. Approve and connect</span>
-          <h3>Everything goes out on schedule.</h3>
-          <p>Once you approve the posts and connect your social accounts, Glow Social publishes them on the schedule you choose.</p>
-        </div>
-        <div className="scene-panel scene-panel--screenshot scene-panel--stacked" aria-label="Schedule and covered dashboard states">
-          <WorkflowScreenshot
-            src="/images/home/schedule.png"
-            alt="Glow Social schedule settings with posting days, time slots, timezone, and platform limits"
-          />
-          <WorkflowScreenshot
-            src="/images/home/dashboard%20-%20all%20caught%20up.png"
-            alt="Glow Social dashboard all caught up state with next scheduled post"
-            className="workflow-shot--secondary"
-          />
-        </div>
-      </article>
-    </div>
+      </div>
+    </section>
   );
 }
 
@@ -281,6 +275,20 @@ function BeforeAfterSection() {
             ))}
           </div>
         </div>
+        <div className="before-after-mobile">
+          {beforeAfterRows.map(([before, after]) => (
+            <article className="before-after-pair" key={`mobile-${before}`}>
+              <div className="before-after-pair-item before-after-pair-item--before">
+                <span>Before</span>
+                <p>{before}</p>
+              </div>
+              <div className="before-after-pair-item before-after-pair-item--after">
+                <span>After</span>
+                <p>{after}</p>
+              </div>
+            </article>
+          ))}
+        </div>
       </div>
     </section>
   );
@@ -291,7 +299,7 @@ function CustomerProof() {
     <section className="customer-proof" id="testimonials" aria-labelledby="proof-heading">
       <div className="container customer-proof-inner">
         <div className="proof-copy">
-          <span className="section-kicker">Customer quote</span>
+          <span className="section-kicker">Anonymous owner note</span>
           <h2 id="proof-heading">Built for owners who are too busy to plan posts.</h2>
           <p>
             Glow Social prepares the work, shows you what needs review,
@@ -312,85 +320,6 @@ function CustomerProof() {
             </div>
           </footer>
         </blockquote>
-      </div>
-    </section>
-  );
-}
-
-function TestimonialTicker() {
-  const tickerItems = [...testimonialQuotes, ...testimonialQuotes];
-
-  return (
-    <section className="testimonial-ticker" aria-label="Customer testimonials">
-      <div className="ticker-track">
-        {tickerItems.map(([quote, author], index) => (
-          <div className="ticker-quote" aria-hidden={index >= testimonialQuotes.length} key={`${quote}-${index}`}>
-            <span className="ticker-text">&ldquo;{quote}&rdquo;</span>
-            <span className="ticker-author">— {author}</span>
-            <span className="ticker-dot" aria-hidden="true">✦</span>
-          </div>
-        ))}
-      </div>
-    </section>
-  );
-}
-
-function ValueComparison({ pricing }) {
-  return (
-    <section className="value-compare" id="compare-options">
-      <div className="container">
-        <h2>For business owners who have better things to do than plan posts.</h2>
-        <p className="section-sub">You do not need more filler for the calendar. You need posts based on what you know, what customers ask, and why they should trust you.</p>
-        <div className="value-table-wrap">
-          <table className="value-table">
-            <thead>
-              <tr>
-                <th></th>
-                <th><BrandName /></th>
-                <th>Doing it yourself</th>
-                <th>Agency</th>
-                <th>Hiring</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <th>Monthly cost</th>
-                <td><strong>Starts at {pricing.startingAtShort}</strong></td>
-                <td>Hidden hours every week</td>
-                <td>$1k-$5k+ monthly fees</td>
-                <td>$4k+/mo before extra costs</td>
-              </tr>
-              <tr>
-                <th>Time to first draft</th>
-                <td><strong>Minutes</strong></td>
-                <td>Whenever you get to it</td>
-                <td>After onboarding</td>
-                <td>After recruiting</td>
-              </tr>
-              <tr>
-                <th>What the posts are based on</th>
-                <td><strong>Your site + 20+ years of marketing judgment</strong></td>
-                <td>You</td>
-                <td>Account team</td>
-                <td>Employee</td>
-              </tr>
-              <tr>
-                <th>Google Business Profile</th>
-                <td><strong>Included</strong></td>
-                <td>Usually forgotten</td>
-                <td>Often an add-on</td>
-                <td>Depends on the hire</td>
-              </tr>
-              <tr>
-                <th>Commitment</th>
-                <td><strong>No contracts</strong></td>
-                <td>Your evenings</td>
-                <td>Agency contract</td>
-                <td>Payroll</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
       </div>
     </section>
   );
@@ -474,6 +403,7 @@ export default function HomePageContent() {
       </section>
 
       <ChannelCoverage />
+      <ProductDemoSection />
       <OutcomeSection />
 
       {/* ============ WORKFLOW — Product in three steps ============ */}
@@ -484,7 +414,15 @@ export default function HomePageContent() {
             Your website goes in. <BrandName /> finds the topics, creates the posts, and publishes them after you approve and connect your accounts.
           </p>
 
-          <WorkflowScenes />
+          <div className="workflow-grid">
+            {workflowSummarySteps.map((step) => (
+              <article className="workflow-card" key={step.number}>
+                <span className="workflow-num">{step.number}</span>
+                <h3>{step.title}</h3>
+                <p>{step.body}</p>
+              </article>
+            ))}
+          </div>
 
           <div className="section-cta">
             <a href="https://app.glowsocial.com/preview" className="btn btn--primary" id="workflow-cta">Get a preview</a>
@@ -493,7 +431,6 @@ export default function HomePageContent() {
       </section>
 
       <CustomerProof />
-      <TestimonialTicker />
 
       {/* ============ PRICING ============ */}
       <section className="pricing" id="pricing">
@@ -530,9 +467,9 @@ export default function HomePageContent() {
               <div className="price"><span className="price-amount">{pricing.unlimited.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
-                <li><strong>More posts</strong> for bigger seasons</li>
-                <li><strong>More posts</strong> when you have more to share</li>
-                <li><strong>Campaign posts</strong> across your offers and events</li>
+                <li><strong>More posts</strong> for busier seasons</li>
+                <li><strong>More room</strong> for launches, promos, and events</li>
+                <li><strong>Campaign posts</strong> across your offers</li>
               </ul>
               <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">START WITH UNLIMITED</a>
             </div>
@@ -541,7 +478,6 @@ export default function HomePageContent() {
       </section>
 
       <BeforeAfterSection />
-      <ValueComparison pricing={pricing} />
 
       {/* ============ FINAL CTA — Emotional close ============ */}
       <section className="final-cta">
@@ -555,13 +491,14 @@ export default function HomePageContent() {
       {/* FAQ */}
       <section className="faq" id="faq">
         <div className="container">
-          <h2>Questions from business owners who hate social media</h2>
+          <h2>Questions from business owners who want social media handled</h2>
           <div className="faq-list">
             <details className="faq-item"><summary><span className="faq-question">Will this get me more customers?</span></summary><p><BrandName /> is not a replacement for advertising. It helps your business look current when people already considering you check your profiles before they call, book, visit, or refer.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much does <BrandName /> cost?</span></summary><p>{pricing.summaryFull} {pricing.billingPolicy} You keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I cancel anytime?</span></summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Give us your website, review the posts, approve what fits, and connect your social accounts. After that, approved posts go out on schedule.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How does <BrandName /> know what to post?</span></summary><p>We use your website plus our own marketing process shaped by 20+ years of experience to identify what customers care about, why they should trust you, and what makes you different.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">How is this different from hiring an agency or using a scheduler?</span></summary><p>A scheduler gives you another empty calendar to fill. An agency can help, but usually costs more and takes more onboarding. <BrandName /> sits in the middle: your website goes in, 20 posts come back for review, and approved posts go out on schedule without a contract.</p></details>
             <details className="faq-item"><summary><span className="faq-question">What if something does not sound right?</span></summary><p>You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the profile customers check does not go quiet.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know social media matters but do not want to make content, hire an agency, or keep remembering to post.</p></details>
