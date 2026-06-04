@@ -678,6 +678,40 @@ function ProductDemoSection() {
             </article>
           ))}
         </div>
+        <div className="product-demo-url-cta" aria-labelledby="product-demo-url-heading">
+          <div className="product-demo-url-copy">
+            <span className="section-kicker">Ready to see yours?</span>
+            <h3 id="product-demo-url-heading">Put your website in. See the posts.</h3>
+          </div>
+          <div className="product-demo-url-action">
+            <form
+              className="product-demo-url-form"
+              action="https://app.glowsocial.com/preview"
+              method="get"
+              data-analytics-event="steps_preview_submit"
+              data-analytics-label="After step four preview form"
+              data-analytics-location="after_steps"
+            >
+              <div className="product-demo-url-input-wrap">
+                <svg className="product-demo-url-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><circle cx="12" cy="12" r="10" /><line x1="2" y1="12" x2="22" y2="12" /><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg>
+                <input
+                  type="text"
+                  name="url"
+                  placeholder="yourbusiness.com"
+                  autoComplete="off"
+                  inputMode="url"
+                  aria-label="Business website"
+                  required
+                />
+                <button type="submit">
+                  <span>Generate preview</span>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
+                </button>
+              </div>
+            </form>
+            <p>No login. No payment. See the posts first.</p>
+          </div>
+        </div>
       </div>
     </section>
   );
