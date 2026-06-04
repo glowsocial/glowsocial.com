@@ -10,9 +10,9 @@ function BrandName() {
 const preparedPostCardData = [
   {
     type: "video",
-    title: "Morning routine cafe",
+    title: "Morning Routine Cafe",
     platform: "Instagram",
-    meta: "Cafe and bakery · 1h",
+    meta: "Downtown Phoenix · 1h",
     avatar: "IN",
     caption: "The best cafes are not just selling coffee. They give people a reliable third place before the day starts.",
     visualTitle: "Regulars are built before 9am",
@@ -24,7 +24,7 @@ const preparedPostCardData = [
     type: "quote",
     title: "Rose & Finch Salon",
     platform: "Instagram",
-    meta: "Quote post · Today",
+    meta: "Today",
     avatar: "IG",
     quote: "The right hair color should still feel like you, just better lit.",
     quoteStyle: "photo",
@@ -36,7 +36,7 @@ const preparedPostCardData = [
     type: "carousel",
     title: "Oak & Stone Interiors",
     platform: "Instagram",
-    meta: "Carousel · 4 slides",
+    meta: "Oak Street · 2h",
     avatar: "CA",
     slides: [
       ["1", "Before you renovate", "Three decisions that make the project calmer."],
@@ -49,9 +49,9 @@ const preparedPostCardData = [
   },
   {
     type: "video",
-    title: "Greenview landscaping",
+    title: "Greenview Landscaping",
     platform: "Facebook",
-    meta: "Local service business · 2h",
+    meta: "Mesa, AZ · 2h",
     avatar: "FA",
     caption: "If your lawn only gets attention when it looks bad, you are already working from behind. The greenest yards are planned earlier.",
     visualTitle: "The yard gets planned before it browns",
@@ -63,7 +63,7 @@ const preparedPostCardData = [
     type: "quote",
     title: "North Mesa Dental",
     platform: "Facebook",
-    meta: "Quote post · Today",
+    meta: "Today",
     avatar: "FB",
     quote: "A good visit starts before the appointment, when people know what to expect.",
     quoteStyle: "light",
@@ -75,7 +75,7 @@ const preparedPostCardData = [
     type: "carousel",
     title: "Desert Key Realty",
     platform: "LinkedIn",
-    meta: "Carousel · 5 slides",
+    meta: "Spring market · 3h",
     avatar: "LI",
     slides: [
       ["1", "Buying this spring?", "Do these three things before you tour."],
@@ -90,7 +90,7 @@ const preparedPostCardData = [
     type: "video",
     title: "Canyon Vista Realty",
     platform: "LinkedIn",
-    meta: "Real estate advisor · 1h",
+    meta: "Open house notes · 1h",
     avatar: "LI",
     caption: "Most buyers focus on the listing price. The smarter move is understanding timing, programs, and what needs to be ready first.",
     visualTitle: "Touring is not the first step",
@@ -100,9 +100,9 @@ const preparedPostCardData = [
   },
   {
     type: "video",
-    title: "Arc and align wellness",
+    title: "Arc & Align Wellness",
     platform: "Google Business",
-    meta: "Profile update · Today",
+    meta: "Today",
     avatar: "GO",
     caption: "Before someone books, they want proof you understand their problem. Your posts can answer that before they call.",
     visualTitle: "People decide before they book",
@@ -114,7 +114,7 @@ const preparedPostCardData = [
     type: "carousel",
     title: "Copper Ridge Roofing",
     platform: "Facebook",
-    meta: "Carousel · 4 slides",
+    meta: "After the storm · 2h",
     avatar: "RF",
     slides: [
       ["1", "After the storm", "What homeowners should check before calling anyone."],
@@ -129,7 +129,7 @@ const preparedPostCardData = [
     type: "quote",
     title: "Braid & Co",
     platform: "Instagram",
-    meta: "Quote post · Today",
+    meta: "Today",
     avatar: "IG",
     quote: "The style should work on Monday morning, not just when you leave the chair.",
     quoteStyle: "dark",
@@ -141,7 +141,7 @@ const preparedPostCardData = [
     type: "video",
     title: "Harbor Pet Grooming",
     platform: "TikTok",
-    meta: "Video post · 3h",
+    meta: "3h",
     avatar: "TT",
     caption: "The easiest grooming visits usually start before the appointment, with a dog who knows what to expect.",
     visualTitle: "The calm groom starts before drop-off",
@@ -153,7 +153,7 @@ const preparedPostCardData = [
     type: "carousel",
     title: "Summit Chiropractic",
     platform: "Google Business",
-    meta: "Carousel · 3 slides",
+    meta: "Today",
     avatar: "GO",
     slides: [
       ["1", "Desk tension again?", "Your setup may be asking too much from your neck."],
@@ -168,7 +168,7 @@ const preparedPostCardData = [
     type: "quote",
     title: "Bluebird Books",
     platform: "Threads",
-    meta: "Quote post · 45m",
+    meta: "45m",
     avatar: "TH",
     quote: "A good bookstore is a shortcut to better conversations.",
     quoteStyle: "photo",
@@ -180,7 +180,7 @@ const preparedPostCardData = [
     type: "video",
     title: "Elena's Bakery",
     platform: "Pinterest",
-    meta: "Idea post · 2h",
+    meta: "Custom orders · 2h",
     avatar: "PI",
     caption: "A custom cake should taste like the party, not just match the invitation.",
     visualTitle: "The cake should taste like the party",
@@ -192,7 +192,7 @@ const preparedPostCardData = [
     type: "carousel",
     title: "Metro Auto Repair",
     platform: "Facebook",
-    meta: "Carousel · 5 slides",
+    meta: "Road trip season · 2h",
     avatar: "AR",
     slides: [
       ["1", "Before a road trip", "Three checks save bigger problems later."],
@@ -207,7 +207,7 @@ const preparedPostCardData = [
     type: "quote",
     title: "Willow Yoga Studio",
     platform: "Instagram",
-    meta: "Quote post · Today",
+    meta: "Today",
     avatar: "IG",
     quote: "Progress is not a pose. It is how you feel walking out.",
     quoteStyle: "light",
@@ -219,7 +219,7 @@ const preparedPostCardData = [
     type: "video",
     title: "Keystone Home Loans",
     platform: "LinkedIn",
-    meta: "Advisor post · 1h",
+    meta: "Homebuyer notes · 1h",
     avatar: "LI",
     caption: "The best mortgage conversation starts with what you want monthly life to feel like, not the biggest number you can borrow.",
     visualTitle: "The payment matters more than the preapproval",
@@ -231,7 +231,7 @@ const preparedPostCardData = [
     type: "carousel",
     title: "Milo Pet Grooming",
     platform: "Instagram",
-    meta: "Carousel · 4 slides",
+    meta: "New puppy care · 1h",
     avatar: "CA",
     slides: [
       ["1", "New puppy?", "Start grooming before the first big haircut."],
@@ -246,7 +246,7 @@ const preparedPostCardData = [
     type: "quote",
     title: "Brightline Accounting",
     platform: "LinkedIn",
-    meta: "Quote post · Today",
+    meta: "Today",
     avatar: "LI",
     quote: "Clean books are not just for tax season. They are how you make calmer decisions.",
     quoteStyle: "dark",
@@ -258,7 +258,7 @@ const preparedPostCardData = [
     type: "carousel",
     title: "Saguaro Med Spa",
     platform: "Instagram",
-    meta: "Carousel · 5 slides",
+    meta: "First visit notes · 2h",
     avatar: "MS",
     slides: [
       ["1", "Before your first visit", "Know the goal before choosing the treatment."],
@@ -475,7 +475,7 @@ function HeroVideoCarousel() {
                       <span className="hero-post-avatar">{slide.avatar}</span>
                       <span className="hero-post-name">
                         <strong>{slide.title}</strong>
-                        <small>{slide.platform} · {slide.meta}</small>
+                        <small>{slide.meta}</small>
                       </span>
                       <span className="hero-post-menu">•••</span>
                     </div>
