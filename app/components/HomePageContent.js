@@ -985,8 +985,8 @@ export default function HomePageContent() {
       {/* ============ FINAL CTA — Emotional close ============ */}
       <section className="final-cta">
         <div className="container">
-          <h2>Show what you know<br />without adding social media to your week.</h2>
-          <p><BrandName /> figures out what to say, creates the posts, and keeps your business visible where customers already check.<br />{pricing.summaryFull} {pricing.billingPolicy}</p>
+          <h2>See a month of posts<br />before you pay.</h2>
+          <p>Enter your website and <BrandName /> will create a ready-to-review preview for social and Google Business.</p>
           <form
             className="final-preview-form"
             action="https://app.glowsocial.com/preview"
