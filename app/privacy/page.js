@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export const metadata = {
   title: "Privacy Policy — Glow Social",
   description: "How Glow Social collects, uses, and protects your personal information.",
@@ -11,17 +9,18 @@ export default function PrivacyPolicy() {
       <section className="blog-hero">
         <div className="container">
           <h1>Privacy Policy</h1>
-          <p>Last updated: April 1, 2026</p>
+          <p>Last updated: June 4, 2026</p>
         </div>
       </section>
       <article className="blog-post">
         <div className="blog-post-content">
           <h2>Overview</h2>
           <p>
-            Glow Social ("we," "us," or "our") operates the website glowsocial.com
-            and the Glow Social application at app.glowsocial.com. This Privacy
-            Policy explains how we collect, use, disclose, and safeguard your
-            information when you visit our website or use our service.
+            Glow Social (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;)
+            operates the website glowsocial.com and the Glow Social application
+            at app.glowsocial.com. This Privacy Policy explains how we collect,
+            use, disclose, and safeguard your information when you visit our
+            website or use our service.
           </p>
 
           <h2>Information We Collect</h2>
@@ -66,12 +65,17 @@ export default function PrivacyPolicy() {
               information is handled directly by Stripe and is not stored on our
               servers. See{" "}
               <a href="https://stripe.com/privacy" target="_blank" rel="noopener noreferrer">
-                Stripe's Privacy Policy
+                Stripe&apos;s Privacy Policy
               </a>.
             </li>
             <li>
               <strong>Supabase</strong> — Database and authentication
               infrastructure.
+            </li>
+            <li>
+              <strong>Google Analytics</strong> — Optional website analytics.
+              Google Analytics is loaded on glowsocial.com only after you allow
+              analytics cookies.
             </li>
             <li>
               <strong>Social Media Platforms</strong> — We connect to Facebook,
@@ -129,13 +133,23 @@ export default function PrivacyPolicy() {
 
           <h2>Cookies</h2>
           <p>
-            We use essential cookies to maintain your session and preferences. We
-            may use analytics cookies to understand how visitors interact with our
-            website. You can control cookie preferences through your browser
-            settings.
+            We use essential cookies and similar browser storage when needed to
+            run the site, maintain your session, remember preferences, and keep
+            the service secure.
+          </p>
+          <p>
+            We use Google Analytics on glowsocial.com only if you allow
+            analytics cookies. Analytics helps us understand aggregate website
+            usage, such as pages visited and referral sources. Advertising
+            storage is disabled in our analytics setup.
+          </p>
+          <p>
+            You can accept or reject analytics cookies from the cookie banner.
+            You can change your choice later from the &quot;Cookie Settings&quot;
+            link in the footer.
           </p>
 
-          <h2>Children's Privacy</h2>
+          <h2>Children&apos;s Privacy</h2>
           <p>
             Our service is not directed to individuals under the age of 18. We do
             not knowingly collect personal information from children.
@@ -145,7 +159,7 @@ export default function PrivacyPolicy() {
           <p>
             We may update this Privacy Policy from time to time. We will notify
             you of any material changes by posting the new policy on this page and
-            updating the "Last updated" date.
+            updating the &quot;Last updated&quot; date.
           </p>
 
           <h2>Contact Us</h2>

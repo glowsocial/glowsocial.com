@@ -340,50 +340,52 @@ const beforeAfterRows = [
 
 const productDemoSteps = [
   {
-    step: "1. Enter",
-    title: "Your website gives us the raw material.",
-    body: "Glow Social pulls the customer problems, outcomes, and differentiators that should shape your posts.",
+    step: "1. Add your website",
+    title: "Add your website.",
+    body: "Glow Social reads your site for the services, proof, customer questions, and voice your posts should use.",
     image: "/images/home/what%20your%20posts%20are%20based%20on.png",
     imageAlt: "Glow Social fields showing what posts are based on",
+    signals: [
+      ["Input", "yourbusiness.com"],
+      ["Found", "Services, proof, voice"],
+    ],
+    visual: "source",
   },
   {
-    step: "2. Build",
-    title: "We turn that into topics.",
-    body: "The first batch is built around what customers care about, not filler for the calendar.",
+    step: "2. We find what to say",
+    title: "We find the posts worth making.",
+    body: "Your first batch is built from useful topics customers already care about, not generic calendar filler.",
     image: "/images/home/content%20topics.png",
     imageAlt: "Glow Social content topics generated from a business website",
+    signals: [
+      ["Topics", "Questions customers ask"],
+      ["Drafts", "20 posts prepared"],
+    ],
+    visual: "topics",
   },
   {
-    step: "3. Review",
-    title: "You get 20 posts to check.",
-    body: "Approve everything, or open a post to edit the caption, swap the image, or remove it.",
+    step: "3. You approve",
+    title: "Approve what looks right.",
+    body: "Review the finished posts, edit anything that needs a tweak, and skip anything you do not want published.",
     image: "/images/home/review%20edit%20modal.png",
     imageAlt: "Glow Social post review modal with caption and image editing controls",
+    signals: [
+      ["Review", "Approve, edit, or skip"],
+      ["Ready", "No blank calendar"],
+    ],
+    visual: "review",
   },
   {
-    step: "4. Schedule",
+    step: "4. We publish",
     title: "Approved posts go out.",
-    body: "Once your accounts are connected, the approved posts publish on the schedule you choose.",
+    body: "Connect your accounts once. The posts you approve publish on the schedule you choose.",
     image: "/images/home/schedule.png",
     imageAlt: "Glow Social schedule view showing approved posts going out",
-  },
-];
-
-const workflowSummarySteps = [
-  {
-    number: "1",
-    title: "Give us your website",
-    body: "We scan it for the problems customers care about, the outcomes you sell, and what makes you different.",
-  },
-  {
-    number: "2",
-    title: "Review your 20 posts",
-    body: "Approve everything at once, or edit the caption, swap the image, or remove anything that does not fit.",
-  },
-  {
-    number: "3",
-    title: "Connect and schedule",
-    body: "Once your accounts are connected, approved posts publish on the days and times you choose.",
+    signals: [
+      ["Channels", "Social + Google"],
+      ["Schedule", "Publishing handled"],
+    ],
+    visual: "schedule",
   },
 ];
 
@@ -558,6 +560,20 @@ function HeroSocialShowcase() {
   );
 }
 
+function HeroPreviewBridge() {
+  return (
+    <div className="hero-preview-bridge" aria-label="Preview output">
+      <span className="hero-preview-pill hero-preview-pill--url">yourbusiness.com</span>
+      <svg className="hero-preview-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true">
+        <line x1="4" y1="12" x2="19" y2="12" />
+        <polyline points="13 6 19 12 13 18" />
+      </svg>
+      <span className="hero-preview-pill">20 posts ready</span>
+      <span className="hero-preview-pill">Social + Google</span>
+    </div>
+  );
+}
+
 function OutcomeSection() {
   return (
     <section className="outcome-section" aria-labelledby="outcome-heading">
@@ -603,22 +619,38 @@ function ProductDemoSection() {
     <section className="product-demo" aria-labelledby="product-demo-heading">
       <div className="container">
         <div className="product-demo-heading">
-          <span className="section-kicker">Product demo</span>
-          <h2 id="product-demo-heading">See what happens after you enter your website.</h2>
+          <span className="section-kicker">How it works</span>
+          <h2 id="product-demo-heading">One website in. A month of posts out.</h2>
           <p className="section-sub">
-            <BrandName /> scans your site, finds what is worth posting about, and prepares 20 posts for review.
+            Add your URL. <BrandName /> finds what to say, drafts the posts, and publishes what you approve.
           </p>
+          <a href="https://app.glowsocial.com/preview" className="btn btn--primary product-demo-cta">
+            Get a preview
+          </a>
         </div>
-        <div className="product-demo-grid">
-          {productDemoSteps.map((item) => (
-            <article className="product-demo-step" key={item.step}>
-              <div className="product-demo-shot">
-                <img src={item.image} alt={item.imageAlt} loading="lazy" decoding="async" />
-              </div>
+        <div className="product-demo-story">
+          {productDemoSteps.map((item, index) => (
+            <article
+              className={`product-demo-step product-demo-step--${item.visual}${index % 2 === 1 ? " product-demo-step--reverse" : ""}`}
+              key={item.step}
+            >
               <div className="product-demo-copy">
                 <span>{item.step}</span>
                 <h3>{item.title}</h3>
                 <p>{item.body}</p>
+              </div>
+              <div className="product-demo-stage">
+                <div className="product-demo-signal product-demo-signal--top">
+                  <span>{item.signals[0][0]}</span>
+                  <strong>{item.signals[0][1]}</strong>
+                </div>
+                <div className="product-demo-frame">
+                  <img src={item.image} alt={item.imageAlt} loading="lazy" decoding="async" />
+                </div>
+                <div className="product-demo-signal product-demo-signal--bottom">
+                  <span>{item.signals[1][0]}</span>
+                  <strong>{item.signals[1][1]}</strong>
+                </div>
               </div>
             </article>
           ))}
@@ -677,27 +709,33 @@ function CustomerProof() {
     <section className="customer-proof" id="testimonials" aria-labelledby="proof-heading">
       <div className="container customer-proof-inner">
         <div className="proof-copy">
-          <span className="section-kicker">Anonymous owner note</span>
-          <h2 id="proof-heading">Built for owners who are too busy to plan posts.</h2>
+          <span className="section-kicker">See it before you pay</span>
+          <h2 id="proof-heading">Your preview shows the actual month.</h2>
           <p>
-            Glow Social prepares the work, shows you what needs review,
-            and keeps moving once you approve it.
+            The first decision is simple: enter your website, see the posts,
+            and decide whether they look like your business.
           </p>
         </div>
-        <blockquote className="proof-quote">
-          <span aria-hidden="true">&ldquo;</span>
-          <p>
-            My profiles finally look alive without me having to become a content person.
-            I just review what is ready and get back to running the business.
-          </p>
-          <footer>
-            <div className="proof-avatar" aria-hidden="true" />
+        <div className="proof-preview-card" aria-label="What a Glow Social preview includes">
+          <div className="proof-preview-flow">
+            <span>yourbusiness.com</span>
+            <strong>20 posts ready to review</strong>
+          </div>
+          <div className="proof-preview-grid">
             <div>
-              <strong>Small business owner</strong>
-              <small>Wants to keep Glow Social their little secret</small>
+              <span>Captions</span>
+              <strong>Written from your site</strong>
             </div>
-          </footer>
-        </blockquote>
+            <div>
+              <span>Visuals</span>
+              <strong>Generated for the post</strong>
+            </div>
+            <div>
+              <span>Control</span>
+              <strong>Approve, edit, or skip</strong>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );
@@ -719,12 +757,12 @@ export default function HomePageContent() {
               Done-for-you social media
             </span>
             <h1>
-              <span>Social media</span>
-              <span className="hero-for-line">for <strong>your business</strong></span>
-              <span>handled.</span>
+              <span>Your website</span>
+              <span className="hero-for-line">becomes <strong>a month</strong></span>
+              <span>of posts.</span>
             </h1>
             <p className="hero-sub">
-              Enter your website. We&apos;ll prepare 20 posts for you.
+              Drop in your URL. We&apos;ll generate 20 ready-to-review posts for social and Google Business.
             </p>
             <form
               className="hero-url-form"
@@ -745,13 +783,14 @@ export default function HomePageContent() {
                   required
                 />
                 <button type="submit" className="hero-url-btn" id="hero-url-submit">
-                  <span>Get a preview</span>
+                  <span>Generate preview</span>
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
                 </button>
               </div>
             </form>
+            <HeroPreviewBridge />
             <p className="hero-url-hint">
-              Get a free custom preview. No login or payment required.
+              No login. No payment. See the posts first.
             </p>
           </div>
           <HeroSocialShowcase />
@@ -783,31 +822,6 @@ export default function HomePageContent() {
       <ChannelCoverage />
       <ProductDemoSection />
       <OutcomeSection />
-
-      {/* ============ WORKFLOW — Product in three steps ============ */}
-      <section className="workflow" id="how">
-        <div className="container">
-          <h2>This is how Glow Social works.</h2>
-          <p className="section-sub">
-            Your website goes in. <BrandName /> finds the topics, creates the posts, and publishes them after you approve and connect your accounts.
-          </p>
-
-          <div className="workflow-grid">
-            {workflowSummarySteps.map((step) => (
-              <article className="workflow-card" key={step.number}>
-                <span className="workflow-num">{step.number}</span>
-                <h3>{step.title}</h3>
-                <p>{step.body}</p>
-              </article>
-            ))}
-          </div>
-
-          <div className="section-cta">
-            <a href="https://app.glowsocial.com/preview" className="btn btn--primary" id="workflow-cta">Get a preview</a>
-          </div>
-        </div>
-      </section>
-
       <CustomerProof />
 
       {/* ============ PRICING ============ */}

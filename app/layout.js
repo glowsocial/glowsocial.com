@@ -2,6 +2,7 @@ import { Inter, Urbanist } from "next/font/google";
 import "./globals.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import CookieConsent from "./components/CookieConsent";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -123,11 +124,6 @@ const deferredBrowserScripts = `
 
   window.addEventListener("load", function() {
     runIdle(function() {
-      window.dataLayer = window.dataLayer || [];
-      window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
-      window.gtag("js", new Date());
-      window.gtag("config", "G-W571GNWJRB");
-      loadScript("google-analytics-src", "https://www.googletagmanager.com/gtag/js?id=G-W571GNWJRB");
       loadScript("webmcp-tools-src", "/webmcp-tools.js");
     });
   }, { once: true });
@@ -155,6 +151,7 @@ export default function RootLayout({ children }) {
         <Header />
         <main>{children}</main>
         <Footer />
+        <CookieConsent />
       </body>
     </html>
   );

@@ -83,6 +83,9 @@ export default function Footer() {
           <div className="footer-bottom-links">
             <a href="/privacy">PRIVACY POLICY</a>
             <a href="/terms">TERMS OF SERVICE</a>
+            <button type="button" data-cookie-settings-open>
+              COOKIE SETTINGS
+            </button>
           </div>
         </div>
       </div>
