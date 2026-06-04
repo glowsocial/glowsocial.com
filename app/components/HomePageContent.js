@@ -88,7 +88,7 @@ const preparedPostCardData = [
   },
   {
     type: "video",
-    title: "Desert key realty",
+    title: "Canyon Vista Realty",
     platform: "LinkedIn",
     meta: "Real estate advisor · 1h",
     avatar: "LI",
