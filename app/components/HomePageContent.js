@@ -273,10 +273,10 @@ const preparedPostCardData = [
 
 const preparedPostCards = preparedPostCardData.map((card, index) => ({
   ...card,
-  image: `/images/home/generated/hero-bg-${String(index + 1).padStart(2, "0")}.jpg`,
+  image: `/images/home/generated/hero-bg-${String(index + 1).padStart(2, "0")}.webp`,
   carouselImages: card.type === "carousel"
     ? card.slides.map((_, slideIndex) => (
-      `/images/home/generated/carousel-${String(index + 1).padStart(2, "0")}-slide-${slideIndex + 1}.jpg`
+      `/images/home/generated/carousel-${String(index + 1).padStart(2, "0")}-slide-${slideIndex + 1}.webp`
     ))
     : null,
 }));

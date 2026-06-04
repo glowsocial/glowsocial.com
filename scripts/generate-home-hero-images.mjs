@@ -14,26 +14,26 @@ const sizes = {
 };
 
 const mediaItems = [
-  ["hero-bg-01.jpg", "video", "a neighborhood cafe", "warm morning cafe counter with coffee, pastry, sunlit wood, plants, quiet third-place feeling"],
-  ["hero-bg-02.jpg", "quote", "a boutique hair salon", "premium salon color station with brushes, foils, soft light, clean mirror edge, warm neutral styling"],
-  ["hero-bg-03.jpg", "carousel", "an interior design studio", "finished living room detail with textured fabric, wood, stone, sunlight, editorial design magazine look"],
-  ["hero-bg-04.jpg", "video", "a landscaping company", "healthy desert-friendly front yard with clean edging, green lawn, native plants, bright morning light"],
-  ["hero-bg-05.jpg", "quote", "a dental office", "calm modern dental treatment room detail, clean chair, soft blue light, organized professional tools"],
-  ["hero-bg-06.jpg", "carousel", "a real estate advisor", "inviting home entryway with warm natural light, keys on console, architectural detail, polished but lived-in"],
-  ["hero-bg-07.jpg", "video", "a real estate advisor", "home tour detail with open kitchen, bright windows, neutral finishes, ready-to-move-in feel"],
-  ["hero-bg-08.jpg", "video", "a wellness clinic", "serene wellness studio with treatment table, folded towels, plants, mineral textures, soft daylight"],
-  ["hero-bg-09.jpg", "carousel", "a roofing contractor", "clean roof shingles and flashing detail after a storm, crisp daylight, trustworthy home exterior"],
-  ["hero-bg-10.jpg", "quote", "a braid and hair studio", "braiding studio detail with textured hair accessories, combs, clips, warm salon counter, elegant styling"],
-  ["hero-bg-11.jpg", "video", "a pet grooming salon", "clean grooming station with towel, brush, gentle spa colors, pet care tools arranged neatly"],
-  ["hero-bg-12.jpg", "carousel", "a chiropractic office", "ergonomic desk setup with chair, laptop closed, posture props, calm clinical office lighting"],
-  ["hero-bg-13.jpg", "quote", "an independent bookstore", "cozy bookstore table with stacked books, reading lamp, wood shelves, inviting community feel"],
-  ["hero-bg-14.jpg", "video", "a custom bakery", "custom cake detail with frosting texture, berries, pastry tools, soft bakery window light"],
-  ["hero-bg-15.jpg", "carousel", "an auto repair shop", "organized mechanic bench with tire gauge, clean tools, car detail, professional service bay"],
-  ["hero-bg-16.jpg", "quote", "a yoga studio", "quiet yoga studio floor with mats, blocks, warm sunlight, plants, calm textured walls"],
-  ["hero-bg-17.jpg", "video", "a mortgage advisor", "calm home office desk with house model, notebook, coffee, warm financial planning mood"],
-  ["hero-bg-18.jpg", "carousel", "a pet grooming salon", "puppy grooming preparation scene with soft towel, brush, treats, clean bright station"],
-  ["hero-bg-19.jpg", "quote", "an accounting firm", "organized bookkeeping desk with calculator, notebook, tidy papers, calm professional light"],
-  ["hero-bg-20.jpg", "carousel", "a med spa", "premium med spa treatment room detail with skincare bottles, towel, soft beige stone, polished lighting"],
+  ["hero-bg-01.webp", "video", "a neighborhood cafe", "warm morning cafe counter with coffee, pastry, sunlit wood, plants, quiet third-place feeling"],
+  ["hero-bg-02.webp", "quote", "a boutique hair salon", "premium salon color station with brushes, foils, soft light, clean mirror edge, warm neutral styling"],
+  ["hero-bg-03.webp", "carousel", "an interior design studio", "finished living room detail with textured fabric, wood, stone, sunlight, editorial design magazine look"],
+  ["hero-bg-04.webp", "video", "a landscaping company", "healthy desert-friendly front yard with clean edging, green lawn, native plants, bright morning light"],
+  ["hero-bg-05.webp", "quote", "a dental office", "calm modern dental treatment room detail, clean chair, soft blue light, organized professional tools"],
+  ["hero-bg-06.webp", "carousel", "a real estate advisor", "inviting home entryway with warm natural light, keys on console, architectural detail, polished but lived-in"],
+  ["hero-bg-07.webp", "video", "a real estate advisor", "home tour detail with open kitchen, bright windows, neutral finishes, ready-to-move-in feel"],
+  ["hero-bg-08.webp", "video", "a wellness clinic", "serene wellness studio with treatment table, folded towels, plants, mineral textures, soft daylight"],
+  ["hero-bg-09.webp", "carousel", "a roofing contractor", "clean roof shingles and flashing detail after a storm, crisp daylight, trustworthy home exterior"],
+  ["hero-bg-10.webp", "quote", "a braid and hair studio", "braiding studio detail with textured hair accessories, combs, clips, warm salon counter, elegant styling"],
+  ["hero-bg-11.webp", "video", "a pet grooming salon", "clean grooming station with towel, brush, gentle spa colors, pet care tools arranged neatly"],
+  ["hero-bg-12.webp", "carousel", "a chiropractic office", "ergonomic desk setup with chair, laptop closed, posture props, calm clinical office lighting"],
+  ["hero-bg-13.webp", "quote", "an independent bookstore", "cozy bookstore table with stacked books, reading lamp, wood shelves, inviting community feel"],
+  ["hero-bg-14.webp", "video", "a custom bakery", "custom cake detail with frosting texture, berries, pastry tools, soft bakery window light"],
+  ["hero-bg-15.webp", "carousel", "an auto repair shop", "organized mechanic bench with tire gauge, clean tools, car detail, professional service bay"],
+  ["hero-bg-16.webp", "quote", "a yoga studio", "quiet yoga studio floor with mats, blocks, warm sunlight, plants, calm textured walls"],
+  ["hero-bg-17.webp", "video", "a mortgage advisor", "calm home office desk with house model, notebook, coffee, warm financial planning mood"],
+  ["hero-bg-18.webp", "carousel", "a pet grooming salon", "puppy grooming preparation scene with soft towel, brush, treats, clean bright station"],
+  ["hero-bg-19.webp", "quote", "an accounting firm", "organized bookkeeping desk with calculator, notebook, tidy papers, calm professional light"],
+  ["hero-bg-20.webp", "carousel", "a med spa", "premium med spa treatment room detail with skincare bottles, towel, soft beige stone, polished lighting"],
 ];
 
 const carouselExamples = [
@@ -223,7 +223,7 @@ async function renderCarouselSlide({ backgroundPath, example, slideIndex }) {
           <feDropShadow dx="0" dy="26" stdDeviation="30" flood-color="#192734" flood-opacity="0.24"/>
         </filter>
       </defs>
-      <image href="data:image/jpeg;base64,${backgroundData}" x="0" y="0" width="${width}" height="${height}" preserveAspectRatio="xMidYMid slice"/>
+      <image href="data:image/webp;base64,${backgroundData}" x="0" y="0" width="${width}" height="${height}" preserveAspectRatio="xMidYMid slice"/>
       <rect width="${width}" height="${height}" fill="#000000" opacity="0.15"/>
       <rect x="${cardX}" y="${cardY}" width="${cardW}" height="${cardH}" rx="28" fill="rgba(255,255,255,0.95)" stroke="rgba(0,0,0,0.06)" filter="url(#cardShadow)"/>
       <circle cx="${cardX + cardPadX + 28}" cy="${cardY + 72}" r="28" fill="${avatarFill}"/>
@@ -253,17 +253,17 @@ async function renderCarouselSlide({ backgroundPath, example, slideIndex }) {
     </svg>
   `;
 
-  return sharp(Buffer.from(svg)).jpeg({ quality: 90, mozjpeg: true }).toBuffer();
+  return sharp(Buffer.from(svg)).webp({ quality: 82, effort: 6 }).toBuffer();
 }
 
 async function renderCarouselAssets() {
   for (const example of carouselExamples) {
-    const backgroundPath = path.join(OUT_DIR, `hero-bg-${String(example.sourceIndex).padStart(2, "0")}.jpg`);
+    const backgroundPath = path.join(OUT_DIR, `hero-bg-${String(example.sourceIndex).padStart(2, "0")}.webp`);
 
     for (let slideIndex = 0; slideIndex < example.slides.length; slideIndex += 1) {
       const outPath = path.join(
         OUT_DIR,
-        `carousel-${String(example.sourceIndex).padStart(2, "0")}-slide-${slideIndex + 1}.jpg`
+        `carousel-${String(example.sourceIndex).padStart(2, "0")}-slide-${slideIndex + 1}.webp`
       );
 
       const buffer = await renderCarouselSlide({ backgroundPath, example, slideIndex });
@@ -359,7 +359,7 @@ async function main() {
 
     await sharp(sourceBuffer)
       .resize(target.width, target.height, { fit: "cover", position: "center" })
-      .jpeg({ quality: 88, mozjpeg: true })
+      .webp({ quality: 82, effort: 6 })
       .toFile(outPath);
 
     console.log(`generated ${filename}`);
