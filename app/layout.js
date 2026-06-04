@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import CookieConsent from "./components/CookieConsent";
+import MarketingEventTracker from "./components/MarketingEventTracker";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -152,6 +153,7 @@ export default function RootLayout({ children }) {
         <main>{children}</main>
         <Footer />
         <CookieConsent />
+        <MarketingEventTracker />
       </body>
     </html>
   );

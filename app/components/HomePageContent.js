@@ -624,7 +624,13 @@ function ProductDemoSection() {
           <p className="section-sub">
             Add your URL. <BrandName /> finds what to say, drafts the posts, and publishes what you approve.
           </p>
-          <a href="https://app.glowsocial.com/preview" className="btn btn--primary product-demo-cta">
+          <a
+            href="https://app.glowsocial.com/preview"
+            className="btn btn--primary product-demo-cta"
+            data-analytics-event="how_it_works_cta_click"
+            data-analytics-label="How it works preview CTA"
+            data-analytics-location="how_it_works"
+          >
             Get a preview
           </a>
         </div>
@@ -769,6 +775,9 @@ export default function HomePageContent() {
               action="https://app.glowsocial.com/preview"
               method="get"
               id="hero-url-form"
+              data-analytics-event="hero_preview_submit"
+              data-analytics-label="Hero preview form"
+              data-analytics-location="hero"
             >
               <div className="hero-url-input-wrap">
                 <svg className="hero-url-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
@@ -829,9 +838,11 @@ export default function HomePageContent() {
         <div className="container">
           <h2>Pick how much posting you want handled.</h2>
           <p className="section-sub">Start with steady monthly posts. Add review monitoring, carousels, video posts, and campaign support when they are useful. {pricing.billingPolicy}</p>
+          <p className="pricing-preview-note">Preview first if you want to see the posts before choosing a plan. No login or payment required.</p>
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
+              <p className="price-fit">Best for steady local presence</p>
               <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li><strong>20 posts/month</strong> based on what your customers care about</li>
@@ -839,11 +850,22 @@ export default function HomePageContent() {
                 <li><strong>Google Business</strong> posts included</li>
                 <li><strong>Simple control</strong> before posts go live</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--outline" id="pricing-core-cta">START WITH CORE</a>
+              <a
+                href="https://app.glowsocial.com/checkout?plan=core"
+                className="btn btn--outline"
+                id="pricing-core-cta"
+                data-analytics-event="pricing_cta_click"
+                data-analytics-label="Start with Core"
+                data-analytics-location="pricing"
+                data-analytics-plan="core"
+              >
+                START WITH CORE
+              </a>
             </div>
             <div className="price-card price-card--featured">
               <span className="popular-badge">Most popular</span>
               <h3>Glo Pro</h3>
+              <p className="price-fit">Best for richer social posts</p>
               <div className="price"><span className="price-amount">{pricing.pro.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Core, plus:</li>
@@ -852,10 +874,21 @@ export default function HomePageContent() {
                 <li><strong>Posts for promos and events</strong></li>
                 <li><strong>Google review monitoring</strong></li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=pro" className="btn btn--primary" id="pricing-pro-cta">START WITH PRO</a>
+              <a
+                href="https://app.glowsocial.com/checkout?plan=pro"
+                className="btn btn--primary"
+                id="pricing-pro-cta"
+                data-analytics-event="pricing_cta_click"
+                data-analytics-label="Start with Pro"
+                data-analytics-location="pricing"
+                data-analytics-plan="pro"
+              >
+                START WITH PRO
+              </a>
             </div>
             <div className="price-card">
               <h3>Glo Unlimited</h3>
+              <p className="price-fit">Best for busier seasons</p>
               <div className="price"><span className="price-amount">{pricing.unlimited.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
@@ -863,7 +896,17 @@ export default function HomePageContent() {
                 <li><strong>More room</strong> for launches, promos, and events</li>
                 <li><strong>Campaign posts</strong> across your offers</li>
               </ul>
-              <a href="https://app.glowsocial.com/checkout?plan=unlimited" className="btn btn--outline" id="pricing-unlimited-cta">START WITH UNLIMITED</a>
+              <a
+                href="https://app.glowsocial.com/checkout?plan=unlimited"
+                className="btn btn--outline"
+                id="pricing-unlimited-cta"
+                data-analytics-event="pricing_cta_click"
+                data-analytics-label="Start with Unlimited"
+                data-analytics-location="pricing"
+                data-analytics-plan="unlimited"
+              >
+                START WITH UNLIMITED
+              </a>
             </div>
           </div>
         </div>
@@ -887,11 +930,13 @@ export default function HomePageContent() {
           <div className="faq-list">
             <details className="faq-item"><summary><span className="faq-question">Will this get me more customers?</span></summary><p><BrandName /> is not a replacement for advertising. It helps your business look current when people already considering you check your profiles before they call, book, visit, or refer.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much does <BrandName /> cost?</span></summary><p>{pricing.summaryFull} {pricing.billingPolicy} You keep access through the end of your paid period.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Can I see posts before I pay?</span></summary><p>Yes. Enter your website to generate a free preview first. You can review the actual posts before you create an account or choose a plan.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Do I need to connect accounts before the preview?</span></summary><p>No. The preview only needs your website. You connect social accounts later, after you have seen the posts and decided you want approved posts published.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I cancel anytime?</span></summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Give us your website, review the posts, approve what fits, and connect your social accounts. After that, approved posts go out on schedule.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How does <BrandName /> know what to post?</span></summary><p>We use your website plus our own marketing process shaped by 20+ years of experience to identify what customers care about, why they should trust you, and what makes you different.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How is this different from hiring an agency or using a scheduler?</span></summary><p>A scheduler gives you another empty calendar to fill. An agency can help, but usually costs more and takes more onboarding. <BrandName /> sits in the middle: your website goes in, 20 posts come back for review, and approved posts go out on schedule without a contract.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">What if something does not sound right?</span></summary><p>You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Can I edit before anything posts?</span></summary><p>Yes. You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the profile customers check does not go quiet.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know social media matters but do not want to make content, hire an agency, or keep remembering to post.</p></details>
           </div>

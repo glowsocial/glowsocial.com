@@ -13,6 +13,22 @@ export default function HomeJsonLd() {
       },
       {
         "@type": "Question",
+        name: "Can I see posts before I pay?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Yes. Enter your website to generate a free Glow Social preview first. You can review the actual posts before you create an account or choose a plan.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Do I need to connect accounts before the preview?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "No. The preview only needs your website. You connect social accounts later, after you have seen the posts and decided you want approved posts published.",
+        },
+      },
+      {
+        "@type": "Question",
         name: "Can I cancel anytime?",
         acceptedAnswer: {
           "@type": "Answer",
@@ -25,6 +41,14 @@ export default function HomeJsonLd() {
         acceptedAnswer: {
           "@type": "Answer",
           text: "Glow Social is a done-for-you social media posting system for businesses. It turns a business website, services, offers, proof, and brand details into finished posts for Instagram, Facebook, LinkedIn, and Google Business Profile.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Can I edit before anything posts?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Yes. You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.",
         },
       },
       {
