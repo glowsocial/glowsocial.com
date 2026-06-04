@@ -80,7 +80,7 @@ const organizationSchema = {
     "@type": "Offer",
     price: "99",
     priceCurrency: "USD",
-    description: "Core is $99/month. Pro is $149/month. Unlimited is $299/month. No free trials. No contracts. Cancel anytime.",
+    description: "Core is $99/month. Pro is $149/month. Unlimited is $299/month. Free preview first. No contracts. Cancel anytime.",
   },
   founder: {
     "@type": "Person",

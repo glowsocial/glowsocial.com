@@ -111,9 +111,7 @@ For Glow Social, the expensive part starts immediately:
 - preparing posts for publishing
 - supporting setup and account connections
 
-Giving away that work would not be a free trial of software. It would be giving away the core service.
-
-The better risk-free step is looking at examples first, then starting month-to-month if the fit is obvious.
+The better first step is to preview the work: look at examples, see what a month of posts could look like, then start month-to-month if the fit is obvious.
 
 ## How to Choose
 

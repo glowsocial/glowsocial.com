@@ -166,7 +166,7 @@ In that case, a scheduler does not solve the root problem. It gives you a blank 
 
 ## Where Glow Social Fits
 
-If you came here because you need a genuinely free scheduler, Buffer's free plan is the better answer. Glow Social is not a free Buffer plan, and it is not trying to be one.
+If you came here because you need a genuinely free scheduler, Buffer's free plan may be the right place to start. Glow Social fits when you want to preview a month of posts first, then have the writing, design, and publishing handled for you.
 
 [Glow Social's affordable social media management service](/affordable-social-media-management) fits a different problem: you do not just need somewhere to put posts. You need the posts written, designed, and published without spending your own evenings filling a content calendar.
 

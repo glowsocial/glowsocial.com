@@ -26,7 +26,7 @@ export default function PricingPage() {
           <p className="section-sub" style={{ marginBottom: 0 }}>
             {pricing.summaryFull}
             <br />
-            No free trials. No hidden fees. No contracts. Cancel anytime.
+            Free preview first. No hidden fees. No contracts. Cancel anytime.
           </p>
         </div>
       </section>

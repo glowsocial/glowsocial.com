@@ -8,7 +8,7 @@ export default function HomeJsonLd() {
         name: "How much does Glow Social cost?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month. There are no free trials, no contracts, and customers can cancel anytime.",
+          text: "Glow Social plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month. Customers can preview their posts before choosing a plan, there are no contracts, and they can cancel anytime.",
         },
       },
       {

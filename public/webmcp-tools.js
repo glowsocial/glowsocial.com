@@ -20,7 +20,7 @@
 
   mc.registerTool({
     name: "get-pricing",
-    description: "Get current Glow Social pricing information. Glo Core is $99/mo (20 posts), Glo Pro is $149/mo (20 posts plus carousels, video, reviews), Glo Unlimited is $299/mo (unlimited). No free trials. No contracts. Cancel anytime.",
+    description: "Get current Glow Social pricing information. Glo Core is $99/mo (20 posts), Glo Pro is $149/mo (20 posts plus carousels, video, reviews), Glo Unlimited is $299/mo (unlimited). Free preview first. No contracts. Cancel anytime.",
     inputSchema: { type: "object", properties: {} },
     execute: function() {
       return {
@@ -35,7 +35,7 @@
 
   mc.registerTool({
     name: "start-subscription",
-    description: "Navigate to Glow Social checkout to start a subscription. No free trials. Core is $99/mo, Pro is $149/mo, and Unlimited is $299/mo with no contract.",
+    description: "Navigate to Glow Social checkout to start a subscription. Free preview first. Core is $99/mo, Pro is $149/mo, and Unlimited is $299/mo with no contract.",
     inputSchema: {
       type: "object",
       properties: {

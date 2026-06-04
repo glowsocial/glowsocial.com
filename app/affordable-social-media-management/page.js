@@ -187,7 +187,7 @@ export default function AffordableSocialMediaManagementPage() {
           <p>
             Affordable social media marketing means getting consistent, professional posts live
             without paying freelancer or agency retainers. For most small businesses, the cheapest
-            real option is not a free scheduler. It is the option that removes the hours spent
+            real value is the option that removes the hours spent
             writing captions, making graphics, and loading posts. Glow Social handles that baseline
             starting at {pricing.startingAtFull}.
           </p>

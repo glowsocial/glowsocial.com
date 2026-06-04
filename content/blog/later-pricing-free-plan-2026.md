@@ -199,7 +199,7 @@ That may still be worth it if you enjoy content creation. It is not worth it if 
 
 ## Where Glow Social Fits
 
-If you came here because you want a free visual scheduler, Later's Free plan or 14-day trial is the cleaner place to start. Glow Social is not a free Later plan, and it should not be evaluated like one.
+If you came here because you want a free visual scheduler, Later's Free plan or 14-day trial may be the right place to start. Glow Social fits when you want to preview a month of posts first, then have the writing, design, and publishing handled for you.
 
 Glow Social fits when the real problem is not the calendar. It is the ongoing work of deciding what to post, writing the captions, creating the graphics, and keeping the business visible month after month.
 
