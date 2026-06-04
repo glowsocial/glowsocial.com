@@ -310,8 +310,8 @@
   position: relative;
   z-index: 1;
   overflow: hidden;
-  min-height: clamp(560px, 42vw, 620px);
-  padding: 36px 0 76px;
+  min-height: clamp(700px, 48vw, 760px);
+  padding: 44px 0 96px;
   border-radius: 0;
 }
 
@@ -338,7 +338,7 @@
 
 .blackbox-output-rail {
   position: absolute;
-  top: 40%;
+  top: 37.5%;
   left: 0;
   z-index: 1;
   display: block;
@@ -2226,8 +2226,8 @@
     inset: -8px 0 26px;
   }
   .hero-video-carousel {
-    min-height: 650px;
-    padding: 34px 0 62px;
+    min-height: 700px;
+    padding: 44px 0 82px;
   }
   .blackbox-output-rail {
     padding-left: 24px;
@@ -2332,8 +2332,8 @@
     inset: -4px 0 24px;
   }
   .hero-video-carousel {
-    min-height: 616px;
-    padding: 20px 0 50px;
+    min-height: 660px;
+    padding: 34px 0 70px;
   }
   .hero-video-carousel::before,
   .hero-video-carousel::after { width: 42px; }
