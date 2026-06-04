@@ -685,14 +685,48 @@ h2 {
     justify-content: center;
   }
   .cookie-consent {
-    left: 16px;
-    right: 16px;
-    bottom: 16px;
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
     grid-template-columns: 1fr;
+    gap: 10px;
     width: auto;
+    padding: 12px;
+  }
+  .cookie-consent-copy strong,
+  .cookie-consent-toggle strong {
+    font-size: 0.72rem;
+  }
+  .cookie-consent-copy p,
+  .cookie-consent-toggle small,
+  .cookie-consent-note {
+    margin-top: 3px;
+    font-size: 0.78rem;
+    line-height: 1.35;
   }
   .cookie-consent-actions {
-    justify-content: flex-start;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(72px, 0.64fr) auto;
+    gap: 6px;
+    justify-content: stretch;
+    width: 100%;
+  }
+  .cookie-consent-btn {
+    min-height: 34px;
+    padding: 0 10px;
+    font-size: 0.68rem;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+  }
+  .cookie-consent-manage .cookie-consent-actions {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+  .cookie-consent-toggle {
+    gap: 8px;
+  }
+  .cookie-consent-toggle input {
+    width: 16px;
+    height: 16px;
   }
 }
 

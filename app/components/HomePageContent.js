@@ -345,6 +345,8 @@ const productDemoSteps = [
     body: "Glow Social reads your site for the services, proof, customer questions, and voice your posts should use.",
     image: "/images/home/what%20your%20posts%20are%20based%20on.png",
     imageAlt: "Glow Social fields showing what posts are based on",
+    frameTitle: "Website scan",
+    frameUrl: "app.glowsocial.com/preview",
     signals: [
       ["Input", "yourbusiness.com"],
       ["Found", "Services, proof, voice"],
@@ -357,6 +359,8 @@ const productDemoSteps = [
     body: "Your first batch is built from useful topics customers already care about, not generic calendar filler.",
     image: "/images/home/content%20topics.png",
     imageAlt: "Glow Social content topics generated from a business website",
+    frameTitle: "Content plan",
+    frameUrl: "app.glowsocial.com/topics",
     signals: [
       ["Topics", "Questions customers ask"],
       ["Drafts", "20 posts prepared"],
@@ -369,6 +373,8 @@ const productDemoSteps = [
     body: "Review the finished posts, edit anything that needs a tweak, and skip anything you do not want published.",
     image: "/images/home/review%20edit%20modal.png",
     imageAlt: "Glow Social post review modal with caption and image editing controls",
+    frameTitle: "Post review",
+    frameUrl: "app.glowsocial.com/review",
     signals: [
       ["Review", "Approve, edit, or skip"],
       ["Ready", "No blank calendar"],
@@ -381,6 +387,8 @@ const productDemoSteps = [
     body: "Connect your accounts once. The posts you approve publish on the schedule you choose.",
     image: "/images/home/schedule.png",
     imageAlt: "Glow Social schedule view showing approved posts going out",
+    frameTitle: "Publishing schedule",
+    frameUrl: "app.glowsocial.com/schedule",
     signals: [
       ["Channels", "Social + Google"],
       ["Schedule", "Publishing handled"],
@@ -651,6 +659,15 @@ function ProductDemoSection() {
                   <strong>{item.signals[0][1]}</strong>
                 </div>
                 <div className="product-demo-frame">
+                  <div className="product-demo-browser-bar" aria-hidden="true">
+                    <span className="product-demo-browser-dots">
+                      <span />
+                      <span />
+                      <span />
+                    </span>
+                    <strong>{item.frameTitle}</strong>
+                    <span>{item.frameUrl}</span>
+                  </div>
                   <img src={item.image} alt={item.imageAlt} loading="lazy" decoding="async" />
                 </div>
                 <div className="product-demo-signal product-demo-signal--bottom">
@@ -763,9 +780,8 @@ export default function HomePageContent() {
               Done-for-you social media
             </span>
             <h1>
-              <span>Your website</span>
-              <span className="hero-for-line">becomes <strong>a month</strong></span>
-              <span>of posts.</span>
+              <span>Your website becomes</span>
+              <span className="hero-for-line"><strong>a month</strong> of posts.</span>
             </h1>
             <p className="hero-sub">
               Drop in your URL. We&apos;ll generate 20 ready-to-review posts for social and Google Business.
@@ -825,6 +841,15 @@ export default function HomePageContent() {
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
             <div><strong>No contracts</strong> cancel anytime</div>
           </div>
+          <a
+            className="trust-stat trust-stat--grant"
+            href="https://elevenlabs.io/startup-grants"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M8 21h8" /><path d="M12 17v4" /><path d="M7 4h10v4a5 5 0 0 1-10 0V4z" /><path d="M5 5H3v2a4 4 0 0 0 4 4" /><path d="M19 5h2v2a4 4 0 0 1-4 4" /></svg>
+            <div><strong>ElevenLabs</strong> grant recipient</div>
+          </a>
         </div>
       </section>
 
@@ -839,6 +864,15 @@ export default function HomePageContent() {
           <h2>Pick how much posting you want handled.</h2>
           <p className="section-sub">Start with steady monthly posts. Add review monitoring, carousels, video posts, and campaign support when they are useful. {pricing.billingPolicy}</p>
           <p className="pricing-preview-note">Preview first if you want to see the posts before choosing a plan. No login or payment required.</p>
+          <a
+            href="https://app.glowsocial.com/preview"
+            className="btn btn--primary pricing-preview-cta"
+            data-analytics-event="pricing_preview_cta_click"
+            data-analytics-label="Pricing preview first CTA"
+            data-analytics-location="pricing"
+          >
+            See your own posts first
+          </a>
           <div className="pricing-grid">
             <div className="price-card">
               <h3>Glo Core</h3>
@@ -919,7 +953,30 @@ export default function HomePageContent() {
         <div className="container">
           <h2>Show what you know<br />without adding social media to your week.</h2>
           <p><BrandName /> figures out what to say, creates the posts, and keeps your business visible where customers already check.<br />{pricing.summaryFull} {pricing.billingPolicy}</p>
-          <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg btn--glow" id="final-cta">GET MY SOCIAL MEDIA HANDLED</a>
+          <form
+            className="final-preview-form"
+            action="https://app.glowsocial.com/preview"
+            method="get"
+            data-analytics-event="final_preview_submit"
+            data-analytics-label="Final preview form"
+            data-analytics-location="final_cta"
+          >
+            <div className="final-preview-input-wrap">
+              <input
+                type="text"
+                name="url"
+                placeholder="yourbusiness.com"
+                autoComplete="off"
+                inputMode="url"
+                aria-label="Business website"
+                required
+              />
+              <button type="submit" id="final-cta">
+                Generate preview
+              </button>
+            </div>
+          </form>
+          <span className="final-preview-note">No login. No payment. See the posts first.</span>
         </div>
       </section>
 

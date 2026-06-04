@@ -86,8 +86,14 @@ export default function Header() {
           <a href="https://app.glowsocial.com/login" className="btn btn--outline">
             LOG IN
           </a>
-          <a href="https://app.glowsocial.com/signup" className="btn btn--primary">
-            GET STARTED
+          <a
+            href="https://app.glowsocial.com/preview"
+            className="btn btn--primary"
+            data-analytics-event="header_preview_cta_click"
+            data-analytics-label="Header preview CTA"
+            data-analytics-location="header"
+          >
+            GET A PREVIEW
           </a>
         </div>
 
@@ -133,8 +139,14 @@ export default function Header() {
             <a href="https://app.glowsocial.com/login" className="btn btn--outline btn--block">
               LOG IN
             </a>
-            <a href="https://app.glowsocial.com/signup" className="btn btn--primary btn--block">
-              GET STARTED
+            <a
+              href="https://app.glowsocial.com/preview"
+              className="btn btn--primary btn--block"
+              data-analytics-event="header_preview_cta_click"
+              data-analytics-label="Mobile header preview CTA"
+              data-analytics-location="mobile_header"
+            >
+              GET A PREVIEW
             </a>
           </div>
         </nav>
