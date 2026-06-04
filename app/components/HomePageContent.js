@@ -7,42 +7,294 @@ function BrandName() {
   return <span className="brand-nowrap">Glow Social</span>;
 }
 
-const preparedPostCards = [
+const preparedPostCardData = [
   {
+    type: "video",
     title: "Morning routine cafe",
+    platform: "Instagram",
+    meta: "Cafe and bakery · 1h",
+    avatar: "IN",
     caption: "The best cafes are not just selling coffee. They give people a reliable third place before the day starts.",
-    image: "/images/home/hero-instagram-post.png",
-    imageAlt: "Generated post image for a cafe",
+    visualTitle: "Regulars are built before 9am",
+    visualDetail: "Cafe owners win when the morning routine feels easy to repeat.",
     accent: "instagram",
     offset: "6px",
   },
   {
+    type: "quote",
+    title: "Rose & Finch Salon",
+    platform: "Instagram",
+    meta: "Quote post · Today",
+    avatar: "IG",
+    quote: "The right hair color should still feel like you, just better lit.",
+    quoteStyle: "photo",
+    caption: "A small trust-building post that sounds like the stylist, not a template.",
+    accent: "instagram",
+    offset: "-2px",
+  },
+  {
+    type: "carousel",
+    title: "Oak & Stone Interiors",
+    platform: "Instagram",
+    meta: "Carousel · 4 slides",
+    avatar: "CA",
+    slides: [
+      ["1", "Before you renovate", "Three decisions that make the project calmer."],
+      ["2", "Start with use", "Choose the room around how you actually live."],
+      ["3", "Then choose materials", "Texture, maintenance, and light matter more than trends."],
+    ],
+    caption: "Carousel posts turn one useful idea into a swipeable mini-guide.",
+    accent: "carousel",
+    offset: "10px",
+  },
+  {
+    type: "video",
     title: "Greenview landscaping",
+    platform: "Facebook",
+    meta: "Local service business · 2h",
+    avatar: "FA",
     caption: "If your lawn only gets attention when it looks bad, you are already working from behind. The greenest yards are planned earlier.",
-    image: "/images/home/hero-facebook-post.png",
-    imageAlt: "Generated post image for a landscaping business",
+    visualTitle: "The yard gets planned before it browns",
+    visualDetail: "A seasonal reminder for homeowners who want less guesswork.",
     accent: "facebook",
     offset: "0px",
   },
   {
+    type: "quote",
+    title: "North Mesa Dental",
+    platform: "Facebook",
+    meta: "Quote post · Today",
+    avatar: "FB",
+    quote: "A good visit starts before the appointment, when people know what to expect.",
+    quoteStyle: "light",
+    caption: "Quote graphics help service businesses make invisible care visible.",
+    accent: "facebook",
+    offset: "5px",
+  },
+  {
+    type: "carousel",
+    title: "Desert Key Realty",
+    platform: "LinkedIn",
+    meta: "Carousel · 5 slides",
+    avatar: "LI",
+    slides: [
+      ["1", "Buying this spring?", "Do these three things before you tour."],
+      ["2", "Know the payment", "Pre-approval is only useful if the monthly number works."],
+      ["3", "Watch the timing", "Your best offer depends on more than list price."],
+    ],
+    caption: "A carousel lets a practical advisor teach the whole decision path.",
+    accent: "linkedin",
+    offset: "-4px",
+  },
+  {
+    type: "video",
     title: "Desert key realty",
+    platform: "LinkedIn",
+    meta: "Real estate advisor · 1h",
+    avatar: "LI",
     caption: "Most buyers focus on the listing price. The smarter move is understanding timing, programs, and what needs to be ready first.",
-    image: "/images/home/hero-linkedin-post.png",
-    imageAlt: "Generated post image for a real estate business",
+    visualTitle: "Touring is not the first step",
+    visualDetail: "A practical note about payment, timing, and readiness.",
     accent: "linkedin",
     offset: "8px",
   },
   {
+    type: "video",
     title: "Arc and align wellness",
+    platform: "Google Business",
+    meta: "Profile update · Today",
+    avatar: "GO",
     caption: "Before someone books, they want proof you understand their problem. Your posts can answer that before they call.",
-    image: "/images/home/hero-google-post.png",
-    imageAlt: "Generated post image for a wellness business",
+    visualTitle: "People decide before they book",
+    visualDetail: "A profile update that turns hesitation into confidence.",
     accent: "google",
     offset: "3px",
   },
+  {
+    type: "carousel",
+    title: "Copper Ridge Roofing",
+    platform: "Facebook",
+    meta: "Carousel · 4 slides",
+    avatar: "RF",
+    slides: [
+      ["1", "After the storm", "What homeowners should check before calling anyone."],
+      ["2", "Start from the ground", "Look for granules, dents, and shifted flashing."],
+      ["3", "Document before repair", "Clear photos make the next step easier."],
+    ],
+    caption: "A practical carousel turns seasonal urgency into useful homeowner guidance.",
+    accent: "facebook",
+    offset: "12px",
+  },
+  {
+    type: "quote",
+    title: "Braid & Co",
+    platform: "Instagram",
+    meta: "Quote post · Today",
+    avatar: "IG",
+    quote: "The style should work on Monday morning, not just when you leave the chair.",
+    quoteStyle: "dark",
+    caption: "A quote post gives a local brand a repeatable point of view.",
+    accent: "instagram",
+    offset: "-6px",
+  },
+  {
+    type: "video",
+    title: "Harbor Pet Grooming",
+    platform: "TikTok",
+    meta: "Video post · 3h",
+    avatar: "TT",
+    caption: "The easiest grooming visits usually start before the appointment, with a dog who knows what to expect.",
+    visualTitle: "The calm groom starts before drop-off",
+    visualDetail: "Short-form advice for new puppy owners.",
+    accent: "tiktok",
+    offset: "4px",
+  },
+  {
+    type: "carousel",
+    title: "Summit Chiropractic",
+    platform: "Google Business",
+    meta: "Carousel · 3 slides",
+    avatar: "GO",
+    slides: [
+      ["1", "Desk tension again?", "Your setup may be asking too much from your neck."],
+      ["2", "Move before it hurts", "Small breaks help before stiffness becomes pain."],
+      ["3", "Book when it lingers", "Persistent discomfort deserves a real assessment."],
+    ],
+    caption: "Health carousels can educate without making medical promises.",
+    accent: "google",
+    offset: "9px",
+  },
+  {
+    type: "quote",
+    title: "Bluebird Books",
+    platform: "Threads",
+    meta: "Quote post · 45m",
+    avatar: "TH",
+    quote: "A good bookstore is a shortcut to better conversations.",
+    quoteStyle: "photo",
+    caption: "Short quote posts help community businesses sound memorable.",
+    accent: "threads",
+    offset: "0px",
+  },
+  {
+    type: "video",
+    title: "Elena's Bakery",
+    platform: "Pinterest",
+    meta: "Idea post · 2h",
+    avatar: "PI",
+    caption: "A custom cake should taste like the party, not just match the invitation.",
+    visualTitle: "The cake should taste like the party",
+    visualDetail: "A visual-first prompt for custom bakery orders.",
+    accent: "pinterest",
+    offset: "7px",
+  },
+  {
+    type: "carousel",
+    title: "Metro Auto Repair",
+    platform: "Facebook",
+    meta: "Carousel · 5 slides",
+    avatar: "AR",
+    slides: [
+      ["1", "Before a road trip", "Three checks save bigger problems later."],
+      ["2", "Tires first", "Pressure and tread tell you more than you think."],
+      ["3", "Listen cold", "New sounds on startup are worth catching early."],
+    ],
+    caption: "Service shops can turn routine maintenance into save-worthy posts.",
+    accent: "facebook",
+    offset: "-3px",
+  },
+  {
+    type: "quote",
+    title: "Willow Yoga Studio",
+    platform: "Instagram",
+    meta: "Quote post · Today",
+    avatar: "IG",
+    quote: "Progress is not a pose. It is how you feel walking out.",
+    quoteStyle: "light",
+    caption: "A calm quote post gives the studio a voice without a photo shoot.",
+    accent: "instagram",
+    offset: "11px",
+  },
+  {
+    type: "video",
+    title: "Keystone Home Loans",
+    platform: "LinkedIn",
+    meta: "Advisor post · 1h",
+    avatar: "LI",
+    caption: "The best mortgage conversation starts with what you want monthly life to feel like, not the biggest number you can borrow.",
+    visualTitle: "The payment matters more than the preapproval",
+    visualDetail: "Advice that sounds calmer than a rate table.",
+    accent: "linkedin",
+    offset: "2px",
+  },
+  {
+    type: "carousel",
+    title: "Milo Pet Grooming",
+    platform: "Instagram",
+    meta: "Carousel · 4 slides",
+    avatar: "CA",
+    slides: [
+      ["1", "New puppy?", "Start grooming before the first big haircut."],
+      ["2", "Touch paws often", "Gentle handling makes nail trims less stressful."],
+      ["3", "Keep it short", "Early wins matter more than perfect style."],
+    ],
+    caption: "A carousel gives pet owners something useful to save and share.",
+    accent: "carousel",
+    offset: "-7px",
+  },
+  {
+    type: "quote",
+    title: "Brightline Accounting",
+    platform: "LinkedIn",
+    meta: "Quote post · Today",
+    avatar: "LI",
+    quote: "Clean books are not just for tax season. They are how you make calmer decisions.",
+    quoteStyle: "dark",
+    caption: "Professional services need authority posts that still sound human.",
+    accent: "linkedin",
+    offset: "5px",
+  },
+  {
+    type: "carousel",
+    title: "Saguaro Med Spa",
+    platform: "Instagram",
+    meta: "Carousel · 5 slides",
+    avatar: "MS",
+    slides: [
+      ["1", "Before your first visit", "Know the goal before choosing the treatment."],
+      ["2", "Ask about downtime", "The best plan fits your calendar too."],
+      ["3", "Think in months", "Subtle results usually come from consistency."],
+    ],
+    caption: "A carousel helps explain premium services without sounding salesy.",
+    accent: "pinterest",
+    offset: "13px",
+  },
 ];
 
+const preparedPostCards = preparedPostCardData.map((card, index) => ({
+  ...card,
+  image: `/images/home/generated/hero-bg-${String(index + 1).padStart(2, "0")}.jpg`,
+  carouselImages: card.type === "carousel"
+    ? card.slides.map((_, slideIndex) => (
+      `/images/home/generated/carousel-${String(index + 1).padStart(2, "0")}-slide-${slideIndex + 1}.jpg`
+    ))
+    : null,
+}));
+
 const heroCarouselGroups = [preparedPostCards, preparedPostCards, preparedPostCards];
+
+const heroPostEngagement = [
+  { likes: "42", comments: "5" },
+  { likes: "31", comments: "4" },
+  { likes: "68", comments: "9" },
+  { likes: "24", comments: "3" },
+  { likes: "53", comments: "7" },
+  { likes: "39", comments: "6" },
+  { likes: "47", comments: "4" },
+  { likes: "28", comments: "2" },
+  { likes: "61", comments: "8" },
+  { likes: "44", comments: "5" },
+];
 
 const outcomeCards = [
   {
@@ -135,35 +387,161 @@ const workflowSummarySteps = [
   },
 ];
 
+function HeroGeneratedArtwork({
+  avatar = "G",
+  body = "",
+  businessName = "",
+  eyebrow,
+  image,
+  quoteStyle = "photo",
+  slideNumber = 1,
+  title,
+  totalSlides = 3,
+  variant,
+}) {
+  const quoteStyleClass = variant === "quote" ? ` hero-generated-art--quote-${quoteStyle}` : "";
+
+  return (
+    <div
+      aria-label={`${eyebrow}: ${title}`}
+      className={`hero-generated-art hero-generated-art--${variant}${quoteStyleClass}`}
+      role="img"
+      style={{ "--hero-generated-image": `url(${image})` }}
+    >
+      <span className="hero-generated-scrim" />
+      {variant === "carousel" ? (
+        <div className="hero-generated-carousel-card">
+          <div className="hero-generated-carousel-header">
+            <span className="hero-generated-carousel-avatar">{avatar}</span>
+            <span className="hero-generated-carousel-meta">
+              <strong>{businessName}</strong>
+              <small>{slideNumber} / {totalSlides}</small>
+            </span>
+          </div>
+          <span className="hero-generated-carousel-accent" />
+          <div className="hero-generated-carousel-copy">
+            <strong>{title}</strong>
+            {body ? <p>{body}</p> : null}
+          </div>
+          <div className="hero-generated-carousel-progress" aria-hidden="true">
+            {Array.from({ length: totalSlides }).map((_, index) => (
+              <span
+                className={index + 1 === Number(slideNumber) ? "is-active" : undefined}
+                key={`${title}-progress-${index}`}
+              />
+            ))}
+          </div>
+        </div>
+      ) : variant === "quote" ? (
+        <>
+          <div className="hero-generated-quote-card">
+            <strong>{title}</strong>
+          </div>
+          <div className="hero-generated-quote-logo-row" aria-hidden="true">
+            <span />
+            <span />
+            <span />
+            <span />
+          </div>
+        </>
+      ) : (
+        <div className="hero-generated-video-card">
+          <strong>{title}</strong>
+        </div>
+      )}
+    </div>
+  );
+}
+
 function HeroVideoCarousel() {
   return (
-    <div className="hero-video-carousel" aria-label="Glow Social finished post videos">
+    <div className="hero-video-carousel" aria-label="Glow Social finished social post examples">
       <div className="blackbox-output-rail" aria-hidden="true">
         <div className="blackbox-output-track">
           {heroCarouselGroups.map((group, groupIndex) => (
-            <div className="blackbox-output-group" key={`video-group-${groupIndex}`}>
-              {group.map((slide, index) => (
-                <article
-                  className={`hero-video-card hero-video-card--${slide.accent}`}
-                  style={{
-                    "--card-offset": slide.offset,
-                  }}
-                  key={`${slide.title}-${groupIndex}`}
-                >
-                  <div className="hero-video-media">
-                    <img
-                      src={slide.image}
-                      alt=""
-                      width={382}
-                      height={510}
-                      loading={groupIndex === 0 && index < preparedPostCards.length ? "eager" : "lazy"}
-                      decoding="async"
-                    />
-                    <span className="hero-video-play" />
-                    <span className="hero-video-progress" />
-                  </div>
-                </article>
-              ))}
+            <div className="blackbox-output-group" key={`post-group-${groupIndex}`}>
+              {group.map((slide, index) => {
+                const engagement = heroPostEngagement[index % heroPostEngagement.length];
+
+                return (
+                  <article
+                    className={`hero-video-card hero-video-card--${slide.accent} hero-video-card--${slide.type}`}
+                    style={{
+                      "--card-offset": slide.offset,
+                    }}
+                    key={`${slide.title}-${slide.type}-${groupIndex}-${index}`}
+                  >
+                    <div className="hero-post-header">
+                      <span className="hero-post-avatar">{slide.avatar}</span>
+                      <span className="hero-post-name">
+                        <strong>{slide.title}</strong>
+                        <small>{slide.platform} · {slide.meta}</small>
+                      </span>
+                      <span className="hero-post-menu">•••</span>
+                    </div>
+                    {slide.type === "quote" ? (
+                      <div className="hero-quote-media">
+                        <HeroGeneratedArtwork
+                          eyebrow={slide.platform}
+                          image={slide.image}
+                          quoteStyle={slide.quoteStyle}
+                          title={`"${slide.quote}"`}
+                          variant="quote"
+                        />
+                      </div>
+                    ) : slide.type === "carousel" ? (
+                      <div className="hero-carousel-media">
+                        <div className="hero-carousel-stack">
+                          {slide.slides.map(([number], slideIndex) => (
+                            <div className="hero-carousel-slide" key={`${slide.title}-${number}`}>
+                              <span
+                                className="hero-carousel-rendered-slide"
+                                style={{ "--hero-carousel-slide-image": `url(${slide.carouselImages[slideIndex]})` }}
+                              />
+                            </div>
+                          ))}
+                        </div>
+                        <div className="hero-carousel-dots" aria-hidden="true">
+                          <span />
+                          <span />
+                          <span />
+                        </div>
+                      </div>
+                    ) : (
+                      <div className="hero-video-media">
+                        <HeroGeneratedArtwork
+                          eyebrow={slide.platform}
+                          image={slide.image}
+                          title={slide.visualTitle}
+                          variant="video"
+                        />
+                        <span className="hero-video-play" />
+                        <span className="hero-video-progress" />
+                      </div>
+                    )}
+                    <div className="hero-post-actions">
+                      <span className="hero-post-action-set">
+                        <span className="hero-post-action-icon">
+                          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z" /></svg>
+                        </span>
+                        <span className="hero-post-action-icon">
+                          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.4 8.4 0 0 1-3.8-.9L3 21l1.9-5.7a8.4 8.4 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.4 8.4 0 0 1 3.8-.9h.5A8.5 8.5 0 0 1 21 11v.5z" /></svg>
+                        </span>
+                        <span className="hero-post-action-icon">
+                          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="M22 2 11 13" /><path d="m22 2-7 20-4-9-9-4 20-7z" /></svg>
+                        </span>
+                      </span>
+                      <span className="hero-post-action-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="M19 21 12 17 5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
+                      </span>
+                    </div>
+                    <p className="hero-post-stats">
+                      <strong>{engagement.likes} likes</strong>
+                      <span>{engagement.comments} comments</span>
+                    </p>
+                  </article>
+                );
+              })}
             </div>
           ))}
         </div>
