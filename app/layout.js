@@ -27,19 +27,19 @@ export const metadata = {
     },
   },
   title: {
-    default: "Glow Social | Social media on autopilot for your business",
+    default: "Glow Social | Social media that just works for your business",
     template: "%s | Glow Social",
   },
   description:
-    "Glow Social turns your website and business context into finished posts for social channels plus Google Business Profile.",
+    "Glow Social turns your website into ready-to-approve posts for social channels plus Google Business Profile. No content calendar or strategy homework.",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://glowsocial.com",
     siteName: "Glow Social",
-    title: "Glow Social | Social media on autopilot for your business",
+    title: "Glow Social | Social media that just works for your business",
     description:
-      "Glow Social turns your website, services, offers, and proof into finished posts for social channels plus Google Business Profile.",
+      "Glow Social turns your website, services, offers, and proof into ready-to-approve posts for social channels plus Google Business Profile.",
     images: [
       {
         url: "https://glowsocial.com/images/og-image.png",
@@ -51,9 +51,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Glow Social | Social media on autopilot for your business",
+    title: "Glow Social | Social media that just works for your business",
     description:
-      "Glow Social turns your website and business context into finished posts for social channels plus Google Business Profile.",
+      "Glow Social turns your website into ready-to-approve posts for social channels plus Google Business Profile.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
   robots: {

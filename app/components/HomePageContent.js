@@ -630,7 +630,7 @@ function ProductDemoSection() {
           <span className="section-kicker">How it works</span>
           <h2 id="product-demo-heading">One website in. A month of posts out.</h2>
           <p className="section-sub">
-            Add your URL. <BrandName /> finds what to say, drafts the posts, and publishes what you approve.
+            Add your URL. <BrandName /> drafts the posts, gives you final say, and publishes what you approve.
           </p>
           <a
             href="https://app.glowsocial.com/preview"
@@ -704,7 +704,7 @@ function ProductDemoSection() {
                   required
                 />
                 <button type="submit">
-                  <span>Generate preview</span>
+                  <span>See my posts</span>
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
                 </button>
               </div>
@@ -722,7 +722,7 @@ function BeforeAfterSection() {
     <section className="before-after" aria-labelledby="before-after-heading">
       <div className="container">
         <h2 id="before-after-heading">
-          From making posts yourself to approving what is ready.
+          From making posts yourself to reviewing what is ready.
         </h2>
         <div className="before-after-card">
           <div className="before-after-column before-after-column--before">
@@ -731,7 +731,7 @@ function BeforeAfterSection() {
           </div>
           <div className="before-after-column before-after-column--after">
             <p className="section-kicker">After</p>
-            <h3>Glow Social handling the system</h3>
+            <h3>Glow Social keeping it handled</h3>
           </div>
           <div className="before-after-rows">
             {beforeAfterRows.map(([before, after]) => (
@@ -815,10 +815,11 @@ export default function HomePageContent() {
             </span>
             <h1>
               <span>Your website becomes</span>
+              {" "}
               <span className="hero-for-line"><strong>a month</strong> of posts.</span>
             </h1>
             <p className="hero-sub">
-              Drop in your URL. We&apos;ll generate 20 ready-to-review posts for social and Google Business.
+              Drop in your URL. Get 20 posts ready to approve for social and Google Business. No prompts, no content calendar, no figuring out what to say.
             </p>
             <form
               className="hero-url-form"
@@ -842,7 +843,7 @@ export default function HomePageContent() {
                   required
                 />
                 <button type="submit" className="hero-url-btn" id="hero-url-submit">
-                  <span>Generate preview</span>
+                  <span>See my posts</span>
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
                 </button>
               </div>
@@ -865,7 +866,7 @@ export default function HomePageContent() {
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
-            <div><strong>Strategy from</strong> your site</div>
+            <div><strong>No strategy</strong> homework</div>
           </div>
           <div className="trust-stat">
             <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
@@ -895,8 +896,8 @@ export default function HomePageContent() {
       {/* ============ PRICING ============ */}
       <section className="pricing" id="pricing">
         <div className="container">
-          <h2>Pick how much posting you want handled.</h2>
-          <p className="section-sub">Start with steady monthly posts. Add review monitoring, carousels, video posts, and campaign support when they are useful. {pricing.billingPolicy}</p>
+          <h2>Start with steady posting. Add more only when you need it.</h2>
+          <p className="section-sub">Core keeps your posts going. Add review monitoring, carousels, video posts, and campaign support only when they are useful. {pricing.billingPolicy}</p>
           <p className="pricing-preview-note">Preview first if you want to see the posts before choosing a plan. No login or payment required.</p>
           <a
             href="https://app.glowsocial.com/preview"
@@ -986,7 +987,7 @@ export default function HomePageContent() {
       <section className="final-cta">
         <div className="container">
           <h2>See a month of posts<br />before you pay.</h2>
-          <p>Enter your website and <BrandName /> will create a ready-to-review preview for social and Google Business.</p>
+          <p>Enter your website and <BrandName /> will create posts for social and Google Business that are ready for you to approve.</p>
           <form
             className="final-preview-form"
             action="https://app.glowsocial.com/preview"
@@ -1006,7 +1007,7 @@ export default function HomePageContent() {
                 required
               />
               <button type="submit" id="final-cta">
-                Generate preview
+                See my posts
               </button>
             </div>
           </form>
@@ -1029,7 +1030,7 @@ export default function HomePageContent() {
             <details className="faq-item"><summary><span className="faq-question">How is this different from hiring an agency or using a scheduler?</span></summary><p>A scheduler gives you another empty calendar to fill. An agency can help, but usually costs more and takes more onboarding. <BrandName /> sits in the middle: your website goes in, 20 posts come back for review, and approved posts go out on schedule without a contract.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I edit before anything posts?</span></summary><p>Yes. You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the profile customers check does not go quiet.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know social media matters but do not want to make content, hire an agency, or keep remembering to post.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Who is <BrandName /> best for?</span></summary><p><BrandName /> is for business owners who know social media matters but do not want to become content creators, learn another tool, hire an agency, or keep remembering to post.</p></details>
           </div>
         </div>
       </section>

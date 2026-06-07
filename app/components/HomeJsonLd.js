@@ -16,7 +16,7 @@ export default function HomeJsonLd() {
         name: "Can I see posts before I pay?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Yes. Enter your website to generate a free Glow Social preview first. You can review the actual posts before you create an account or choose a plan.",
+          text: "Yes. Enter your website to see a free Glow Social preview first. You can review the actual posts before you create an account or choose a plan.",
         },
       },
       {
