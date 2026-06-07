@@ -57,7 +57,7 @@ export default function About() {
             </div>
             <div>
               <strong>5 min</strong>
-              <span>typical setup time</span>
+              <span>to start a preview</span>
             </div>
             <div>
               <strong>15+</strong>
@@ -121,9 +121,9 @@ export default function About() {
 
           <h2>What We Do</h2>
           <p>
-            Glow Social creates 20 finished posts each month for local
-            businesses, publishes across the platforms customers check, and
-            includes Google Business Profile visibility.
+            Glow Social turns a business website into 20 posts ready to
+            approve, then publishes approved posts across the places customers
+            check.
           </p>
           <p>
             We read your website, learn your brand voice, and create custom
@@ -138,11 +138,11 @@ export default function About() {
 
           <h2>How It Works</h2>
           <ol>
-            <li><strong>Enter your website URL</strong> — We read up to 11 pages to learn your brand</li>
-            <li><strong>Connect your platforms</strong> — Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, and more</li>
-            <li><strong>Review and publish</strong> — Approve your posts with 3 taps</li>
+            <li><strong>Enter your website URL</strong> — We read your site and prepare posts from your real business</li>
+            <li><strong>See the posts first</strong> — Review what is ready before you choose a plan</li>
+            <li><strong>Approve what fits</strong> — Connect the profiles you want kept active after you say yes</li>
           </ol>
-          <p>Setup takes 5 minutes. Your first posts are ready the same day.</p>
+          <p>Starting a preview takes a few minutes. Your first posts come before the commitment.</p>
 
           <section className="about-difference">
             <p className="founder-label">What Makes Us Different</p>
@@ -210,8 +210,8 @@ export default function About() {
 
           <div className="about-cta">
             <p className="about-cta-price">{pricing.summaryFull} {pricing.billingPolicy}</p>
-            <a href="https://app.glowsocial.com/" className="btn btn--primary btn--lg">
-              Let Glow Handle My Social Media →
+            <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
+              See my posts
             </a>
           </div>
         </div>

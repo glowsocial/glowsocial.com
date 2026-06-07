@@ -359,7 +359,7 @@ const productDemoSteps = [
     body: "Your first batch is built from useful topics customers already care about, not generic calendar filler.",
     image: "/images/home/content%20topics.png",
     imageAlt: "Glow Social content topics generated from a business website",
-    frameTitle: "Content plan",
+    frameTitle: "Posts prepared",
     frameUrl: "app.glowsocial.com/topics",
     signals: [
       ["Topics", "Questions customers ask"],
@@ -590,7 +590,7 @@ function OutcomeSection() {
           <span className="section-kicker">Why the posts are different</span>
           <h2 id="outcome-heading">Not a calendar full of filler.</h2>
           <p className="section-sub">
-            Glow Social uses your website plus 20+ years of marketing judgment to find what is worth saying before it creates the posts.
+            Glow Social uses your website and real marketing judgment to find what is worth saying before it creates the posts.
           </p>
         </div>
         <div className="outcome-grid">
@@ -639,7 +639,7 @@ function ProductDemoSection() {
             data-analytics-label="How it works preview CTA"
             data-analytics-location="how_it_works"
           >
-            Get a preview
+            See my posts
           </a>
         </div>
         <div className="product-demo-story">
@@ -914,8 +914,8 @@ export default function HomePageContent() {
               <p className="price-fit">Best for steady local presence</p>
               <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
-                <li><strong>20 posts/month</strong> based on what your customers care about</li>
-                <li><strong>Post topics</strong> pulled from your website</li>
+                <li><strong>20 posts ready to approve</strong> every month</li>
+                <li><strong>Post ideas</strong> pulled from your website</li>
                 <li><strong>Google Business</strong> posts included</li>
                 <li><strong>Simple control</strong> before posts go live</li>
               </ul>
@@ -1022,11 +1022,11 @@ export default function HomePageContent() {
           <div className="faq-list">
             <details className="faq-item"><summary><span className="faq-question">Will this get me more customers?</span></summary><p><BrandName /> is not a replacement for advertising. It helps your business look current when people already considering you check your profiles before they call, book, visit, or refer.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much does <BrandName /> cost?</span></summary><p>{pricing.summaryFull} {pricing.billingPolicy} You keep access through the end of your paid period.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">Can I see posts before I pay?</span></summary><p>Yes. Enter your website to generate a free preview first. You can review the actual posts before you create an account or choose a plan.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">Do I need to connect accounts before the preview?</span></summary><p>No. The preview only needs your website. You connect social accounts later, after you have seen the posts and decided you want approved posts published.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Can I see posts before I pay?</span></summary><p>Yes. Enter your website to see posts ready to review before you create an account, connect profiles, or choose a plan.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Do I need to connect accounts before the preview?</span></summary><p>No. The preview only needs your website. Connections come later, after you see the posts and decide what should publish.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I cancel anytime?</span></summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Give us your website, review the posts, approve what fits, and connect your social accounts. After that, approved posts go out on schedule.</p></details>
-            <details className="faq-item"><summary><span className="faq-question">How does <BrandName /> know what to post?</span></summary><p>We use your website plus our own marketing process shaped by 20+ years of experience to identify what customers care about, why they should trust you, and what makes you different.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Give us your website, review the posts, and approve what fits. You connect social accounts later, after you know the posts are worth publishing.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">How does <BrandName /> know what to post?</span></summary><p>We use your website and real marketing judgment to identify what customers care about, why they should trust you, and what makes you different.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How is this different from hiring an agency or using a scheduler?</span></summary><p>A scheduler gives you another empty calendar to fill. An agency can help, but usually costs more and takes more onboarding. <BrandName /> sits in the middle: your website goes in, 20 posts come back for review, and approved posts go out on schedule without a contract.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I edit before anything posts?</span></summary><p>Yes. You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Does <BrandName /> post to Google Business Profile?</span></summary><p>Yes. <BrandName /> publishes to Google Business Profile alongside your regular social content, so the profile customers check does not go quiet.</p></details>

@@ -5,28 +5,28 @@ import { useState, useEffect, useCallback, useRef } from 'react'
 const SLIDES = [
   {
     step: 'Reading your website',
-    headline: "We read your website so you don't have to write a thing",
-    description: "Right now we're scanning up to 11 pages of your site — your services, your tone, your unique value props. This is how every post becomes yours, not a template.",
+    headline: "We use your website so you don't have to prompt anything",
+    description: "Right now we're reading your services, tone, proof, and customer language. That gives Glow Social enough context to make posts that feel like your business.",
   },
   {
-    step: 'Analyzing your brand',
-    headline: 'Your brand voice, not a generic one',
-    description: "We detect how you talk to customers — professional, friendly, technical — and write every caption in that voice. No 'Happy Monday!' filler. Just you.",
+    step: 'Finding what matters',
+    headline: 'Useful posts, not generic calendar filler',
+    description: "We look for the services, questions, proof, and local context customers actually care about, then turn those into posts.",
   },
   {
     step: 'Writing your posts',
-    headline: 'Preview posts, written and scheduled',
-    description: 'You get fresh content distributed across Facebook, Instagram, LinkedIn, and more. Published automatically on a steady weekly schedule.',
+    headline: 'Posts ready to approve',
+    description: 'You get a batch of posts for social and Google Business. Review what is ready, edit what needs your voice, and skip anything that does not fit.',
   },
   {
     step: 'Preparing images',
-    headline: 'Custom images matched to every post',
-    description: 'Each post gets a custom photorealistic image tailored to your industry and content. No stock photos, no Canva templates.',
+    headline: 'Images matched to the post',
+    description: 'Each post gets a visual matched to the topic and your business context. No separate design tool required.',
   },
   {
     step: 'Almost ready',
-    headline: "Approve with 3 taps. That's your entire workflow.",
-    description: "We send your posts for review. You tap approve. They publish automatically. If you're busy, they publish anyway.",
+    headline: 'You keep final say',
+    description: 'The preview shows what is ready. If you subscribe, Glow Social keeps creating posts and publishes what you approve.',
   },
 ]
 
@@ -191,18 +191,18 @@ export default function PreviewClient() {
         <section className="preview-hero">
           <div className="container preview-hero-inner">
             <div className="preview-content">
-              <div className="preview-badge">Free for Any Business — No Card, No Login</div>
+              <div className="preview-badge">Free preview — No card, no login</div>
               <h1 className="preview-hl">
-                See a sample batch of done-for-you social media — written for your business
+                Your website becomes posts ready to approve
               </h1>
               <p className="preview-sub">
-                Drop your website below. We scan your services, your tone, and your brand — then write preview posts that sound like you wrote them on your best day.
+                Drop your website below. Glow Social turns it into posts for social and Google Business, with no prompts, no content calendar, and no account connections up front.
               </p>
               <div className="preview-features">
                 {[
-                  ['Reads your actual website', 'We scan your services, tone, and unique value to write posts that sound like you.'],
-                  ['Custom images for every post', 'Photorealistic images tailored to your industry. No stock photos.'],
-                  ['Scheduled and ready to go', 'A full month of content on a Mon/Wed/Fri schedule. Copy it straight into your channels.'],
+                  ['No prompts to write', 'Your website gives us the context, so you do not have to figure out what to ask for.'],
+                  ['Posts ready to review', 'See captions and images before you choose a plan or connect social accounts.'],
+                  ['Social + Google Business', 'The preview shows the kind of steady visibility Glow Social can keep going for you.'],
                 ].map(([title, desc]) => (
                   <div key={title} className="preview-feature">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="check-icon">
@@ -216,8 +216,8 @@ export default function PreviewClient() {
 
             <div className="preview-form-wrapper">
               <div className="preview-card">
-                <h2>Get your free preview</h2>
-                <p>12 preview posts, custom images, and a content calendar — in 60 seconds.</p>
+                <h2>See my posts</h2>
+                <p>Enter your website and email. We will create a preview batch before you choose a plan.</p>
                 <form onSubmit={handleSubmit} className="preview-form">
                   <div className="form-group">
                     <label htmlFor="preview-url">Your Website URL</label>
@@ -247,9 +247,9 @@ export default function PreviewClient() {
                     <div className="preview-error">{errorMsg}</div>
                   )}
                   <button type="submit" className="btn btn--primary btn--lg preview-btn">
-                    {phase === 'error' ? 'Try Again' : 'Show Me My Posts'}
+                    {phase === 'error' ? 'Try Again' : 'See my posts'}
                   </button>
-                  <p className="privacy-note">Results are generated instantly. No login required.</p>
+                  <p className="privacy-note">No login, card, or social account connection required.</p>
                 </form>
               </div>
             </div>
@@ -292,7 +292,7 @@ export default function PreviewClient() {
               style={{ width: `${((slideIndex + 1) / SLIDES.length) * 100}%`, transition: `width ${SLIDE_DURATION}ms linear` }}
             />
           </div>
-          <p className="preview-progress-label">Creating your personalized content...</p>
+          <p className="preview-progress-label">Preparing posts for review...</p>
         </div>
       </div>
     )
@@ -308,12 +308,12 @@ export default function PreviewClient() {
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="16" height="16">
               <polyline points="20 6 9 17 4 12" />
             </svg>
-            {posts.length} posts created
+            {posts.length} posts ready
           </div>
           <h2 className="preview-results-hl">
-            {businessName ? `Here's your month of content, ${businessName}` : "Here's your month of social media content"}
+            {businessName ? `Here are posts ready for ${businessName}` : "Here are posts ready to review"}
           </h2>
-          <p className="preview-results-sub">Every caption is yours to keep. Tap Copy on any post to grab it.</p>
+          <p className="preview-results-sub">Every caption is yours to keep. If you subscribe, this becomes your approval workflow.</p>
 
           {intelligence && (intelligence.services?.length > 0 || intelligence.geo?.length > 0) && (
             <div className="preview-intelligence">
@@ -391,11 +391,11 @@ export default function PreviewClient() {
 
         {/* CTA */}
         <div className="preview-cta-block">
-          <h3>Ready to have this done for you every month?</h3>
-          <p>Glow Social writes and schedules your posts automatically — $99/mo, cancel any time.</p>
+          <h3>Want this handled every month?</h3>
+          <p>Glow Social turns your website into posts for social and Google Business, then publishes what you approve. Core starts at $99/mo, cancel anytime.</p>
           <div className="preview-cta-actions">
             <a href="https://app.glowsocial.com/pricing" className="btn btn--primary btn--lg">
-              Get Started — $99/mo
+              Start with Core - $99/mo
             </a>
             <button onClick={handleReset} className="preview-restart-btn">
               Try a different website

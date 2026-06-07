@@ -1,6 +1,6 @@
 ---
-title: "Instagram Caption Length 2026: Character Limits and Tips"
-description: "Instagram captions can be 2,200 characters, but the first 125 matter most. See ideal lengths for Instagram, TikTok, Facebook, LinkedIn, and GBP."
+title: "Social Media Caption Limits 2026: IG, TikTok, LinkedIn"
+description: "See 2026 caption limits and ideal lengths for Instagram, TikTok, Facebook, LinkedIn, Google Business Profile, hashtags, and more."
 slug: "social-media-caption-length"
 date: "2026-03-23"
 faqs:
@@ -8,6 +8,10 @@ faqs:
     a: "The ideal Instagram caption length is 138-150 characters for most posts. Instagram allows up to 2,200 characters, but only about the first 125 characters show before the 'more' cutoff, so the hook matters more than the total length. Longer captions of 800-1,500 characters can work for educational carousels, storytelling, and posts built for saves or shares."
   - q: "What is the Instagram caption character limit in 2026?"
     a: "Instagram captions allow up to 2,200 characters in 2026. For most business posts, the better target is 138-150 characters, with the hook or most important phrase in the first 125 characters before the caption is truncated."
+  - q: "What are the main social media caption limits in 2026?"
+    a: "In 2026, Instagram captions allow 2,200 characters, Facebook posts allow 63,206 characters, LinkedIn posts allow 3,000 characters, Google Business Profile posts allow 1,500 characters, and TikTok caption limits vary by posting path, with 2,200 characters still the safest scheduler-friendly ceiling."
+  - q: "What is the Instagram bio character limit in 2026?"
+    a: "Instagram bios allow 150 characters. Put your location, service, audience, and next step in plain language because the bio is often what people check before following or contacting a business."
   - q: "How long should a Facebook post be?"
     a: "The ideal Facebook post length is 40-80 characters for engagement, though posts up to 250 characters perform well for business pages. Facebook allows up to 63,206 characters, but shorter posts consistently receive more interactions. Front-load your key message in the first two lines."
   - q: "What's the best LinkedIn post length?"
@@ -22,11 +26,13 @@ Writing social media captions that actually get engagement starts with one quest
 
 The answer depends on the platform. What works on LinkedIn would flop on TikTok. What performs on Instagram doesn't translate to Facebook.
 
-Here's the definitive guide to caption length for every major platform in 2026, backed by engagement data.
+Here's the definitive guide to caption length and character limits for every major platform in 2026, including Instagram, TikTok, Facebook, LinkedIn, and Google Business Profile.
 
-## Direct Answer: Instagram Caption Character Limit
+## Direct Answer: Social Media Caption Limits
 
 The Instagram caption character limit is **2,200 characters** in 2026. The ideal Instagram caption length is shorter for most posts: **138-150 characters**, with the hook in the first **125 characters** before the "more" cutoff.
+
+Across social platforms, the practical rule is simple: use the character limit as the ceiling, not the goal. Instagram and Facebook usually reward shorter captions, LinkedIn can support longer posts, TikTok captions should support the video and search intent, and Google Business Profile posts should be clear local updates with a next step.
 
 <table>
 <tr><th>Instagram caption question</th><th>2026 answer</th></tr>
@@ -34,6 +40,7 @@ The Instagram caption character limit is **2,200 characters** in 2026. The ideal
 <tr><td>Best caption length for most posts</td><td>138-150 characters</td></tr>
 <tr><td>Visible hook before "more"</td><td>About the first 125 characters</td></tr>
 <tr><td>Best hashtag count</td><td>3-5 relevant hashtags</td></tr>
+<tr><td>Instagram bio character limit</td><td>150 characters</td></tr>
 </table>
 
 For TikTok, keep captions around **50-150 characters** unless the caption is doing search work. TikTok caption limits can vary by posting path; many scheduling and API workflows still use a **2,200-character** limit even when native posting supports longer captions. For LinkedIn, longer posts around **1,200-1,600 characters** can work because the platform rewards dwell time. For Facebook and Google Business Profile, short and clear usually wins.
@@ -63,7 +70,10 @@ Caption length matters, but it is not the whole strategy. A 140-character captio
 <table>
 <tr><th>Search question</th><th>Short answer</th><th>Best practice</th></tr>
 <tr><td>Instagram caption character limit 2026</td><td>Instagram captions allow up to 2,200 characters.</td><td>Put the hook in the first 125 characters; use longer captions only when the post teaches or tells a story.</td></tr>
+<tr><td>Instagram bio character limit 2026</td><td>Instagram bios allow up to 150 characters.</td><td>Use the space for who you help, where you are, what you do, and the next step.</td></tr>
 <tr><td>TikTok caption length 2026</td><td>Use 2,200 characters as the safest scheduler-friendly ceiling; some native TikTok workflows support longer captions.</td><td>Write the searchable phrase naturally, then keep the visible caption short enough to support the video.</td></tr>
+<tr><td>Instagram comment character limit 2026</td><td>Instagram comments can be long, but short comments usually work better for engagement.</td><td>Use comments for conversation, not essay-length follow-ups.</td></tr>
+<tr><td>Instagram direct message character limit 2026</td><td>DM limits can vary by app state and account behavior.</td><td>Keep outreach messages short, clear, and human; long sales messages usually underperform.</td></tr>
 <tr><td>LinkedIn post character limit 2026</td><td>LinkedIn posts allow up to 3,000 characters.</td><td>Use 1,200-1,600 characters for thought leadership posts, with line breaks every 1-2 sentences.</td></tr>
 <tr><td>Facebook caption length</td><td>Facebook posts can be very long, but business posts usually perform better under 250 characters.</td><td>Lead with the offer, question, or key update before the feed truncates the post.</td></tr>
 <tr><td>Google Business Profile post length</td><td>Google Business Profile posts allow up to 1,500 characters.</td><td>Use 150-300 characters, mention the service or location, and include a clear next step.</td></tr>
@@ -219,14 +229,14 @@ Once that mix is in place, caption length becomes easier. You are not guessing. 
 
 If figuring out the right caption length, hashtag strategy, and posting schedule for each platform sounds like a lot of work — it is. That's exactly why [Glow Social's affordable social media management service](/affordable-social-media-management) exists.
 
-Glow Social creates and publishes 20 posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — with platform-optimized captions, professional graphics, and your brand voice built in.
+Glow Social turns your website into 20 posts ready to approve across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — with platform-aware captions, professional graphics, and your brand voice built in.
 
-**$99/month. 5-minute setup. No contracts.**
+**Preview the posts first. Plans start at $99/month. No contracts.**
 
-[Get started at glowsocial.com →](https://app.glowsocial.com/)
+[See posts from your website first](https://app.glowsocial.com/preview)
 
 ---
 
 **Related guides:** [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
-**About Glow Social:** Done-for-you software that automatically creates and publishes 20 custom social media posts per month. Posts are customized to your brand voice and optimized for each platform. $99/month. [See the affordable social media management service](/affordable-social-media-management).
+**About Glow Social:** Done-for-you software that turns your website into 20 custom social media posts ready to approve. Posts are customized to your brand voice and optimized for each platform. Plans start at $99/month. [See the affordable social media management service](/affordable-social-media-management).

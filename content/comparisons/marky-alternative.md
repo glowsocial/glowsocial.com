@@ -48,7 +48,7 @@ That's the difference between an AI assistant and an AI service. One helps you d
 <tr><td><strong>Model</strong></td><td>AI-Assisted (you manage)</td><td>Done-For-You (we manage)</td></tr>
 <tr><td><strong>Content Creation</strong></td><td>AI generates, you curate</td><td>AI generates and publishes</td></tr>
 <tr><td><strong>Scheduling</strong></td><td>You queue and manage</td><td>Automatic</td></tr>
-<tr><td><strong>Time Required</strong></td><td>2-4 hours/month</td><td>5 minutes/month</td></tr>
+<tr><td><strong>Time Required</strong></td><td>2-4 hours/month</td><td>Review and approve</td></tr>
 <tr><td><strong>Platforms</strong></td><td>7 platforms</td><td>12+ platforms</td></tr>
 <tr><td><strong>Google Business Profile</strong></td><td>✓</td><td>✓</td></tr>
 <tr><td><strong>Google Review Monitoring</strong></td><td>Pro plan only ($229/mo)</td><td>Included in Glo Pro</td></tr>
@@ -120,7 +120,7 @@ Glow Social is the right choice if you:
 
 You didn't start your business to become a social media manager. Glow Social makes sure you never have to be one.
 
-[Get Started — $99/mo](https://app.glowsocial.com/) or [preview 12 custom posts for your business free](/preview).
+[See your posts first](https://app.glowsocial.com/preview) - 20 posts ready to review before you choose.
 
 ## Frequently Asked Questions
 

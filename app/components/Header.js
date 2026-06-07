@@ -93,7 +93,7 @@ export default function Header() {
             data-analytics-label="Header preview CTA"
             data-analytics-location="header"
           >
-            GET A PREVIEW
+            SEE MY POSTS
           </a>
         </div>
 
@@ -146,7 +146,7 @@ export default function Header() {
               data-analytics-label="Mobile header preview CTA"
               data-analytics-location="mobile_header"
             >
-              GET A PREVIEW
+              SEE MY POSTS
             </a>
           </div>
         </nav>

@@ -10,14 +10,14 @@ const PAGE_URL = "https://glowsocial.com/affordable-social-media-management";
 export const metadata = {
   title: "Affordable Social Media Marketing for Small Businesses",
   description:
-    "Affordable social media marketing and management for small businesses. Glow Social creates, designs, and publishes 20 posts starting at $99/month.",
+    "Affordable social media marketing for small businesses. Glow Social turns your website into 20 posts ready to approve starting at $99/month.",
   alternates: {
     canonical: "/affordable-social-media-management",
   },
   openGraph: {
     title: "Affordable Social Media Marketing for Small Businesses",
     description:
-      "Done-for-you social media management starting at $99/month. Posts, graphics, publishing, and Google Business Profile support handled for you.",
+      "Done-for-you social media posting starting at $99/month. See posts from your website before you choose a plan.",
     url: PAGE_URL,
     siteName: "Glow Social",
     type: "website",
@@ -34,7 +34,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Affordable Social Media Marketing for Small Businesses",
     description:
-      "Done-for-you social media management starting at $99/month. Posts, graphics, publishing, and Google Business Profile support handled for you.",
+      "Done-for-you social media posting starting at $99/month. See posts from your website before you choose a plan.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
 };
@@ -56,7 +56,7 @@ function JsonLd({ pricing }) {
         name: "United States",
       },
       description:
-        "Glow Social creates, designs, and publishes social media posts for small businesses starting at $99/month.",
+        "Glow Social turns small business websites into posts ready to approve starting at $99/month.",
       offers: {
         "@type": "Offer",
         price: pricing.core.price,
@@ -74,7 +74,7 @@ function JsonLd({ pricing }) {
           name: "What is the most affordable social media marketing option for small businesses?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "The most affordable option depends on whether you count your time. Free schedulers are cheapest in subscription cost, but done-for-you software like Glow Social is often cheaper in total cost because it creates and publishes posts for you starting at $99/month.",
+            text: "The most affordable option depends on whether you count your time. Free schedulers are cheapest in subscription cost, but done-for-you software like Glow Social is often cheaper in total cost because it creates posts for you to approve starting at $99/month.",
           },
         },
         {
@@ -82,7 +82,7 @@ function JsonLd({ pricing }) {
           name: "Is $99/month enough for social media management?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Yes, if you need consistent baseline posting rather than a full agency. Glow Social creates 20 posts per month, designs graphics, and publishes to connected platforms starting at $99/month.",
+            text: "Yes, if you need steady posting rather than a full agency. Glow Social creates 20 posts per month, includes graphics, and publishes approved posts to connected platforms starting at $99/month.",
           },
         },
         {
@@ -136,20 +136,20 @@ export default function AffordableSocialMediaManagementPage() {
             <p className="affordable-eyebrow">Affordable social media marketing</p>
             <h1>Affordable social media marketing for small businesses, starting at {pricing.startingAtFull}.</h1>
             <p className="affordable-lede">
-              Glow Social creates, designs, and publishes professional posts for your business so
-              you can stay visible without hiring an agency or managing another tool.
+              Put in your website. See 20 posts ready to approve. Stay visible
+              without hiring an agency or managing another tool.
             </p>
             <div className="affordable-cta-row">
-              <a href="https://app.glowsocial.com/signup" className="btn btn--primary btn--lg">
-                Start for {pricing.startingAtShort}
+              <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
+                See my posts
               </a>
-              <Link href="/preview" className="btn btn--white-outline btn--lg">
-                See examples
+              <Link href="/pricing" className="btn btn--white-outline btn--lg">
+                Compare pricing
               </Link>
             </div>
             <div className="affordable-proof-row" aria-label="Glow Social proof points">
               <span>20 posts/month</span>
-              <span>5-minute setup</span>
+              <span>Preview first</span>
               <span>No contracts</span>
               <span>Google Business Profile</span>
             </div>
@@ -185,11 +185,11 @@ export default function AffordableSocialMediaManagementPage() {
         <div className="container affordable-answer-box">
           <h2>Direct Answer</h2>
           <p>
-            Affordable social media marketing means getting consistent, professional posts live
-            without paying freelancer or agency retainers. For most small businesses, the cheapest
-            real value is the option that removes the hours spent
-            writing captions, making graphics, and loading posts. Glow Social handles that baseline
-            starting at {pricing.startingAtFull}.
+            Affordable social media marketing means getting steady, professional posts without
+            freelancer or agency retainers. For most small businesses, the real savings come from
+            removing the hours spent writing captions, making graphics, and loading posts. Glow
+            Social starts by showing you the posts first, then keeps approved posts moving starting
+            at {pricing.startingAtFull}.
           </p>
         </div>
       </section>
@@ -197,32 +197,32 @@ export default function AffordableSocialMediaManagementPage() {
       <section className="affordable-section">
         <div className="container">
           <p className="section-badge">What You Get</p>
-          <h2>Done-for-you posting without agency pricing.</h2>
+          <h2>Posts ready to approve without agency pricing.</h2>
           <p className="section-sub">
-            The goal is not to make you a full-time content creator. The goal is to keep your
-            business looking current, credible, and easy to trust.
+            The goal is not to make you a content creator. The goal is to keep your business
+            current, credible, and easy to trust.
           </p>
 
           <div className="affordable-card-grid">
             <div className="affordable-card">
-              <h3>Posts written for your business</h3>
+              <h3>Posts made from your website</h3>
               <p>
-                Glow Social reads your website and business details so captions reflect your
-                services, voice, and customers.
+                Glow Social uses your site to understand your services, proof, voice, and customer
+                questions.
               </p>
             </div>
             <div className="affordable-card">
               <h3>Graphics created for you</h3>
               <p>
-                You are not paying for a blank calendar. Posts include ready-to-publish visuals
-                that look professional without Canva work.
+                You are not paying for a blank calendar. Posts include visuals that look
+                professional without Canva work.
               </p>
             </div>
             <div className="affordable-card">
               <h3>Publishing handled</h3>
               <p>
-                Connect your platforms once. Glow Social keeps the publishing rhythm moving across
-                the channels your business uses.
+                After you say yes, choose the profiles you want kept active. Glow Social keeps
+                approved posts moving across the channels your business uses.
               </p>
             </div>
             <div className="affordable-card">
@@ -275,7 +275,7 @@ export default function AffordableSocialMediaManagementPage() {
                   <td>Glow Social</td>
                   <td>{pricing.startingAtFull}</td>
                   <td>Yes</td>
-                  <td>5-minute setup</td>
+                  <td>Preview first</td>
                   <td>Small businesses that want it handled</td>
                 </tr>
                 <tr>
@@ -313,7 +313,7 @@ export default function AffordableSocialMediaManagementPage() {
             <h3>Glow Social is a fit if you want:</h3>
             <ul>
               <li>Affordable social media management under agency pricing</li>
-              <li>Consistent posts without writing every caption yourself</li>
+              <li>Posts ready to approve without writing every caption yourself</li>
               <li>Professional-looking pages when referrals check you out</li>
               <li>A simple monthly cost instead of a large retainer</li>
               <li>No long-term contracts or complicated onboarding</li>
@@ -330,7 +330,7 @@ export default function AffordableSocialMediaManagementPage() {
           </div>
           <div>
             <p>
-              Glow Social is designed to keep your content engine running. It is not a full agency,
+              Glow Social is designed to keep steady posts moving. It is not a full agency,
               ad team, or community manager. It does not replace live comment replies, inbox
               management, influencer outreach, paid ads, crisis communication, or high-touch
               campaign strategy.
@@ -362,23 +362,23 @@ export default function AffordableSocialMediaManagementPage() {
               <p>
                 Yes. Glow Social starts at {pricing.startingAtFull} and includes 20 posts per
                 month. Traditional freelancers and agencies usually cost more because a person is
-                manually creating and managing the content.
+                manually creating and managing every piece.
               </p>
             </details>
             <details className="faq-item">
               <summary>Is this social media marketing or social media management?</summary>
               <p>
                 It is both for the baseline posting work most small businesses need. Glow Social
-                creates content, designs graphics, and publishes posts. It does not manage paid
-                ads, DMs, or live comment conversations.
+                creates posts, gives you approval control, and publishes approved posts. It does
+                not manage paid ads, DMs, or live comment conversations.
               </p>
             </details>
             <details className="faq-item">
               <summary>How is this different from Buffer, Later, or Hootsuite?</summary>
               <p>
                 Buffer, Later, and Hootsuite are scheduling tools. They help you publish content
-                you already made. Glow Social creates the posts and publishes them, which is why it
-                works better for business owners who do not have time to create content.
+                you already made. Glow Social creates posts from your website and publishes what
+                you approve.
               </p>
             </details>
           </div>
@@ -387,14 +387,14 @@ export default function AffordableSocialMediaManagementPage() {
 
       <section className="affordable-final-cta">
         <div className="container">
-          <h2>Stop choosing between cheap tools and expensive agencies.</h2>
+          <h2>Stop choosing between blank tools and expensive agencies.</h2>
           <p>
-            Get consistent, professional social media handled for your business starting at{" "}
+            See posts from your website first. If they fit, keep approved posts moving starting at{" "}
             {pricing.startingAtFull}.
           </p>
           <div className="affordable-cta-row affordable-cta-center">
-            <a href="https://app.glowsocial.com/signup" className="btn btn--primary btn--lg">
-              Get started
+            <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
+              See my posts
             </a>
             <Link href="/blog/best-affordable-social-media-management-small-business" className="btn btn--white-outline btn--lg">
               Read the full guide

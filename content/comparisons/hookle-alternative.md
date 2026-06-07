@@ -50,7 +50,7 @@ One is a smaller to-do list. The other eliminates the to-do list.
 <tr><td><strong>Model</strong></td><td>DIY scheduling app</td><td>Done-For-You service</td></tr>
 <tr><td><strong>Content Creation</strong></td><td>AI suggests, you create and edit</td><td>AI creates and publishes</td></tr>
 <tr><td><strong>Scheduling</strong></td><td>You schedule from phone</td><td>Automatic</td></tr>
-<tr><td><strong>Time Required</strong></td><td>4-8 hours/month</td><td>5 minutes/month</td></tr>
+<tr><td><strong>Time Required</strong></td><td>4-8 hours/month</td><td>Review and approve</td></tr>
 <tr><td><strong>Platform</strong></td><td>Mobile app only (iOS/Android)</td><td>Web-based (nothing to download)</td></tr>
 <tr><td><strong>Brand Voice</strong></td><td>Generic AI suggestions</td><td>Learns from your website</td></tr>
 <tr><td><strong>Google Business Profile</strong></td><td>✓</td><td>✓</td></tr>
@@ -131,7 +131,7 @@ Hookle is the right choice if you:
 
 ## Who Should Use Glow Social Instead?
 
-Glow Social is a done-for-you social media service that automatically creates and publishes posts for local businesses — $99/month, no marketing team required.
+Glow Social is a done-for-you social media service that turns your website into posts ready to approve - $99/month, no marketing team required.
 
 It is the right choice if you:
 - Own a local business and want social media handled without your involvement
@@ -145,7 +145,7 @@ It is the right choice if you:
 
 You didn't start your business to become a social media manager. Glow Social makes sure you never have to be one.
 
-[Get Started — $99/mo](https://app.glowsocial.com/) or [preview 12 custom posts for your business free](/preview).
+[See your posts first](https://app.glowsocial.com/preview) - 20 posts ready to review before you choose.
 
 ## Frequently Asked Questions
 

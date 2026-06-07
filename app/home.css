@@ -1879,6 +1879,33 @@
   background: var(--white);
 }
 
+.comparison-table-wrap {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 12px 14px;
+  border: 1px solid rgba(25, 39, 52, 0.12);
+  text-align: left;
+  vertical-align: top;
+}
+
+.comparison-table th {
+  background: rgba(215, 226, 120, 0.22);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-weight: 800;
+}
+
 /* ---- Pricing ---- */
 .pricing {
   padding: 96px 0;

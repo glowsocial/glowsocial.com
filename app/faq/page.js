@@ -1,9 +1,95 @@
-import Link from "next/link";
-
 export const metadata = {
-  title: "FAQ — Glow Social",
-  description: "Frequently asked questions about Glow Social's done-for-you social media posting for local businesses.",
+  title: "FAQ",
+  description: "Frequently asked questions about Glow Social's done-for-you social media posting for business owners who do not want another marketing tool to manage.",
 };
+
+const faqs = [
+  {
+    question: "What is Glow Social?",
+    answer:
+      "Glow Social turns your website into posts ready to approve for social channels and Google Business Profile. It is built for business owners who know social media matters but do not want to become content creators, learn another tool, or keep remembering to post.",
+  },
+  {
+    question: "How does it work?",
+    answer:
+      "You enter your website and email to see preview posts first. Glow Social reads your site, drafts posts from your business context, and shows you what is ready. If you choose a plan, you connect the profiles you want kept active, approve what fits, and Glow Social publishes approved posts on schedule.",
+  },
+  {
+    question: "Do I need to connect social accounts before seeing posts?",
+    answer:
+      "No. You can see preview posts before connecting social accounts, creating a full account, or choosing a plan. Connections come later, after you know the posts are a fit.",
+  },
+  {
+    question: "What platforms do you post to?",
+    answer:
+      "Glow Social supports the major platforms local businesses use, including Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, Pinterest, and more. You only connect the platforms that matter for your business.",
+  },
+  {
+    question: "Will the posts sound like me?",
+    answer:
+      "Yes. Glow Social uses your actual website to understand your services, tone, proof, and customer language. You can review and edit posts before anything publishes.",
+  },
+  {
+    question: "How much does it cost?",
+    answer:
+      "Plans start at $99/month. There are no contracts, no setup fees, and you can cancel anytime. You can also preview posts before choosing a paid plan.",
+  },
+  {
+    question: "Can I cancel or pause anytime?",
+    answer:
+      "Yes. Plans are month-to-month, and you can cancel from your dashboard. You can also pause when you need a breather, then come back without starting over.",
+  },
+  {
+    question: "Do I need to approve posts before they publish?",
+    answer:
+      "Yes. You review and approve posts before they go live. You can edit captions, skip posts that do not fit, and choose which profiles are connected.",
+  },
+  {
+    question: "How many posts do I get per month?",
+    answer:
+      "The Core plan includes 20 posts per month. Posts are distributed across your connected platforms to maintain consistent visibility.",
+  },
+  {
+    question: "Do you create the graphics too?",
+    answer:
+      "Yes. Posts include graphics or images matched to the post and your business context, so you do not need a separate design tool.",
+  },
+  {
+    question: "Do you post to Google Business Profile?",
+    answer:
+      "Yes. Google Business Profile posting is included in every Glow Social plan at no extra cost.",
+  },
+  {
+    question: "What about Google Reviews?",
+    answer:
+      "Google Review monitoring is included in Glo Pro and Glo Unlimited plans. You will see new reviews in your dashboard and can respond to them directly.",
+  },
+  {
+    question: "How is this different from Buffer or Hootsuite?",
+    answer:
+      "Buffer and Hootsuite are schedulers. They help you publish content you already made. Glow Social creates the posts from your business context, gives you final say, and publishes what you approve.",
+  },
+  {
+    question: "How is this different from an AI content tool?",
+    answer:
+      "Most AI content tools still make you prompt, choose ideas, copy text around, and manage a calendar. Glow Social is for people who do not want to be builders. Your website goes in, posts come back, and approved posts go out.",
+  },
+  {
+    question: "How is this different from hiring a social media manager?",
+    answer:
+      "A freelancer or agency can be helpful, but usually costs more and adds onboarding, meetings, and back-and-forth. Glow Social handles the smaller job many owners actually need: steady posts prepared, reviewed, and sent without another person to manage.",
+  },
+  {
+    question: "What businesses is Glow Social best for?",
+    answer:
+      "Glow Social is best for local and service businesses with a real website, a Google Business Profile, and an owner who wants social media handled without doing the work themselves.",
+  },
+  {
+    question: "Still have questions?",
+    answer:
+      "Visit the Help Center or email support@glowsocial.com.",
+  },
+];
 
 export default function FAQ() {
   return (
@@ -14,56 +100,14 @@ export default function FAQ() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "FAQPage",
-            "mainEntity": [
-              {
-                "@type": "Question",
-                "name": "What is Glow Social?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "Glow Social is done-for-you social media posting for local businesses. We create and publish custom social media content for your business automatically - 20 posts per month across major platforms, starting at $99/month."
-                }
+            mainEntity: faqs.map((faq) => ({
+              "@type": "Question",
+              name: faq.question,
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: faq.answer,
               },
-              {
-                "@type": "Question",
-                "name": "How does it work?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "You enter your website URL and connect your social media accounts. We read up to 11 pages of your website to learn your brand voice, services, and style. Then we create custom posts with professional graphics and publish them on your behalf. Setup takes about 5 minutes."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "What platforms do you post to?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "We support the major platforms local businesses use, including Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, Pinterest, and more. You only connect the platforms that matter for your business."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "How much does it cost?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "Plans start at $99/month. There are no contracts, no setup fees, and you can cancel anytime."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "Do you post to Google Business Profile?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "Yes — and most social media tools don't. Google Business Profile posting is included in every Glow Social plan at no extra cost."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "How long does setup take?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "About 5 minutes. Enter your website URL, connect your social accounts, and your first batch of posts will be ready to review the same day."
-                }
-              }
-            ]
+            })),
           }),
         }}
       />
@@ -74,118 +118,20 @@ export default function FAQ() {
       </section>
       <article className="blog-post">
         <div className="blog-post-content">
-
-          <h2>What is Glow Social?</h2>
-          <p>
-            Glow Social is done-for-you social media posting for local
-            businesses. We create and publish custom social media content for
-            your business automatically — 20 posts per month across 12
-            platforms, starting at $99/month.
-          </p>
-
-          <h2>How does it work?</h2>
-          <p>
-            You enter your website URL and connect your social media accounts.
-            We read up to 11 pages of your website to learn your brand voice,
-            services, and style. Then we create custom posts with professional
-            graphics and publish them on your behalf. Setup takes about 5
-            minutes.
-          </p>
-
-          <h2>What platforms do you post to?</h2>
-          <p>
-            We support the major platforms local businesses use, including
-            Facebook, Instagram, LinkedIn, Google Business Profile, TikTok,
-            Pinterest, and more. You only connect the platforms that matter for
-            your business.
-          </p>
-
-          <h2>Will the posts sound like me?</h2>
-          <p>
-            Yes. We read your actual website content to match your brand voice
-            and tone. Posts are customized to your specific business — not
-            generic templates. You can also review and edit posts before they
-            publish.
-          </p>
-
-          <h2>How much does it cost?</h2>
-          <p>
-            Plans start at $99/month. No contracts, no setup fees, cancel
-            anytime. See current pricing at{" "}
-            <a href="https://app.glowsocial.com/">app.glowsocial.com</a>.
-          </p>
-
-          <h2>Can I cancel anytime?</h2>
-          <p>
-            Yes. There are no contracts or commitments. You can cancel from your
-            dashboard at any time. You&apos;ll retain access through the end of your
-            current billing period.
-          </p>
-
-          <h2>Do I need to approve posts before they publish?</h2>
-          <p>
-            Yes. You review and approve posts before they go live. It takes
-            about 3 taps — review, approve, done.
-          </p>
-
-          <h2>How many posts do I get per month?</h2>
-          <p>
-            The Core plan includes 20 posts per month. Posts are distributed
-            across your connected platforms to maintain consistent visibility.
-          </p>
-
-          <h2>Do you create the graphics too?</h2>
-          <p>
-            Yes. Every post includes a professional graphic designed in your
-            brand colors. No separate design tool needed.
-          </p>
-
-          <h2>Do you post to Google Business Profile?</h2>
-          <p>
-            Yes — and most social media tools don&apos;t. Google Business Profile
-            posting is included in every Glow Social plan at no extra cost.
-          </p>
-
-          <h2>What about Google Reviews?</h2>
-          <p>
-            Google Review monitoring is included in Glo Pro and Glo Unlimited plans. You&apos;ll see new reviews
-            in your dashboard and can respond to them directly.
-          </p>
-
-          <h2>How is this different from Buffer or Hootsuite?</h2>
-          <p>
-            Buffer and Hootsuite are scheduling tools — you still create all the
-            content yourself. Glow Social creates the content for you and
-            publishes it automatically. You save 5-10 hours per month.
-          </p>
-
-          <h2>How is this different from hiring a social media manager?</h2>
-          <p>
-            A freelance social media manager costs $300-500/month. An agency
-            costs $2,000+/month. Glow Social delivers consistent posting for
-            $99/month without the hiring, management, or communication overhead.
-          </p>
-
-          <h2>What businesses is Glow Social best for?</h2>
-          <p>
-            We&apos;re built for local businesses: restaurants, salons, contractors,
-            dentists, gyms, law firms, boutiques, real estate agents, and any
-            service business that wants consistent social media without doing
-            the work.
-          </p>
-
-          <h2>How long does setup take?</h2>
-          <p>
-            About 5 minutes. Enter your website URL, connect your social
-            accounts, and your first batch of posts will be ready to review the
-            same day.
-          </p>
-
-          <h2>Still have questions?</h2>
-          <p>
-            Visit our <a href="https://app.glowsocial.com/help">Help Center</a> or
-            email us at support@glowsocial.com.
-          </p>
+          {faqs.map((faq) => (
+            <section key={faq.question}>
+              <h2>{faq.question}</h2>
+              <p>
+                {faq.question === "Still have questions?" ? (
+                  <>
+                    Visit our <a href="https://app.glowsocial.com/help">Help Center</a> or email us at support@glowsocial.com.
+                  </>
+                ) : (
+                  faq.answer
+                )}
+              </p>
+            </section>
+          ))}
         </div>
       </article>
     </>

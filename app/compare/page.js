@@ -16,8 +16,8 @@ export default function CompareIndexPage() {
         <div className="container">
           <h1>Compare Glow Social</h1>
           <p>
-            See how we stack up against the tools you&apos;ve probably already
-            tried. Spoiler: we actually do the work for you.
+            Compare the tools that help you post with the one that starts by
+            making posts from your website.
           </p>
         </div>
       </section>

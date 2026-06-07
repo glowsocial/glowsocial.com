@@ -195,16 +195,16 @@ export default async function BlogPostPage({ params }) {
 
       {/* Post-content CTA */}
       <div className="post-cta-box">
-        <h3>Ready to stop worrying about social media?</h3>
+        <h3>Want to see your posts before you choose a plan?</h3>
         <p>
-          Glow Social creates and publishes professional content for your
-          business — so you can focus on what you do best.
+          Glow Social turns your website into posts ready to approve, then
+          publishes the ones you approve.
         </p>
         <a
-          href="https://app.glowsocial.com/"
+          href="https://app.glowsocial.com/preview"
           className="btn btn--primary"
         >
-          Get Started — {pricing.startingAtShort}
+          See posts from your website first — {pricing.startingAtShort}
         </a>
       </div>
 

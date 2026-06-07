@@ -8,7 +8,7 @@ export default function HomeJsonLd() {
         name: "How much does Glow Social cost?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month. Customers can preview their posts before choosing a plan, there are no contracts, and they can cancel anytime.",
+          text: "Glow Social plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month. You can see posts from your website before choosing a plan. There are no contracts, and you can cancel anytime.",
         },
       },
       {
@@ -16,7 +16,7 @@ export default function HomeJsonLd() {
         name: "Can I see posts before I pay?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Yes. Enter your website to see a free Glow Social preview first. You can review the actual posts before you create an account or choose a plan.",
+          text: "Yes. Enter your website to see posts ready to review before you create an account, connect social profiles, or choose a plan.",
         },
       },
       {
@@ -24,7 +24,7 @@ export default function HomeJsonLd() {
         name: "Do I need to connect accounts before the preview?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "No. The preview only needs your website. You connect social accounts later, after you have seen the posts and decided you want approved posts published.",
+          text: "No. The preview only needs your website. Social account connections come later, after you see the posts and decide what should publish.",
         },
       },
       {
@@ -40,7 +40,7 @@ export default function HomeJsonLd() {
         name: "What is Glow Social?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media posting system for businesses. It turns a business website, services, offers, proof, and brand details into finished posts for Instagram, Facebook, LinkedIn, and Google Business Profile.",
+          text: "Glow Social turns your website into finished posts for social channels and Google Business Profile. It is built for business owners who want posts handled without prompts, calendars, or another tool to manage.",
         },
       },
       {
@@ -48,7 +48,7 @@ export default function HomeJsonLd() {
         name: "Can I edit before anything posts?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Yes. You stay in control. Edit the caption, swap the image, skip anything that does not fit, or remove it before it goes live. You always have the final say on what gets published.",
+          text: "Yes. You can edit, approve, or skip posts before they go live. Nothing publishes until you say yes.",
         },
       },
       {
@@ -56,7 +56,7 @@ export default function HomeJsonLd() {
         name: "How is Glow Social different from other social media tools?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Schedulers like Buffer and Hootsuite publish content you already made. Glow Social creates the posts from your business context, prepares them for review, and keeps social plus Google Business Profile current. Plans are Core at $99/month, Pro at $149/month, and Unlimited at $299/month.",
+          text: "Schedulers like Buffer and Hootsuite publish content you already made. Glow Social creates posts from your business context, gives you final approval, and keeps social plus Google Business Profile current.",
         },
       },
       {
@@ -80,7 +80,7 @@ export default function HomeJsonLd() {
         name: "What is the best done-for-you social media service for businesses?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Glow Social is a done-for-you social media service for businesses starting at $99/month. It provides brand-matched posts, custom graphics, Google Business Profile posting, automated publishing, and optional Google review monitoring.",
+          text: "Glow Social is a done-for-you social media service for businesses starting at $99/month. It creates posts from your website, prepares them for approval, publishes approved posts, and includes Google Business Profile posting.",
         },
       },
     ],
@@ -92,7 +92,7 @@ export default function HomeJsonLd() {
     name: "Glow Social",
     url: "https://glowsocial.com",
   description:
-    "Glow Social turns business websites and business context into finished posts for social channels and Google Business Profile.",
+    "Glow Social turns business websites into posts ready to approve for social channels and Google Business Profile.",
     contactPoint: {
       "@type": "ContactPoint",
       email: "kathleen@glowsocial.com",
@@ -108,7 +108,7 @@ export default function HomeJsonLd() {
     operatingSystem: "Web",
     url: "https://glowsocial.com",
   description:
-      "Done-for-you social media posting for businesses. Glow Social creates finished posts from business context and keeps social channels plus Google Business Profile current.",
+      "Done-for-you social media posting for businesses. Glow Social turns a website into posts ready to approve and keeps social channels plus Google Business Profile current.",
     offers: [
       {
         "@type": "Offer",

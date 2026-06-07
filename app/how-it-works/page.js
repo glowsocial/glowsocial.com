@@ -5,67 +5,67 @@ import "./page.css";
 export const metadata = {
   title: "How Glow Social Works",
   description:
-    "See what happens after checkout: choose a plan, share your business details, create your account, and review your first Glow Social drafts before anything publishes.",
+    "Drop in your website, see posts ready to approve, then choose the plan and profiles you want Glow Social to keep active.",
 };
 
 const setupItems = [
-  "Your business name",
-  "Your website, if you have one",
-  "The email you want to use for your account",
-  "A payment card for secure Stripe checkout",
+  "Your website URL",
+  "Your email",
+  "A few minutes to review posts",
+  "Social accounts later, after you see value",
 ];
 
 const steps = [
   {
     number: "01",
-    eyebrow: "Choose a plan",
-    title: "Pick the monthly package that fits how much you want posted.",
-    body: "Start with Core, Pro, or Unlimited. You can cancel anytime, and the plan you choose tells Glow Social how many drafts to prepare each month.",
-    preview: "plan",
-  },
-  {
-    number: "02",
-    eyebrow: "Secure checkout",
-    title: "Stripe collects payment plus the two details needed to start.",
-    body: "Checkout asks for your business name and an optional website URL. That gives Glow Social enough context to begin without sending you through a long intake form.",
-    preview: "checkout",
-  },
-  {
-    number: "03",
-    eyebrow: "Create your login",
-    title: "After payment, set up the account you will use to review drafts.",
-    body: "Use Google or create a password. Your subscription details stay connected so your workspace can be prepared in the background.",
-    preview: "account",
-  },
-  {
-    number: "04",
-    eyebrow: "Work starts",
-    title: "Your first batch gets prepared while you get on with your day.",
-    body: "The setup page shows that your website is being reviewed, your brand style is being matched, and your first drafts are being prepared.",
+    eyebrow: "Website in",
+    title: "Start with your URL, not a blank content calendar.",
+    body: "Glow Social uses your site to understand what you do, how you talk about it, and what customers need to hear. No prompts or strategy homework required.",
     preview: "work",
   },
   {
-    number: "05",
-    eyebrow: "Review drafts",
-    title: "Nothing publishes until you approve it.",
-    body: "When the drafts are ready, open the app, approve what fits, skip anything that does not, and connect the profiles you want kept active.",
+    number: "02",
+    eyebrow: "Posts ready",
+    title: "You see a month of posts before social media becomes another chore.",
+    body: "Review what is ready, edit anything that needs your voice, and skip anything that does not fit. The first win is seeing usable posts.",
     preview: "review",
+  },
+  {
+    number: "03",
+    eyebrow: "Choose a plan",
+    title: "Pick the amount of help you want after the preview.",
+    body: "Core keeps steady posting going. Pro adds carousels, video, campaigns, and review monitoring. Unlimited gives busy businesses more room.",
+    preview: "plan",
+  },
+  {
+    number: "04",
+    eyebrow: "Secure checkout",
+    title: "Checkout collects only what is needed to keep the work moving.",
+    body: "Stripe handles payment securely. Your business details and website stay connected so Glow Social can keep preparing posts each month.",
+    preview: "checkout",
+  },
+  {
+    number: "05",
+    eyebrow: "Connect when ready",
+    title: "Nothing publishes until you approve it.",
+    body: "Connect only the profiles you want kept active. Glow Social handles the posting rhythm after you approve what should go live.",
+    preview: "account",
   },
 ];
 
 function JsonLd({ pricing }) {
   const questions = [
     {
-      name: "How does Glow Social checkout work?",
-      text: "Choose a plan, complete secure Stripe checkout, enter your business name and optional website URL, then create your Glow Social account.",
+      name: "How does Glow Social work?",
+      text: "Enter your website, review posts created from your business context, choose a plan if it is a fit, then approve the posts you want Glow Social to publish.",
     },
     {
       name: "What does Glow Social need to get started?",
-      text: "Glow Social needs your business name, your email, payment details, and your website URL if you have one.",
+      text: "Glow Social needs your website URL and email to create a preview. Payment details and social account connections come later if you choose a plan.",
     },
     {
       name: "Do I have to connect social accounts before seeing drafts?",
-      text: "No. Glow Social prepares the first drafts first. You can connect social profiles after you see what is ready to review.",
+      text: "No. Glow Social prepares preview posts first. You can connect social profiles after you see what is ready to review.",
     },
     {
       name: "Does Glow Social publish without approval?",
@@ -141,7 +141,7 @@ function PlanPreview({ pricing }) {
     <ScreenFrame label="glowsocial.com/pricing">
       <div className="screen-title">
         <span>Pricing</span>
-        <h3>Choose your plan</h3>
+        <h3>Start with what you need</h3>
       </div>
       <div className="mini-plan-list">
         {plans.map((plan) => (
@@ -197,11 +197,11 @@ function AccountPreview() {
             <path d="M5 13l4 4L19 7" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
         </div>
-        <h3>You are in. One last step.</h3>
-        <p>Set a password or use Google so you can come back to review your drafts.</p>
+        <h3>Connect only what you want kept active.</h3>
+        <p>After you see the posts, connect the profiles you want Glow Social to publish to.</p>
         <div className="email-chip">
-          <span>Your email</span>
-          <strong>owner@desertbloom.example</strong>
+          <span>Final say stays with you</span>
+          <strong>Approve before publish</strong>
         </div>
         <div className="account-button account-button-outline" />
         <div className="account-button" />
@@ -291,24 +291,24 @@ export default function HowItWorks() {
       <section className="walkthrough-hero">
         <div className="container walkthrough-hero-grid">
           <div>
-            <span className="walkthrough-badge">Checkout walkthrough</span>
-            <h1>See what happens after you choose Glow Social.</h1>
+            <span className="walkthrough-badge">How it works</span>
+            <h1>Your website becomes posts ready to approve.</h1>
             <p>
-              The short version: choose a plan, complete secure checkout, create your login, and let Glow Social prepare your first drafts for review.
+              The short version: drop in your URL, see posts made from your actual business, choose a plan only when it feels useful, and approve what should go live.
             </p>
             <p>
               {pricing.summaryFull} {pricing.billingPolicy}
             </p>
             <div className="walkthrough-ctas">
-              <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--primary btn--lg">
-                Start with {pricing.core.display}
+              <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
+                See my posts
               </a>
               <Link href="#steps" className="btn btn--outline btn--lg">
                 View steps
               </Link>
             </div>
           </div>
-          <CheckoutPreview pricing={pricing} />
+          <WorkPreview />
         </div>
       </section>
 
@@ -327,9 +327,9 @@ export default function HowItWorks() {
         <div className="container">
           <div className="walkthrough-section-heading">
             <span className="walkthrough-badge">Step by step</span>
-            <h2>From checkout to first drafts.</h2>
+            <h2>From website to posts ready for review.</h2>
             <p>
-              No long intake form. No platform-connection pressure before you see value. Just enough setup for Glow Social to start preparing posts.
+              No long intake form. No platform-connection pressure before you see value. Just enough information for Glow Social to start doing the work.
             </p>
           </div>
 
@@ -352,13 +352,13 @@ export default function HowItWorks() {
         <div className="container approval-grid">
           <div>
             <span className="walkthrough-badge">The important part</span>
-            <h2>You review every post before anything goes live.</h2>
+            <h2>You keep final say without becoming the social media person.</h2>
             <p>
               Glow Social prepares the drafts and keeps the workflow moving. You stay in control of approvals, edits, and which profiles are connected.
             </p>
           </div>
-          <a href="https://app.glowsocial.com/checkout?plan=core" className="btn btn--primary btn--lg">
-            Start checkout
+          <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
+            See my posts
           </a>
         </div>
       </section>

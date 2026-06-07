@@ -5,13 +5,13 @@ import { getPricing } from "../pricing-config";
 export const dynamic = 'force-dynamic';
 
 export const metadata = {
-  title: "Pricing — Glow Social | Done-For-You Social Media",
+  title: "Pricing for Social Media That Just Works",
   description:
-    "Simple, transparent pricing. No contracts, no hidden fees. Glow Social creates professional posts, handles total coverage including Google Business Profile, and monitors your reviews.",
+    "Preview posts from your website before you choose a plan. Glow Social keeps social channels and Google Business Profile active with no content calendar or strategy homework.",
   openGraph: {
     title: "Pricing — Glow Social",
     description:
-      "Done-for-you social media — handled. Total coverage, zero maintenance, brand protection. No contracts. Cancel anytime.",
+      "Start with steady posting. Add more only when you need it. Free preview first, no contracts, cancel anytime.",
   },
 };
 
@@ -22,17 +22,25 @@ export default function PricingPage() {
       {/* ============ HERO ============ */}
       <section className="pricing-hero">
         <div className="container" style={{ textAlign: "center" }}>
-          <h1>Simple, Transparent Pricing</h1>
+          <h1>Start with steady posting. Add more only when you need it.</h1>
           <p className="section-sub" style={{ marginBottom: 0 }}>
-            {pricing.summaryFull}
+            Preview the posts first if you want to see what Glow Social will make from your website.
             <br />
-            Free preview first. No hidden fees. No contracts. Cancel anytime.
+            {pricing.summaryFull} No contracts. Cancel anytime.
           </p>
+          <div style={{ display: "flex", gap: 12, justifyContent: "center", flexWrap: "wrap", marginTop: 28 }}>
+            <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
+              See my posts
+            </a>
+            <a href="#plans" className="btn btn--outline btn--lg">
+              Compare plans
+            </a>
+          </div>
         </div>
       </section>
 
       {/* ============ PRICING CARDS ============ */}
-      <section className="pricing" style={{ paddingTop: 40 }}>
+      <section className="pricing" id="plans" style={{ paddingTop: 40 }}>
         <div className="container">
           <div className="pricing-grid">
             {/* Core */}
@@ -43,18 +51,18 @@ export default function PricingPage() {
                 <span className="price-period">/month</span>
               </div>
               <ul>
-                <li><strong>20 Finished Posts</strong> every month</li>
-                <li><strong>Total Coverage</strong> for your core social storefront</li>
-                <li><strong>Brand Protection</strong> from website-informed voice</li>
-                <li><strong>Google Business</strong> visibility included</li>
-                <li><strong>Weekly approvals</strong> before posts go live</li>
+                <li><strong>20 posts ready to approve</strong> every month</li>
+                <li><strong>Social + Google Business</strong> posting included</li>
+                <li><strong>Website-informed captions</strong> and graphics</li>
+                <li><strong>No content calendar</strong> or prompts to manage</li>
+                <li><strong>Final approval</strong> before posts go live</li>
               </ul>
               <a
                 href="https://app.glowsocial.com/checkout?plan=core"
                 className="btn btn--outline"
                 id="pricing-core-cta"
               >
-                Get Started
+                Start Core
               </a>
             </div>
 
@@ -68,18 +76,18 @@ export default function PricingPage() {
               </div>
               <ul>
                 <li>Everything in Core, plus:</li>
-                <li><strong>Carousel Posts</strong> for richer stories</li>
-                <li><strong>Video Posts</strong> for higher-visibility moments</li>
-                <li><strong>On-Demand Campaigns</strong> for promos and events</li>
-                <li><strong>Reputation Awareness</strong> with Google Review monitoring</li>
-                <li><strong>Performance Clarity</strong> on what is working</li>
+                <li><strong>Carousel posts</strong> for richer stories</li>
+                <li><strong>Video posts</strong> for higher-visibility moments</li>
+                <li><strong>Campaign posts</strong> for promos and events</li>
+                <li><strong>Google Review monitoring</strong> in your dashboard</li>
+                <li><strong>Performance notes</strong> when you want signal</li>
               </ul>
               <a
                 href="https://app.glowsocial.com/checkout?plan=pro"
                 className="btn btn--primary"
                 id="pricing-pro-cta"
               >
-                Get Started
+                Start Pro
               </a>
             </div>
 
@@ -92,17 +100,17 @@ export default function PricingPage() {
               </div>
               <ul>
                 <li>Everything in Pro, plus:</li>
-                <li><strong>Always-On Coverage</strong> for every content need</li>
-                <li><strong>Unlimited Reach Assets</strong> across formats</li>
-                <li><strong>No Content Ceiling</strong> when your calendar gets busy</li>
-                <li><strong>Full Brand Protection</strong> across every campaign</li>
+                <li><strong>No monthly content ceiling</strong> when things get busy</li>
+                <li><strong>Unlimited standard posts</strong> across your channels</li>
+                <li><strong>Unlimited carousels, video, and campaign posts</strong></li>
+                <li><strong>More room</strong> for launches, seasons, and surprises</li>
               </ul>
               <a
                 href="https://app.glowsocial.com/checkout?plan=unlimited"
                 className="btn btn--outline"
                 id="pricing-unlimited-cta"
               >
-                Get Started
+                Start Unlimited
               </a>
             </div>
           </div>
@@ -121,9 +129,9 @@ export default function PricingPage() {
             padding: '40px 48px',
             boxShadow: '0 2px 12px rgba(0,0,0,0.06)'
           }}>
-            <h2 style={{ fontSize: '1.4rem', marginBottom: 4 }}>Need Help Getting Started?</h2>
+            <h2 style={{ fontSize: '1.4rem', marginBottom: 4 }}>Want us to handle setup too?</h2>
             <p className="section-sub" style={{ marginBottom: 32 }}>
-              Not sure about the tech side? We&apos;ll set everything up for you.
+              If the tech side is the part that keeps slowing you down, we can take that off your plate.
             </p>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 32 }}>
               {/* Website Quick Start */}
@@ -144,7 +152,7 @@ export default function PricingPage() {
                   id="pricing-website-quickstart-cta"
                   style={{ fontSize: '0.8rem', padding: '10px 24px' }}
                 >
-                  Get Started
+                  Get Website Help
                 </a>
               </div>
 
@@ -166,7 +174,7 @@ export default function PricingPage() {
                   id="pricing-profile-quickstart-cta"
                   style={{ fontSize: '0.8rem', padding: '10px 24px' }}
                 >
-                  Get Started
+                  Get Profile Help
                 </a>
               </div>
             </div>
@@ -178,7 +186,7 @@ export default function PricingPage() {
       <section className="pricing-compare" style={{ paddingBottom: 0 }}>
         <div className="container">
           <h2>See How It Works</h2>
-          <p className="section-sub">From signup to your first posts in under 5 minutes.</p>
+          <p className="section-sub">Your website goes in. Posts come back ready to approve.</p>
           <div style={{
             maxWidth: 720,
             margin: '0 auto',
@@ -203,7 +211,7 @@ export default function PricingPage() {
       <section className="pricing-compare">
         <div className="container">
           <h2>Compare Plans</h2>
-          <p className="section-sub">Everything you need at every level.</p>
+          <p className="section-sub">Start small. Add formats and monitoring only when they are useful.</p>
           <div className="comparison-table-wrap">
             <table className="comparison-table">
               <thead>
@@ -290,7 +298,7 @@ export default function PricingPage() {
       {/* ============ COST COMPARISON VS ALTERNATIVES ============ */}
       <section className="comparison">
         <div className="container">
-          <h2>What You&apos;d Pay Anywhere Else</h2>
+          <h2>The real comparison is how much you still have to manage.</h2>
           <div className="comparison-table-wrap">
             <table className="comparison-table">
               <thead>
@@ -332,8 +340,8 @@ export default function PricingPage() {
                   <td>Manual</td>
                 </tr>
                 <tr>
-                  <td>Setup time</td>
-                  <td className="highlight-col"><strong>5 minutes</strong></td>
+                  <td>Before you see posts</td>
+                  <td className="highlight-col"><strong>Free preview</strong></td>
                   <td>2–3 weeks</td>
                   <td>1–2 months</td>
                   <td>Ongoing</td>
@@ -353,8 +361,8 @@ export default function PricingPage() {
                   <td>Yes</td>
                 </tr>
                 <tr>
-                  <td>Hours per week</td>
-                  <td className="highlight-col"><strong>&lt;1 hour</strong></td>
+                  <td>What you manage</td>
+                  <td className="highlight-col"><strong>Approve what is ready</strong></td>
                   <td>2–3 hours</td>
                   <td>1–2 hours</td>
                   <td>10+ hours</td>
@@ -362,7 +370,7 @@ export default function PricingPage() {
               </tbody>
             </table>
             <p className="comparison-footnote">
-              *DIY is free in dollars, not in time. 10 hours/week at $50/hr =
+              *DIY is free in dollars, not in time. Ten hours/week at $50/hr =
               $2,000/month in your time.
             </p>
           </div>
@@ -377,23 +385,21 @@ export default function PricingPage() {
             <details className="faq-item">
               <summary>How much does Glow Social cost?</summary>
               <p>
-                {pricing.summaryFull} {pricing.billingPolicy} Compare that to $3,000+/month for a marketing
-                agency or $300+/month for an overseas contractor. You keep access
-                through the end of your paid period.
+                {pricing.summaryFull} {pricing.billingPolicy} You can preview posts from your website before
+                choosing a plan, and you keep access through the end of your paid period if you cancel.
               </p>
             </details>
             <details className="faq-item">
               <summary>Can I cancel anytime?</summary>
               <p>
-                Yes. No contracts, no commitments. Cancel anytime and keep
-                access through the end of your paid period. We earn your
-                business every month.
+                Yes. No contracts, no commitments. You can also pause when you need a breather,
+                then come back without starting over.
               </p>
             </details>
             <details className="faq-item">
               <summary>What&apos;s the difference between Core and Pro?</summary>
               <p>
-                Core gives you 20 finished posts each month, Google Business
+                Core gives you 20 posts ready to approve each month, Google Business
                 Profile visibility, brand-matched posts, and approval controls
                 before posts go live. Pro adds carousel and video formats,
                 custom campaign posts, Google
@@ -421,10 +427,10 @@ export default function PricingPage() {
                 How does Glow Social compare to hiring a social media manager?
               </summary>
               <p>
-                A social media manager costs $300–500/month minimum, requires
-                onboarding, and can quit on you. Glow Social costs {pricing.startingAtFull},
-                never has an off day, never needs managing, and keeps
-                delivering without you having to think about it.
+                A social media manager costs $300–500/month minimum and usually requires
+                back-and-forth. Glow Social costs {pricing.startingAtFull} to start and is built
+                for the smaller job many owners actually need: posts prepared, reviewed, and sent
+                without another person or process to manage.
               </p>
             </details>
             <details className="faq-item">
@@ -452,24 +458,22 @@ export default function PricingPage() {
       <section className="final-cta">
         <div className="container">
           <h2>
-            Make Your Social Media
+            See the posts
             <br />
-            Match Your Business.
+            before you choose.
           </h2>
           <p>
-            5-minute setup. Professional posts, Google Business Profile, and
-            reviews — all done for you.
+            Enter your website and Glow Social will create posts for social and Google Business
+            that are ready for you to approve.
             <br />
-            Your storefront looks alive. Your {pricing.startingAtFull} starts today.
-            <br />
-            {pricing.billingPolicy}
+            No prompts, no content calendar, no strategy homework.
           </p>
           <a
-            href="https://app.glowsocial.com/signup"
+            href="https://app.glowsocial.com/preview"
             className="btn btn--primary btn--lg btn--glow"
             id="pricing-final-cta"
           >
-            Get Started — {pricing.startingAtShort}
+            See my posts
           </a>
         </div>
       </section>

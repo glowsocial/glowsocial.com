@@ -2,7 +2,6 @@ import { notFound } from "next/navigation";
 import { getAllSlugs, getPostBySlug } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 import Link from "next/link";
-import { getPricing } from "@/app/pricing-config";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("comparisons");
@@ -101,7 +100,6 @@ export default async function ComparePage({ params }) {
   const page = getPostBySlug("comparisons", slug);
   if (!page) notFound();
 
-  const pricing = getPricing();
   const contentHtml = markdownToHtml(page.content);
 
   return (
@@ -130,17 +128,16 @@ export default async function ComparePage({ params }) {
       />
 
       <div className="post-cta-box">
-        <h3>Ready to switch?</h3>
+        <h3>See what Glow Social makes from your website.</h3>
         <p>
-          Glow Social creates and publishes professional content for your
-          business — posts, Google Business Profile, and reviews, all
-          handled.
+          Enter your URL, review posts made from your actual business, and
+          decide after you see the work.
         </p>
         <a
-          href="https://app.glowsocial.com/"
+          href="https://app.glowsocial.com/preview"
           className="btn btn--primary"
         >
-          Get Started — {pricing.startingAtShort}
+          See my posts
         </a>
       </div>
     </article>

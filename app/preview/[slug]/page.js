@@ -4,53 +4,53 @@ import "./preview.css";
 const nicheData = {
   "real-estate": {
     name: "Real Estate Agents",
-    headline: "See what a month of done-for-you social media looks like for your real estate business",
-    problem: "The market isn't waiting, and neither should you. Between showings, closings, and client calls, social media always gets pushed to tomorrow.",
+    headline: "See posts ready to approve for your real estate business",
+    problem: "Between showings, closings, and client calls, social media always gets pushed to tomorrow. Start with posts made from your actual business before you choose a plan.",
   },
   "roofing": {
     name: "Roofing Companies",
-    headline: "See what a month of done-for-you social media looks like for your roofing business",
-    problem: "You're booking jobs and managing crews, not sitting at a desk designing Canva templates. We'll show potential customers you're the most trusted roofer in town.",
+    headline: "See posts ready to approve for your roofing business",
+    problem: "You're booking jobs and managing crews, not sitting at a desk designing posts. Glow Social turns your website into useful content you can review before anything publishes.",
   },
   "hvac": {
     name: "HVAC Companies",
-    headline: "See what a month of done-for-you social media looks like for your HVAC business",
-    problem: "When it's 100 degrees out, nobody cares about your latest blog post. They care if you answer the phone. We keep your social presence hot so you can keep the AC running.",
+    headline: "See posts ready to approve for your HVAC business",
+    problem: "When it is 100 degrees out, people need the HVAC company they already trust. See posts built from your services, proof, and local context before you connect accounts.",
   },
   "dentist": {
     name: "Dentists",
-    headline: "See what a month of done-for-you social media looks like for your dental practice",
-    problem: "You're treating patients, not learning TikTok trends. Keep your chairs full by building trust with your local community online—without lifting a finger.",
+    headline: "See posts ready to approve for your dental practice",
+    problem: "You're treating patients, not learning another marketing tool. Glow Social prepares trust-building posts from your website so you can approve what fits.",
   },
   "landscaping": {
     name: "Landscaping Companies",
-    headline: "See what a month of done-for-you social media looks like for your landscaping business",
-    problem: "Your work speaks for itself, but only if people see it. Stop worrying about remembering to take before-and-after photos and let us build your local authority.",
+    headline: "See posts ready to approve for your landscaping business",
+    problem: "Your work speaks for itself, but only if people see it. Start with posts made from your services and local proof, then decide what should go live.",
   },
   "plumbing": {
     name: "Plumbers",
-    headline: "See what a month of done-for-you social media looks like for your plumbing business",
-    problem: "When a pipe bursts, people call the plumber they remember. We make sure you're the one they see every day on their local feeds.",
+    headline: "See posts ready to approve for your plumbing business",
+    problem: "When a pipe bursts, people call the plumber they remember. Glow Social helps keep your business visible without asking you to manage a posting calendar.",
   },
   "accountant": {
     name: "Accountants & CPAs",
-    headline: "See what a month of done-for-you social media looks like for your accounting firm",
-    problem: "Tax season is crazy enough. We translate your financial expertise into engaging, professional posts so you look like the ultimate local authority.",
+    headline: "See posts ready to approve for your accounting firm",
+    problem: "Tax season is already enough. Glow Social turns your expertise and website into professional posts you can review when you have a minute.",
   },
   "cleaning": {
     name: "Cleaning Companies",
-    headline: "See what a month of done-for-you social media looks like for your cleaning business",
-    problem: "You make houses shine, we'll make your social media shine. Build local trust and get more recurring clients without worrying about what to post.",
+    headline: "See posts ready to approve for your cleaning business",
+    problem: "You handle the cleanups. Glow Social handles the first draft of your online visibility with posts made from your real business details.",
   },
   "auto-repair": {
     name: "Auto Repair Shops",
-    headline: "See what a month of done-for-you social media looks like for your auto repair shop",
-    problem: "You're under the hood, not on Instagram. We help you build trust with local drivers so you're their first call when the check engine light comes on.",
+    headline: "See posts ready to approve for your auto repair shop",
+    problem: "You're under the hood, not trying to think of Instagram captions. See posts built from your services and customer trust signals before you choose a plan.",
   },
   "salon": {
     name: "Salons & Spas",
-    headline: "See what a month of done-for-you social media looks like for your salon",
-    problem: "Your clients leave looking beautiful, but your social pages are a mess. We ensure your online presence is as polished as your services.",
+    headline: "See posts ready to approve for your salon",
+    problem: "Your clients leave looking polished. Your online presence should feel current too, without asking you to become the social media person.",
   }
 };
 
@@ -65,14 +65,14 @@ export async function generateMetadata({ params }) {
   if (!niche) return { title: "Free Social Media Preview | Glow Social" };
 
   return {
-    title: `Free Social Media Posts With Images for ${niche.name} | Glow Social Preview`,
-    description: `Enter your website and email to see 12 custom social media posts with images generated specifically for your ${niche.name.toLowerCase()} business.`,
+    title: `See Posts Ready to Approve for ${niche.name}`,
+    description: `Enter your website and email to see posts ready to approve for your ${niche.name.toLowerCase()} business. Free preview, no login required.`,
     alternates: {
       canonical: `/preview/${slug}`,
     },
     openGraph: {
-      title: `Free Social Media Posts With Images for ${niche.name}`,
-      description: `See 12 custom social media posts with images for your ${niche.name.toLowerCase()} business. Free, no login required.`,
+      title: `See Posts Ready to Approve for ${niche.name}`,
+      description: `See posts made from your website for your ${niche.name.toLowerCase()} business. Free, no login required.`,
       url: `https://glowsocial.com/preview/${slug}`,
       type: "website",
     },
@@ -92,7 +92,7 @@ export default async function PreviewLandingPage({ params }) {
     "@type": "WebApplication",
     "name": `Free Social Media Preview for ${niche.name}`,
     "alternateName": "Glow Social Preview Tool",
-    "description": `Enter your website and email address to get 12 social media posts with images for your ${niche.name.toLowerCase()} business.`,
+    "description": `Enter your website and email address to see posts ready to approve for your ${niche.name.toLowerCase()} business.`,
     "url": `https://glowsocial.com/preview/${slug}`,
     "applicationCategory": "BusinessApplication",
     "operatingSystem": "Web",
@@ -108,11 +108,11 @@ export default async function PreviewLandingPage({ params }) {
       "url": "https://glowsocial.com"
     },
     "featureList": [
-      `12 personalized social media posts for ${niche.name}`,
-      "Custom images for each post",
+      `Posts ready to approve for ${niche.name}`,
+      "Images matched to each post",
       "Website-based brand voice analysis",
-      "Monthly content calendar preview",
-      "No login required"
+      "No content calendar or prompts required",
+      "No login or social account connection required"
     ]
   };
 
@@ -125,30 +125,30 @@ export default async function PreviewLandingPage({ params }) {
       <section className="preview-hero">
         <div className="container preview-hero-inner">
           <div className="preview-content">
-            <div className="preview-badge">Free Tool for {niche.name}</div>
+            <div className="preview-badge">Free preview for {niche.name}</div>
             <h1 className="preview-hl">{niche.headline}</h1>
             <p className="preview-sub">{niche.problem}</p>
             
             <div className="preview-features">
               <div className="preview-feature">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="check-icon"><polyline points="20 6 9 17 4 12" /></svg>
-                <span><strong>Reads your actual website:</strong> We scan your services, tone, and unique value to write posts that sound like you.</span>
+                <span><strong>Reads your actual website:</strong> Your services, tone, proof, and customer language give Glow Social the context.</span>
               </div>
               <div className="preview-feature">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="check-icon"><polyline points="20 6 9 17 4 12" /></svg>
-                <span><strong>Custom images for every post:</strong> Photorealistic images tailored to {niche.name.toLowerCase()}.</span>
+                <span><strong>Images matched to the post:</strong> Each preview post includes a visual matched to your business context.</span>
               </div>
               <div className="preview-feature">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="check-icon"><polyline points="20 6 9 17 4 12" /></svg>
-                <span><strong>Scheduled and ready to go:</strong> A full month of content on a Mon/Wed/Fri schedule.</span>
+                <span><strong>Ready before you connect:</strong> See posts first, then decide what profiles you want Glow Social to keep active.</span>
               </div>
             </div>
           </div>
           
           <div className="preview-form-wrapper">
             <div className="preview-card">
-              <h2>Get your free preview</h2>
-              <p>12 preview posts, custom images, and a content calendar — in 60 seconds.</p>
+              <h2>See my posts</h2>
+              <p>Enter your website and email. We will create preview posts before you choose a plan.</p>
               
               {/* Form submits to /preview/{slug}?url=...&email=... which the Next.js
                   rewrite proxies through to app.glowsocial.com/preview/{slug}.
@@ -165,9 +165,9 @@ export default async function PreviewLandingPage({ params }) {
                 </div>
 
                 <button type="submit" className="btn btn--primary btn--lg preview-btn">
-                  Generate My Posts
+                  See my posts
                 </button>
-                <p className="privacy-note">Results are generated instantly. No login required.</p>
+                <p className="privacy-note">No login, card, or social account connection required.</p>
               </form>
             </div>
           </div>
@@ -179,7 +179,7 @@ export default async function PreviewLandingPage({ params }) {
       <section className="preview-proof">
         <div className="container">
           <div className="proof-banner">
-            <p><strong>Stop guessing what to post.</strong> We build your social calendar from your actual business data.</p>
+            <p><strong>Stop guessing what to post.</strong> We turn your website into posts you can review before anything publishes.</p>
           </div>
         </div>
       </section>

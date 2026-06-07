@@ -1,8 +1,6 @@
-import Link from "next/link";
-
 export const metadata = {
   title: "Home Services Social Media — Glow Social",
-  description: "Done-for-you social media for home service businesses. Plumbers, electricians, roofers, HVAC, and contractors — starting at $99/month.",
+  description: "Done-for-you social media for home service businesses. See posts from your website before choosing a plan, starting at $99/month.",
 };
 
 export default function HomeServices() {
@@ -11,7 +9,7 @@ export default function HomeServices() {
       <section className="blog-hero">
         <div className="container">
           <h1>Social Media for Home Service Businesses</h1>
-          <p>Plumbers, roofers, electricians, HVAC, contractors — handled starting at $99/month.</p>
+          <p>Plumbers, roofers, electricians, HVAC, contractors - posts ready to approve starting at $99/month.</p>
         </div>
       </section>
       <article className="blog-post">
@@ -19,16 +17,15 @@ export default function HomeServices() {
 
           <h2>You Fix Things. We Handle Your Social Media.</h2>
           <p>
-            When you're crawling under a house at 7am or finishing a roof before
+            When you are crawling under a house at 7am or finishing a roof before
             the rain hits, the last thing on your mind is posting to Instagram.
-            But when someone searches "plumber near me" or "best roofer in
-            [your city]," an active social media presence is what makes them call
-            you instead of the next guy.
+            But when someone searches for a plumber near them or the best roofer
+            nearby, active profiles help them call you instead of the next name.
           </p>
 
           <h2>Why Home Service Businesses Need Social Media</h2>
           <ul>
-            <li><strong>Trust signals:</strong> Active social pages tell customers you're legitimate and in business</li>
+            <li><strong>Trust signals:</strong> Active social pages tell customers you are legitimate and in business</li>
             <li><strong>Local discovery:</strong> Google factors social media presence into local search results</li>
             <li><strong>Referral validation:</strong> When someone gets your name from a neighbor, they check your pages before calling</li>
             <li><strong>Review visibility:</strong> Google Reviews are the #1 driver of new customer calls</li>
@@ -37,11 +34,11 @@ export default function HomeServices() {
           <h2>What Glow Social Does for Home Services</h2>
           <p>
             We read your website and create posts that showcase your expertise,
-            highlight your services, and keep your pages active — without you
-            lifting a finger.
+            highlight your services, and keep your pages active without asking
+            you to become a content creator.
           </p>
           <ul>
-            <li>20 posts per month across your core platforms</li>
+            <li>20 posts ready to approve each month</li>
             <li>Google Business Profile posting included</li>
             <li>Google Review monitoring — never miss a new review</li>
             <li>Custom graphics in your brand colors</li>
@@ -60,12 +57,12 @@ export default function HomeServices() {
             <li>Handymen</li>
           </ul>
 
-          <h2>Starting at $99/Month. 5-Minute Setup.</h2>
+          <h2>Preview First. Starts at $99/Month.</h2>
           <p>
-            No contracts. No commitments. No content creation on your end.
+            No contracts. No commitments. See the posts before you choose.
           </p>
           <p>
-            <a href="https://app.glowsocial.com/">Get started →</a>
+            <a href="https://app.glowsocial.com/preview">See my posts</a>
           </p>
         </div>
       </article>

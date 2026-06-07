@@ -2,23 +2,23 @@ import PreviewClient from './PreviewClient'
 import './[slug]/preview.css'
 
 export const metadata = {
-  title: 'Free Social Media Preview — Get 12 Posts With Images From Your Website | Glow Social',
+  title: 'See Your Posts Before You Pay',
   description:
-    'Enter your website and email to get 12 social media posts with images, written in your voice for your business. Free, no login required.',
+    'Enter your website and email to see posts ready to approve for your business. Free preview, no login or social account connection required.',
   alternates: {
     canonical: '/preview',
   },
   openGraph: {
-    title: 'Free Social Media Preview — Get 12 Posts With Images From Your Website | Glow Social',
+    title: 'See Your Posts Before You Pay',
     description:
-      'Drop your website URL and get 12 social media posts with images for your actual business. Free, no login required.',
+      'Drop your website URL and see posts ready to approve for your actual business. Free, no login required.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Free Social Media Preview | Glow Social',
     description:
-      'Get 12 social media posts with images from your website — free, no login required.',
+      'See posts ready to approve from your website — free, no login required.',
   },
 }
 
@@ -29,7 +29,7 @@ const previewSchema = {
       "@type": "WebApplication",
       "name": "Free Social Media Preview by Glow Social",
       "alternateName": "Glow Social Preview Tool",
-      "description": "Enter your website and email address to get 12 social media posts with images, personalized for your business.",
+      "description": "Enter your website and email address to see posts ready to approve for your business.",
       "url": "https://glowsocial.com/preview",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
@@ -45,11 +45,11 @@ const previewSchema = {
         "url": "https://glowsocial.com"
       },
       "featureList": [
-        "12 personalized social media posts",
+        "Posts ready to approve",
         "Custom images for each post",
         "Website-based brand voice analysis",
-        "Monthly content calendar preview",
-        "No login required"
+        "No content calendar or prompts required",
+        "No login or social account connection required"
       ]
     },
     {
@@ -60,7 +60,7 @@ const previewSchema = {
           "name": "What is the Glow Social preview tool?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Glow Social preview tool creates 12 social media posts with images from your business website. It is designed for small businesses that want to see real content examples before subscribing to a done-for-you social media service."
+            "text": "The Glow Social preview tool creates posts with images from your business website. It is designed for business owners who want to see posts ready to approve before subscribing to a done-for-you social media service."
           }
         },
         {
@@ -68,7 +68,7 @@ const previewSchema = {
           "name": "Is the social media preview free?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. You enter your website and email address, and Glow Social creates a free preview of 12 social media posts with images. No login or credit card is required."
+            "text": "Yes. You enter your website and email address, and Glow Social creates a free preview of posts with images. No login or credit card is required."
           }
         },
         {
@@ -76,7 +76,7 @@ const previewSchema = {
           "name": "Do I need to connect my social accounts?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The preview only needs your website and email address. You connect social accounts later if you decide to use Glow Social to publish content automatically."
+            "text": "No. The preview only needs your website and email address. You connect social accounts later if you decide to use Glow Social to publish approved posts."
           }
         },
         {
@@ -84,7 +84,7 @@ const previewSchema = {
           "name": "Can I use the preview posts?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. The preview is meant to show what Glow Social can create for your business. If you subscribe, Glow Social can continue creating and publishing posts automatically every month."
+            "text": "Yes. The preview is meant to show what Glow Social can create for your business. If you subscribe, Glow Social can continue creating posts every month and publishing what you approve."
           }
         }
       ]

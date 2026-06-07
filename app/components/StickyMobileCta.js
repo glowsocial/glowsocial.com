@@ -60,7 +60,7 @@ export default function StickyMobileCta() {
         data-analytics-label="Sticky preview CTA"
         data-analytics-location="sticky_mobile"
       >
-        GET A PREVIEW
+        SEE MY POSTS
       </a>
     </div>
   );

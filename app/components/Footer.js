@@ -17,8 +17,8 @@ export default function Footer() {
               />
             </div>
             <p>
-              Done-for-you social media that keeps your business visible,
-              trusted, and top-of-mind.
+              Your website becomes posts ready to approve. Social and Google
+              stay handled after you say yes.
             </p>
           </div>
 
