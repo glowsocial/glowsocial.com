@@ -305,6 +305,12 @@ const heroPostEngagement = [
   { likes: "44", comments: "5" },
 ];
 
+const proofStats = [
+  { value: "1,500+", label: "posts created" },
+  { value: "1,400+", label: "publish events logged" },
+  { value: "879k+", label: "impressions tracked" },
+];
+
 const outcomeCards = [
   {
     label: "Customer questions",
@@ -591,6 +597,20 @@ function HeroPreviewBridge() {
   );
 }
 
+function HeroProofStrip() {
+  return (
+    <div className="hero-proof-strip" aria-label="Glow Social publishing proof">
+      {proofStats.map((stat, index) => (
+        <span className="hero-proof-stat" key={stat.label}>
+          {index > 0 && <span className="hero-proof-separator" aria-hidden="true">·</span>}
+          <strong>{stat.value}</strong>
+          {stat.label}
+        </span>
+      ))}
+    </div>
+  );
+}
+
 function OutcomeSection() {
   return (
     <section className="outcome-section" aria-labelledby="outcome-heading">
@@ -640,6 +660,7 @@ function ProductDemoSection() {
           <h2 id="product-demo-heading">One website in. A month of posts out.</h2>
           <p className="section-sub">
             Add your URL. <BrandName /> drafts the posts, gives you final say, and publishes what you approve.
+            Built from live publishing workflows, not a mockup.
           </p>
           <a
             href={previewUrl("homepage", "how_it_works")}
@@ -781,8 +802,12 @@ function CustomerProof() {
           <span className="section-kicker">See it before you pay</span>
           <h2 id="proof-heading">Your preview shows the actual month.</h2>
           <p>
-            The first decision is simple: enter your website, see the posts,
-            and decide whether they look like your business.
+            Real posts, real publishing history. <BrandName /> has already
+            created more than 1,500 posts across local business accounts.
+          </p>
+          <p className="proof-support-line">
+            Enter your website, see the posts, and decide whether they look
+            like your business before anything publishes.
           </p>
         </div>
         <div className="proof-preview-card" aria-label="What a Glow Social preview includes">
@@ -797,7 +822,7 @@ function CustomerProof() {
             </div>
             <div>
               <span>Visuals</span>
-              <strong>Generated for the post</strong>
+              <strong>Created for the post</strong>
             </div>
             <div>
               <span>Control</span>
@@ -863,42 +888,12 @@ export default function HomePageContent() {
               </div>
             </form>
             <HeroPreviewBridge />
+            <HeroProofStrip />
             <p className="hero-url-hint">
               No login. No payment. See the posts first.
             </p>
           </div>
           <HeroSocialShowcase />
-        </div>
-      </section>
-
-      {/* ============ TRUST BAR — Specificity builds trust ============ */}
-      <section className="trust-bar">
-        <div className="container trust-bar-inner">
-          <div className="trust-stat">
-            <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-            <div><strong>20 posts</strong> every month</div>
-          </div>
-          <div className="trust-stat">
-            <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
-            <div><strong>No strategy</strong> homework</div>
-          </div>
-          <div className="trust-stat">
-            <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
-            <div><strong>Social + Google</strong> covered</div>
-          </div>
-          <div className="trust-stat">
-            <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
-            <div><strong>No contracts</strong> cancel anytime</div>
-          </div>
-          <a
-            className="trust-stat trust-stat--grant"
-            href="https://elevenlabs.io/startup-grants"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <svg className="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M8 21h8" /><path d="M12 17v4" /><path d="M7 4h10v4a5 5 0 0 1-10 0V4z" /><path d="M5 5H3v2a4 4 0 0 0 4 4" /><path d="M19 5h2v2a4 4 0 0 1-4 4" /></svg>
-            <div><strong>ElevenLabs</strong> grant recipient</div>
-          </a>
         </div>
       </section>
 
@@ -1049,6 +1044,7 @@ export default function HomePageContent() {
             <details className="faq-item"><summary><span className="faq-question">How much does <BrandName /> cost?</span></summary><p>{pricing.summaryFull} {pricing.billingPolicy} You keep access through the end of your paid period.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I see posts before I pay?</span></summary><p>Yes. Enter your website to see the actual posts Glow Social would prepare for your business before you create an account, connect profiles, or choose a plan.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Do I need to connect accounts before the preview?</span></summary><p>No. The preview only needs your website. Connections come later, after you see the posts and decide what should publish.</p></details>
+            <details className="faq-item"><summary><span className="faq-question">Is this actually ready for my business?</span></summary><p>Every post is drafted for review first. <BrandName /> has created 1,500+ posts and logged 1,400+ publishing events across Instagram, Facebook, LinkedIn, Google Business, Pinterest, and more.</p></details>
             <details className="faq-item"><summary><span className="faq-question">Can I cancel anytime?</span></summary><p>Yes. No contracts, no commitments. Cancel anytime and keep access through the end of your paid period. We earn your business every month.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How much do I have to do?</span></summary><p>Give us your website, review the posts, and approve what fits. You connect social accounts later, after you know the posts are worth publishing.</p></details>
             <details className="faq-item"><summary><span className="faq-question">How does <BrandName /> know what to post?</span></summary><p>We use your website and real marketing judgment to identify what customers care about, why they should trust you, and what makes you different.</p></details>

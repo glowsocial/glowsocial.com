@@ -29,6 +29,14 @@ export default function HomeJsonLd() {
       },
       {
         "@type": "Question",
+        name: "Is this actually ready for my business?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Every post is drafted for review first. Glow Social has created 1,500+ posts and logged 1,400+ publishing events across Instagram, Facebook, LinkedIn, Google Business, Pinterest, and more.",
+        },
+      },
+      {
+        "@type": "Question",
         name: "Can I cancel anytime?",
         acceptedAnswer: {
           "@type": "Answer",
