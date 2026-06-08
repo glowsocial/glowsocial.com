@@ -24,6 +24,15 @@ function quickStartUrl(content) {
   });
 }
 
+function planPreviewUrl(plan, content) {
+  return appMarketingUrl("/preview", {
+    plan,
+    utm_medium: "pricing_page",
+    utm_campaign: "free_preview",
+    utm_content: content,
+  });
+}
+
 export default function PricingPage() {
   const pricing = getPricing();
   return (
@@ -74,23 +83,34 @@ export default function PricingPage() {
                 <span className="price-period">/month</span>
               </div>
               <ul>
-                <li><strong>20 posts ready to approve</strong> every month</li>
+                <li><strong>20 custom static posts</strong> ready to approve every month</li>
                 <li><strong>Social + Google Business</strong> posting included</li>
                 <li><strong>Website-informed captions</strong> and graphics</li>
                 <li><strong>No content calendar</strong> or prompts to manage</li>
                 <li><strong>Final approval</strong> before posts go live</li>
               </ul>
               <a
-                href={checkoutUrl("core", "pricing_page", "pricing_card_core")}
+                href={planPreviewUrl("core", "pricing_card_core_preview")}
                 className="btn btn--outline"
-                id="pricing-core-cta"
+                id="pricing-core-preview-cta"
                 data-analytics-category="pricing"
-                data-analytics-event="pricing_cta_click"
-                data-analytics-label="Pricing page Core CTA"
+                data-analytics-event="pricing_preview_cta_click"
+                data-analytics-label="Pricing page Core preview CTA"
                 data-analytics-location="pricing_cards"
                 data-analytics-plan="core"
               >
-                Start Core
+                Preview Core first
+              </a>
+              <a
+                href={checkoutUrl("core", "pricing_page", "pricing_card_core_already_previewed")}
+                className="pricing-direct-checkout"
+                data-analytics-category="pricing"
+                data-analytics-event="pricing_direct_checkout_click"
+                data-analytics-label="Already previewed Core checkout"
+                data-analytics-location="pricing_cards"
+                data-analytics-plan="core"
+              >
+                Already previewed? Start Core
               </a>
             </div>
 
@@ -104,23 +124,34 @@ export default function PricingPage() {
               </div>
               <ul>
                 <li>Everything in Core, plus:</li>
-                <li><strong>Carousel posts</strong> for richer stories</li>
-                <li><strong>Video posts</strong> for higher-visibility moments</li>
-                <li><strong>Campaign posts</strong> for promos and events</li>
+                <li><strong>28 total custom static posts</strong> every month</li>
+                <li><strong>4 video posts</strong> for higher-visibility moments</li>
+                <li><strong>4 carousel posts</strong> for richer stories</li>
                 <li><strong>Google Review monitoring</strong> in your dashboard</li>
                 <li><strong>Performance notes</strong> when you want signal</li>
               </ul>
               <a
-                href={checkoutUrl("pro", "pricing_page", "pricing_card_pro")}
+                href={planPreviewUrl("pro", "pricing_card_pro_preview")}
                 className="btn btn--primary"
-                id="pricing-pro-cta"
+                id="pricing-pro-preview-cta"
                 data-analytics-category="pricing"
-                data-analytics-event="pricing_cta_click"
-                data-analytics-label="Pricing page Pro CTA"
+                data-analytics-event="pricing_preview_cta_click"
+                data-analytics-label="Pricing page Pro preview CTA"
                 data-analytics-location="pricing_cards"
                 data-analytics-plan="pro"
               >
-                Start Pro
+                Preview Pro first
+              </a>
+              <a
+                href={checkoutUrl("pro", "pricing_page", "pricing_card_pro_already_previewed")}
+                className="pricing-direct-checkout"
+                data-analytics-category="pricing"
+                data-analytics-event="pricing_direct_checkout_click"
+                data-analytics-label="Already previewed Pro checkout"
+                data-analytics-location="pricing_cards"
+                data-analytics-plan="pro"
+              >
+                Already previewed? Start Pro
               </a>
             </div>
 
@@ -133,22 +164,33 @@ export default function PricingPage() {
               </div>
               <ul>
                 <li>Everything in Pro, plus:</li>
-                <li><strong>No monthly content ceiling</strong> when things get busy</li>
-                <li><strong>Unlimited standard posts</strong> across your channels</li>
-                <li><strong>Unlimited carousels, video, and campaign posts</strong></li>
-                <li><strong>More room</strong> for launches, seasons, and surprises</li>
+                <li><strong>Unlimited custom static posts</strong></li>
+                <li><strong>Unlimited video posts</strong></li>
+                <li><strong>Unlimited carousel posts</strong></li>
+                <li><strong>No monthly content ceiling</strong> for launches, seasons, and surprises</li>
               </ul>
               <a
-                href={checkoutUrl("unlimited", "pricing_page", "pricing_card_unlimited")}
+                href={planPreviewUrl("unlimited", "pricing_card_unlimited_preview")}
                 className="btn btn--outline"
-                id="pricing-unlimited-cta"
+                id="pricing-unlimited-preview-cta"
                 data-analytics-category="pricing"
-                data-analytics-event="pricing_cta_click"
-                data-analytics-label="Pricing page Unlimited CTA"
+                data-analytics-event="pricing_preview_cta_click"
+                data-analytics-label="Pricing page Unlimited preview CTA"
                 data-analytics-location="pricing_cards"
                 data-analytics-plan="unlimited"
               >
-                Start Unlimited
+                Preview Unlimited first
+              </a>
+              <a
+                href={checkoutUrl("unlimited", "pricing_page", "pricing_card_unlimited_already_previewed")}
+                className="pricing-direct-checkout"
+                data-analytics-category="pricing"
+                data-analytics-event="pricing_direct_checkout_click"
+                data-analytics-label="Already previewed Unlimited checkout"
+                data-analytics-location="pricing_cards"
+                data-analytics-plan="unlimited"
+              >
+                Already previewed? Start Unlimited
               </a>
             </div>
           </div>
@@ -264,7 +306,7 @@ export default function PricingPage() {
       <section className="pricing-compare">
         <div className="container">
           <h2>Compare Plans</h2>
-          <p className="section-sub">Start small. Add formats and monitoring only when they are useful.</p>
+          <p className="section-sub">Core covers 20 custom static posts. Pro includes 28 custom static posts, 4 videos, and 4 carousels. Unlimited removes the monthly content ceiling.</p>
           <div className="comparison-table-wrap">
             <table className="comparison-table">
               <thead>
@@ -283,27 +325,21 @@ export default function PricingPage() {
                   <td>{pricing.unlimited.display}</td>
                 </tr>
                 <tr>
-                  <td>Standard posts per month</td>
+                  <td>Custom static posts per month</td>
                   <td>20</td>
-                  <td className="highlight-col"><strong>20</strong></td>
+                  <td className="highlight-col"><strong>28</strong></td>
                   <td>Unlimited</td>
                 </tr>
                 <tr>
-                  <td>Carousel posts</td>
+                  <td>Video posts per month</td>
                   <td>—</td>
                   <td className="highlight-col"><strong>4</strong></td>
                   <td>Unlimited</td>
                 </tr>
                 <tr>
-                  <td>Video posts</td>
+                  <td>Carousel posts per month</td>
                   <td>—</td>
                   <td className="highlight-col"><strong>4</strong></td>
-                  <td>Unlimited</td>
-                </tr>
-                <tr>
-                  <td>Custom campaign posts</td>
-                  <td>—</td>
-                  <td className="highlight-col"><strong>8</strong></td>
                   <td>Unlimited</td>
                 </tr>
                 <tr>
@@ -459,10 +495,10 @@ export default function PricingPage() {
             <details className="faq-item">
               <summary>What&apos;s the difference between Core and Pro?</summary>
               <p>
-                Core gives you 20 posts ready to approve each month, Google Business
+                Core gives you 20 custom static posts ready to approve each month, Google Business
                 Profile visibility, brand-matched posts, and approval controls
-                before posts go live. Pro adds carousel and video formats,
-                custom campaign posts, Google
+                before posts go live. Pro includes 28 custom static posts,
+                4 video posts, 4 carousel posts, Google
                 Review monitoring, and performance analytics.
               </p>
             </details>

@@ -1957,6 +1957,25 @@
 .price-card ul li { padding: 6px 0 6px 20px; font-size: 0.9rem; color: var(--text-muted); position: relative; text-transform: none; letter-spacing: 0; }
 .price-card ul li::before { content: ''; position: absolute; left: 0; top: 14px; width: 8px; height: 4px; border-left: 2px solid var(--accent-dark); border-bottom: 2px solid var(--accent-dark); transform: rotate(-45deg); }
 .price-card .btn { width: 100%; margin-top: auto; }
+.pricing-direct-checkout {
+  display: inline-flex;
+  justify-content: center;
+  margin-top: 12px;
+  color: rgba(25, 39, 52, 0.62);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 1.35;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+  text-transform: uppercase;
+  transition: color var(--transition);
+}
+.pricing-direct-checkout:hover {
+  color: var(--navy);
+}
 
 .pricing-objection-strip {
   display: grid;

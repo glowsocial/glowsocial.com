@@ -126,7 +126,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "20 standard posts plus carousel posts, video posts, custom campaign posts, performance analytics",
+          "28 custom static posts, 4 video posts, 4 carousel posts, Google Review monitoring, and performance analytics",
       },
       {
         "@type": "Offer",
@@ -135,7 +135,7 @@ export default function HomeJsonLd() {
         priceCurrency: "USD",
         priceValidUntil: "2027-12-31",
         description:
-          "Unlimited static, video, carousel, and custom posts",
+          "Everything in Pro plus unlimited custom static posts, unlimited video posts, and unlimited carousel posts",
       },
     ],
     featureList:

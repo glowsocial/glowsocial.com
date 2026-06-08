@@ -132,8 +132,9 @@ export default function About() {
             screen wondering what to post.
           </p>
           <p>
-            Pro adds carousel posts, video posts, campaign support, review
-            monitoring, and analytics for businesses with more going on.
+            Pro includes 28 custom static posts, 4 video posts, 4 carousel
+            posts, review monitoring, and analytics for businesses with more
+            going on.
           </p>
 
           <h2>How It Works</h2>

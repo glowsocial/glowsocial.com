@@ -326,10 +326,18 @@ h2 {
 
 .mobile-menu-toggle {
   display: none;
-  background: none;
-  border: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+  width: 44px;
+  height: 44px;
+  background: var(--white);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-sm);
+  box-shadow: 0 4px 14px rgba(25, 39, 52, 0.08);
   cursor: pointer;
-  padding: 4px;
+  padding: 0;
   z-index: 300;
 }
 
@@ -338,7 +346,7 @@ h2 {
   width: 24px;
   height: 2px;
   background: var(--navy);
-  margin: 5px 0;
+  margin: 0;
   transition: var(--transition);
   transform-origin: center;
 }
@@ -467,16 +475,16 @@ h2 {
   .mobile-menu-checkbox {
     display: block;
     position: absolute;
-    top: 16px;
+    top: 10px;
     right: 24px;
-    width: 32px;
-    height: 32px;
+    width: 44px;
+    height: 44px;
     opacity: 0;
     cursor: pointer;
     z-index: 350;
   }
   .mobile-menu-toggle {
-    display: block;
+    display: inline-flex;
   }
   .site-nav,
   .header-ctas {

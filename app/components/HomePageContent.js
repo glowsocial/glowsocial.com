@@ -911,7 +911,7 @@ export default function HomePageContent() {
       <section className="pricing" id="pricing">
         <div className="container">
           <h2>Start with steady posting. Add more only when you need it.</h2>
-          <p className="section-sub">Core keeps your posts going. Add review monitoring, carousels, video posts, and campaign support only when they are useful. {pricing.billingPolicy}</p>
+          <p className="section-sub">Core keeps your posts going. Pro includes 28 custom static posts, 4 video posts, 4 carousel posts, and review monitoring. Unlimited removes the monthly content ceiling. {pricing.billingPolicy}</p>
           <p className="pricing-preview-note">Preview first if you want to see the posts before choosing a plan. No login or payment required.</p>
           <a
             href={previewUrl("homepage", "pricing_preview")}
@@ -929,7 +929,7 @@ export default function HomePageContent() {
               <p className="price-fit">Best for steady local presence</p>
               <div className="price"><span className="price-amount">{pricing.core.display}</span><span className="price-period">/month</span></div>
               <ul>
-                <li><strong>20 posts ready to approve</strong> every month</li>
+                <li><strong>20 custom static posts</strong> ready to approve every month</li>
                 <li><strong>Post ideas</strong> pulled from your website</li>
                 <li><strong>Google Business</strong> posts included</li>
                 <li><strong>Simple control</strong> before posts go live</li>
@@ -954,9 +954,9 @@ export default function HomePageContent() {
               <div className="price"><span className="price-amount">{pricing.pro.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Core, plus:</li>
-                <li><strong>Carousel posts</strong> for richer stories</li>
-                <li><strong>Video posts</strong> when a topic needs more than text</li>
-                <li><strong>Posts for promos and events</strong></li>
+                <li><strong>28 total custom static posts</strong> every month</li>
+                <li><strong>4 video posts</strong> when a topic needs more than text</li>
+                <li><strong>4 carousel posts</strong> for richer stories</li>
                 <li><strong>Google review monitoring</strong></li>
               </ul>
               <a
@@ -978,9 +978,9 @@ export default function HomePageContent() {
               <div className="price"><span className="price-amount">{pricing.unlimited.display}</span><span className="price-period">/month</span></div>
               <ul>
                 <li>Everything in Pro, plus:</li>
-                <li><strong>More posts</strong> for busier seasons</li>
-                <li><strong>More room</strong> for launches, promos, and events</li>
-                <li><strong>Campaign posts</strong> across your offers</li>
+                <li><strong>Unlimited custom static posts</strong></li>
+                <li><strong>Unlimited video posts</strong></li>
+                <li><strong>Unlimited carousel posts</strong></li>
               </ul>
               <a
                 href={checkoutUrl("unlimited", "homepage", "pricing_unlimited")}
