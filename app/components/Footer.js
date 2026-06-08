@@ -86,6 +86,7 @@ export default function Footer() {
             <button
               type="button"
               data-cookie-settings-open
+              data-analytics-category="privacy"
               data-analytics-event="footer_cookie_settings_click"
               data-analytics-label="Footer cookie settings"
               data-analytics-location="footer"

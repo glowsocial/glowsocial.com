@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
 
+import { previewUrl } from "../../lib/marketing-links";
+
 const compareLinks = [
   ["/compare/marky-alternative", "VS MARKY"],
   ["/compare/later-alternative", "VS LATER"],
@@ -87,8 +89,9 @@ export default function Header() {
             LOG IN
           </a>
           <a
-            href="https://app.glowsocial.com/preview"
+            href={previewUrl("site_navigation", "header")}
             className="btn btn--primary"
+            data-analytics-category="site_navigation"
             data-analytics-event="header_preview_cta_click"
             data-analytics-label="Header preview CTA"
             data-analytics-location="header"
@@ -140,8 +143,9 @@ export default function Header() {
               LOG IN
             </a>
             <a
-              href="https://app.glowsocial.com/preview"
+              href={previewUrl("site_navigation", "mobile_header")}
               className="btn btn--primary btn--block"
+              data-analytics-category="site_navigation"
               data-analytics-event="header_preview_cta_click"
               data-analytics-label="Mobile header preview CTA"
               data-analytics-location="mobile_header"

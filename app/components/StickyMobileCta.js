@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
+import { previewUrl } from "../../lib/marketing-links";
 
 export default function StickyMobileCta() {
   const ctaRef = useRef(null);
@@ -55,7 +56,8 @@ export default function StickyMobileCta() {
   return (
     <div className="sticky-mobile-cta" id="stickyCta" ref={ctaRef}>
       <a
-        href="https://app.glowsocial.com/preview"
+        href={previewUrl("homepage", "sticky_mobile")}
+        data-analytics-category="homepage"
         data-analytics-event="sticky_cta_click"
         data-analytics-label="Sticky preview CTA"
         data-analytics-location="sticky_mobile"

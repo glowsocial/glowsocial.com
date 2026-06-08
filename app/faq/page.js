@@ -1,3 +1,5 @@
+import { previewUrl } from "../../lib/marketing-links";
+
 export const metadata = {
   title: "FAQ",
   description: "Frequently asked questions about Glow Social's done-for-you social media posting for business owners who do not want another marketing tool to manage.",
@@ -27,7 +29,12 @@ const faqs = [
   {
     question: "Will the posts sound like me?",
     answer:
-      "Yes. Glow Social uses your actual website to understand your services, tone, proof, and customer language. You can review and edit posts before anything publishes.",
+      "Yes. Glow Social uses your actual website to understand your services, tone, proof, and customer language. You can review, edit, skip, or hold posts before anything publishes.",
+  },
+  {
+    question: "Can I see posts before I pay?",
+    answer:
+      "Yes. The preview shows posts prepared from your real website before you create a full account, connect profiles, or choose a paid plan.",
   },
   {
     question: "How much does it cost?",
@@ -132,6 +139,22 @@ export default function FAQ() {
               </p>
             </section>
           ))}
+          <div className="post-cta-box">
+            <h3>See the posts before you decide.</h3>
+            <p>
+              Enter your website and Glow Social will show posts ready to review before you connect accounts or choose a plan.
+            </p>
+            <a
+              href={previewUrl("faq_page", "faq_bottom")}
+              className="btn btn--primary"
+              data-analytics-category="faq"
+              data-analytics-event="faq_preview_cta_click"
+              data-analytics-label="FAQ bottom preview CTA"
+              data-analytics-location="faq_bottom"
+            >
+              See my posts
+            </a>
+          </div>
         </div>
       </article>
     </>

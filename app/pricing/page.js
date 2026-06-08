@@ -1,5 +1,6 @@
 import "../home.css";
 import { getPricing } from "../pricing-config";
+import { appMarketingUrl, checkoutUrl, previewUrl } from "../../lib/marketing-links";
 
 // Force dynamic rendering so pricing is evaluated at request time, not build time
 export const dynamic = 'force-dynamic';
@@ -15,6 +16,14 @@ export const metadata = {
   },
 };
 
+function quickStartUrl(content) {
+  return appMarketingUrl("/quick-start", {
+    utm_medium: "pricing_page",
+    utm_campaign: "quick_start",
+    utm_content: content,
+  });
+}
+
 export default function PricingPage() {
   const pricing = getPricing();
   return (
@@ -29,10 +38,24 @@ export default function PricingPage() {
             {pricing.summaryFull} No contracts. Cancel anytime.
           </p>
           <div style={{ display: "flex", gap: 12, justifyContent: "center", flexWrap: "wrap", marginTop: 28 }}>
-            <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
+            <a
+              href={previewUrl("pricing_page", "pricing_hero")}
+              className="btn btn--primary btn--lg"
+              data-analytics-category="pricing"
+              data-analytics-event="pricing_preview_cta_click"
+              data-analytics-label="Pricing hero preview CTA"
+              data-analytics-location="pricing_hero"
+            >
               See my posts
             </a>
-            <a href="#plans" className="btn btn--outline btn--lg">
+            <a
+              href="#plans"
+              className="btn btn--outline btn--lg"
+              data-analytics-category="pricing"
+              data-analytics-event="pricing_compare_plans_click"
+              data-analytics-label="Pricing hero compare plans CTA"
+              data-analytics-location="pricing_hero"
+            >
               Compare plans
             </a>
           </div>
@@ -58,9 +81,14 @@ export default function PricingPage() {
                 <li><strong>Final approval</strong> before posts go live</li>
               </ul>
               <a
-                href="https://app.glowsocial.com/checkout?plan=core"
+                href={checkoutUrl("core", "pricing_page", "pricing_card_core")}
                 className="btn btn--outline"
                 id="pricing-core-cta"
+                data-analytics-category="pricing"
+                data-analytics-event="pricing_cta_click"
+                data-analytics-label="Pricing page Core CTA"
+                data-analytics-location="pricing_cards"
+                data-analytics-plan="core"
               >
                 Start Core
               </a>
@@ -83,9 +111,14 @@ export default function PricingPage() {
                 <li><strong>Performance notes</strong> when you want signal</li>
               </ul>
               <a
-                href="https://app.glowsocial.com/checkout?plan=pro"
+                href={checkoutUrl("pro", "pricing_page", "pricing_card_pro")}
                 className="btn btn--primary"
                 id="pricing-pro-cta"
+                data-analytics-category="pricing"
+                data-analytics-event="pricing_cta_click"
+                data-analytics-label="Pricing page Pro CTA"
+                data-analytics-location="pricing_cards"
+                data-analytics-plan="pro"
               >
                 Start Pro
               </a>
@@ -106,13 +139,23 @@ export default function PricingPage() {
                 <li><strong>More room</strong> for launches, seasons, and surprises</li>
               </ul>
               <a
-                href="https://app.glowsocial.com/checkout?plan=unlimited"
+                href={checkoutUrl("unlimited", "pricing_page", "pricing_card_unlimited")}
                 className="btn btn--outline"
                 id="pricing-unlimited-cta"
+                data-analytics-category="pricing"
+                data-analytics-event="pricing_cta_click"
+                data-analytics-label="Pricing page Unlimited CTA"
+                data-analytics-location="pricing_cards"
+                data-analytics-plan="unlimited"
               >
                 Start Unlimited
               </a>
             </div>
+          </div>
+          <div className="pricing-objection-strip" aria-label="Pricing reassurance">
+            <p><strong>Not sure where to start?</strong> Preview the posts first. Most local businesses can begin with Core and upgrade when richer formats matter.</p>
+            <p><strong>Nothing publishes blind.</strong> You approve, edit, or skip posts before they go live.</p>
+            <p><strong>No long commitment.</strong> Plans are month-to-month, and account connections happen after you know the posts fit.</p>
           </div>
         </div>
       </section>
@@ -147,9 +190,14 @@ export default function PricingPage() {
                   <li>Built to work with <strong>Glow Social</strong></li>
                 </ul>
                 <a
-                  href="https://app.glowsocial.com/quick-start"
+                  href={quickStartUrl("website_quick_start")}
                   className="btn btn--outline"
                   id="pricing-website-quickstart-cta"
+                  data-analytics-category="pricing"
+                  data-analytics-event="quick_start_cta_click"
+                  data-analytics-label="Website Quick Start CTA"
+                  data-analytics-location="pricing_quick_start"
+                  data-analytics-plan="website_quick_start"
                   style={{ fontSize: '0.8rem', padding: '10px 24px' }}
                 >
                   Get Website Help
@@ -169,9 +217,14 @@ export default function PricingPage() {
                   <li>Ready in <strong>72 hours</strong></li>
                 </ul>
                 <a
-                  href="https://app.glowsocial.com/quick-start"
+                  href={quickStartUrl("profile_quick_start")}
                   className="btn btn--outline"
                   id="pricing-profile-quickstart-cta"
+                  data-analytics-category="pricing"
+                  data-analytics-event="quick_start_cta_click"
+                  data-analytics-label="Profile Quick Start CTA"
+                  data-analytics-location="pricing_quick_start"
+                  data-analytics-plan="profile_quick_start"
                   style={{ fontSize: '0.8rem', padding: '10px 24px' }}
                 >
                   Get Profile Help
@@ -390,6 +443,13 @@ export default function PricingPage() {
               </p>
             </details>
             <details className="faq-item">
+              <summary>Can I see the posts before I pay?</summary>
+              <p>
+                Yes. The preview uses your website to show the posts Glow Social would prepare for
+                your business before you create an account, connect profiles, or choose a paid plan.
+              </p>
+            </details>
+            <details className="faq-item">
               <summary>Can I cancel anytime?</summary>
               <p>
                 Yes. No contracts, no commitments. You can also pause when you need a breather,
@@ -469,9 +529,13 @@ export default function PricingPage() {
             No prompts, no content calendar, no strategy homework.
           </p>
           <a
-            href="https://app.glowsocial.com/preview"
+            href={previewUrl("pricing_page", "pricing_final_cta")}
             className="btn btn--primary btn--lg btn--glow"
             id="pricing-final-cta"
+            data-analytics-category="pricing"
+            data-analytics-event="pricing_preview_cta_click"
+            data-analytics-label="Pricing final preview CTA"
+            data-analytics-location="pricing_final_cta"
           >
             See my posts
           </a>

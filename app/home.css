@@ -1958,6 +1958,37 @@
 .price-card ul li::before { content: ''; position: absolute; left: 0; top: 14px; width: 8px; height: 4px; border-left: 2px solid var(--accent-dark); border-bottom: 2px solid var(--accent-dark); transform: rotate(-45deg); }
 .price-card .btn { width: 100%; margin-top: auto; }
 
+.pricing-objection-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 28px auto 0;
+  max-width: 980px;
+}
+
+.pricing-objection-strip p {
+  margin: 0;
+  padding: 16px 18px;
+  border: 1px solid rgba(25, 39, 52, 0.1);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.58);
+  color: rgba(25, 39, 52, 0.68);
+  font-size: 0.88rem;
+  line-height: 1.52;
+  text-align: left;
+}
+
+.pricing-objection-strip strong {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
 /* ---- Before / After ---- */
 .before-after {
   padding: 96px 0;
@@ -2427,6 +2458,7 @@
   .before-after-row { grid-template-columns: 1fr; }
   .before-after-row p + p { border-left: 0; border-top: 1px solid rgba(25, 39, 52, 0.06); }
   .pricing-grid { grid-template-columns: 1fr; max-width: 400px; margin: 40px auto 0; }
+  .pricing-objection-strip { grid-template-columns: 1fr; max-width: 400px; }
   .trust-bar-inner { gap: 24px; }
   .sticky-mobile-cta { display: block; }
   .gbp-grid { grid-template-columns: 1fr; }
@@ -2643,6 +2675,10 @@
   .before-after-row p {
     padding-left: 22px;
     padding-right: 22px;
+  }
+  .pricing-objection-strip p {
+    padding: 14px 15px;
+    font-size: 0.84rem;
   }
   /* Hero URL form stacks on mobile */
   .hero-url-form { width: 100%; max-width: 100%; margin-top: 24px; }

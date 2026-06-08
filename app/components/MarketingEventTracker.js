@@ -4,8 +4,10 @@ import { useEffect } from "react";
 
 function sendMarketingEvent(target) {
   if (typeof window.gtag !== "function") return;
+  if (window.__glowAnalyticsConsent !== "granted") return;
 
   const {
+    analyticsCategory,
     analyticsEvent,
     analyticsLabel,
     analyticsLocation,
@@ -15,8 +17,9 @@ function sendMarketingEvent(target) {
   if (!analyticsEvent) return;
 
   const eventParameters = {
-    event_category: "homepage",
+    event_category: analyticsCategory || "marketing",
     event_label: analyticsLabel || analyticsLocation || analyticsPlan || analyticsEvent,
+    page_path: window.location.pathname,
     transport_type: "beacon",
   };
 
@@ -26,6 +29,22 @@ function sendMarketingEvent(target) {
 
   if (analyticsPlan) {
     eventParameters.plan = analyticsPlan;
+  }
+
+  if (target instanceof HTMLAnchorElement) {
+    eventParameters.link_url = target.href;
+  }
+
+  if (target instanceof HTMLFormElement) {
+    eventParameters.form_action = target.action;
+    if (target.id) {
+      eventParameters.form_id = target.id;
+    }
+  }
+
+  const ctaText = target.textContent?.replace(/\s+/g, " ").trim();
+  if (ctaText) {
+    eventParameters.cta_text = ctaText.slice(0, 80);
   }
 
   window.gtag("event", analyticsEvent, eventParameters);

@@ -46,6 +46,7 @@ function deleteAnalyticsCookies() {
 }
 
 function disableAnalytics() {
+  window.__glowAnalyticsConsent = "denied";
   window[`ga-disable-${ANALYTICS_ID}`] = true;
 
   if (typeof window.gtag === "function") {
@@ -66,6 +67,7 @@ function loadAnalytics() {
   if (window.__glowAnalyticsLoaded) return;
 
   window.__glowAnalyticsLoaded = true;
+  window.__glowAnalyticsConsent = "granted";
   window[`ga-disable-${ANALYTICS_ID}`] = false;
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function gtag() {
@@ -119,6 +121,7 @@ export default function CookieConsent() {
         return;
       }
 
+      disableAnalytics();
       setStatus("undecided");
     }, 0);
 
