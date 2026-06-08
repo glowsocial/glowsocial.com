@@ -4,22 +4,56 @@ import { useEffect, useState } from "react";
 
 const ANALYTICS_ID = "G-W571GNWJRB";
 const CONSENT_KEY = "glow-cookie-consent-v1";
+const CONSENT_COOKIE = "glow_cookie_consent";
+const CONSENT_MAX_AGE = 60 * 60 * 24 * 365;
 const ACCEPTED = "analytics-accepted";
 const REJECTED = "analytics-rejected";
 
-function getStoredConsent() {
+function normalizeConsent(value) {
+  return value === ACCEPTED || value === REJECTED ? value : null;
+}
+
+function getCookieConsent() {
   try {
-    return window.localStorage.getItem(CONSENT_KEY);
+    const cookie = document.cookie
+      .split(";")
+      .map((part) => part.trim())
+      .find((part) => part.startsWith(`${CONSENT_COOKIE}=`));
+
+    if (!cookie) return null;
+
+    return normalizeConsent(decodeURIComponent(cookie.slice(CONSENT_COOKIE.length + 1)));
   } catch {
     return null;
   }
+}
+
+function getStoredConsent() {
+  try {
+    const localConsent = normalizeConsent(window.localStorage.getItem(CONSENT_KEY));
+
+    if (localConsent) {
+      return localConsent;
+    }
+  } catch {
+    // Fall back to the essential consent cookie below.
+  }
+
+  return getCookieConsent();
 }
 
 function storeConsent(value) {
   try {
     window.localStorage.setItem(CONSENT_KEY, value);
   } catch {
-    // If storage is blocked, honor the choice for this page view only.
+    // The essential consent cookie below still preserves the choice if possible.
+  }
+
+  try {
+    const secure = window.location.protocol === "https:" ? "; Secure" : "";
+    document.cookie = `${CONSENT_COOKIE}=${encodeURIComponent(value)}; Max-Age=${CONSENT_MAX_AGE}; path=/; SameSite=Lax${secure}`;
+  } catch {
+    // If all browser storage is blocked, honor the choice for this page view only.
   }
 }
 
