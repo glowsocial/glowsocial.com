@@ -705,6 +705,16 @@ const nextConfig = {
         destination: "https://app.glowsocial.com/examples",
         permanent: true,
       },
+      {
+        source: "/how-ai-social-media-posting-works",
+        destination: "/blog/how-ai-social-media-posting-works",
+        permanent: true,
+      },
+      {
+        source: "/LinkedIn",
+        destination: "/resources/questions/how-to-set-up-linkedin-company-page",
+        permanent: true,
+      },
 
       // === Old root-level blog posts → /blog/slug ===
       ...[
