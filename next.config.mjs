@@ -210,6 +210,35 @@ const nextConfig = {
         destination: "/blog/automated-social-media-roofers-contractors",
         permanent: true,
       },
+      ...[
+        {
+          slug: "a-comprehensive-guide-on-how-to-advertise-on-fb-marketplace-effectively",
+          canonical: "/blog/facebook-for-small-business-minimum-posting-strategy",
+        },
+        {
+          slug: "a-comprehensive-guide-to-competitive-analysis-on-social-media",
+          canonical: "/blog/automate-social-media-oba-framework",
+        },
+        {
+          slug: "a-comprehensive-guide-to-using-autopost-software-for-social-media",
+          canonical: "/blog/social-media-on-autopilot",
+        },
+        {
+          slug: "ab-test-headlines-ctas-oba-campaigns",
+          canonical: "/blog/automate-social-media-oba-framework",
+        },
+      ].flatMap(({ slug, canonical }) => [
+        {
+          source: `/${slug}`,
+          destination: canonical,
+          permanent: true,
+        },
+        {
+          source: `/blog/${slug}`,
+          destination: canonical,
+          permanent: true,
+        },
+      ]),
 
       // === "SM manager cost" cluster consolidation ===
       // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost
