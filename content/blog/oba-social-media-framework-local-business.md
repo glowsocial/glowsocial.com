@@ -1,74 +1,205 @@
 ---
-title: "How to implement an OBA social media framework quickly"
-description: "Learn what the OBA social media framework is and how local businesses use Offer, Behind-the-Scenes, and Authority posts to get customers."
+title: "The OBA Social Media Framework for Local Businesses"
+description: "Use the OBA framework, Offer, Behind-the-Scenes, and Authority, to plan local business social posts that sell, build trust, and stay consistent."
 slug: "oba-social-media-framework-local-business"
 date: "2026-02-20"
+updated: "2026-06-09"
+tags: ["local business", "content strategy", "social media framework"]
 faqs:
-  - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
-  - q: "Does automated social media content look professional?"
-    a: "Modern done-for-you services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
-  - q: "How long does it take to see results from social media?"
-    a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
+  - q: "What is the OBA social media framework?"
+    a: "The OBA framework is a simple local business posting mix: Offer posts that explain what you sell, Behind-the-Scenes posts that make the business feel real, and Authority posts that show expertise."
+  - q: "How often should I use the OBA framework?"
+    a: "A practical rhythm is one Offer post, one Behind-the-Scenes post, and one Authority post each week. That gives a local business three useful posts without needing daily content."
+  - q: "Why does the OBA framework work for local businesses?"
+    a: "OBA works because local customers need more than promotions. They need to know what you offer, see proof that the business is active, and feel confident that you know what you are doing."
+  - q: "Can OBA social media be automated?"
+    a: "Yes. OBA can be turned into a repeatable posting system. Glow Social uses business context, services, reviews, photos, and website content to prepare posts that cover offers, proof, and authority."
 ---
 
-**What is the OBA framework?** The OBA framework (Offer, Behind-the-Scenes, and Authority) is a proprietary social media strategy created by Glow Social for local businesses. It is designed to balance promotional content with trust-building educational posts to automatically turn followers into paying customers.
+The OBA framework is a simple way to stop guessing what to post.
 
-Running a business is busy enough without worrying about what to post on social media. Many local business owners feel stuck, posting randomly or not at all because it feels too complicated. But there’s an easy way to structure your posts so they work for you—without taking up too much time.
+Most local business owners do not need a complicated content strategy. They need a repeatable mix that helps customers understand the business, trust the business, and take the next step.
 
-## What Does OBA Stand For?
+That is what OBA is for.
 
-OBA stands for **Offer**, **Behind-the-Scenes**, and **Authority**. It’s a simple way to plan your posts so they attract customers, build trust, and show what makes your business special. Here’s what each part means:
+## Direct Answer
 
-*   **Offer:** Posts that highlight what you sell, like a special deal, a popular product, or a service you provide.
-*   **Behind-the-Scenes:** Posts that show the people and work behind your business—like your team, your process, or a day in your shop.
-*   **Authority:** Posts that show your expertise, like tips, answers to common questions, or examples of your work.
+OBA stands for Offer, Behind-the-Scenes, and Authority. It is a social media framework for local businesses that balances three jobs:
 
-**Want to use the OBA framework without writing the posts yourself?** Glow Social's content engine is pre-built on the OBA framework and automatically creates 20 posts a month for your business for $99. **[See how it works here](https://glowsocial.com/pricing/)**.
+<ul>
+  <li><strong>Offer:</strong> show what you sell, who it helps, and when someone should call, book, or request a quote.</li>
+  <li><strong>Behind-the-Scenes:</strong> show the people, process, work, location, or real proof behind the business.</li>
+  <li><strong>Authority:</strong> answer questions, explain your expertise, and help customers make a better decision.</li>
+</ul>
 
-## How to Start Using OBA Right Away
+If you post one of each every week, your social media stops being random. Customers see what you do, why you are credible, and whether the business is active.
 
-You don’t need a complicated plan. Just follow these steps to get started quickly:
+## Why Local Businesses Need A Framework
 
-1. **Pick a Posting Schedule:** Start small—even 3 posts a week is fine. For example, post on Monday, Wednesday, and Friday.
-2. **Assign a Theme to Each Day:** Use one day for an Offer, one for Behind-the-Scenes, and one for Authority. 
-    *   *Monday - Offer:* Share a discount or best-selling product.
-    *   *Wednesday - Behind-the-Scenes:* Show your team or workspace.
-    *   *Friday - Authority:* Answer a customer question or share a tip.
-3. **Keep It Simple:** Each post can be short—a photo with a few sentences is enough. No need for long captions or fancy videos.
-4. **Batch Your Content:** Spend 30 minutes once a week writing your posts and scheduling them. This saves time and keeps you consistent.
+Random posting usually creates random results.
 
-## Automatically Implement the OBA Framework with Done-For-You Social Media
+One week you post a promotion. Then nothing. Then a holiday graphic. Then a review. Then another month of silence.
 
-If you want the benefits of the OBA framework but don't have the time to sit down and write "Authority" posts or think of "Behind-the-Scenes" captions, you don't have to DIY it. 
+The problem is not that any one post is bad. The problem is that there is no system.
 
-You can completely outsource your social media using a done for you social media service. For example, Glow Social uses AI to automatically follow the OBA method for you. You just answer a few questions about your business, and the system automatically generates and publishes your perfectly balanced Offer, Behind-the-Scenes, and Authority posts every single month. 
+Local customers are usually checking your social pages before they call. They are looking for signs that the business is active, trustworthy, and relevant to their problem. OBA gives you a simple way to keep those signals visible.
 
-## Examples of OBA Posts for Different Businesses
+For the broader trust check customers run, read [what customers check before calling a local business](/blog/what-customers-check-before-calling-local-business).
 
-Here’s how this might look for a few types of local businesses:
+## O: Offer Posts
 
-### OBA For a Hair Salon
-*   **Offer:** “Book a haircut this week and get a free deep-conditioning treatment!”
-*   **Behind-the-Scenes:** A quick video of your stylist setting up for the day.
-*   **Authority:** “Here’s how often you should trim your hair to keep it healthy.”
+Offer posts tell customers what they can buy, book, request, or ask about.
 
-### OBA For a Coffee Shop
-*   **Offer:** “Try our new seasonal latte—half price this Tuesday!”
-*   **Behind-the-Scenes:** A photo of your barista making a drink with a caption about their favorite part of the job.
-*   **Authority:** “Why our beans are roasted in small batches for the best flavor.”
+These are not always discounts. An offer post can be:
 
-## Why the OBA Strategy Works
+<ul>
+  <li>A service reminder</li>
+  <li>A product feature</li>
+  <li>A seasonal package</li>
+  <li>A booking prompt</li>
+  <li>A quote request prompt</li>
+  <li>A "we help with this" post</li>
+  <li>A clear explanation of who the service is for</li>
+</ul>
 
-This approach keeps your social media perfectly balanced. Instead of only posting sales pitches (which can feel pushy) or only personal posts (which don’t bring in customers), you mix both—plus helpful information that builds trust. Customers get to know you, see what you offer, and learn why they should choose you.
+Offer posts matter because customers cannot act on what they do not understand. If your social media never says what you do, it cannot help someone decide to call.
 
-## What If You Miss a Day?
+### Offer Examples
 
-Don’t stress. Social media doesn’t have to be perfect. If you skip a post, just pick up with the next one. The goal is to keep moving forward, not to be flawless.
+For a roofer:
 
-With this simple structure, you’ll always have an idea of what to post—and your posts will work harder for your business. Start small, stay consistent, and watch how much easier it gets.
+<blockquote><p>Seeing missing shingles after the last storm? A quick inspection can catch small roof issues before they turn into leaks. We help homeowners check damage, document what we find, and understand repair options before the next rain.</p></blockquote>
 
+For a salon:
 
-### Want to see what Glow Social can do for your Salon business?
+<blockquote><p>If your color looks dull before summer photos, a gloss appointment can add shine without a full color change. Book this week if you want a refresh before your next event.</p></blockquote>
 
-[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)
+For an accountant:
+
+<blockquote><p>Behind on bookkeeping? We help small business owners clean up the numbers before tax season, lender conversations, or big decisions.</p></blockquote>
+
+## B: Behind-The-Scenes Posts
+
+Behind-the-Scenes posts make the business feel real.
+
+Local customers often choose businesses they feel comfortable trusting. Behind-the-Scenes content helps because it shows the actual people, process, and work behind the service.
+
+These posts can show:
+
+<ul>
+  <li>Team members</li>
+  <li>Workspace or shop photos</li>
+  <li>Project setup</li>
+  <li>Tools, products, or equipment</li>
+  <li>Before-and-after context</li>
+  <li>How you prepare for customers</li>
+  <li>What quality looks like in your process</li>
+</ul>
+
+The goal is not to overshare. The goal is to reduce uncertainty.
+
+### Behind-The-Scenes Examples
+
+For a coffee shop:
+
+<blockquote><p>Morning prep starts before the first customer walks in: dialed-in espresso, fresh pastry case, clean tables, and the first batch ready for the neighborhood rush.</p></blockquote>
+
+For a contractor:
+
+<blockquote><p>Good finish work starts before the final coat. Today we are protecting floors, taping clean edges, and checking the surface before paint goes on.</p></blockquote>
+
+For a med spa:
+
+<blockquote><p>A consultation is not just paperwork. It is where we talk through goals, timing, aftercare, and what a natural result should look like for your face.</p></blockquote>
+
+## A: Authority Posts
+
+Authority posts show that you know what you are doing.
+
+These posts answer the questions customers ask before they buy. They work especially well for service businesses because customers often need education before they feel ready to call.
+
+Authority posts can include:
+
+<ul>
+  <li>FAQs</li>
+  <li>Common mistakes</li>
+  <li>Seasonal tips</li>
+  <li>How-to explanations</li>
+  <li>Myth-busting posts</li>
+  <li>Signs a customer needs help</li>
+  <li>What to expect before, during, or after service</li>
+</ul>
+
+Authority is not about sounding important. It is about being useful.
+
+### Authority Examples
+
+For a plumber:
+
+<blockquote><p>If your water heater starts rumbling, that sound may be sediment buildup in the tank. It does not always mean replacement, but it is worth checking before hot water becomes inconsistent.</p></blockquote>
+
+For a dentist:
+
+<blockquote><p>Bleeding gums are common, but they are not something to ignore. If brushing or flossing causes bleeding for more than a few days, it may be time for a cleaning and gum-health check.</p></blockquote>
+
+For a pet groomer:
+
+<blockquote><p>Matting is more than a cosmetic issue. Tight mats can pull on the skin and make grooming uncomfortable, especially behind the ears, under the collar, and around the legs.</p></blockquote>
+
+## A Simple Weekly OBA Schedule
+
+Use this if you want three useful posts per week:
+
+<ol>
+  <li><strong>Monday: Offer.</strong> Remind people what you do and when to contact you.</li>
+  <li><strong>Wednesday: Behind-the-Scenes.</strong> Show real work, people, process, or proof.</li>
+  <li><strong>Friday: Authority.</strong> Answer a common question or teach something useful.</li>
+</ol>
+
+That rhythm is enough for many local businesses. You can add more posts later, but the first goal is consistency.
+
+## A Monthly OBA Plan
+
+For a 12-post month, use:
+
+<ul>
+  <li>4 Offer posts</li>
+  <li>4 Behind-the-Scenes posts</li>
+  <li>4 Authority posts</li>
+</ul>
+
+If you publish 20 posts per month, add:
+
+<ul>
+  <li>3 customer-proof posts, such as reviews or results</li>
+  <li>3 local or seasonal posts</li>
+  <li>2 reminder posts for services people forget about</li>
+</ul>
+
+The mix matters because one type of post cannot do the whole job.
+
+## What OBA Prevents
+
+OBA helps local businesses avoid the most common social media traps:
+
+<ul>
+  <li>Only posting promotions</li>
+  <li>Only posting random holidays</li>
+  <li>Only posting educational tips with no clear offer</li>
+  <li>Only posting polished graphics with no real proof</li>
+  <li>Going silent because you ran out of ideas</li>
+</ul>
+
+The framework gives every post a job.
+
+## How To Use OBA Without Posting Yourself
+
+You can run OBA manually, delegate it, or automate the baseline.
+
+If you do it manually, batch the month in one session. Pick your Offers, choose real Behind-the-Scenes proof, write Authority answers from customer FAQs, and schedule the posts.
+
+If you want the structure without doing the work, Glow Social can use your website, services, reviews, photos, and customer questions to prepare posts that cover those same jobs. You review what fits, approve what should go live, and keep the business active without rebuilding the calendar every week.
+
+[See what Glow Social would create for your business](/preview)
+
+Related: [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself) · [What customers check before calling a local business](/blog/what-customers-check-before-calling-local-business) · [Can AI write good social media posts?](/blog/can-ai-write-good-social-media-posts)
