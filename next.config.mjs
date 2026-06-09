@@ -239,6 +239,63 @@ const nextConfig = {
           permanent: true,
         },
       ]),
+      ...[
+        {
+          slug: "accountants-financial-advisors-visibility-no-ads",
+          canonical: "/blog/best-social-media-service-for-accountants",
+          includeBlogVariant: true,
+        },
+        {
+          slug: "adapt-business-post-multiple-platforms",
+          canonical: "/blog/how-to-automatically-post-to-all-social-media-platforms",
+          includeBlogVariant: true,
+        },
+        {
+          slug: "adapt-social-media-strategy-ai-future-trends",
+          canonical: "/blog/how-ai-social-media-posting-works",
+          includeBlogVariant: true,
+        },
+        {
+          slug: "affordable-social-media-for-attorneys",
+          canonical: "/blog/done-for-you-ai-social-media-law-firms",
+          includeBlogVariant: true,
+        },
+        {
+          slug: "ai-captions-a-step-by-step-tutorial",
+          canonical: "/blog/can-ai-write-good-social-media-posts",
+          includeBlogVariant: true,
+        },
+        {
+          slug: "ai-replace-social-media-manager",
+          canonical: "/blog/social-media-manager-vs-ai",
+          includeBlogVariant: false,
+        },
+        {
+          slug: "ai-replacing-google-local-business-discovery",
+          canonical: "/blog/how-ai-social-media-posting-works",
+          includeBlogVariant: false,
+        },
+        {
+          slug: "ai-small-business-marketing-oba-framework",
+          canonical: "/blog/oba-social-media-framework-local-business",
+          includeBlogVariant: true,
+        },
+      ].flatMap(({ slug, canonical, includeBlogVariant }) => [
+        {
+          source: `/${slug}`,
+          destination: canonical,
+          permanent: true,
+        },
+        ...(includeBlogVariant
+          ? [
+              {
+                source: `/blog/${slug}`,
+                destination: canonical,
+                permanent: true,
+              },
+            ]
+          : []),
+      ]),
 
       // === "SM manager cost" cluster consolidation ===
       // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost
