@@ -46,6 +46,8 @@ Use this simple weekly mix:
 
 That rhythm works for many local categories because it covers the three jobs social media needs to do: educate, prove, and remind.
 
+It also supports credibility. Customers do not need every post to be brilliant, but they do notice whether the profile has recent proof, useful answers, and clear service information. Read the credibility breakdown here: [how social media affects local business credibility](/blog/how-social-media-affects-local-business-credibility).
+
 ## Posting Frequency By Business Type
 
 <table>
@@ -233,4 +235,4 @@ Glow Social turns your website and business context into posts ready to approve,
 
 [See posts from your website first](/preview)
 
-Related: [How to stay consistent on social media without burnout](/blog/consistent-social-media-without-burnout) · [How to batch create a month of social media content](/blog/create-month-content-one-hour) · [The OBA social media framework](/blog/oba-social-media-framework-local-business)
+Related: [How social media affects local business credibility](/blog/how-social-media-affects-local-business-credibility) · [Why content strategy matters for social media](/blog/why-is-content-strategy-important-for-social-media-success) · [How to stay consistent on social media without burnout](/blog/consistent-social-media-without-burnout) · [The OBA social media framework](/blog/oba-social-media-framework-local-business)
