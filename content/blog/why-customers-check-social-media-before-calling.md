@@ -180,9 +180,4 @@ If someone opens your Facebook page, Instagram profile, LinkedIn page, or Google
 
 [See what your first posts could look like](/preview)
 
-## Related Reading
-
-- [What customers check before calling a local business](/blog/what-customers-check-before-calling-local-business)
-- [Is your Facebook page making your business look closed?](/blog/is-your-facebook-page-making-your-business-look-closed)
-- [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself)
-- [Social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media)
+Related: [What customers check before calling a local business](/blog/what-customers-check-before-calling-local-business) · [Is your Facebook page making your business look closed?](/blog/is-your-facebook-page-making-your-business-look-closed) · [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself) · [Social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media)
