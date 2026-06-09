@@ -1,5 +1,6 @@
 "use client";
 
+import { Analytics } from "@vercel/analytics/next";
 import { useEffect, useState } from "react";
 
 const ANALYTICS_ID = "G-W571GNWJRB";
@@ -128,6 +129,10 @@ function loadAnalytics() {
   }
 }
 
+function sendVercelAnalyticsWithConsent(event) {
+  return window.__glowAnalyticsConsent === "granted" ? event : null;
+}
+
 export default function CookieConsent() {
   const [status, setStatus] = useState("loading");
   const [isManaging, setIsManaging] = useState(false);
@@ -205,7 +210,13 @@ export default function CookieConsent() {
     rejectAnalytics();
   }
 
-  if (status === "loading" || status === ACCEPTED || status === REJECTED) {
+  if (status === ACCEPTED) {
+    return analyticsEnabled && !globalPrivacyControl ? (
+      <Analytics beforeSend={sendVercelAnalyticsWithConsent} />
+    ) : null;
+  }
+
+  if (status === "loading" || status === REJECTED) {
     return null;
   }
 
