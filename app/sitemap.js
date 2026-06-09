@@ -8,38 +8,43 @@ import {
 
 const BASE_URL = "https://glowsocial.com";
 
+function lastModifiedFor(page) {
+  const date = page.updated || page.date;
+  return date ? new Date(date) : new Date();
+}
+
 export default function sitemap() {
   const blogPosts = getAllBlogPosts().map((post) => ({
     url: `${BASE_URL}/blog/${post.slug}`,
-    lastModified: post.date ? new Date(post.date) : new Date(),
+    lastModified: lastModifiedFor(post),
     changeFrequency: "monthly",
     priority: 0.7,
   }));
 
   const localPages = getAllLocalPages().map((page) => ({
     url: `${BASE_URL}/local/${page.slug}`,
-    lastModified: page.date ? new Date(page.date) : new Date(),
+    lastModified: lastModifiedFor(page),
     changeFrequency: "monthly",
     priority: 0.6,
   }));
 
   const comparisonPages = getAllComparisonPages().map((page) => ({
     url: `${BASE_URL}/compare/${page.slug}`,
-    lastModified: page.date ? new Date(page.date) : new Date(),
+    lastModified: lastModifiedFor(page),
     changeFrequency: "monthly",
     priority: 0.6,
   }));
 
   const questionsPages = getAllQuestions().map((q) => ({
     url: `${BASE_URL}/resources/questions/${q.slug}`,
-    lastModified: q.date ? new Date(q.date) : new Date(),
+    lastModified: lastModifiedFor(q),
     changeFrequency: "monthly",
     priority: 0.7,
   }));
 
   const researchPages = getAllResearchPages().map((page) => ({
     url: `${BASE_URL}/research/${page.slug}`,
-    lastModified: page.date ? new Date(page.date) : new Date(),
+    lastModified: lastModifiedFor(page),
     changeFrequency: "monthly",
     priority: 0.8,
   }));

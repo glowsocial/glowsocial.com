@@ -3,6 +3,7 @@ title: "Later Pricing 2026: Free Plan, Trial & Social Sets"
 description: "See Later pricing, free plan limits, social sets, Starter/Growth/Scale costs, and when a scheduler is not enough."
 slug: "later-pricing-free-plan-2026"
 date: "2026-05-13"
+updated: "2026-06-09"
 faqs:
   - q: "How much does Later cost in 2026?"
     a: "Later's paid social scheduling plans start at $18.75 per month when billed yearly for Starter, $37.50 per month when billed yearly for Growth, and $82.50 per month when billed yearly for Scale. Taxes and monthly billing can change the final price."
@@ -24,7 +25,7 @@ Here is the clean version.
 
 ## Direct Answer: Later Pricing and Free Plan
 
-As of May 2026, Later's paid social scheduling plans start at:
+As of June 2026, Later's paid social scheduling plans start at:
 
 - **Starter:** $18.75/month billed yearly
 - **Growth:** $37.50/month billed yearly

@@ -27,18 +27,20 @@ export async function generateMetadata({ params }) {
       type: "article",
       url: `https://glowsocial.com/resources/questions/${slug}`,
       siteName: "Glow Social",
+      publishedTime: question.date,
+      modifiedTime: question.updated || question.date,
     },
   };
 }
 
-function ArticleJsonLd({ title, description, date, slug, body }) {
+function ArticleJsonLd({ title, description, date, updated, slug, body }) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: title,
     description: description || `${title} — Glow Social Q&A`,
     datePublished: date,
-    dateModified: date,
+    dateModified: updated || date,
     author: {
       "@type": "Organization",
       name: "Glow Social",
@@ -183,6 +185,7 @@ export default async function QuestionPage({ params }) {
         title={question.title}
         description={question.description}
         date={question.date}
+        updated={question.updated}
         slug={slug}
         body={question.content}
       />

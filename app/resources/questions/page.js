@@ -2,18 +2,18 @@ import Link from "next/link";
 import { getAllQuestions } from "@/lib/posts";
 
 const featuredSlugs = [
-  "how-can-small-business-show-up-in-chatgpt",
-  "how-can-local-business-show-up-in-ai-search",
-  "best-cheap-social-media-management-option",
-  "is-done-for-you-social-media-worth-it",
-  "how-many-social-media-posts-per-month",
-  "how-to-measure-social-media-roi-local-business",
+  "what-is-the-easiest-way-for-a-small-business-to-post-consistently",
+  "how-do-i-turn-my-website-into-social-media-posts",
+  "is-a-social-media-scheduler-enough-for-a-small-business",
+  "what-should-i-post-when-my-business-has-nothing-new",
+  "should-i-use-ai-or-hire-a-social-media-manager",
+  "what-makes-local-business-social-media-look-trustworthy",
 ];
 
 const topicGroups = [
   {
     title: "AI Search & AEO",
-    description: "Answer-ready pages about ChatGPT, Perplexity, AI search, and local visibility.",
+    description: "Practical answers about ChatGPT, Perplexity, AI search, and local visibility.",
     slugs: [
       "how-can-small-business-show-up-in-chatgpt",
       "how-can-local-business-show-up-in-ai-search",
@@ -25,6 +25,8 @@ const topicGroups = [
     title: "Costs & ROI",
     description: "Decision pages for owners comparing DIY, software, freelancers, agencies, and done-for-you options.",
     slugs: [
+      "is-a-social-media-scheduler-enough-for-a-small-business",
+      "should-i-use-ai-or-hire-a-social-media-manager",
       "best-cheap-social-media-management-option",
       "is-done-for-you-social-media-worth-it",
       "is-hiring-social-media-manager-worth-it",
@@ -47,6 +49,10 @@ const topicGroups = [
     title: "What To Post",
     description: "Tactical post ideas and content mixes for local businesses.",
     slugs: [
+      "how-do-i-turn-my-website-into-social-media-posts",
+      "what-should-i-post-when-my-business-has-nothing-new",
+      "what-is-the-easiest-way-for-a-small-business-to-post-consistently",
+      "what-makes-local-business-social-media-look-trustworthy",
       "what-should-a-plumber-post",
       "what-should-a-dentist-post",
       "what-should-a-restaurant-post",
@@ -60,7 +66,7 @@ const topicGroups = [
 function QuestionCard({ question, className = "blog-card" }) {
   const metaParts = [
     question.readingTime,
-    "Answer Block"
+    "Quick Answer"
   ].filter(Boolean);
 
   return (
@@ -83,7 +89,7 @@ function QuestionCard({ question, className = "blog-card" }) {
 
 export const metadata = {
   title: "Social Media & Marketing Q&A",
-  description: "Direct, expert answers to your questions about social media content, scheduling, brand voice, and practical marketing.",
+  description: "Plain answers to practical social media questions for small business owners.",
 };
 
 export default function QuestionsPage() {
@@ -99,7 +105,7 @@ export default function QuestionsPage() {
         <div className="container">
           <h1>Social Media & Marketing Q&A</h1>
           <p>
-            Direct, liftable answers to the questions small business owners ask about automated social media.
+            Plain answers for small business owners trying to stay visible without turning social media into another job.
           </p>
         </div>
       </section>
@@ -116,7 +122,7 @@ export default function QuestionsPage() {
           <>
             <section className="question-hub-section">
               <div className="section-kicker">Start Here</div>
-              <h2>High-intent answer pages</h2>
+              <h2>Start with these questions</h2>
               <div className="blog-grid question-featured-grid">
                 {featuredQuestions.map((question) => (
                   <QuestionCard key={question.slug} question={question} />
@@ -152,7 +158,7 @@ export default function QuestionsPage() {
 
             <section className="question-hub-section">
               <div className="section-kicker">Full Library</div>
-              <h2>All Q&A answers</h2>
+              <h2>All answers</h2>
               <div className="blog-grid">
                 {questions.map((question) => (
                   <QuestionCard key={question.slug} question={question} />

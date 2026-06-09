@@ -31,6 +31,7 @@ export async function generateMetadata({ params }) {
       url: `https://glowsocial.com/blog/${slug}`,
       siteName: "Glow Social",
       publishedTime: post.date,
+      modifiedTime: post.updated || post.date,
       authors: ["Kathleen Celmins"],
       images: [{ url: ogImageUrl, width: 1000, height: 1500 }],
     },
@@ -70,14 +71,14 @@ function FaqJsonLd({ faqs }) {
   );
 }
 
-function ArticleJsonLd({ title, description, date, slug }) {
+function ArticleJsonLd({ title, description, date, updated, slug }) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: title,
     description: description || `${title} — Glow Social Blog`,
     datePublished: date,
-    dateModified: date,
+    dateModified: updated || date,
     author: {
       "@type": "Person",
       name: "Kathleen Celmins",
@@ -154,6 +155,7 @@ export default async function BlogPostPage({ params }) {
         title={post.title}
         description={post.description}
         date={post.date}
+        updated={post.updated}
         slug={slug}
       />
       <BreadcrumbJsonLd title={post.title} slug={slug} />
@@ -185,6 +187,17 @@ export default async function BlogPostPage({ params }) {
             </span>
           )}
           {post.readingTime && <span>{post.readingTime}</span>}
+          {post.updated && post.updated !== post.date && (
+            <span>
+              Updated{" "}
+              {new Date(post.updated).toLocaleDateString("en-US", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+                timeZone: "UTC",
+              })}
+            </span>
+          )}
         </div>
       </header>
 

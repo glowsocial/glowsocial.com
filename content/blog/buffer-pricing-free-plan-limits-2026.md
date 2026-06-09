@@ -3,6 +3,7 @@ title: "Buffer Free Plan Limits 2026: Instagram, TikTok & Pricing"
 description: "Buffer's free plan supports 3 channels and 10 queued posts per channel. See Instagram/TikTok support, paid pricing, and hidden time cost."
 slug: "buffer-pricing-free-plan-limits-2026"
 date: "2026-05-13"
+updated: "2026-06-09"
 faqs:
   - q: "How much does Buffer cost in 2026?"
     a: "Buffer has a free plan for up to 3 channels. Paid publishing plans start at $5 per channel per month when billed yearly for Essentials, or $6 per channel on monthly billing. The Team plan starts at $10 per channel per month when billed yearly, or $12 per channel on monthly billing."
@@ -24,7 +25,7 @@ Here is the plain-English breakdown.
 
 ## Direct Answer: Buffer Free Plan Limits and Pricing
 
-As of May 2026, Buffer's free plan lets you connect up to **3 channels** and keep up to **10 scheduled posts per channel** in the queue at one time. If you connect 3 channels, that means up to 30 scheduled posts waiting across the account.
+As of June 2026, Buffer's free plan lets you connect up to **3 channels** and keep up to **10 scheduled posts per channel** in the queue at one time. If you connect 3 channels, that means up to 30 scheduled posts waiting across the account.
 
 Buffer's paid publishing plans are priced per channel:
 
