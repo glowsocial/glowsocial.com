@@ -184,6 +184,17 @@ const nextConfig = {
         destination: "/blog/best-ai-social-media-content-generators",
         permanent: true,
       },
+      // Legacy automation tips URL should consolidate to the stronger automation setup guide.
+      {
+        source: "/10-essential-tips-for-managing-automated-social-media-accounts-effectively",
+        destination: "/blog/how-to-automate-social-media-posting-for-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/10-essential-tips-for-managing-automated-social-media-accounts-effectively",
+        destination: "/blog/how-to-automate-social-media-posting-for-small-business",
+        permanent: true,
+      },
 
       // === "SM manager cost" cluster consolidation ===
       // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost
