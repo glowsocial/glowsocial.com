@@ -701,6 +701,21 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: "/social-media-tips",
+        destination: "/blog",
+        permanent: true,
+      },
+      {
+        source: "/social-media-tips/page/:page",
+        destination: "/blog",
+        permanent: true,
+      },
+      {
+        source: "/go/roofing-playbook/free-month-of-glow-social",
+        destination: "/blog/done-for-you-social-media-roofing",
+        permanent: true,
+      },
+      {
         source: "/demo",
         destination: "https://app.glowsocial.com/examples",
         permanent: true,
