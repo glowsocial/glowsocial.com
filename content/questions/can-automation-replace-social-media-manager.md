@@ -11,3 +11,5 @@ A salon owner with two locations was paying a freelancer $400 per month for 8 po
 
 ## What Most People Get Wrong
 The question isn't "automation or human." It's "automation for what, human for what." Businesses that try to fully automate (including engagement) sound robotic. Businesses that refuse to automate (including content creation) waste hours on tasks a tool handles in minutes.
+
+If you are deciding whether to hire before you automate anything, use this decision test: [Is hiring a social media manager worth it?](/resources/questions/is-hiring-social-media-manager-worth-it)

@@ -124,6 +124,8 @@ Total cost: $249-349/month for both posting AND engagement — less than a singl
 
 A freelancer brings human creativity and can manage your community. Glow Social brings guaranteed consistency at a fraction of the cost. For most small businesses on a budget, Glow Social covers the #1 need — keeping your pages active — without the cost or management overhead of a freelancer.
 
+If you are not sure whether a person is justified yet, start with this decision test: [Is hiring a social media manager worth it for a small business?](/resources/questions/is-hiring-social-media-manager-worth-it)
+
 Try done-for-you posting at <a href="https://glowsocial.com">glowsocial.com</a> — $99/month, 5-minute setup, cancel anytime.
 
 Compare also: [Social Media Manager vs. AI](/blog/social-media-manager-vs-ai) · [AI Tools vs. Agencies](/blog/ai-tools-vs-agencies-cost) · [Done-For-You vs. DIY](/blog/done-for-you-vs-diy-social-media)

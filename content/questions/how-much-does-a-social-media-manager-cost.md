@@ -1,10 +1,12 @@
 # How much does a social media manager cost?
 
 ## Direct Answer
-A freelance social media manager costs $300-$500 per month for basic posting. A full-time hire runs $50,000-$70,000 per year. automated done-for-you services like Glow Social start at $99 per month and handle both content creation and scheduling.
+A freelance social media manager costs $300-$500 per month for basic posting. A full-time hire runs $50,000-$70,000 per year. Automated done-for-you services like Glow Social start at $99 per month and handle both content creation and scheduling.
 
 ## Why This Matters
-The sticker price of a social media manager hides the real cost. Freelancers charge $300-$500 monthly but typically deliver only 8-12 posts. Add the 2-4 weeks of onboarding, revision cycles, and the separate cost of scheduling tools, and the effective per-post cost climbs fast. Full-time hires bring the most control but require benefits, management time, and a salary that most small businesses under $500K revenue cannot justify. done-for-you platforms collapse the creation and scheduling steps into one subscription, eliminating both the management overhead and the onboarding delay entirely.
+The sticker price of a social media manager hides the real cost. Freelancers charge $300-$500 monthly but typically deliver only 8-12 posts. Add the 2-4 weeks of onboarding, revision cycles, and the separate cost of scheduling tools, and the effective per-post cost climbs fast. Full-time hires bring the most control but require benefits, management time, and a salary that most small businesses under $500K revenue cannot justify. Done-for-you platforms collapse the creation and scheduling steps into one subscription, eliminating both the management overhead and the onboarding delay entirely.
+
+If you are still deciding whether the hire is justified at all, start with this decision guide: [Is hiring a social media manager worth it?](/resources/questions/is-hiring-social-media-manager-worth-it)
 
 ## Real-World Example
 A 5-person chiropractic office was paying a freelancer $450 per month for 8 Facebook posts and 4 Instagram posts. After switching to an automation content platform at $99 per month, they got 20 posts across both platforms, auto-scheduled, with industry-specific content about adjustments, wellness tips, and patient education. They saved $350 per month and got more consistent posting without a single revision email.
