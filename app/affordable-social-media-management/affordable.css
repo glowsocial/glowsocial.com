@@ -93,6 +93,26 @@
   grid-row: span 2;
 }
 
+.agency-alternative-visual {
+  display: grid;
+  gap: 14px;
+}
+
+.agency-alternative-visual .affordable-card {
+  border-color: rgba(255, 255, 255, 0.16);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--white);
+  box-shadow: 0 14px 38px rgba(0, 0, 0, 0.18);
+}
+
+.agency-alternative-visual .affordable-card h3 {
+  color: var(--accent);
+}
+
+.agency-alternative-visual .affordable-card p {
+  color: rgba(255, 255, 255, 0.78);
+}
+
 .affordable-answer {
   background: var(--bg);
   padding: 36px 0;
@@ -335,6 +355,10 @@
   }
 
   .affordable-visual {
+    max-width: 560px;
+  }
+
+  .agency-alternative-visual {
     max-width: 560px;
   }
 }

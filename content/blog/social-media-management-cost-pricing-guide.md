@@ -18,7 +18,7 @@ The most common question small business owners ask about social media isn't "wha
 
 The honest answer: anywhere from $0 to $3,000+ per month. But the price you see on a tool's website is never the full cost. Here's the complete picture, including the cost most pricing pages hide: **your time.**
 
-If you want the low-cost done-for-you option, see [affordable social media management from Glow Social](/affordable-social-media-management).
+If you want the low-cost done-for-you option, see [affordable social media management from Glow Social](/affordable-social-media-management). If you are comparing agency retainers, start with the [social media agency alternative](/social-media-agency-alternative) page.
 
 ## The 5 Approaches to Social Media Management
 
@@ -160,7 +160,7 @@ For most small local businesses, the question isn't "can I afford social media m
 
 Start by previewing posts from your website at <a href="https://app.glowsocial.com/preview">app.glowsocial.com/preview</a>.
 
-Related: [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Affordable social media management](/affordable-social-media-management) · [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-media-manager) · [Compare All Solutions](/blog/compare)
+Related: [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Affordable social media management](/affordable-social-media-management) · [Social media agency alternative](/social-media-agency-alternative) · [Agency vs. done-for-you service](/blog/social-media-agency-vs-done-for-you-service) · [Glow Social vs. Freelancer](/blog/glow-social-vs-freelance-social-media-manager) · [Compare All Solutions](/blog/compare)
 
 <hr>
 

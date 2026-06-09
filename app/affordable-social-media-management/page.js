@@ -340,6 +340,14 @@ export default function AffordableSocialMediaManagementPage() {
               department. They need consistent posts that make the business look alive and
               trustworthy.
             </p>
+            <p>
+              Comparing agency quotes? Start with the{" "}
+              <Link href="/social-media-agency-alternative">
+                social media agency alternative guide
+              </Link>{" "}
+              to decide whether you need full agency scope or just the posting
+              handled.
+            </p>
           </div>
         </div>
       </section>

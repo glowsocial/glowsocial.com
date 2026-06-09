@@ -84,4 +84,4 @@ Glow Social starts at $99/month for done-for-you posting. Traditional agencies a
 
 A scheduler gives you a place to load posts you already wrote. Glow Social helps create the posts from your website, lets you review them, and then publishes the approved posts.
 
-**Related guides:** [Affordable social media management](/affordable-social-media-management) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Done-for-you social media cost](/blog/done-for-you-social-media-cost)
+**Related guides:** [Affordable social media management](/affordable-social-media-management) · [Social media agency alternative](/social-media-agency-alternative) · [Do I need a social media agency?](/blog/do-i-need-a-social-media-agency) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Done-for-you social media cost](/blog/done-for-you-social-media-cost)
