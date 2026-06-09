@@ -195,6 +195,21 @@ const nextConfig = {
         destination: "/blog/how-to-automate-social-media-posting-for-small-business",
         permanent: true,
       },
+      {
+        source: "/10-essential-tools-to-automate-twitter-for-enhanced-engagement",
+        destination: "/blog/how-to-automate-social-media-posting-for-small-business",
+        permanent: true,
+      },
+      {
+        source: "/blog/10-essential-tools-to-automate-twitter-for-enhanced-engagement",
+        destination: "/blog/how-to-automate-social-media-posting-for-small-business",
+        permanent: true,
+      },
+      {
+        source: "/49-social-media-management-roofers",
+        destination: "/blog/automated-social-media-roofers-contractors",
+        permanent: true,
+      },
 
       // === "SM manager cost" cluster consolidation ===
       // Merging thin duplicate cost pages into /blog/freelance-social-media-manager-charge-cost
