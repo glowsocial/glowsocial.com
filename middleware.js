@@ -79,6 +79,16 @@ Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, X (Twitter), Pin
 
 export function middleware(request) {
   const { pathname } = request.nextUrl;
+  const host = request.headers.get("host")?.toLowerCase();
+  const forwardedProto = request.headers.get("x-forwarded-proto")?.toLowerCase();
+
+  if (host === "www.glowsocial.com" || (host === "glowsocial.com" && forwardedProto === "http")) {
+    const url = request.nextUrl.clone();
+    url.protocol = "https:";
+    url.hostname = "glowsocial.com";
+    url.port = "";
+    return NextResponse.redirect(url, 308);
+  }
 
   // ---------------------------------------------------------------
   // Markdown content negotiation
