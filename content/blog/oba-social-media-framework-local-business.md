@@ -34,6 +34,8 @@ OBA stands for Offer, Behind-the-Scenes, and Authority. It is a social media fra
 
 If you post one of each every week, your social media stops being random. Customers see what you do, why you are credible, and whether the business is active.
 
+For most local businesses, OBA pairs well with a three-post-per-week cadence: one Offer, one Behind-the-Scenes post, and one Authority post.
+
 ## Why Local Businesses Need A Framework
 
 Random posting usually creates random results.
@@ -202,4 +204,4 @@ If you want the structure without doing the work, Glow Social can use your websi
 
 [See what Glow Social would create for your business](/preview)
 
-Related: [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself) · [What customers check before calling a local business](/blog/what-customers-check-before-calling-local-business) · [Can AI write good social media posts?](/blog/can-ai-write-good-social-media-posts)
+Related: [How often local businesses should post](/blog/how-often-should-local-business-post-social-media-data) · [How to batch create a month of social media content](/blog/create-month-content-one-hour) · [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself) · [Can AI write good social media posts?](/blog/can-ai-write-good-social-media-posts)

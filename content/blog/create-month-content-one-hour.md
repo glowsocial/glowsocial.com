@@ -38,6 +38,8 @@ Use this structure:
 
 The one-hour version works best for straightforward posts: FAQs, service reminders, customer reviews, project photos, before-and-after examples, and seasonal tips.
 
+If you are deciding how many posts to batch, start with the cadence first. Most local businesses can use 12 posts for a three-post-per-week month. Visual or inventory-heavy categories, like retail stores and restaurants, may need more.
+
 ## Before You Start: Gather The Raw Material
 
 Do not start the hour with a blank page.
@@ -189,4 +191,4 @@ That means the same raw materials - services, FAQs, proof, photos, and customer 
 
 [See posts from your website first](/preview)
 
-Related: [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself) · [Automated social media for local businesses](/blog/automated-social-media-local-business) · [Social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media)
+Related: [How to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself) · [How often local businesses should post](/blog/how-often-should-local-business-post-social-media-data) · [Automated social media for local businesses](/blog/automated-social-media-local-business) · [Social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media)
