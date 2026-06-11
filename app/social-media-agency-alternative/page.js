@@ -358,6 +358,18 @@ export default function SocialMediaAgencyAlternativePage() {
               <h3>Cheaper alternative to an agency</h3>
               <p>The budget-focused guide for owners who searched for an agency but do not need full-service scope.</p>
             </Link>
+            <Link href="/affordable-social-media-management" className="affordable-card">
+              <h3>Social media under $100</h3>
+              <p>Compare low-cost options when you need posting handled without a full retainer.</p>
+            </Link>
+            <Link href="/social-media-scheduler-that-creates-content" className="affordable-card">
+              <h3>Scheduler that creates content</h3>
+              <p>Use this if you are comparing tools but the real bottleneck is making posts.</p>
+            </Link>
+            <Link href="/google-business-profile-posting-service" className="affordable-card">
+              <h3>Google Business Profile posting</h3>
+              <p>Keep your Google profile and social channels active from one approval-first workflow.</p>
+            </Link>
             <Link href="/local/social-media-management-phoenix" className="affordable-card">
               <h3>Phoenix agency alternative</h3>
               <p>A local version for Phoenix small businesses looking for lower-cost social media help.</p>

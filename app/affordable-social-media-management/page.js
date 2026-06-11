@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { getPricing } from "../pricing-config";
+import { previewUrl } from "../../lib/marketing-links";
 import "./affordable.css";
 
 export const dynamic = "force-dynamic";
@@ -8,16 +9,16 @@ export const dynamic = "force-dynamic";
 const PAGE_URL = "https://glowsocial.com/affordable-social-media-management";
 
 export const metadata = {
-  title: "Affordable Social Media Marketing for Small Businesses",
+  title: "Social Media Management Service Under $100 for Small Business",
   description:
-    "Affordable social media marketing for small businesses. Glow Social turns your website into 20 posts ready to approve starting at $99/month.",
+    "A social media management service under $100/month for small businesses. Glow Social turns your website into 20 posts ready to approve.",
   alternates: {
     canonical: "/affordable-social-media-management",
   },
   openGraph: {
-    title: "Affordable Social Media Marketing for Small Businesses",
+    title: "Social Media Management Service Under $100 for Small Business",
     description:
-      "Done-for-you social media posting starting at $99/month. See posts from your website before you choose a plan.",
+      "Done-for-you social media posting under $100/month. See posts from your website before you choose a plan.",
     url: PAGE_URL,
     siteName: "Glow Social",
     type: "website",
@@ -32,9 +33,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Affordable Social Media Marketing for Small Businesses",
+    title: "Social Media Management Service Under $100 for Small Business",
     description:
-      "Done-for-you social media posting starting at $99/month. See posts from your website before you choose a plan.",
+      "Done-for-you social media posting under $100/month. See posts from your website before you choose a plan.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
 };
@@ -44,7 +45,7 @@ function JsonLd({ pricing }) {
     {
       "@context": "https://schema.org",
       "@type": "Service",
-      name: "Affordable Social Media Management",
+      name: "Social Media Management Service Under $100",
       serviceType: "Done-for-you social media marketing",
       provider: {
         "@type": "Organization",
@@ -56,7 +57,7 @@ function JsonLd({ pricing }) {
         name: "United States",
       },
       description:
-        "Glow Social turns small business websites into posts ready to approve starting at $99/month.",
+        "Glow Social is a social media management service under $100/month that turns small business websites into posts ready to approve.",
       offers: {
         "@type": "Offer",
         price: pricing.core.price,
@@ -71,10 +72,10 @@ function JsonLd({ pricing }) {
       mainEntity: [
         {
           "@type": "Question",
-          name: "What is the most affordable social media marketing option for small businesses?",
+          name: "Can I get social media management under $100/month?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "The most affordable option depends on whether you count your time. Free schedulers are cheapest in subscription cost, but done-for-you software like Glow Social is often cheaper in total cost because it creates posts for you to approve starting at $99/month.",
+            text: "Yes. Glow Social starts at $99/month and includes 20 posts per month created from your website, approval control, and publishing for approved posts.",
           },
         },
         {
@@ -125,6 +126,8 @@ function JsonLd({ pricing }) {
 
 export default function AffordableSocialMediaManagementPage() {
   const pricing = getPricing();
+  const heroPreviewUrl = previewUrl("under_100_social_media_page", "affordable_hero");
+  const finalPreviewUrl = previewUrl("under_100_social_media_page", "affordable_final");
 
   return (
     <div className="affordable-page">
@@ -133,24 +136,25 @@ export default function AffordableSocialMediaManagementPage() {
       <section className="affordable-hero">
         <div className="container affordable-hero-grid">
           <div className="affordable-hero-copy">
-            <p className="affordable-eyebrow">Affordable social media marketing</p>
-            <h1>Affordable social media marketing for small businesses, starting at {pricing.startingAtFull}.</h1>
+            <p className="affordable-eyebrow">Under $100/month</p>
+            <h1>Social media management service under $100 for small business.</h1>
             <p className="affordable-lede">
-              Put in your website. See 20 posts ready to approve. Stay visible
-              without hiring an agency or managing another tool.
+              Glow Social turns your website into 20 posts ready to approve,
+              then publishes approved posts starting at {pricing.startingAtFull}.
+              No agency retainer, no blank scheduler, no long contract.
             </p>
             <div className="affordable-cta-row">
-              <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
-                See my posts
+              <a href={heroPreviewUrl} className="btn btn--primary btn--lg">
+                See posts from your website first
               </a>
               <Link href="/pricing" className="btn btn--white-outline btn--lg">
                 Compare pricing
               </Link>
             </div>
             <div className="affordable-proof-row" aria-label="Glow Social proof points">
+              <span>Under $100/month</span>
               <span>20 posts/month</span>
               <span>Preview first</span>
-              <span>No contracts</span>
               <span>Google Business Profile</span>
             </div>
           </div>
@@ -185,11 +189,11 @@ export default function AffordableSocialMediaManagementPage() {
         <div className="container affordable-answer-box">
           <h2>Direct Answer</h2>
           <p>
-            Affordable social media marketing means getting steady, professional posts without
-            freelancer or agency retainers. For most small businesses, the real savings come from
-            removing the hours spent writing captions, making graphics, and loading posts. Glow
-            Social starts by showing you the posts first, then keeps approved posts moving starting
-            at {pricing.startingAtFull}.
+            Yes, a small business can get social media management under $100/month
+            when the job is steady organic posting, not full agency strategy.
+            Glow Social starts at {pricing.startingAtFull} and includes posts
+            created from your website, graphics, approval control, and publishing
+            for approved posts.
           </p>
         </div>
       </section>
@@ -197,10 +201,11 @@ export default function AffordableSocialMediaManagementPage() {
       <section className="affordable-section">
         <div className="container">
           <p className="section-badge">What You Get</p>
-          <h2>Posts ready to approve without agency pricing.</h2>
+          <h2>What a $99/month social media management service should include.</h2>
           <p className="section-sub">
-            The goal is not to make you a content creator. The goal is to keep your business
-            current, credible, and easy to trust.
+            The goal is not to make you a content creator. The goal is to keep
+            your business current, credible, and easy to trust without adding
+            another weekly marketing task.
           </p>
 
           <div className="affordable-card-grid">
@@ -239,7 +244,7 @@ export default function AffordableSocialMediaManagementPage() {
       <section className="affordable-compare">
         <div className="container">
           <p className="section-badge">Cost Comparison</p>
-          <h2>Cheap tools still cost time.</h2>
+          <h2>Under $100 only works if the content is handled too.</h2>
           <p className="section-sub">
             The true cost of social media is the subscription plus the hours required to make it
             work every month.
@@ -313,6 +318,7 @@ export default function AffordableSocialMediaManagementPage() {
             <h3>Glow Social is a fit if you want:</h3>
             <ul>
               <li>Affordable social media management under agency pricing</li>
+              <li>A social media management service under $100/month</li>
               <li>Posts ready to approve without writing every caption yourself</li>
               <li>Professional-looking pages when referrals check you out</li>
               <li>A simple monthly cost instead of a large retainer</li>
@@ -348,6 +354,31 @@ export default function AffordableSocialMediaManagementPage() {
               to decide whether you need full agency scope or just the posting
               handled.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="affordable-section">
+        <div className="container">
+          <p className="section-badge">Related Buying Guides</p>
+          <h2>Compare the other low-cost ways to keep posting.</h2>
+          <div className="affordable-card-grid">
+            <Link href="/social-media-scheduler-that-creates-content" className="affordable-card">
+              <h3>Scheduler that creates content</h3>
+              <p>See what to use when a blank calendar is the real problem.</p>
+            </Link>
+            <Link href="/google-business-profile-posting-service" className="affordable-card">
+              <h3>Google Business Profile posting</h3>
+              <p>Keep your Google profile active with local posts created from your website.</p>
+            </Link>
+            <Link href="/social-media-agency-alternative" className="affordable-card">
+              <h3>Agency alternative</h3>
+              <p>Compare lower-cost posting support with full-service agency scope.</p>
+            </Link>
+            <Link href="/blog/done-for-you-vs-diy-social-media" className="affordable-card">
+              <h3>Done-for-you vs DIY</h3>
+              <p>Choose between free schedulers, paid tools, and handled posting.</p>
+            </Link>
           </div>
         </div>
       </section>
@@ -401,8 +432,8 @@ export default function AffordableSocialMediaManagementPage() {
             {pricing.startingAtFull}.
           </p>
           <div className="affordable-cta-row affordable-cta-center">
-            <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
-              See my posts
+            <a href={finalPreviewUrl} className="btn btn--primary btn--lg">
+              See posts from your website first
             </a>
             <Link href="/blog/best-affordable-social-media-management-small-business" className="btn btn--white-outline btn--lg">
               Read the full guide

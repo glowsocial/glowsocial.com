@@ -27,6 +27,8 @@ export default function Footer() {
             <a href="/how-it-works">HOW IT WORKS</a>
             <a href="/pricing">PRICING</a>
             <a href="/affordable-social-media-management">AFFORDABLE SOCIAL MEDIA</a>
+            <a href="/social-media-scheduler-that-creates-content">SCHEDULER + CONTENT</a>
+            <a href="/google-business-profile-posting-service">GBP POSTING SERVICE</a>
             <a href="/faq">FAQ</a>
             <a href="https://app.glowsocial.com/examples">SEE EXAMPLES</a>
           </div>

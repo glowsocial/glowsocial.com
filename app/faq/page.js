@@ -27,6 +27,16 @@ const faqs = [
       "Glow Social supports the major platforms local businesses use, including Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, Pinterest, and more. You only connect the platforms that matter for your business.",
   },
   {
+    question: "Can I use Glow Social as a Google Business Profile posting service?",
+    answer:
+      "Yes. Glow Social can create posts from your website and publish approved posts to Google Business Profile, so your Google listing stays active alongside your social channels.",
+  },
+  {
+    question: "Is Glow Social a social media scheduler that creates content for me?",
+    answer:
+      "Yes. Glow Social is more than a scheduler. It creates posts from your business context, lets you approve what fits, and publishes approved posts on schedule.",
+  },
+  {
     question: "Will the posts sound like me?",
     answer:
       "Yes. Glow Social uses your actual website to understand your services, tone, proof, and customer language. You can review, edit, skip, or hold posts before anything publishes.",

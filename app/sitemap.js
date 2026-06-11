@@ -56,6 +56,8 @@ export default function sitemap() {
     { path: "/agency", priority: 0.8, changeFrequency: "monthly" },
     { path: "/how-it-works", priority: 0.9, changeFrequency: "monthly" },
     { path: "/affordable-social-media-management", priority: 0.9, changeFrequency: "weekly" },
+    { path: "/social-media-scheduler-that-creates-content", priority: 0.9, changeFrequency: "weekly" },
+    { path: "/google-business-profile-posting-service", priority: 0.9, changeFrequency: "weekly" },
     { path: "/social-media-agency-alternative", priority: 0.9, changeFrequency: "weekly" },
     { path: "/pricing", priority: 0.9, changeFrequency: "weekly" },
     { path: "/faq", priority: 0.7, changeFrequency: "monthly" },

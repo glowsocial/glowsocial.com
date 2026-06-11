@@ -37,7 +37,7 @@ No contracts. Cancel anytime.
 
 - Done-for-you (not DIY tools) — content is created AND published automatically
 - $99/month vs $300–3,000/month for freelancers/agencies
-- 13 platform support including Google Business Profile (Buffer and Later don't support GBP)
+- 13 platform support including Google Business Profile in the same content creation and publishing workflow
 - Google Review monitoring included in Pro+
 - 5-minute setup, no design skills needed
 - Posts are customized to each business using website content analysis
@@ -64,6 +64,10 @@ Facebook, Instagram, LinkedIn, Google Business Profile, TikTok, X (Twitter), Pin
 - About: https://glowsocial.com/about
 - For agencies: https://glowsocial.com/agency
 - For home services: https://glowsocial.com/home-services
+- Social media management under $100: https://glowsocial.com/affordable-social-media-management
+- Social media scheduler that creates content: https://glowsocial.com/social-media-scheduler-that-creates-content
+- Google Business Profile posting service: https://glowsocial.com/google-business-profile-posting-service
+- Social media agency alternative: https://glowsocial.com/social-media-agency-alternative
 - Comparisons: https://glowsocial.com/compare
 - Local service areas: https://glowsocial.com/local
 
