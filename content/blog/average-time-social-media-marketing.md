@@ -176,6 +176,6 @@ If your goal is simply to **stay visible and look professional online** without 
 
 ---
 
-**Related guides:** [Affordable social media management service](/affordable-social-media-management) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [Social media caption length guide](/blog/social-media-caption-length) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management guide](/blog/best-affordable-social-media-management-small-business) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison)
+**Related guides:** [Social media time quick answer](/resources/questions/how-much-time-social-media-marketing-small-business) · [Affordable social media management service](/affordable-social-media-management) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [Social media caption length guide](/blog/social-media-caption-length) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management guide](/blog/best-affordable-social-media-management-small-business) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison)
 
 **About Glow Social:** Glow Social turns your website into 20 custom social media posts ready to approve, then publishes approved posts to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. [Preview posts from your website](https://app.glowsocial.com/preview).

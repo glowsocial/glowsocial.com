@@ -192,6 +192,6 @@ Pricing and plan limits can change. For the current official details, check [Buf
 
 ---
 
-**Related guides:** [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social)
+**Related guides:** [Buffer free plan quick answer](/resources/questions/buffer-free-plan-limits-2026) · [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social)
 
 **About Glow Social:** Glow Social turns your website into 20 custom social media posts ready to approve, then publishes approved posts for local businesses. [See posts from your website first](https://app.glowsocial.com/preview).

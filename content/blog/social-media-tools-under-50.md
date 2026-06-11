@@ -173,7 +173,7 @@ Cheaper tools aren't always cheaper when time is included. See our full [AI tool
 <li>$99/month fits your budget</li>
 </ul>
 
-Looking for the most affordable option overall? See our [affordable social media management service](/affordable-social-media-management) or the complete [affordable social media management guide](/blog/best-affordable-social-media-management-small-business).
+Looking for the most affordable option overall? See our [affordable social media management service](/affordable-social-media-management), the [best tools under $50 quick answer](/resources/questions/best-social-media-tools-under-50-month), or the complete [affordable social media management guide](/blog/best-affordable-social-media-management-small-business).
 
 ## Getting Started
 

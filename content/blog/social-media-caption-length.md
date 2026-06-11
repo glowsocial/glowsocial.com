@@ -238,6 +238,6 @@ Glow Social turns your website into 20 posts ready to approve across Facebook, I
 
 ---
 
-**Related guides:** [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
+**Related guides:** [Caption character limits quick answer](/resources/questions/social-media-caption-character-limits-2026) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
 **About Glow Social:** Done-for-you software that turns your website into 20 custom social media posts ready to approve. Posts are customized to your brand voice and optimized for each platform. Plans start at $99/month. [See the affordable social media management service](/affordable-social-media-management).
