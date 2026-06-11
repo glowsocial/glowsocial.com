@@ -83,4 +83,4 @@ Glow Social at $99/month includes that content creation. The math isn't close.
 
 **See what Glow Social would create for your business.** [Try the free preview](https://glowsocial.com/preview) — 20 posts ready to review, made from your website URL. No account, no credit card.
 
-**Related:** [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison)
+**Related:** [Canva vs Buffer quick answer](/resources/questions/canva-vs-buffer-small-business) · [Metricool vs Buffer quick answer](/resources/questions/metricool-vs-buffer-small-business) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison)

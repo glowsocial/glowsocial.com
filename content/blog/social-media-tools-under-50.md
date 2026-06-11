@@ -46,7 +46,7 @@ Here are the best affordable options.
 
 <strong>Best for:</strong> People who create their own content and want simple scheduling
 
-Full comparison: [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) | [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) | [Later vs. Buffer](/blog/later-vs-buffer-differences-comparison)
+Full comparison: [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) | [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) | [Later vs. Buffer](/blog/later-vs-buffer-differences-comparison) | [Canva vs Buffer](/resources/questions/canva-vs-buffer-small-business) | [Metricool vs Buffer](/resources/questions/metricool-vs-buffer-small-business)
 
 
 ### Later — Limited free plan; paid from $18.75/month billed yearly
@@ -62,7 +62,7 @@ Full comparison: [Buffer pricing and free plan limits](/blog/buffer-pricing-free
 
 <strong>Best for:</strong> Visual businesses who want to plan content aesthetically
 
-Full comparison: [Later pricing and free plan](/blog/later-pricing-free-plan-2026) | [Later vs. Buffer](/blog/later-vs-buffer-differences-comparison)
+Full comparison: [Later pricing and free plan](/blog/later-pricing-free-plan-2026) | [Later vs. Buffer](/blog/later-vs-buffer-differences-comparison) | [Planoly vs Later](/resources/questions/planoly-vs-later-small-business)
 
 
 ### Meta Business Suite — Free
