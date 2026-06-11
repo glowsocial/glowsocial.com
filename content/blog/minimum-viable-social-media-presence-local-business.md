@@ -1,8 +1,9 @@
 ---
 title: "The Minimum Viable Social Media Presence for a Local Business"
-description: "The smallest practical online presence a local business needs to look active, trustworthy, and easy to contact without overcommitting."
+description: "The smallest practical social media presence a local business needs to look active, trustworthy, and easy to contact without becoming a content machine."
 slug: "minimum-viable-social-media-presence-local-business"
 date: "2026-05-26"
+updated: "2026-06-11"
 tags: ["minimum viable social media", "local business", "online presence"]
 faqs:
   - q: "What is the minimum social media presence a local business needs?"
@@ -23,7 +24,7 @@ The goal is not to win the internet. The goal is to stop losing trust because th
 
 ## Direct Answer
 
-The minimum viable social media presence for a local business is complete profiles on the platforms customers check, accurate contact information, recent posts, current photos, customer proof, clear services, and an easy next step to call, book, or request a quote.
+The minimum viable social media presence for a local business is a small maintained system: complete profiles on the platforms customers check, accurate contact information, recent posts, current photos, customer proof, clear services, and an easy next step to call, book, or request a quote.
 
 It should be small enough to maintain and strong enough to pass a customer trust check.
 
@@ -44,6 +45,45 @@ A minimum viable presence should:
 
 Six neglected profiles are worse than two active, accurate ones.
 
+## The Minimum Viable Presence At A Glance
+
+<table>
+  <thead>
+    <tr>
+      <th>Element</th>
+      <th>Minimum standard</th>
+      <th>Why it matters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Google Business Profile</td>
+      <td>Accurate hours, services, photos, reviews, posts, and contact details</td>
+      <td>Customers often check it closest to the call decision.</td>
+    </tr>
+    <tr>
+      <td>Facebook</td>
+      <td>Current profile, recent posts, clear contact path, accurate business details</td>
+      <td>It still appears in referrals and branded searches.</td>
+    </tr>
+    <tr>
+      <td>Instagram</td>
+      <td>Current proof if the business is visual</td>
+      <td>Photos help customers inspect style, quality, and activity.</td>
+    </tr>
+    <tr>
+      <td>Website</td>
+      <td>Clear services, service area, proof, and call or booking option</td>
+      <td>It gives customers the fuller answer after they find you.</td>
+    </tr>
+    <tr>
+      <td>Content rhythm</td>
+      <td>About 12 useful posts per month</td>
+      <td>Enough activity to look maintained without daily posting.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Platform 1: Google Business Profile
 
 For many local businesses, Google Business Profile is non-negotiable.
@@ -61,6 +101,8 @@ At minimum, it needs:
 - Recent updates or posts
 
 GBP is often where customers compare options before calling. Keep it current.
+
+If you visit customers instead of serving them at a storefront, make sure the listing is set up correctly. Read [Google Business Profile for service area businesses](/blog/google-business-profile-for-service-area-businesses).
 
 ## Platform 2: Facebook
 
@@ -124,16 +166,45 @@ You need a reusable set of content inputs:
 
 That is enough to create a month of practical posts.
 
+Reviews are especially useful because they already contain customer language and trust signals. Here is the review workflow: [how to turn customer reviews into social media posts](/blog/how-to-turn-customer-reviews-into-a-month-of-social-proof).
+
 ## The Minimum Posting Rhythm
 
 A useful baseline is 12 posts per month.
 
 Use this rhythm:
 
-- 4 proof posts
-- 4 helpful posts
-- 2 service posts
-- 2 local or availability posts
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Monthly count</th>
+      <th>Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Proof</td>
+      <td>4</td>
+      <td>Reviews, photos, finished work, customer outcomes</td>
+    </tr>
+    <tr>
+      <td>Helpful</td>
+      <td>4</td>
+      <td>FAQs, tips, mistake avoidance, seasonal guidance</td>
+    </tr>
+    <tr>
+      <td>Service</td>
+      <td>2</td>
+      <td>What you offer, who it helps, when to call</td>
+    </tr>
+    <tr>
+      <td>Local or availability</td>
+      <td>2</td>
+      <td>Service area, hours, booking windows, local projects</td>
+    </tr>
+  </tbody>
+</table>
 
 This keeps the business visible without requiring daily posting.
 
@@ -152,6 +223,7 @@ Once per month, check:
 7. Service descriptions.
 8. Photos.
 9. Any seasonal or pricing changes.
+10. Google Business Profile posts and review responses.
 
 Small outdated details can create doubt.
 
@@ -170,6 +242,8 @@ You do not need:
 
 Local customers are usually not asking for that. They are checking whether the business is active and trustworthy.
 
+For the buyer-side view, read [what customers check before calling a local business](/blog/what-customers-check-before-calling-local-business).
+
 ## The Biggest Mistake
 
 The biggest mistake is opening profiles everywhere and then abandoning them.
@@ -184,7 +258,7 @@ Glow Social gives local businesses a maintained baseline: regular posts, busines
 
 It is built for owners who need the minimum viable presence handled consistently without becoming marketers.
 
-[See what your active-presence baseline could look like](/preview)
+[See what your active-presence baseline could look like](https://app.glowsocial.com/preview)
 
 ## Related Reading
 
@@ -192,3 +266,4 @@ It is built for owners who need the minimum viable presence handled consistently
 - [What customers check before calling a local business](/blog/what-customers-check-before-calling-local-business)
 - [Google Business Profile posts for people who hate marketing](/blog/google-business-profile-posts-for-people-who-hate-marketing)
 - [What is the minimum social media presence a business needs?](/resources/questions/what-is-minimum-social-media-presence)
+- [How to keep business social media active without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself)
