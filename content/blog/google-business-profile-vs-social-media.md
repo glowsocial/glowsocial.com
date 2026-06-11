@@ -51,22 +51,22 @@ The answer isn't one or the other. It's both, with the right priorities.
 
 1. **Optimize GBP first** (1-2 hours one-time): Complete profile, add photos, respond to reviews
 2. **Set up your profiles right** (15 minutes, free): Use the [free Social Profile Kit](https://glowsocial.com/setup) to generate optimized bios and content for Google Business Profile + 7 other platforms
-3. **Automate social media** ($99/month): Use Glow Social for consistent posting without time investment
+3. **Use approval-first social media** (starting at $99/month): Use Glow Social for posts prepared from your website, then approve what should publish
 4. **Maintain GBP ongoing** (15 min/week): Respond to new reviews, update photos seasonally
 
 Total time: about 30 minutes per month for both channels.
 
 ## Bottom Line
 
-GBP gets you found. Social media keeps you visible. Together, they create a complete local online presence. Glow Social handles the social media side for $99/month so you can focus on GBP and running your business.
+GBP gets you found. Social media keeps you visible. Together, they create a complete local online presence. Glow Social handles the posting side starting at $99/month so you can focus on GBP and running your business.
 
-Compare also: [Done-For-You vs. DIY Social Media](/blog/done-for-you-vs-diy-social-media) · [Best Platforms for Local Business](/blog/best-platforms-local-business)
+Compare also: [GBP vs Instagram/Facebook quick answer](/resources/questions/google-business-profile-vs-instagram-facebook-local-business) · [Done-For-You vs. DIY Social Media](/blog/done-for-you-vs-diy-social-media) · [Best Platforms for Local Business](/blog/best-platforms-local-business)
 
 **Google Business Profile series:** [How to Set Up Google Business Profile](/blog/how-to-set-up-google-business-profile) · [How to Get More Google Reviews](/blog/how-to-get-more-google-reviews) · [How Google Reviews Affect Local SEO](/blog/how-google-reviews-affect-local-seo) · [How to Respond to Negative Reviews](/blog/how-to-respond-to-negative-google-reviews) · [GBP + Social Media Together](/blog/google-business-profile-social-media-local-business)
 
 <hr>
 
-<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that turns your website into custom posts ready to approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Plans start at $99/month. <a href="https://app.glowsocial.com/preview">See posts from your website first</a>.
 
 
 ### Want to see what Glow Social can do for your Plumbing business?

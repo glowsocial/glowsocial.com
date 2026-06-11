@@ -63,6 +63,7 @@ Glow Social is best when the business wants Google Business Profile posting hand
 
 ## Related Reading
 
+- [Google Business Profile posting tool quick answer](/resources/questions/best-google-business-profile-posting-tool-local-business)
 - [Google Business Profile Posting Benchmarks](/research/google-business-profile-posting-benchmarks)
 - [Do Google Business Profile Posts Still Matter?](/blog/google-business-profile-posts-local-business-reach)
 - [Posting Frequency Calculator](/tools/posting-frequency-calculator)
