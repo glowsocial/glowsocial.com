@@ -141,7 +141,7 @@ async function callClaude(prompt) {
 }
 
 function buildPrompt(keyword) {
-  return `You are writing a blog post for Glow Social (glowsocial.com), an AI-powered social media management platform for local businesses and solopreneurs. It costs $99/month, handles content creation and publishing automatically, and saves business owners hours every week.
+  return `You are writing a blog post for Glow Social (glowsocial.com), an AI-powered social media management platform for local businesses and solopreneurs. It starts at $99/month and turns a business website into posts ready to review, edit, approve, and publish across social channels and Google Business Profile.
 
 Write a complete, publication-ready blog post targeting this keyword: "${keyword}"
 
@@ -149,6 +149,7 @@ The post MUST:
 - Be genuinely helpful and specific (not generic fluff)
 - Position Glow Social naturally as a solution where relevant (don't force it into every paragraph)
 - Use a conversational but authoritative tone — like a smart friend who runs a marketing agency
+- Use preview-first, approval-first language. Do not claim the product publishes without review, removes all human approval, or can be set up in a few minutes.
 - Be 800–1,200 words
 - Include an H1, multiple H2 subheadings, and a strong closing CTA pointing to https://glowsocial.com
 

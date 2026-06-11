@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ChatGPT Asker Profile - Glow Social</title>
+  <style>
+    @page {
+      size: Letter;
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      color: #17211f;
+      background: #e8eeee;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      letter-spacing: 0;
+    }
+
+    .sheet {
+      position: relative;
+      width: 8.5in;
+      height: 11in;
+      margin: 0 auto;
+      padding: 0.42in 0.48in 0.48in;
+      overflow: hidden;
+      background: #fbfcfb;
+      box-shadow: 0 18px 44px rgba(22, 33, 31, 0.16);
+    }
+
+    .topline {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-bottom: 0.12in;
+      border-bottom: 2px solid #1f5e56;
+    }
+
+    .brand {
+      font-size: 9pt;
+      font-weight: 800;
+      color: #1f5e56;
+      text-transform: uppercase;
+    }
+
+    .lab-label {
+      font-size: 8pt;
+      font-weight: 700;
+      color: #66746f;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      max-width: 6.9in;
+      margin: 0.16in 0 0.06in;
+      color: #111817;
+      font-size: 27pt;
+      line-height: 1.02;
+      font-weight: 850;
+    }
+
+    .subtitle {
+      max-width: 6.75in;
+      margin: 0;
+      color: #52615d;
+      font-size: 10.5pt;
+      line-height: 1.35;
+      font-weight: 520;
+    }
+
+    .meta-row {
+      display: grid;
+      grid-template-columns: 1.12fr 1fr 1fr;
+      gap: 0.08in;
+      margin: 0.16in 0 0.14in;
+    }
+
+    .meta {
+      padding: 0.08in 0.1in;
+      border: 1px solid #d7e2df;
+      background: #f3f7f5;
+    }
+
+    .meta b {
+      display: block;
+      margin-bottom: 0.02in;
+      color: #1f5e56;
+      font-size: 7.6pt;
+      text-transform: uppercase;
+    }
+
+    .meta span {
+      display: block;
+      color: #24302d;
+      font-size: 8.8pt;
+      line-height: 1.22;
+      font-weight: 650;
+    }
+
+    .insight {
+      margin: 0 0 0.16in;
+      padding: 0.12in 0.16in;
+      border-left: 5px solid #e7634f;
+      background: #fff4f1;
+      color: #2b211f;
+      font-size: 11pt;
+      line-height: 1.33;
+      font-weight: 760;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 0.16in;
+    }
+
+    section {
+      margin: 0 0 0.14in;
+      break-inside: avoid;
+    }
+
+    h2 {
+      margin: 0 0 0.055in;
+      color: #1f5e56;
+      font-size: 9.7pt;
+      line-height: 1.1;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+
+    p {
+      margin: 0 0 0.065in;
+      color: #28332f;
+      font-size: 9.1pt;
+      line-height: 1.34;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 0.17in;
+    }
+
+    li {
+      margin: 0 0 0.04in;
+      color: #28332f;
+      font-size: 8.75pt;
+      line-height: 1.25;
+    }
+
+    .tag-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.045in;
+      margin-top: 0.02in;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 0.2in;
+      padding: 0.035in 0.065in;
+      border: 1px solid #cfdcd8;
+      background: #eef6f3;
+      color: #1d4d47;
+      font-size: 7.8pt;
+      line-height: 1.05;
+      font-weight: 760;
+      white-space: nowrap;
+    }
+
+    .objection-list li {
+      margin-bottom: 0.045in;
+    }
+
+    .prompt-list {
+      display: grid;
+      gap: 0.055in;
+      margin-top: 0.01in;
+    }
+
+    .prompt {
+      padding: 0.07in 0.085in;
+      border: 1px solid #d9e3df;
+      background: #ffffff;
+      color: #1d2926;
+      font-size: 8.35pt;
+      line-height: 1.24;
+      font-weight: 650;
+    }
+
+    .trigger {
+      padding: 0.1in 0.12in;
+      border: 1px solid #e6d0c8;
+      background: #fff8f5;
+    }
+
+    .trigger p:last-child {
+      margin-bottom: 0;
+    }
+
+    .footer-callout {
+      position: absolute;
+      right: 0.48in;
+      bottom: 0.36in;
+      left: 0.48in;
+      display: grid;
+      grid-template-columns: 1fr 2.35fr;
+      gap: 0.14in;
+      align-items: center;
+      padding-top: 0.1in;
+      border-top: 2px solid #1f5e56;
+    }
+
+    .footer-callout b {
+      color: #1f5e56;
+      font-size: 8.4pt;
+      text-transform: uppercase;
+    }
+
+    .footer-callout p {
+      margin: 0;
+      color: #141d1b;
+      font-size: 10pt;
+      line-height: 1.28;
+      font-weight: 780;
+    }
+
+    @media print {
+      body {
+        background: #ffffff;
+      }
+
+      .sheet {
+        margin: 0;
+        box-shadow: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="sheet">
+    <div class="topline">
+      <div class="brand">Glow Social</div>
+      <div class="lab-label">Behavioral Lab Profile</div>
+    </div>
+
+    <h1>The Local Business Owner Who Asks ChatGPT About Social Media</h1>
+    <p class="subtitle">
+      A one-page profile of the person most likely to ask for advice in the done-for-you social media category.
+    </p>
+
+    <div class="meta-row">
+      <div class="meta">
+        <b>Category</b>
+        <span>Done-for-you posting</span>
+      </div>
+      <div class="meta">
+        <b>Audience</b>
+        <span>Local service businesses</span>
+      </div>
+      <div class="meta">
+        <b>Trigger</b>
+        <span>Stale public profiles</span>
+      </div>
+    </div>
+
+    <div class="insight">
+      Core insight: they are not buying automation. They are buying relief from visible neglect.
+    </div>
+
+    <div class="grid">
+      <div>
+        <section>
+          <h2>Who They Are</h2>
+          <p>
+            An owner-operator or small team lead at a local service business: plumber, roofer,
+            dentist, salon, med spa, gym, auto shop, restaurant, realtor, contractor, law firm,
+            or cleaning company.
+          </p>
+          <p>
+            They are not trying to become a creator. They want customers to see a business that
+            looks active, trustworthy, and open when they check before calling.
+          </p>
+        </section>
+
+        <section>
+          <h2>Psychological State</h2>
+          <p>
+            They feel low-grade guilt about social media. It matters, but it never feels more
+            urgent than customers, quotes, appointments, staffing, admin, or family.
+          </p>
+        </section>
+
+        <section>
+          <h2>Pain Points</h2>
+          <ul>
+            <li>"We have not posted in months, and I know that looks bad."</li>
+            <li>"I do not know what to say every week."</li>
+            <li>"Tools still mean I have to write the posts."</li>
+            <li>"Hiring someone sounds expensive and annoying to manage."</li>
+            <li>"I need Facebook, Instagram, and Google to look current."</li>
+            <li>"I do not want cheesy captions, trends, or fake marketing voice."</li>
+          </ul>
+        </section>
+
+        <section class="trigger">
+          <h2>Buying Trigger</h2>
+          <p>
+            They wake up embarrassed by a stale profile, a competitor posting more often, a
+            customer saying they checked Facebook, or a slow month where every trust signal matters.
+          </p>
+        </section>
+      </div>
+
+      <div>
+        <section>
+          <h2>Language They Use</h2>
+          <div class="tag-wrap">
+            <span class="tag">keep my business active</span>
+            <span class="tag">look professional</span>
+            <span class="tag">without posting myself</span>
+            <span class="tag">what should I post?</span>
+            <span class="tag">I hate social media</span>
+            <span class="tag">cheap social media management</span>
+            <span class="tag">set it and forget it</span>
+            <span class="tag">customers check before calling</span>
+            <span class="tag">last post was months ago</span>
+            <span class="tag">something consistent</span>
+          </div>
+        </section>
+
+        <section>
+          <h2>Objections</h2>
+          <ul class="objection-list">
+            <li>"Will this sound generic or AI-written?"</li>
+            <li>"Will it know my business well enough?"</li>
+            <li>"Do I still have to approve everything?"</li>
+            <li>"Will it post to Google Business Profile?"</li>
+            <li>"Is $99/month worth it if I am not sure social media brings leads?"</li>
+            <li>"How is this different from Canva, Buffer, Hootsuite, or ChatGPT?"</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Exact ChatGPT Prompts</h2>
+          <div class="prompt-list">
+            <div class="prompt">"I own a plumbing business and hate social media. What is the minimum I need to post so customers know we are active?"</div>
+            <div class="prompt">"What should a local dentist post on Facebook and Instagram every week?"</div>
+            <div class="prompt">"Can AI manage social media for a small business or do I need to hire someone?"</div>
+            <div class="prompt">"I have not posted on my business Facebook page in 4 months. How do I restart without it looking weird?"</div>
+            <div class="prompt">"Make me a 30-day content calendar for a roofing company that does not sound cheesy."</div>
+            <div class="prompt">"Compare Buffer, Hootsuite, Canva, and hiring a freelancer for my small business social media."</div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <div class="footer-callout">
+      <b>Positioning implication</b>
+      <p>
+        "Your business looks active and trustworthy online without you writing, designing,
+        scheduling, or managing posts."
+      </p>
+    </div>
+  </main>
+</body>
+</html>

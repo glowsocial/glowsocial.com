@@ -9,6 +9,8 @@
     "lint": "eslint",
     "generate": "node scripts/generate-blog-posts.js",
     "generate:one": "node scripts/generate-blog-posts.js --count 1",
+    "seo:agent": "node scripts/seo-ops-agent.js",
+    "seo:agent:dry-run": "node scripts/seo-ops-agent.js --dry-run",
     "generate:pins": "node scripts/generate-pin-images.js",
     "generate:pinterest-csv": "node scripts/generate-pinterest-csv.js",
     "indexnow": "node scripts/submit-indexnow.js"
