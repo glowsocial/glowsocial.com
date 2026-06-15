@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Google Search Central Blog",
+    "type": "rss",
+    "url": "https://developers.google.com/search/blog/rss.xml"
+  },
+  {
+    "name": "Search Engine Land",
+    "type": "rss",
+    "url": "https://searchengineland.com/feed"
+  },
+  {
+    "name": "Search Engine Journal",
+    "type": "rss",
+    "url": "https://www.searchenginejournal.com/feed/"
+  },
+  {
+    "name": "Ahrefs Blog",
+    "type": "rss",
+    "url": "https://ahrefs.com/blog/feed/"
+  },
+  {
+    "name": "Google Search Central Documentation",
+    "type": "html",
+    "url": "https://developers.google.com/search/docs"
+  }
+]

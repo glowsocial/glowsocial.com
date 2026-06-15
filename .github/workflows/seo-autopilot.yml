@@ -1,0 +1,55 @@
+name: SEO Autopilot
+
+on:
+  # One focused SEO patch per week. The workflow opens a PR instead of pushing
+  # directly to main.
+  schedule:
+    - cron: '0 15 * * 2'
+
+  workflow_dispatch:
+
+jobs:
+  seo-work:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run SEO autopilot
+        run: npm run seo:work
+
+      - name: Check for tracked changes
+        id: changes
+        run: |
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open SEO pull request
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: codex/seo-autopilot
+          delete-branch: true
+          title: "SEO autopilot: refresh next priority page"
+          commit-message: "seo: refresh next priority page"
+          body: |
+            Automated SEO patch from `npm run seo:work`.
+
+            The autopilot chooses the next unfinished item from `seo-republish-queue-2026-06-07.md`, applies a one-page fix, runs `npm run build`, and updates `seo-work-log.json` so the next run advances.

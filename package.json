@@ -11,6 +11,10 @@
     "generate:one": "node scripts/generate-blog-posts.js --count 1",
     "seo:agent": "node scripts/seo-ops-agent.js",
     "seo:agent:dry-run": "node scripts/seo-ops-agent.js --dry-run",
+    "seo:fix": "node scripts/seo-page-fixer.js",
+    "seo:work": "node scripts/seo-autopilot.js",
+    "seo:intel": "node scripts/seo-intel-agent.js",
+    "seo:intel:dry-run": "node scripts/seo-intel-agent.js --dry-run",
     "generate:pins": "node scripts/generate-pin-images.js",
     "generate:pinterest-csv": "node scripts/generate-pinterest-csv.js",
     "indexnow": "node scripts/submit-indexnow.js"
