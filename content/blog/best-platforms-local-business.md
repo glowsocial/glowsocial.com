@@ -11,7 +11,6 @@ faqs:
   - q: "What is done-for-you social media?"
     a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across the major platforms local businesses use, including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
-
 Local businesses often feel pressure to be everywhere—Facebook, Instagram, TikTok, LinkedIn, YouTube, Pinterest, X. The reality: most local businesses only need 2-3 platforms, and choosing the right ones matters more than being everywhere. Here's how to pick.
 
 For the newest Glow Social platform data, see the [State of Local Business Social Media 2026](/research/local-business-social-media-statistics). The short version: Pinterest led the dataset for average engagement rate, Google Business Profile averaged more impressions per post than Instagram or Facebook, and Facebook was still the most commonly connected platform. The updated analysis is here: [Best Social Media Platforms for Local Businesses in 2026](/blog/best-social-media-platforms-local-businesses-2026).
@@ -208,3 +207,5 @@ Looking to explore more options? Check out these related guides:
 * [Best Social Media Service for Retail Stores & Shops (2026)](/blog/best-social-media-service-retail-stores)
 * [The Cheapest Social Media Scheduler for Dentists (2026)](/blog/cheapest-social-media-scheduler-dentists)
 * [How to Automatically Post to All Social Media Platforms](/blog/how-to-automatically-post-to-all-social-media-platforms)
+
+**Related guide:** [Social Media Caption Limits IG, TikTok, LinkedIn](/blog/social-media-caption-length)

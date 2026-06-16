@@ -15,7 +15,6 @@ faqs:
   - q: "What is the difference between a scheduler and done-for-you social media?"
     a: "A scheduler publishes content you already made. Done-for-you social media prepares posts, creates visuals, manages the posting rhythm, and publishes approved content."
 ---
-
 Social media schedulers are useful tools.
 
 They let you plan posts in advance, organize a calendar, and publish without logging into every platform manually.
@@ -233,3 +232,5 @@ A scheduler is useful when the posts already exist. Glow Social is useful when y
 [See posts from your website first](/preview)
 
 Related: [Automated social media for local businesses](/blog/automated-social-media-local-business) · [What social media tasks can be automated?](/blog/what-tasks-can-be-automated-social-media) · [How to batch create a month of social media content](/blog/create-month-content-one-hour)
+
+**Related guide:** [Social Media Caption Limits IG, TikTok, LinkedIn](/blog/social-media-caption-length)
