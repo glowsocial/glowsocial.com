@@ -42,7 +42,7 @@ export const metadata = {
       "Glow Social turns your website, services, offers, and proof into ready-to-approve posts for social channels plus Google Business Profile.",
     images: [
       {
-        url: "https://glowsocial.com/images/og-image.png",
+        url: "https://glowsocial.com/images/og-image.png?v=handled-2026-06",
         width: 1200,
         height: 630,
         alt: "Glow Social — your social media handled with posts written, designed, scheduled, and published for your business.",
@@ -54,7 +54,7 @@ export const metadata = {
     title: "Glow Social | Social media that just works for your business",
     description:
       "Glow Social turns your website into ready-to-approve posts for social channels plus Google Business Profile.",
-    images: ["https://glowsocial.com/images/og-image.png"],
+    images: ["https://glowsocial.com/images/og-image.png?v=handled-2026-06"],
   },
   robots: {
     index: true,

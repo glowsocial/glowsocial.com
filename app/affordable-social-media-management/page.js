@@ -24,7 +24,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "https://glowsocial.com/images/og-image.png",
+        url: "https://glowsocial.com/images/og-image.png?v=handled-2026-06",
         width: 1200,
         height: 630,
         alt: "Glow Social",
@@ -36,7 +36,7 @@ export const metadata = {
     title: "Social Media Management Service Under $100 for Small Business",
     description:
       "Done-for-you social media posting under $100/month. See posts from your website before you choose a plan.",
-    images: ["https://glowsocial.com/images/og-image.png"],
+    images: ["https://glowsocial.com/images/og-image.png?v=handled-2026-06"],
   },
 };
 
