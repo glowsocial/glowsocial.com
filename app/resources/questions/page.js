@@ -56,6 +56,7 @@ const topicGroups = [
       "canva-social-media-scheduler-small-business",
       "best-metricool-alternative-local-business",
       "social-media-caption-character-limits-2026",
+      "what-social-media-tool-creates-posts-for-you",
       "should-i-use-buffer-or-done-for-you-social-media",
       "is-a-social-media-scheduler-enough-for-a-small-business",
     ],
