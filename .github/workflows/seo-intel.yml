@@ -1,19 +1,15 @@
 name: SEO Intel Scout
 
 on:
-  # Scout the curated SEO/AEO source list once per week and open a PR with one
-  # new experiment brief when a useful idea appears.
-  schedule:
-    - cron: '30 15 * * 3'
-
+  # Manual-only helper. Run this locally for real content work, then push your
+  # own branch and open a PR yourself.
   workflow_dispatch:
 
 jobs:
   seo-intel:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      pull-requests: write
+      contents: read
 
     steps:
       - name: Checkout repository
@@ -40,16 +36,12 @@ jobs:
             echo "has_changes=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Open SEO intel pull request
+      - name: Manual workflow notice
         if: steps.changes.outputs.has_changes == 'true'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: codex/seo-intel
-          delete-branch: true
-          title: "SEO intel: add new experiment brief"
-          commit-message: "seo: add intel experiment"
-          body: |
-            Automated SEO/AEO intel scout.
+        run: |
+          echo "SEO intel found changes, but this repo now uses a manual Git workflow for SEO/AEO content."
+          echo "Run the same command locally, review the diff, push your own branch, and open a PR manually."
 
-            This PR adds one experiment brief from `npm run seo:intel -- --fetch-sources --limit 30` and updates `seo-opportunities.json`.
+      - name: No changes summary
+        if: steps.changes.outputs.has_changes != 'true'
+        run: echo "No SEO intel changes found."

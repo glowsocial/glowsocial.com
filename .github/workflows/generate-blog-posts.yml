@@ -1,12 +1,8 @@
 name: Generate Blog Posts
 
 on:
-  # Runs every Monday and Thursday at 8am UTC (1am PT / 4am ET)
-  schedule:
-    - cron: '0 8 * * 1'  # Monday
-    - cron: '0 8 * * 4'  # Thursday
-
-  # Allow manual trigger from GitHub Actions UI
+  # Manual-only helper. Real content work should happen locally, then be
+  # committed and pushed with normal git.
   workflow_dispatch:
     inputs:
       count:
@@ -22,7 +18,7 @@ jobs:
   generate-posts:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
 
     steps:
       - name: Checkout repository
@@ -59,19 +55,16 @@ jobs:
             echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit and push new posts
+      - name: Manual workflow notice
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/blog/
-          git commit -m "content: auto-generated ${{ steps.check_changes.outputs.new_count }} new SEO blog post(s) [skip ci]"
-          git push
+          echo "Blog post generation created content, but this repo now uses a local git workflow for SEO/AEO work."
+          echo "Run the same command locally, review the diff, commit, and push your branch yourself."
 
       - name: Summary
         run: |
           if [ "${{ steps.check_changes.outputs.has_changes }}" == "true" ]; then
-            echo "✅ Published ${{ steps.check_changes.outputs.new_count }} new post(s)"
+            echo "ℹ️ Generated ${{ steps.check_changes.outputs.new_count }} new post(s), but did not commit or push them."
           else
             echo "ℹ️ No new posts — all keywords in the bank already have posts"
           fi
