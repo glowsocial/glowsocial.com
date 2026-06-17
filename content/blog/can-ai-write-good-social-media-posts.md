@@ -25,6 +25,8 @@ Raw prompts create raw captions. A prompt like "write a post for a plumber" usua
 
 A better AI workflow starts with the business itself: the website, reviews, FAQs, services, location, photos, examples, and voice preferences. Then the AI can turn those details into posts that feel useful instead of interchangeable.
 
+**If you want to test that with your own business instead of another generic prompt, [see posts from your website first](https://app.glowsocial.com/preview).**
+
 ## Why This Matters
 
 Most small businesses do not need social media posts that win creative awards. They need posts that make the business look active, current, trustworthy, and easy to understand.

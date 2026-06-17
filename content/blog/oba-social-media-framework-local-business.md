@@ -34,6 +34,8 @@ OBA stands for Offer, Behind-the-Scenes, and Authority. It is a social media fra
 
 If you post one of each every week, your social media stops being random. Customers see what you do, why you are credible, and whether the business is active.
 
+**If the framework makes sense but you do not want to build the month yourself, [see what Glow Social would create for your business](https://app.glowsocial.com/preview).**
+
 For most local businesses, OBA pairs well with a three-post-per-week cadence: one Offer, one Behind-the-Scenes post, and one Authority post.
 
 ## Why Local Businesses Need A Framework

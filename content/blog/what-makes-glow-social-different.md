@@ -12,15 +12,17 @@ faqs:
     a: "Social media tools (Buffer, Hootsuite, Later) help you schedule posts, but you still create the content yourself. Done-for-you services like Glow Social create, design, and publish content automatically."
 ---
 
-Glow Social is AI-powered software that automatically creates and publishes social media posts for small businesses. For $99/month, you get 20 custom posts published across Facebook, Instagram, LinkedIn, and TikTok—with just 5 minutes of setup.
+Glow Social is AI-powered software that prepares social media posts for small businesses from real business context. Instead of another scheduler to fill, you get posts ready to review and approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile.
 
 
 Here's exactly what makes Glow Social different from other social media tools.
 
+**If you mostly want to know whether it would feel like less work, [see posts from your website first](https://app.glowsocial.com/preview).**
+
 
 ## The Core Difference
 
-Most social media tools help you <em>do</em> social media. Glow Social <em>does</em> social media for you.
+Most social media tools help you *do* social media. Glow Social is built to prepare the posts for you, so the work becomes review-and-approve instead of plan-write-design-schedule-repeat.
 
 
 <strong>Typical social media tools:</strong>

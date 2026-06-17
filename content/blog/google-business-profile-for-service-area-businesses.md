@@ -27,6 +27,8 @@ A Google Business Profile for a service-area business should clearly show the se
 
 The goal is simple: when a customer searches in your market, your profile should answer, "Do they serve me, do they do the work I need, and do they look active enough to trust?"
 
+**If the sticking point is keeping those updates going, [see what Glow Social would create for your business](https://app.glowsocial.com/preview)** before you choose another posting tool.
+
 ## Service-Area Business vs Hybrid Business
 
 Google separates businesses that travel to customers from businesses with a public storefront.

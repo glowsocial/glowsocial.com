@@ -12,7 +12,7 @@ faqs:
     a: "Most businesses see increased profile visits within 30 days of consistent posting. Customer inquiries typically follow within 60-90 days. The key is consistency, which done-for-you services like Glow Social maintain automatically."
 ---
 
-When you set up AI social media posting through Glow Social, here's exactly what happens behind the scenes and what you can expect as output.
+When you set up AI social media posting through Glow Social, the useful question is not whether software can publish automatically. It is whether the system can turn real business context into posts you would actually approve.
 
 
 ## The Setup Process (5 Minutes)
@@ -28,7 +28,9 @@ When you first sign up for Glow Social, you'll answer questions about your busin
 <li><strong>Your goals:</strong> What you want social media to accomplish</li>
 </ul>
 
-This takes about 5 minutes. The AI uses these answers to create content that actually sounds like it's about your business—not generic templates.
+This takes only a few minutes. The AI uses these answers to create content that actually sounds like your business instead of generic templates.
+
+**If you want to test that outcome first, [see posts from your website first](https://app.glowsocial.com/preview).**
 
 
 ## How Posts Are Generated

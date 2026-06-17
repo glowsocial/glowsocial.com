@@ -96,6 +96,8 @@ A social media system also deals with:
 
 Many small businesses think they need a generator. What they actually need is a repeatable system.
 
+**If that is the real issue, the next useful step is to [see posts from your website first](https://app.glowsocial.com/preview)** rather than testing one more caption tool.
+
 ## 1. Glow Social: Best For Done-For-You Local Business Posting
 
 Glow Social is best for business owners who do not want to become better prompt writers, content planners, designers, or schedulers.
