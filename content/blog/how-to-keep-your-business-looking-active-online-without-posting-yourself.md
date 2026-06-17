@@ -26,6 +26,8 @@ To keep business social media active without posting yourself, build a recurring
 
 The standard is not "post every day." The standard is "do we look alive when someone checks?"
 
+**If that is the goal, the clean next step is to [see posts from your website first](https://app.glowsocial.com/preview)** so you can judge the posts before committing to a tool or service.
+
 Related: [social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media) and [the minimum viable social media presence for a local business](/blog/minimum-viable-social-media-presence-local-business).
 
 ## Start with the surfaces customers actually check

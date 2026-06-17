@@ -20,6 +20,8 @@ Buffer is a strong scheduling and social media management tool. It is a good fit
 
 The best Buffer alternative with content creation built in is a tool or service that handles post ideas, captions, visuals, approval, and publishing together. Glow Social is built for that workflow. Instead of giving you a blank calendar, it creates posts from your business website so you can review and approve them.
 
+**If that is what you were actually searching for, skip the feature-comparison spiral and [see posts from your website first](https://app.glowsocial.com/preview).**
+
 If you want the broader category comparison, read [social media scheduler that creates content](/social-media-scheduler-that-creates-content) or [Buffer vs Glow Social](/blog/buffer-vs-glow-social).
 
 ## Buffer vs a content-creation-first workflow

@@ -35,6 +35,8 @@ Buffer's paid publishing plans are priced per channel:
 
 Buffer is a strong choice when you already have posts ready and only need help scheduling them. It is not the best fit if your real bottleneck is creating content in the first place.
 
+**If the real pain is that the queue keeps going empty, skip the pricing rabbit hole and [see posts from your website first](https://app.glowsocial.com/preview).** That is the faster way to test whether you needed content creation, not just scheduling.
+
 <table>
 <tr><th>Buffer free plan question</th><th>2026 answer</th></tr>
 <tr><td>How many channels are free?</td><td>Up to 3 connected channels</td></tr>

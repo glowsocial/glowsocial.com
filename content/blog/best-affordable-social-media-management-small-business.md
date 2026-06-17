@@ -38,6 +38,8 @@ For most small businesses, the realistic affordable options are:
 - **Affordable social media manager or freelancer:** usually $300-500/month for basic posting.
 - **Done-for-you AI software:** $99/month when you need posts ready to approve without hiring.
 
+**If you already know the real issue is "I do not want social media to stay on my plate," the shortest path is to [see posts from your website first](https://app.glowsocial.com/preview).**
+
 Use the table below to compare what each option actually solves.
 
 ## The Affordable Social Media Management Landscape

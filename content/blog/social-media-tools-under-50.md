@@ -125,6 +125,8 @@ Notice the fundamental difference in the table above:
 
 If your time is worth $15/hour or more, Glow Social likely costs less than DIY when you factor in time.
 
+**If you are comparing tools because you do not want to keep making every post yourself, [see posts from your website first](https://app.glowsocial.com/preview).** That is the clearest way to judge whether the extra subscription actually removes work.
+
 
 ## The Time Math
 
