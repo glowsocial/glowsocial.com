@@ -89,6 +89,8 @@ That is the common small-business failure mode:
 
 If that pattern sounds familiar, the tool comparison is secondary. You need a content source.
 
+For the broader operating-system view, read [how to keep business social media active without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself).
+
 ## Where Glow Social Fits
 
 [Glow Social](/affordable-social-media-management) fits when the hard part is creating posts, not measuring them.
