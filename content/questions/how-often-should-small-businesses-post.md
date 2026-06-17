@@ -11,3 +11,35 @@ A solo realtor tested two approaches over 90 days. Month one: posted 7 times per
 
 ## What Most People Get Wrong
 "Post every day" is advice designed for influencers and media companies. For a local business, an empty Tuesday post that says "Happy Tuesday!" does more harm than skipping a day. It trains your audience to ignore you. Three posts that teach, inform, or entertain are worth more than seven that fill space.
+
+## Quick Cadence Guide
+Use this as the practical starting point:
+
+| Business situation | Good starting cadence |
+|---|---|
+| Local service business with limited time | 3 posts per week |
+| Visual business with steady photo inventory | 4-5 posts per week |
+| Professional service firm | 2-4 posts per week |
+| Team with a real content system | 5-7 posts per week |
+
+For most small businesses, the real goal is not max frequency. It is avoiding the pattern of posting daily for 10 days, then disappearing for 5 weeks.
+
+## What To Prioritize Before Posting More
+Before increasing frequency, make sure the posts are actually useful:
+
+- answer real customer questions
+- show recent work or proof
+- mention services and service areas clearly
+- make the next step obvious
+
+If you cannot keep those basics strong, post less often and make the posts better.
+
+## Related Reading
+- [How much time does social media marketing take for a small business?](/resources/questions/how-much-time-social-media-marketing-small-business)
+- [How to save time on social media marketing](/resources/questions/how-to-save-time-social-media-marketing)
+- [Local business posting frequency benchmarks](/research/local-business-posting-frequency-benchmarks)
+- [Posting frequency calculator](/tools/posting-frequency-calculator)
+
+## Sources Checked
+- [Buffer social media frequency guide](https://buffer.com/resources/social-media-frequency-guide/)
+- [Hootsuite social media posting frequency guidance](https://blog.hootsuite.com/how-often-to-post-on-social-media/)

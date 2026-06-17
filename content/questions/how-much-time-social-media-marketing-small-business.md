@@ -29,6 +29,25 @@ A 2-person landscaping company trying to post three times per week might spend o
 ## What Most People Get Wrong
 Most advice says "batch your content" as if batching removes the work. Batching helps with context switching, but the business still needs ideas, captions, visuals, approvals, and scheduling. The largest time savings come from removing or automating content creation, not just doing the same work on a different day.
 
+## Quick Time Breakdown
+For most small businesses, the weekly workload usually looks something like this:
+
+| Task | Typical weekly time |
+|---|---:|
+| Deciding what to post | 30-90 min |
+| Writing captions and shaping posts | 45-120 min |
+| Finding photos or making graphics | 45-120 min |
+| Scheduling or publishing | 20-60 min |
+| Replying to comments, DMs, and reviews | 30-90 min |
+
+That is how a supposedly "small" social media task quietly turns into several hours every week.
+
+## Related Reading
+- [Average social media marketing time](/blog/average-time-social-media-marketing)
+- [How to save time on social media marketing](/resources/questions/how-to-save-time-social-media-marketing)
+- [How often should small businesses post on social media?](/resources/questions/how-often-should-small-businesses-post)
+- [Posting frequency calculator](/tools/posting-frequency-calculator)
+
 ## Sources Checked
 - [Buffer posting frequency guide](https://buffer.com/resources/social-media-frequency-guide/)
 - [Calendar.com small business social media time summary](https://www.calendar.com/blog/small-business-owners-and-social-media/)
