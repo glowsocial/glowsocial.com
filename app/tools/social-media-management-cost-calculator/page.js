@@ -1,8 +1,9 @@
+import Link from "next/link";
 import "../tools.css";
 import CostComparisonCalculator from "../CostComparisonCalculator";
 
 export const metadata = {
-  title: "Social Media Management Cost Calculator",
+  title: "Social Media Management Cost Calculator | Glow Social",
   description:
     "Calculate the real monthly cost of DIY social media, freelancers, agencies, and done-for-you social media automation.",
   alternates: {
@@ -52,6 +53,21 @@ export default function SocialMediaManagementCostCalculatorPage() {
         </div>
       </section>
       <main className="tools-shell">
+        <section className="tool-copy">
+          <h2>What this calculator is good for</h2>
+          <p>
+            Use this when you want to compare software price against owner
+            time, freelancer retainers, agency pricing, and lower-cost
+            done-for-you posting. It is especially useful when the sticker
+            price looks cheap but the time cost is not.
+          </p>
+          <p>
+            For benchmark ranges and buyer guidance, pair this tool with the
+            <Link href="/research/social-media-management-pricing-benchmarks-local-businesses"> pricing benchmarks</Link>
+            and the
+            <Link href="/resources/questions/social-media-management-pricing-2026"> 2026 pricing answer page</Link>.
+          </p>
+        </section>
         <CostComparisonCalculator />
       </main>
     </>

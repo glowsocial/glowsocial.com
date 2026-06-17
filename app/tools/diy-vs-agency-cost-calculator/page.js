@@ -1,8 +1,9 @@
+import Link from "next/link";
 import "../tools.css";
 import CostComparisonCalculator from "../CostComparisonCalculator";
 
 export const metadata = {
-  title: "DIY vs Agency Social Media Cost Calculator",
+  title: "DIY vs Agency Social Media Cost Calculator | Glow Social",
   description:
     "Compare DIY social media time cost against freelancer, agency, and Glow Social pricing for local businesses.",
   alternates: {
@@ -52,6 +53,21 @@ export default function DiyVsAgencyCostCalculatorPage() {
         </div>
       </section>
       <main className="tools-shell">
+        <section className="tool-copy">
+          <h2>When to use this tool</h2>
+          <p>
+            This version is best when the real question is whether DIY is still
+            cheaper once you value the owner&apos;s time. If the business is stuck
+            in the blank-calendar loop, this tool helps show when DIY stops
+            being the low-cost option.
+          </p>
+          <p>
+            For full market ranges, see the
+            <Link href="/research/social-media-management-pricing-benchmarks-local-businesses"> pricing benchmarks</Link>
+            and
+            <Link href="/resources/questions/social-media-management-pricing-2026"> 2026 pricing guide</Link>.
+          </p>
+        </section>
         <CostComparisonCalculator focus="diy" />
       </main>
     </>
