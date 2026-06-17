@@ -3,7 +3,7 @@ title: "Social Media for Business Owners Who Hate Social Media"
 description: "A practical social media system for business owners who hate social media but still need to look active, trustworthy, and easy to contact."
 slug: "social-media-for-business-owners-who-hate-social-media"
 date: "2026-05-26"
-updated: "2026-06-11"
+updated: "2026-06-17"
 tags: ["hate social media", "local business", "done-for-you social media"]
 faqs:
   - q: "Do I need social media if I hate social media?"
@@ -191,7 +191,7 @@ Most owners who hate social media want the third option because the recurring wo
 
 Automation works best when it starts from real business inputs: your website, services, location, reviews, photos, and FAQs. That keeps the content grounded in what the business actually does.
 
-Read the practical playbook: [how to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself).
+Read the practical playbook: [how to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself). If you are still stuck on what to say, start with [what should I post for my business?](/resources/questions/what-should-i-post-for-my-business) and [what are done-for-you social media posts for small businesses?](/resources/questions/what-are-done-for-you-social-media-posts-for-small-business).
 
 ## A Practical Weekly Baseline
 
@@ -218,10 +218,16 @@ It turns your business information into a steady posting system:
 
 The point is not to make you a creator. The point is to keep your business visible and trustworthy while you keep doing the work customers pay you for.
 
+If the biggest objections in your head are "what would I even post?" or "will this sound like us?", read [what should I post for my business?](/resources/questions/what-should-i-post-for-my-business), [can I get social media content from my website?](/resources/questions/can-i-get-social-media-content-from-my-website), and [how do I get social media captions that sound like my business?](/resources/questions/how-do-i-get-social-media-captions-that-sound-like-my-business).
+
 [See what Glow Social would create for your business](https://app.glowsocial.com/preview)
 
 ## Related Reading
 
+- [What should I post for my business?](/resources/questions/what-should-i-post-for-my-business)
+- [Can I get social media content from my website?](/resources/questions/can-i-get-social-media-content-from-my-website)
+- [How do I get social media captions that sound like my business?](/resources/questions/how-do-i-get-social-media-captions-that-sound-like-my-business)
+- [What are done-for-you social media posts for small businesses?](/resources/questions/what-are-done-for-you-social-media-posts-for-small-business)
 - [How to keep business social media active without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself)
 - [How to market your business if you hate social media](/blog/how-to-market-business-if-you-hate-social-media)
 - [How to keep your business looking active online with what you already have](/blog/how-to-keep-your-business-looking-active-online-with-what-you-already-have)
