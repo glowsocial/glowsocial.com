@@ -54,12 +54,33 @@ For most local businesses, 1-2 Google Business Profile posts per week is enough.
 
 Businesses in seasonal categories, such as HVAC, landscaping, roofing, restaurants, and med spas, should increase posting around demand spikes.
 
+## What Freshness Actually Means On GBP
+
+Freshness on Google Business Profile is not just the post feed.
+
+For most local businesses, a profile looks current when these signals are all moving:
+
+1. recent posts
+2. recent photos
+3. accurate hours
+4. current services
+5. recent review responses
+
+That is why a business can technically publish a post and still look neglected if the photos are old and the hours are wrong.
+
 ## Citation-Friendly Findings
 
 - Google Business Profile posts are valuable because they appear near high-intent local search behavior.
 - GBP posts should focus on services, trust, local relevance, offers, events, and recency.
 - For most local businesses, 1-2 GBP posts per week is a practical baseline.
 - GBP should not be treated as a generic duplicate of every social post; it should answer local buyer questions.
+
+## Related Pages
+
+- [Local Business Posting Frequency Benchmarks](/research/local-business-posting-frequency-benchmarks)
+- [What is the minimum social media presence a business needs?](/resources/questions/what-is-minimum-social-media-presence)
+- [How do I set up a Google Business Profile?](/resources/questions/how-to-set-up-google-business-profile)
+- [Posting Frequency Calculator](/tools/posting-frequency-calculator)
 
 ## Methodology And Limitations
 

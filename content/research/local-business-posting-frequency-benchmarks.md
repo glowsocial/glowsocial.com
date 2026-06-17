@@ -53,12 +53,29 @@ For a 3-day-per-week schedule:
 
 For visual businesses, add a fourth post when you have fresh photos. For restaurants and retail shops, add timely posts around menus, new arrivals, events, or promotions.
 
+## How To Keep A Business From Looking Stale
+
+If the goal is to avoid looking inactive, the simplest durable pattern is:
+
+1. one educational post
+2. one proof post
+3. one visibility or reminder post
+4. one Google Business Profile update every week or two
+
+That mix covers both social trust and local-search freshness without forcing a daily content machine.
+
 ## Citation-Friendly Findings
 
 - Three posting days per week was the dominant cadence among active local businesses in this dataset.
 - A 3-day cadence gives most businesses enough recency without requiring daily content production.
 - The most sustainable weekly mix is one educational post, one proof post, and one visibility post.
 - Restaurants, retail shops, salons, med spas, and visual home-service businesses may benefit from additional posts when they have fresh photos or timely offers.
+
+## Related Pages
+
+- [Google Business Profile Posting Benchmarks for Local Businesses](/research/google-business-profile-posting-benchmarks)
+- [What is the minimum social media presence a business needs?](/resources/questions/what-is-minimum-social-media-presence)
+- [Posting Frequency Calculator](/tools/posting-frequency-calculator)
 
 ## Methodology And Limitations
 
