@@ -85,10 +85,23 @@ Perplexity may pull from your website, directories, review sites, and public pro
 
 Conflicting facts reduce trust.
 
+## What Perplexity Is Most Likely To Reuse
+
+Perplexity is more likely to cite material that is easy to quote or summarize cleanly, such as:
+
+- a direct answer near the top of the page
+- a comparison table
+- a pricing benchmark
+- a short checklist
+- a concrete example with local context
+
+If the page is all brand language and no usable substance, it is harder to reuse in AI search answers.
+
 If you want the broader cross-platform version of this question, see [How can a local business show up in AI search?](/resources/questions/how-can-local-business-show-up-in-ai-search).
 
 ## Related Reading
 
 - [Social Media Management Pricing Benchmarks](/research/social-media-management-pricing-benchmarks-local-businesses)
 - [How to Show Up in ChatGPT for Local Business Searches](/blog/how-to-show-up-in-chatgpt-local-business-searches)
+- [What AI Assistants Look For When Recommending Local Businesses](/blog/what-ai-assistants-look-for-local-business-recommendations)
 - [AI Visibility Service](/ai-visibility-service)

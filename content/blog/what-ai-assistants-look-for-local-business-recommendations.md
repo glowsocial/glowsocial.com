@@ -81,10 +81,23 @@ Build a public evidence trail. Publish clear service pages, answer real customer
 
 The goal is not to game AI assistants. The goal is to make the correct answer easier for them to find.
 
+## Where To Fix This First
+
+If a local business wants quick improvement, start with the assets most likely to be seen and reused:
+
+1. the homepage
+2. the top service page
+3. Google Business Profile
+4. the review trail
+5. the most recent public posts
+
+Those five assets usually reveal whether the business looks clear, current, and safe to mention.
+
 If you want the practical local-business checklist version of this, see [How can a local business show up in AI search?](/resources/questions/how-can-local-business-show-up-in-ai-search).
 
 ## Related Reading
 
 - [AI Search Optimization for Local Businesses](/blog/ai-search-optimization-local-businesses)
 - [How to Show Up in ChatGPT for Local Business Searches](/blog/how-to-show-up-in-chatgpt-local-business-searches)
+- [How to Show Up in Perplexity as a Local Business](/blog/how-to-show-up-in-perplexity-local-business)
 - [AI Visibility Service](/ai-visibility-service)

@@ -5,6 +5,12 @@ relatedResources:
   - title: "What AI Assistants Look For When Recommending Local Businesses"
     href: "/blog/what-ai-assistants-look-for-local-business-recommendations"
     description: "The signals AI tools use to decide whether a business is safe to mention."
+  - title: "How to Show Up in ChatGPT for Local Business Searches"
+    href: "/blog/how-to-show-up-in-chatgpt-local-business-searches"
+    description: "How to make a local business easier for ChatGPT-style answers to verify and include."
+  - title: "How to Show Up in Perplexity as a Local Business"
+    href: "/blog/how-to-show-up-in-perplexity-local-business"
+    description: "What makes a local-business page more citation-worthy for answer engines."
   - title: "AI Search Optimization for Local Businesses"
     href: "/blog/ai-search-optimization-local-businesses"
     description: "A practical plan for improving local visibility across Google and AI search."
@@ -58,6 +64,17 @@ A roofer that publishes storm prep tips, finished roof photos, service-area post
 
 ## What Most People Get Wrong
 AI search is not a replacement for SEO. It is SEO with higher expectations for clarity, proof, and answerability.
+
+## Which Page Type To Build Next
+
+If the basics are already in place, the next best page is usually one of these:
+
+1. a cost or pricing explainer
+2. a comparison page
+3. a question page based on a real pre-sale objection
+4. a service-area page with actual local detail
+
+Those formats are easier for both search engines and AI systems to interpret than generic awareness posts.
 
 ## If You Want The Fastest First Pass
 Start by checking three places:
