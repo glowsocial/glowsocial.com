@@ -17,6 +17,8 @@ faqs:
 
 AI search optimization for local businesses means making the business easier to discover, understand, verify, and cite. The foundation is still SEO: crawlable pages, clear services, accurate local profiles, helpful content, reviews, schema, and fresh public activity.
 
+If you want a done-for-you version of that work instead of building the whole checklist yourself, see Glow Social's [AI Visibility Service](/ai-visibility-service).
+
 ## AI Search Checklist
 
 ### 1. Make the entity clear

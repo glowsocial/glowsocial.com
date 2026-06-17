@@ -3,8 +3,6 @@ import { getPricing } from "../pricing-config";
 import { previewUrl } from "../../lib/marketing-links";
 import "../affordable-social-media-management/affordable.css";
 
-export const dynamic = "force-dynamic";
-
 const PAGE_URL = "https://glowsocial.com/ai-visibility-service";
 
 const faqItems = [
@@ -31,14 +29,14 @@ const faqItems = [
 ];
 
 export const metadata = {
-  title: "AI Visibility Service for Local Businesses",
+  title: "AI Visibility Service for Local Businesses | Glow Social",
   description:
     "An AI visibility service for local businesses that want to show up more clearly in ChatGPT, Gemini, Perplexity, and AI-powered search results.",
   alternates: {
     canonical: "/ai-visibility-service",
   },
   openGraph: {
-    title: "AI Visibility Service for Local Businesses",
+    title: "AI Visibility Service for Local Businesses | Glow Social",
     description:
       "Glow Social helps local businesses become easier for AI assistants and AI search results to discover, understand, and reference.",
     url: PAGE_URL,
@@ -55,7 +53,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI Visibility Service for Local Businesses",
+    title: "AI Visibility Service for Local Businesses | Glow Social",
     description:
       "Improve how clearly your business shows up in ChatGPT, Gemini, Perplexity, and other AI-powered answers.",
     images: ["https://glowsocial.com/images/og-image.png"],
@@ -86,6 +84,7 @@ function JsonLd({ pricing }) {
         priceCurrency: "USD",
         availability: "https://schema.org/InStock",
         url: PAGE_URL,
+        description: "Free preview first. No contracts. Cancel anytime.",
       },
     },
     {
@@ -189,6 +188,36 @@ export default function AIVisibilityPage() {
             direct answers to common questions, structured data, fresh public activity, and proof that
             the business is real and current. Glow Social supports that work starting at {pricing.startingAtFull}.
           </p>
+        </div>
+      </section>
+
+      <section className="affordable-section">
+        <div className="container">
+          <p className="section-badge">What You Actually Need</p>
+          <h2>Most local businesses do not need a brand-new AI strategy.</h2>
+          <p className="section-sub">
+            They usually need clearer service pages, better question-and-answer content, stronger public proof,
+            and a simple system that keeps the business looking current across its website and profiles.
+          </p>
+
+          <div className="affordable-card-grid">
+            <div className="affordable-card">
+              <h3>Before</h3>
+              <p>A vague homepage, inconsistent profiles, stale posts, and no pages answering pricing, fit, or comparisons.</p>
+            </div>
+            <div className="affordable-card">
+              <h3>After</h3>
+              <p>Clear service language, question pages, structured data, recent posts, and better evidence for AI systems to reuse.</p>
+            </div>
+            <div className="affordable-card">
+              <h3>What Glow Social adds</h3>
+              <p>Website-to-post workflows, answer-ready content support, Google profile activity, and a review-before-publish process.</p>
+            </div>
+            <div className="affordable-card">
+              <h3>Who this fits</h3>
+              <p>Local service businesses that already have a website and want clearer visibility without adding a heavy marketing system.</p>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -304,6 +333,19 @@ export default function AIVisibilityPage() {
               <h3>Approval before publishing</h3>
               <p>You stay in control while the business keeps publishing useful, consistent updates.</p>
             </div>
+          </div>
+
+          <div className="affordable-answer-box" style={{ marginTop: "2rem" }}>
+            <h3>What the service can include</h3>
+            <p>
+              The core package starts at {pricing.startingAtFull} and is built around turning existing website material
+              into useful public content. That can support clearer service pages, more answer-ready posts, and stronger
+              business signals across your website, social profiles, and Google Business Profile.
+            </p>
+            <p>
+              If you want the practical AEO version of this work, start with the free preview, then use it to identify
+              the first pages, questions, and proof blocks worth tightening.
+            </p>
           </div>
         </div>
       </section>
