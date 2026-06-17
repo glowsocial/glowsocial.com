@@ -1,0 +1,22 @@
+{
+  "opportunities": [
+    {
+      "id": "2026-06-17-the-integrated-search-brief-that-aligns-seo-ppc-038-content-in-the-ai-search-era",
+      "created_at": "2026-06-17T18:03:11.718Z",
+      "status": "new",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/the integrated search brief that aligns seo ppc content in the ai search era/575028/",
+      "title": "The Integrated Search Brief That Aligns SEO, PPC & 038; Content In The AI Search Era via @sejournal, @coreydmorris",
+      "score": 11,
+      "action": "Internal link / consolidate",
+      "candidate_routes": [
+        "/resources/questions/what-is-answer-engine-optimization",
+        "/blog/how-to-show-up-in-chatgpt-local-business-searches",
+        "/blog/ai-search-optimization-local-businesses",
+        "/resources/questions/best-social-media-service-for-restaurants",
+        "/resources/questions/how-can-local-business-show-up-in-ai-search"
+      ],
+      "experiment": "seo-intel/experiments/2026-06-17-the-integrated-search-brief-that-aligns-seo-ppc-038-content-in-the-ai-search-era.md"
+    }
+  ]
+}
