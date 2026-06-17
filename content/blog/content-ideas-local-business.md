@@ -147,8 +147,9 @@ This keeps your feed valuable without feeling like constant sales pitches.
 
 Save this list and use it whenever you're stuck on what to post. Before you start posting, make sure your profiles are optimized — the <a href="https://glowsocial.com/setup">free Social Profile Kit</a> generates platform-specific bios and handles the setup in minutes.
 
+If you would rather skip the monthly content buildout, [see posts from your website first](https://app.glowsocial.com/preview).
 
-Or skip the content creation entirely: Glow Social publishes 20 posts automatically each month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+Or skip the content creation entirely: Glow Social prepares 20 posts from your website and business context, ready for you to review and approve, so you can keep the content mix going without building it by hand each month.
 
 
 <hr>

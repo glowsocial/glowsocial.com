@@ -18,6 +18,8 @@ Hootsuite is a powerful social media management platform. It's also a tool that 
 
 If your problem isn't "I need a better scheduling tool" but rather **"I don't have time to create social media content at all,"** then Hootsuite — and most of its traditional alternatives — won't help.
 
+**If that is the real problem, [see posts from your website first](https://app.glowsocial.com/preview)** before you spend another round comparing dashboards.
+
 This list focuses on alternatives that reduce or eliminate the content creation burden.
 
 ## Why Most "Hootsuite Alternatives" Lists Miss the Point

@@ -16,7 +16,9 @@ If you're a small business owner looking for alternatives to hiring a social med
 
 Most social media tools are scheduling platforms. They help you post, but you still have to write every caption, design every graphic, and manage every content calendar yourself.
 
-**Glow Social** takes a different approach: it creates and publishes your content automatically. For **$99/month**, you get 20 custom posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile.
+**If you already know that is the part you want off your plate, [see posts from your website first](https://app.glowsocial.com/preview).**
+
+**Glow Social** takes a different approach: it prepares posts from your business context so you can review and approve them before they publish. For **$99/month**, you get 20 custom posts per month across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile.
 
 ## The 5 Best Alternatives to Hiring a Social Media Manager
 
