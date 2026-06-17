@@ -85,6 +85,8 @@ Perplexity may pull from your website, directories, review sites, and public pro
 
 Conflicting facts reduce trust.
 
+If you want the broader cross-platform version of this question, see [How can a local business show up in AI search?](/resources/questions/how-can-local-business-show-up-in-ai-search).
+
 ## Related Reading
 
 - [Social Media Management Pricing Benchmarks](/research/social-media-management-pricing-benchmarks-local-businesses)

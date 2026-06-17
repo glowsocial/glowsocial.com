@@ -81,6 +81,8 @@ Build a public evidence trail. Publish clear service pages, answer real customer
 
 The goal is not to game AI assistants. The goal is to make the correct answer easier for them to find.
 
+If you want the practical local-business checklist version of this, see [How can a local business show up in AI search?](/resources/questions/how-can-local-business-show-up-in-ai-search).
+
 ## Related Reading
 
 - [AI Search Optimization for Local Businesses](/blog/ai-search-optimization-local-businesses)

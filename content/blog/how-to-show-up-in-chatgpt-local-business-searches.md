@@ -81,6 +81,8 @@ Check your robots.txt file and make sure important content is not blocked from n
 
 No one can force ChatGPT to mention a specific business. The practical goal is to reduce uncertainty. The more clear, consistent, current, and verifiable your business is online, the easier it becomes for AI systems to include you in an answer.
 
+If you want the broader version of this same topic beyond ChatGPT, see [How can a local business show up in AI search?](/resources/questions/how-can-local-business-show-up-in-ai-search).
+
 ## Related Reading
 
 - [AI Search Optimization for Local Businesses](/blog/ai-search-optimization-local-businesses)
