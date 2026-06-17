@@ -3,7 +3,7 @@ title: "Later Pricing 2026: Free Plan, Trial & Social Sets"
 description: "See Later pricing, free plan limits, social sets, Starter/Growth/Scale costs, and when a scheduler is not enough."
 slug: "later-pricing-free-plan-2026"
 date: "2026-05-13"
-updated: "2026-06-09"
+updated: "2026-06-17"
 faqs:
   - q: "How much does Later cost in 2026?"
     a: "Later's paid social scheduling plans start at $18.75 per month when billed yearly for Starter, $37.50 per month when billed yearly for Growth, and $82.50 per month when billed yearly for Scale. Taxes and monthly billing can change the final price."
@@ -73,7 +73,7 @@ A Social Set includes one profile from each platform Later supports:
 
 So Later Starter gives you 1 profile from each supported platform. Growth gives you 2 of each. Scale gives you 6 of each.
 
-This is different from Buffer, where you pay per channel. If you want to compare the two models, read [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) or [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026).
+If you want to compare the two models, read [Later vs Buffer](/blog/later-vs-buffer-differences-comparison), [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026), or [social media tools under $50/month](/blog/social-media-tools-under-50).
 
 ## Does Later Have a Free Plan?
 

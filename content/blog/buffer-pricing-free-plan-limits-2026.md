@@ -3,7 +3,7 @@ title: "Buffer Free Plan Limits 2026: Instagram, TikTok & Pricing"
 description: "Buffer's free plan supports 3 channels and 10 queued posts per channel. See Instagram/TikTok support, paid pricing, and hidden time cost."
 slug: "buffer-pricing-free-plan-limits-2026"
 date: "2026-05-13"
-updated: "2026-06-09"
+updated: "2026-06-17"
 faqs:
   - q: "How much does Buffer cost in 2026?"
     a: "Buffer has a free plan for up to 3 channels. Paid publishing plans start at $5 per channel per month when billed yearly for Essentials, or $6 per channel on monthly billing. The Team plan starts at $10 per channel per month when billed yearly, or $12 per channel on monthly billing."
@@ -192,6 +192,6 @@ Pricing and plan limits can change. For the current official details, check [Buf
 
 ---
 
-**Related guides:** [Buffer free plan quick answer](/resources/questions/buffer-free-plan-limits-2026) · [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social)
+**Related guides:** [Buffer free plan quick answer](/resources/questions/buffer-free-plan-limits-2026) · [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social) · [Social media caption length guide](/blog/social-media-caption-length)
 
 **About Glow Social:** Glow Social turns your website into 20 custom social media posts ready to approve, then publishes approved posts for local businesses. [See posts from your website first](https://app.glowsocial.com/preview).

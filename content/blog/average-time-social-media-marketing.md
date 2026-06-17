@@ -3,7 +3,7 @@ title: "Average Social Media Marketing Time: 3-10 hrs/week"
 description: "Most small businesses spend 3-10 hours/week on social media. See task breakdowns, platform time, and how to cut the workload."
 slug: "average-time-social-media-marketing"
 date: "2026-03-23"
-updated: "2026-06-09"
+updated: "2026-06-17"
 faqs:
   - q: "How many hours per week does social media marketing take for a small business?"
     a: "Most small businesses spend 3-10 hours per week on social media marketing, including content creation (2-4 hours), scheduling and publishing (1-2 hours), engagement and responses (1-2 hours), and analytics review (30-60 minutes). Done-for-you services like Glow Social reduce this to near zero."
@@ -19,7 +19,7 @@ faqs:
 
 If you've ever wondered how much time social media marketing *actually* takes, you're not alone. It's one of the most common questions small business owners ask — and the answer determines whether you should DIY, hire help, or automate.
 
-Here's the real data.
+Here's the real data on the **average time spent on social media marketing** for a small business.
 
 ## Direct Answer: Average Social Media Marketing Time
 
