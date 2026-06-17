@@ -46,6 +46,8 @@ If you are managing only Facebook and Instagram with simple posts, expect the lo
 
 The part that surprises most business owners is not publishing. It is creating the content: deciding what to say, writing captions, choosing images, making graphics, and adjusting each post for the platform.
 
+**That is why the best conversion question is not "should I post more?" It is "can I see the posts this business would already have from its website?"** If that is the real bottleneck, [see posts from your website first](https://app.glowsocial.com/preview).
+
 ## Frequency Is What Turns This Into A Big Job
 Time and posting frequency are connected. The more often a small business tries to post, the faster content creation expands to fill the week.
 

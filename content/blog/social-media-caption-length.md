@@ -54,6 +54,8 @@ Use this simple rule:
 
 Caption length matters, but it is not the whole strategy. A 140-character caption with a weak first line will still get skipped. A longer caption can work when it teaches something worth saving.
 
+**If the bigger issue is that no one wants to keep writing captions by hand, the better next step is to [see posts from your website first](https://app.glowsocial.com/preview)** and decide whether the voice feels right.
+
 ## Quick Reference: Ideal Caption Lengths
 
 <table>

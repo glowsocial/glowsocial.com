@@ -30,6 +30,8 @@ The best social media strategy for business owners who hate social media is a mi
 
 You do not need daily posts, viral videos, or a personal brand. You need enough current public evidence that a customer feels safe calling, booking, requesting a quote, or visiting.
 
+**If that sounds right, the simplest next step is not a demo. It is to [see posts from your website first](https://app.glowsocial.com/preview).** That makes the promise tangible before you commit to anything.
+
 ## The Actual Problem Is Not Posting
 
 Most owners frame the problem as:

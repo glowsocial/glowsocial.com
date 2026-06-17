@@ -31,6 +31,8 @@ The lower-cost options are DIY scheduling tools at **$15-50 per month** or done-
 
 The key difference is not only price. Scheduling tools still require you to create the posts. Freelancers and agencies reduce the content workload but add approval and management cycles. Done-for-you software handles the recurring baseline content when you mainly need consistency.
 
+**If you mostly want to know whether this would actually feel lighter, the cleanest next step is to [see posts from your website first](https://app.glowsocial.com/preview)** rather than reading another pricing page.
+
 Use this rule of thumb:
 
 - **Choose software** if you mainly need consistent posts and a professional baseline.
