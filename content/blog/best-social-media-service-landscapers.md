@@ -10,7 +10,9 @@ faqs:
 
 Most landscapers don't have time to manage social media. Between serving customers, managing staff, and running daily operations, posting consistently falls to the bottom of the list.
 
-That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, automated services like **Glow Social** handle everything for **$99/month**.
+**If that is the exact problem, [see posts from your website first](https://app.glowsocial.com/preview).**
+
+That's why done-for-you social media services exist. Instead of hiring a marketing agency ($2,000+/month) or spending 10+ hours doing it yourself, systems like **Glow Social** prepare the posts for you from real business context so the work becomes review-and-approve instead of create-from-scratch.
 
 ## What to Look for in a Social Media Service for Landscapers
 
