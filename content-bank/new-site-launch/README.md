@@ -17,6 +17,7 @@ It is designed to do four jobs at once:
 - `ops/publish-ready-tiers.md` — tiered edit/publish queue for all 100 drafts
 - `ops/boomp-drops-operating-model.md` — how the 100-post bank becomes a two-year weekly Boomp Drops system
 - `ops/boomp-drops-100-issue-map.md` — all 100 posts repackaged as weekly Boomp Drops issues
+- `ops/boomp-drops-editing-rules.md` — editorial rules for making the drafts sharper, more specific, and less obviously AI
 - `templates/` — reusable markdown templates for posts and email adaptation
 - `templates/boomp-drops-email-template.md` — issue-level email template for weekly Drops
 - `drafts/` — the drafted canonical pages, organized by cluster
