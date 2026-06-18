@@ -23,6 +23,8 @@ Referrals built financial advisory practices for decades. They still work — bu
 
 Social media for financial advisors isn't about going viral. It's about being findable, appearing credible, and building the kind of trust that makes someone take the step from "thinking about getting a financial advisor" to "scheduling a call with you."
 
+**If your bottleneck is keeping the educational content going consistently, [see posts from your website first](https://app.glowsocial.com/preview).**
+
 ## The Compliance Reality (and Why It's Not the Blocker You Think)
 
 Financial advisors often use compliance as a reason not to engage with social media at all. This is a mistake.
@@ -73,6 +75,6 @@ The advisors who successfully grow through social media aren't necessarily posti
 
 This is the challenge. When client work is full, social media is the first thing to drop. Building systems that make posting automatic is what separates advisors who succeed at this from those who try and give up.
 
-[Glow Social](https://glowsocial.com) handles the Facebook and Google Business Profile presence automatically — creating and publishing business-specific content without weekly effort. This frees you to focus your limited social media time on the high-value platform that most benefits from your personal voice: LinkedIn.
+[Glow Social](https://glowsocial.com) can keep the Facebook and Google Business Profile presence moving with business-specific educational content prepared for review and approval. That frees you to focus your limited social media time on the high-value platform that most benefits from your personal voice: LinkedIn.
 
 [Learn more about how it works →](https://glowsocial.com)
