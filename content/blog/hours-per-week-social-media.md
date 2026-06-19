@@ -5,14 +5,18 @@ slug: "hours-per-week-social-media"
 date: "2026-01-29"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
-    a: "Yes. Done-for-you services like Glow Social automatically create, design, and publish 20 posts per month across key platforms for $99/month. Setup takes 5 minutes."
+    a: "Small businesses can automate a lot of the repeatable production work, but the healthiest setup still keeps review, customer conversations, and sensitive judgment human."
   - q: "Does automated social media content look professional?"
-    a: "Modern done-for-you services analyze your website to match your brand voice and create custom graphics in your brand colors. The output is professional, consistent, and tailored to your business."
+    a: "It can, if the posts are built from real business context and reviewed before publishing. The strongest workflows use your website, services, FAQs, and proof instead of generic prompts."
   - q: "How often should a small business post on social media?"
-    a: "Small businesses should aim for at least 3 posts per week across their active platforms. Consistency matters more than volume. Glow Social delivers 20 posts per month automatically."
+    a: "For most small businesses, 3 posts per week is enough. The real challenge is not the number. It is sustaining the work month after month."
 ---
 
-You're busy running your business. Social media feels like another chore. Here's the honest answer: You need fewer hours than you think—or zero hours if you automate it. Most small businesses can maintain an effective social presence with 1-3 hours per month (batching) or $99/month (automated posting with Glow Social).
+You're busy running your business. The real question is not whether social media takes time. It is whether you want that time coming out of your own week.
+
+For most small businesses, baseline social media still takes a few hours per month if you do it yourself. The bigger issue is that those hours are not just scheduling. They are deciding what to post, writing captions, gathering visuals, and staying consistent.
+
+If that work keeps sliding, the better next step is to [see posts from your website first](/preview) and decide whether review-and-approve is a better fit than create-from-scratch.
 
 
 ## Current Reality: How Much Time Small Businesses Actually Spend
@@ -90,22 +94,18 @@ Many small businesses waste time on low-value activities:
 <li>Being on every platform (pick 2-3 and focus)</li>
 </ul>
 
-## The Zero-Time Option
-
-If you're reading this and thinking "I don't even have 2-4 hours per month," automated posting is your answer.
-
+## The Review-and-Approve Option
+If you're reading this and thinking "I don't even have 2-4 hours per month," the better question is whether you should keep creating the posts yourself.
 
 <strong>Glow Social:</strong>
 
 <ul>
-<li>Creates 20 posts/month for you</li>
-<li>Publishes automatically to Facebook, Instagram, LinkedIn, TikTok</li>
-<li>Setup: 5 minutes</li>
-<li>Ongoing time: Occasional approvals if you want, or zero</li>
-<li>Cost: $99/month</li>
+<li>Prepares posts from your website and business context</li>
+<li>Makes the job review-and-approve instead of create-from-scratch</li>
+<li>Keeps the baseline posting rhythm moving without living on your calendar</li>
 </ul>
 
-Your only ongoing time investment is responding to comments/DMs when they come in—which you should do regardless of how content gets posted.
+Your highest-value ongoing time is still responding to comments, DMs, and real customer interactions. That part should stay human.
 
 
 ## Time vs. Money Trade-off
@@ -149,15 +149,15 @@ But for baseline visibility? 1-4 hours per month is enough.
 <li>Set up 5-minute daily engagement check</li>
 </ol>
 
-<strong>Option 2: Automated posting</strong>
+<strong>Option 2: Reduce the creation burden</strong>
 
 <ol>
-<li>Set up Glow Social (5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>)</li>
-<li>Posts go out automatically</li>
-<li>Respond to engagement as it comes</li>
+<li>[See posts from your website first](/preview)</li>
+<li>Review, edit, skip, or approve what gets prepared</li>
+<li>Use your time on engagement and real customer responses instead of building the whole calendar</li>
 </ol>
 
-Either way, you don't need 10+ hours per month. You just need consistent visibility.
+Either way, you do not need 10+ hours per month. You need a posting rhythm you can actually sustain.
 
 
 <hr>
