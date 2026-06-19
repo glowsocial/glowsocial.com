@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getPricing } from "../pricing-config";
+import { previewUrl } from "../../lib/marketing-links";
 import "../affordable-social-media-management/affordable.css";
 
 export const dynamic = "force-dynamic";
@@ -9,14 +10,14 @@ const PAGE_URL = "https://glowsocial.com/social-media-agency-alternative";
 export const metadata = {
   title: "Social Media Agency Alternative for Small Business",
   description:
-    "A cheaper alternative to hiring a social media agency when you mainly need consistent posts created, approved, and published.",
+    "A preview-first alternative to hiring a social media agency when you mainly need posts created, reviewed, and ready to publish.",
   alternates: {
     canonical: "/social-media-agency-alternative",
   },
   openGraph: {
     title: "Social Media Agency Alternative for Small Business",
     description:
-      "You may not need a full agency yet. See how Glow Social handles consistent posting starting at $99/month.",
+      "You may not need a full agency yet. See review-ready posts from your website before you choose a plan.",
     url: PAGE_URL,
     siteName: "Glow Social",
     type: "website",
@@ -33,7 +34,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Social Media Agency Alternative for Small Business",
     description:
-      "A cheaper alternative to hiring a social media agency when you mainly need consistent posts handled.",
+      "See whether preview-first, approval-first posting is a better fit than an agency retainer.",
     images: ["https://glowsocial.com/images/og-image.png"],
   },
 };
@@ -124,6 +125,8 @@ function JsonLd({ pricing }) {
 
 export default function SocialMediaAgencyAlternativePage() {
   const pricing = getPricing();
+  const heroPreviewUrl = previewUrl("agency_alternative_page", "agency_alternative_hero");
+  const finalPreviewUrl = previewUrl("agency_alternative_page", "agency_alternative_final");
 
   return (
     <div className="affordable-page">
@@ -135,14 +138,14 @@ export default function SocialMediaAgencyAlternativePage() {
             <p className="affordable-eyebrow">Social media agency alternative</p>
             <h1>You may not need a social media agency yet.</h1>
             <p className="affordable-lede">
-              If your main problem is inconsistent posting, do not buy a full
-              agency retainer. Glow Social creates posts from your website,
-              lets you approve them, and publishes approved posts starting at{" "}
-              {pricing.startingAtFull}.
+              If your main problem is inconsistent posting, do not jump
+              straight to a full agency retainer. Glow Social turns your
+              website into review-ready posts, lets you approve them first, and
+              keeps approved posts moving starting at {pricing.startingAtFull}.
             </p>
             <div className="affordable-cta-row">
-              <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
-                See my posts
+              <a href={heroPreviewUrl} className="btn btn--primary btn--lg">
+                See posts from your website first
               </a>
               <Link href="#agency-fit" className="btn btn--white-outline btn--lg">
                 When to hire an agency
@@ -181,7 +184,9 @@ export default function SocialMediaAgencyAlternativePage() {
             posting service when your main problem is consistency. Agencies are
             built for strategy-heavy work. Glow Social is built for small
             businesses that need their social media to look active without
-            hiring a full marketing team.
+            hiring a full marketing team. You can preview posts from your own
+            website, review them, and only move forward if the output feels
+            right.
           </p>
         </div>
       </section>
@@ -191,8 +196,9 @@ export default function SocialMediaAgencyAlternativePage() {
           <p className="section-badge">The Real Problem</p>
           <h2>Most small businesses are not looking for an agency. They are looking for relief.</h2>
           <p className="section-sub">
-            The search says social media agency, but the need underneath is
-            usually simpler: someone needs to make the blank calendar go away.
+            The search says social media agency, but the pain underneath is
+            usually simpler: the profiles look stale, referrals are checking,
+            and the owner does not want to become the content team.
           </p>
 
           <div className="affordable-card-grid">
@@ -211,6 +217,13 @@ export default function SocialMediaAgencyAlternativePage() {
               </p>
             </div>
             <div className="affordable-card">
+              <h3>The DIY trap is still work</h3>
+              <p>
+                Cheaper tools look efficient until the owner is still the one
+                feeding the machine every week.
+              </p>
+            </div>
+            <div className="affordable-card">
               <h3>You do not need a campaign team</h3>
               <p>
                 Many local businesses need steady trust-building posts, not a
@@ -220,8 +233,9 @@ export default function SocialMediaAgencyAlternativePage() {
             <div className="affordable-card">
               <h3>You need the work handled</h3>
               <p>
-                Glow Social turns your website into posts ready to approve, then
-                keeps approved posts moving.
+                Glow Social turns your website into posts ready to review, then
+                keeps approved posts moving with an easier approval-first
+                workflow.
               </p>
             </div>
           </div>
@@ -334,8 +348,9 @@ export default function SocialMediaAgencyAlternativePage() {
             </p>
             <p>
               That is why it costs less. You are not paying for a team of
-              strategists and account managers. You are paying to stop letting
-              your social profiles go quiet.
+              strategists and account managers. You are paying for an easier
+              mechanism: your website becomes review-ready posts instead of one
+              more weekly marketing task on your plate.
             </p>
           </div>
         </div>
@@ -431,8 +446,8 @@ export default function SocialMediaAgencyAlternativePage() {
             can review before you choose a plan.
           </p>
           <div className="affordable-cta-row affordable-cta-center">
-            <a href="https://app.glowsocial.com/preview" className="btn btn--primary btn--lg">
-              See my posts
+            <a href={finalPreviewUrl} className="btn btn--primary btn--lg">
+              See posts from your website first
             </a>
             <Link href="/pricing" className="btn btn--white-outline btn--lg">
               Compare plans
