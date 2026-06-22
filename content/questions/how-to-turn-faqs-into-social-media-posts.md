@@ -11,3 +11,5 @@ A dentist can turn "why do my gums bleed?" into a short educational post that en
 
 ## What Most People Get Wrong
 Do not answer five questions in one post. One clear answer is easier to read and save.
+
+**Related guide:** [What is answer engine optimization?](/resources/questions/what-is-answer-engine-optimization)

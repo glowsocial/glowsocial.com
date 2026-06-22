@@ -124,6 +124,7 @@ Avoid thin variations that only swap a city, industry, or keyword without adding
 
 ## Related Reading
 
+- [What is answer engine optimization?](/resources/questions/what-is-answer-engine-optimization)
 - [What AI Assistants Look For When Recommending Local Businesses](/blog/what-ai-assistants-look-for-local-business-recommendations)
 - [How to Show Up in ChatGPT for Local Business Searches](/blog/how-to-show-up-in-chatgpt-local-business-searches)
 - [AI Visibility Service](/ai-visibility-service)

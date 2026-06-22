@@ -2,6 +2,9 @@
 title: "How can a small business show up in ChatGPT?"
 description: "Small businesses improve their ChatGPT visibility by making their services, locations, reviews, profiles, and public answers easy to crawl and verify."
 relatedResources:
+  - title: "What Is Answer Engine Optimization?"
+    href: "/resources/questions/what-is-answer-engine-optimization"
+    description: "The broader AEO framework behind clearer answer pages, entity consistency, proof, and AI citations."
   - title: "How to Show Up in ChatGPT for Local Business Searches"
     href: "/blog/how-to-show-up-in-chatgpt-local-business-searches"
     description: "A deeper guide to making your business easier for AI assistants to understand and recommend."
@@ -46,3 +49,5 @@ The goal is not to "hack ChatGPT." The goal is to reduce uncertainty. AI systems
 
 ## Next Step
 If your site is already clear but your public activity is inconsistent, build a simple posting system. Recent, useful content gives customers and AI systems more evidence that the business is active. If you want help turning that into a practical workflow, start with Glow Social's [AI Visibility Service](/ai-visibility-service).
+
+**Related guide:** [What is answer engine optimization?](/resources/questions/what-is-answer-engine-optimization)

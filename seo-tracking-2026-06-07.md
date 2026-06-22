@@ -12,7 +12,7 @@ Check dates:
 
 | URL | Baseline signal | New title | Indexing requested? | 7-day notes | 14-day notes | 28-day notes |
 |---|---:|---|---|---|---|---|
-| https://glowsocial.com/blog/social-media-caption-length | 135,792 impressions, 140 clicks, 0.10% CTR, pos 6.63 | Social Media Caption Limits 2026: IG, TikTok, LinkedIn |  |  |  |  |
+| https://glowsocial.com/blog/social-media-caption-length | 135,792 impressions, 140 clicks, 0.10% CTR, pos 6.63 | Social Media Caption Limits 2026: IG, TikTok, LinkedIn |  |  | 2026-06-22: refreshed updated date, strengthened caption-cluster internal links, cleaned stale inbound CTA copy, submitted 4 URLs to IndexNow. |  |
 | https://glowsocial.com/blog/later-vs-buffer-differences-comparison | 41,027 impressions, 25 clicks, 0.06% CTR, pos 7.38 | Later vs Buffer: Which Scheduler Is Better in 2026? |  |  |  |  |
 | https://glowsocial.com/blog/freelance-social-media-manager-charge-cost | 40,055 impressions, 34 clicks, 0.08% CTR, pos 8.67 | Freelance Social Media Manager Rates 2026: $300-$1,500/mo |  |  |  |  |
 | https://glowsocial.com/blog/average-time-social-media-marketing | 24,635 impressions, 51 clicks, 0.21% CTR, pos 3.89 | Average Social Media Marketing Time: 3-10 hrs/week |  |  |  |  |
