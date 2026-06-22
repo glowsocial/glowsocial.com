@@ -35,6 +35,12 @@
       "route": "/blog/buffer-pricing-free-plan-limits-2026",
       "status": "complete",
       "report": "seo-agent-runs/seo-work-2026-06-22T23-00-00Z-buffer-pricing.md"
+    },
+    {
+      "at": "2026-06-22T23:03:00Z",
+      "route": "/blog/later-pricing-free-plan-2026",
+      "status": "complete",
+      "report": "seo-agent-runs/seo-work-2026-06-22T23-03-00Z-later-pricing.md"
     }
   ]
 }

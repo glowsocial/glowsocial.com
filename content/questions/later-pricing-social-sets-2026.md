@@ -26,8 +26,10 @@ relatedResources:
 ## Direct Answer
 Later's paid social scheduling plans start at $18.75/month for Starter, $37.50/month for Growth, and $82.50/month for Scale when billed yearly. A Later Social Set is one profile from each supported platform: Instagram, Facebook, Threads, Pinterest, TikTok, LinkedIn, YouTube, and Snapchat. Starter includes 1 Social Set, Growth includes 2, and Scale includes 6.
 
+For the full free-plan, trial, and pricing breakdown, read [Later pricing, free plan, trial, and Social Sets](/blog/later-pricing-free-plan-2026).
+
 ## Why This Matters
-Later pricing is easy to misread because it does not work like simple per-channel pricing. Buffer charges by connected channel. Later packages profiles into Social Sets. That can be convenient if you use most of the included platforms, but confusing if you only care about two or three accounts. Later's public pricing also emphasizes a 14-day free trial, and the current help center describes three paid plans: Starter, Growth, and Scale.
+Later pricing is easy to misread because it does not work like simple per-channel pricing. Buffer charges by connected channel. Later packages profiles into Social Sets. That can be convenient if you use most of the included platforms, but confusing if you only care about two or three accounts. Later's public pricing emphasizes a 14-day free trial for paid plans, while the current help center also describes a limited Free plan.
 
 If you are comparing Later against a simple free scheduler, check [Buffer's free plan limits for Instagram, TikTok, and pricing](/blog/buffer-pricing-free-plan-limits-2026) before deciding.
 

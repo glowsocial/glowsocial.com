@@ -13,6 +13,9 @@ relatedResources:
   - title: "Buffer Free Plan Limits"
     href: "/blog/buffer-pricing-free-plan-limits-2026"
     description: "Current Buffer free plan limits for Instagram, TikTok, and queue size."
+  - title: "Later Pricing and Free Plan"
+    href: "/blog/later-pricing-free-plan-2026"
+    description: "Later's limited Free plan, paid trial, Social Sets, and pricing."
   - title: "Is a Scheduler Enough?"
     href: "/resources/questions/is-a-social-media-scheduler-enough-for-a-small-business"
     description: "How to tell whether scheduling or content creation is the real bottleneck."
@@ -21,11 +24,11 @@ relatedResources:
 # Is there a free social media scheduler?
 
 ## Direct Answer
-Yes. There are free social media schedulers. Meta Business Suite is free for Facebook and Instagram. Buffer has a free plan for up to 3 channels with 10 scheduled posts per channel. Publer and Metricool also offer free plans with account, queue, brand, or monthly scheduling limits.
+Yes. There are free social media schedulers. Meta Business Suite is free for Facebook and Instagram. Buffer has a free plan for up to 3 channels with 10 scheduled posts per channel. Later has a limited Free plan for creators. Publer and Metricool also offer free plans with account, queue, brand, or monthly scheduling limits.
 
 Free schedulers are useful when you already have posts ready. They are not a replacement for content ideas, captions, graphics, or a monthly posting plan.
 
-For the most common free-plan question, see [Buffer's free plan limits for Instagram, TikTok, and pricing](/blog/buffer-pricing-free-plan-limits-2026).
+For the most common free-plan questions, see [Buffer's free plan limits for Instagram, TikTok, and pricing](/blog/buffer-pricing-free-plan-limits-2026) and [Later pricing, free plan, trial, and Social Sets](/blog/later-pricing-free-plan-2026).
 
 ## Why This Matters
 Most small businesses search for a free scheduler because they want social media to stop costing time or money. A free scheduler can reduce the daily posting chore, but it does not remove the work that happens before publishing. Someone still has to decide what to post, write it, choose the image, adapt it for each platform, and refill the calendar.
