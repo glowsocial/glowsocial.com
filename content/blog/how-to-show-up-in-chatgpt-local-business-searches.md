@@ -11,6 +11,17 @@ faqs:
     a: "No. No one can guarantee recommendations in ChatGPT or any AI assistant. The goal is to make the business easier to discover, understand, and verify."
   - q: "Does social media help with ChatGPT visibility?"
     a: "Social media can help by creating public evidence that a business is active, current, and consistent, especially when profiles link back to the website and match the same business details."
+video:
+  name: "How to Show Up in ChatGPT for Local Business Searches: 80-second guide"
+  description: "A short Pictory video guide to the signals local businesses can improve so ChatGPT-style AI search tools can understand, trust, and recommend them more easily."
+  contentUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches.mp4"
+  thumbnailUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches-thumbnail.jpg"
+  captionsUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches-captions.vtt"
+  transcriptUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches-transcript.txt"
+  uploadDate: "2026-06-22"
+  duration: "PT1M21S"
+  transcript: >-
+    If you want a local business to show up in ChatGPT-style searches, reduce uncertainty. AI assistants need evidence. They look for a crawlable website, clear service pages, location details, reviews, consistent public profiles, recent activity, and content that answers specific customer questions. Start by making the website explicit. Say what the business does, who it serves, where it works, what affects pricing, and how to book or buy. Next, create answer-ready pages for real customer questions: cost, comparison, timing, fit, and what to do first. Keep public profiles consistent across Google Business Profile, LinkedIn, Facebook, Instagram, Yelp, and local directories. Build freshness signals with updated pages, current reviews, and active social profiles. No one can guarantee a ChatGPT recommendation. But the clearer, more consistent, and more verifiable the business is online, the easier it becomes for AI systems to include it in an answer.
 ---
 
 ## Direct Answer

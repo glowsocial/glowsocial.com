@@ -11,6 +11,17 @@ faqs:
     a: "It overlaps heavily with SEO. The difference is the emphasis on direct answers, entity clarity, public proof, structured data, and citation-worthy content."
   - q: "What is the first thing a local business should do for AI visibility?"
     a: "The first step is making the website and public profiles clear, consistent, crawlable, and specific about services, location, pricing, and proof."
+video:
+  name: "AI Search Optimization for Local Businesses: 90-second checklist"
+  description: "A short Pictory video checklist for local businesses that want to be easier for ChatGPT, Gemini, Perplexity, and search engines to understand and cite."
+  contentUrl: "/videos/pictory/ai-search-optimization-local-businesses.mp4"
+  thumbnailUrl: "/videos/pictory/ai-search-optimization-local-businesses-thumbnail.jpg"
+  captionsUrl: "/videos/pictory/ai-search-optimization-local-businesses-captions.vtt"
+  transcriptUrl: "/videos/pictory/ai-search-optimization-local-businesses-transcript.txt"
+  uploadDate: "2026-06-22"
+  duration: "PT1M26S"
+  transcript: >-
+    AI search optimization for local businesses starts with one simple goal: make the business easy to discover, understand, verify, and cite. Your website should clearly name the business, the services, the service area, the best-fit customer, pricing factors, and how someone can get started. Then publish answer-ready pages. Start with the direct answer, then support it with examples, proof, and next steps. Add structured data where it fits: Organization, Article, FAQPage, Service, BreadcrumbList, and any research or dataset markup you can support honestly. Build public proof with reviews, testimonials, case studies, before-and-after examples, pricing benchmarks, and original data. Keep local and social profiles current, because recent public activity helps both customers and AI systems trust that the business is still alive. Finally, check crawler access. Search and AI tools cannot recommend pages they cannot crawl. The simple version: be clear, be consistent, be current, and publish evidence that makes your business easier to trust.
 ---
 
 ## Direct Answer

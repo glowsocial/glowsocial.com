@@ -6,9 +6,31 @@ import RelatedPosts from "@/app/components/RelatedPosts";
 import AuthorBio, { PersonJsonLd } from "@/app/components/AuthorBio";
 import { getPricing } from "@/app/pricing-config";
 
+const SITE_URL = "https://glowsocial.com";
+
 export async function generateStaticParams() {
   const slugs = getAllSlugs("blog");
   return slugs.map((slug) => ({ slug }));
+}
+
+function absoluteUrl(url) {
+  if (!url) return undefined;
+  if (/^https?:\/\//.test(url)) return url;
+  return `${SITE_URL}${url.startsWith("/") ? "" : "/"}${url}`;
+}
+
+function toIsoDuration(duration) {
+  if (!duration) return undefined;
+  if (typeof duration === "string" && duration.startsWith("PT")) return duration;
+
+  const totalSeconds = Math.round(Number(duration));
+  if (!Number.isFinite(totalSeconds) || totalSeconds <= 0) return undefined;
+
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+
+  return `PT${hours ? `${hours}H` : ""}${minutes ? `${minutes}M` : ""}${seconds || (!hours && !minutes) ? `${seconds}S` : ""}`;
 }
 
 export async function generateMetadata({ params }) {
@@ -17,6 +39,7 @@ export async function generateMetadata({ params }) {
   if (!post) return { title: "Post Not Found" };
 
   const ogImageUrl = `https://glowsocial.com/api/og?title=${encodeURIComponent(post.title)}&description=${encodeURIComponent(post.description || "")}`;
+  const videoUrl = absoluteUrl(post.video?.contentUrl);
 
   return {
     title: post.title,
@@ -34,6 +57,9 @@ export async function generateMetadata({ params }) {
       modifiedTime: post.updated || post.date,
       authors: ["Kathleen Celmins"],
       images: [{ url: ogImageUrl, width: 1000, height: 1500 }],
+      videos: videoUrl
+        ? [{ url: videoUrl, width: 1920, height: 1080, type: "video/mp4" }]
+        : undefined,
     },
     twitter: {
       card: "summary_large_image",
@@ -71,7 +97,7 @@ function FaqJsonLd({ faqs }) {
   );
 }
 
-function ArticleJsonLd({ title, description, date, updated, slug }) {
+function ArticleJsonLd({ title, description, date, updated, slug, video }) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -95,7 +121,44 @@ function ArticleJsonLd({ title, description, date, updated, slug }) {
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://glowsocial.com/blog/${slug}`,
+      "@id": `${SITE_URL}/blog/${slug}`,
+    },
+    ...(video ? { video: { "@id": `${SITE_URL}/blog/${slug}#video-object` } } : {}),
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+function VideoJsonLd({ video, date, slug }) {
+  if (!video?.contentUrl) return null;
+
+  const thumbnailUrl = absoluteUrl(video.thumbnailUrl);
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "@id": `${SITE_URL}/blog/${slug}#video-object`,
+    name: video.name || video.title,
+    description: video.description,
+    thumbnailUrl: thumbnailUrl ? [thumbnailUrl] : undefined,
+    uploadDate: video.uploadDate || date,
+    duration: toIsoDuration(video.duration || video.durationSeconds),
+    contentUrl: absoluteUrl(video.contentUrl),
+    embedUrl: absoluteUrl(video.embedUrl),
+    transcript: video.transcript,
+    url: `${SITE_URL}/blog/${slug}#video`,
+    publisher: {
+      "@type": "Organization",
+      name: "Glow Social",
+      url: SITE_URL,
+      logo: {
+        "@type": "ImageObject",
+        url: `${SITE_URL}/icon.png`,
+      },
     },
   };
 
@@ -140,6 +203,42 @@ function BreadcrumbJsonLd({ title, slug }) {
   );
 }
 
+function BlogVideoBlock({ video }) {
+  if (!video?.contentUrl) return null;
+
+  const videoTitle = video.name || video.title || "Watch the short video";
+
+  return (
+    <section id="video" className="blog-video-block" aria-labelledby="blog-video-title">
+      <p className="blog-video-kicker">Short video</p>
+      <h2 id="blog-video-title">{videoTitle}</h2>
+      {video.description && <p>{video.description}</p>}
+      <video
+        className="blog-video-player"
+        controls
+        preload="metadata"
+        poster={video.thumbnailUrl}
+      >
+        <source src={video.contentUrl} type="video/mp4" />
+        {video.captionsUrl && (
+          <track
+            kind="captions"
+            src={video.captionsUrl}
+            srcLang="en"
+            label="English"
+          />
+        )}
+      </video>
+      {video.transcript && (
+        <details className="blog-video-transcript">
+          <summary>Video transcript</summary>
+          <p>{video.transcript}</p>
+        </details>
+      )}
+    </section>
+  );
+}
+
 export default async function BlogPostPage({ params }) {
   const { slug } = await params;
   const post = getPostBySlug("blog", slug);
@@ -157,10 +256,12 @@ export default async function BlogPostPage({ params }) {
         date={post.date}
         updated={post.updated}
         slug={slug}
+        video={post.video}
       />
       <BreadcrumbJsonLd title={post.title} slug={slug} />
       <PersonJsonLd />
       {post.faqs && <FaqJsonLd faqs={post.faqs} />}
+      {post.video && <VideoJsonLd video={post.video} date={post.date} slug={slug} />}
       <header className="blog-post-header">
         <Link
           href="/blog"
@@ -200,6 +301,8 @@ export default async function BlogPostPage({ params }) {
           )}
         </div>
       </header>
+
+      <BlogVideoBlock video={post.video} />
 
       <div
         className="blog-post-content"
