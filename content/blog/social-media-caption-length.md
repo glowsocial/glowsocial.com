@@ -54,6 +54,8 @@ Use this simple rule:
 
 Caption length matters, but it is not the whole strategy. A 140-character caption with a weak first line will still get skipped. A longer caption can work when it teaches something worth saving.
 
+For the Instagram-only version, see [Instagram caption character limit 2026](/resources/questions/instagram-caption-character-limit-2026) and the deeper [Instagram caption best practices 2026](/blog/instagram-caption-best-practices-2026) guide.
+
 **If the bigger issue is that no one wants to keep writing captions by hand, the better next step is to [see posts from your website first](https://app.glowsocial.com/preview)** and decide whether the voice feels right.
 
 ## Quick Reference: Ideal Caption Lengths
@@ -139,6 +141,8 @@ The pattern is simple: short captions for quick recognition, longer captions for
 - Ask a question to drive comments
 - Avoid links in the caption when possible (Facebook suppresses reach for link posts)
 - Keep business page posts under 250 characters for best engagement
+
+For the short version, see [Facebook caption length](/resources/questions/facebook-caption-length).
 
 ## LinkedIn Caption Length
 
@@ -250,6 +254,6 @@ Glow Social turns your website into 20 posts ready to approve for the profiles y
 
 ---
 
-**Related guides:** [Caption character limits quick answer](/resources/questions/social-media-caption-character-limits-2026) · [TikTok caption length 2026](/resources/questions/tiktok-caption-length-2026) · [TikTok bio character limit 2026](/resources/questions/tiktok-bio-character-limit-2026) · [Best time to post on social media](/blog/best-time-to-post-on-social-media) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
+**Related guides:** [Caption character limits quick answer](/resources/questions/social-media-caption-character-limits-2026) · [Instagram caption character limit 2026](/resources/questions/instagram-caption-character-limit-2026) · [Instagram caption best practices 2026](/blog/instagram-caption-best-practices-2026) · [Facebook caption length](/resources/questions/facebook-caption-length) · [TikTok caption length 2026](/resources/questions/tiktok-caption-length-2026) · [TikTok bio character limit 2026](/resources/questions/tiktok-bio-character-limit-2026) · [Best time to post on social media](/blog/best-time-to-post-on-social-media) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
 **About Glow Social:** Done-for-you software that turns your website into 20 custom social media posts ready to approve. Posts are customized to your brand voice and optimized for each platform. Plans start at $99/month. [See the affordable social media management service](/affordable-social-media-management).

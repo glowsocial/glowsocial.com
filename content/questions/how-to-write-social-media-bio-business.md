@@ -16,3 +16,4 @@ Writing one bio and pasting it everywhere. Instagram rewards brevity and emoji. 
 - [How do I set up social media for my small business?](how-to-set-up-social-media-small-business.md)
 - [What social media platforms should a local business be on?](what-platforms-should-local-business-be-on.md)
 - [How to get more customers from social media](how-to-get-more-customers-from-social-media.md)
+- [TikTok bio character limit 2026](/resources/questions/tiktok-bio-character-limit-2026)

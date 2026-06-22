@@ -136,6 +136,26 @@ const nextConfig = {
         destination: "/blog/social-media-caption-length",
         permanent: true,
       },
+      {
+        source: "/instagram-caption-best-practices-2026",
+        destination: "/blog/instagram-caption-best-practices-2026",
+        permanent: true,
+      },
+      {
+        source: "/instagram-caption-character-limit",
+        destination: "/resources/questions/instagram-caption-character-limit-2026",
+        permanent: true,
+      },
+      {
+        source: "/instagram-caption-character-limit-2026",
+        destination: "/resources/questions/instagram-caption-character-limit-2026",
+        permanent: true,
+      },
+      {
+        source: "/facebook-caption-length",
+        destination: "/resources/questions/facebook-caption-length",
+        permanent: true,
+      },
       // Root /later-vs-buffer had impressions splitting with /blog/ version — /blog/ is canonical
       {
         source: "/later-vs-buffer-differences-comparison",
@@ -187,6 +207,16 @@ const nextConfig = {
       {
         source: "/free-social-media-scheduler",
         destination: "/blog/free-social-media-scheduler",
+        permanent: true,
+      },
+      {
+        source: "/free-scheduler-vs-social-media-manager",
+        destination: "/blog/free-scheduler-vs-social-media-manager",
+        permanent: true,
+      },
+      {
+        source: "/free-social-media-scheduler-vs-social-media-manager",
+        destination: "/blog/free-scheduler-vs-social-media-manager",
         permanent: true,
       },
       // Root /best-affordable-social-media-management-small-business should consolidate to the transactional hub.

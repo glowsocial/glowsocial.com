@@ -62,6 +62,8 @@ const topicGroups = [
       "canva-social-media-scheduler-small-business",
       "best-metricool-alternative-local-business",
       "social-media-caption-character-limits-2026",
+      "instagram-caption-character-limit-2026",
+      "facebook-caption-length",
       "tiktok-caption-length-2026",
       "tiktok-bio-character-limit-2026",
       "what-social-media-tool-creates-posts-for-you",

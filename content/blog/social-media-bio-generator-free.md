@@ -43,7 +43,9 @@ Each platform gives you a different amount of space:
 | Pinterest | 500 | Discovery-focused, keyword-rich |
 | Threads | 150 | Conversational, personality-forward |
 
-Writing all eight manually means rewriting and trimming and adjusting character by character. That's tedious, and most business owners give up after two platforms.
+If TikTok is part of your mix, keep that bio especially tight; use the safe planning guidance in [TikTok bio character limit 2026](/resources/questions/tiktok-bio-character-limit-2026).
+
+Writing every bio manually means rewriting and trimming and adjusting character by character. That's tedious, and most business owners give up after two platforms.
 
 ## The Free Solution: Auto-Generated Bios From Your Website
 
