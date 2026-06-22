@@ -120,5 +120,6 @@ If the blank-calendar problem is the reason you searched for a Buffer alternativ
 - [Social media scheduler that creates content](/social-media-scheduler-that-creates-content)
 - [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026)
 - [Buffer vs Glow Social](/blog/buffer-vs-glow-social)
+- [Vista Social vs Glow Social](/blog/glow-social-vs-vista-social)
 - [Later vs Buffer](/blog/later-vs-buffer-differences-comparison)
 - [Done-for-you social media for small business](/blog/done-for-you-social-media-guide)

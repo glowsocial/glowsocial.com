@@ -36,7 +36,7 @@ Done-for-you software reduces this risk because posts are prepared for approval 
 
 The lowest subscription cost and the lowest total cost are different things. For most business owners, the $99/month for done-for-you posting is less than the value of the hours they'd spend doing it themselves.
 
-Compare also: [Freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost) · [AI Tools vs. Agencies](/blog/ai-tools-vs-agencies-cost) · [Done-For-You vs. DIY Social Media](/blog/done-for-you-vs-diy-social-media) · [Social Media Manager vs. AI](/blog/social-media-manager-vs-ai)
+Compare also: [Freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost) · [Vista Social vs Glow Social](/blog/glow-social-vs-vista-social) · [AI Tools vs. Agencies](/blog/ai-tools-vs-agencies-cost) · [Done-For-You vs. DIY Social Media](/blog/done-for-you-vs-diy-social-media) · [Social Media Manager vs. AI](/blog/social-media-manager-vs-ai)
 
 <hr>
 

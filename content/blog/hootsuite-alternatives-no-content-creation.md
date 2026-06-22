@@ -40,7 +40,7 @@ For a small business owner spending 60+ hours a week running a restaurant, salon
 <tr><td>5</td><td>ContentStudio</td><td>$25-99</td><td>⚠️ AI-assisted</td><td>3-5 hours/month</td></tr>
 <tr><td>6</td><td>SocialBee</td><td>$29-99</td><td>⚠️ AI captions only</td><td>4-6 hours/month</td></tr>
 <tr><td>7</td><td>Buffer</td><td>$0-15</td><td>❌ You create</td><td>5-10 hours/month</td></tr>
-<tr><td>8</td><td>Vista Social</td><td>$39-199</td><td>❌ You create</td><td>5-10 hours/month</td></tr>
+<tr><td>8</td><td>Vista Social</td><td>$79-349</td><td>❌ You create</td><td>5-10 hours/month</td></tr>
 <tr><td>9</td><td>Later</td><td>$25-80</td><td>❌ You create</td><td>5-10 hours/month</td></tr>
 </table>
 
@@ -96,7 +96,7 @@ Scheduling tool with AI caption generation. Give it a topic, get caption suggest
 
 The simplest scheduling tool. Clean interface, basic analytics. If you enjoy creating content and just need an affordable scheduler, Buffer is the best value.
 
-### 8. Vista Social — $39-199/month
+### 8. Vista Social — $79-349/month
 
 Full-featured platform with advanced analytics, AI-assisted captions, and team collaboration. Well-reviewed (4.8★ on G2). If you have a social media team that creates content, Vista Social is excellent.
 
@@ -109,7 +109,7 @@ Visual-first scheduling tool, particularly strong for Instagram. Link-in-bio fea
 Ask yourself one question: **Do I have 5-10 hours per month for content creation?**
 
 - **Yes, and my budget is tight** → Buffer (free-$15/month)
-- **Yes, and I want advanced features** → Vista Social ($39-199/month)
+- **Yes, and I want advanced features** → Vista Social ($79-349/month)
 - **No, and my budget is under $100** → **Glow Social ($99/month)**
 - **No, and I want human-written content** → Feedbird ($99-299/month)
 - **No, and I need video content** → Predis.ai ($32-132/month)
@@ -122,13 +122,8 @@ The tools that actually solve the "I don't have time" problem are done-for-you o
 
 Start with the most affordable option: <a href="https://app.glowsocial.com/preview">preview Glow Social posts from your website →</a>
 
-Related: [Average time spent on social media marketing](/blog/average-time-social-media-marketing) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social) · [Compare All Solutions](/blog/compare)
+Related: [Average time spent on social media marketing](/blog/average-time-social-media-marketing) · [Vista Social vs Glow Social](/blog/glow-social-vs-vista-social) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Hootsuite vs. Glow Social](/blog/hootsuite-vs-glow-social) · [Compare All Solutions](/blog/compare)
 
 <hr>
 
 <strong>About Glow Social:</strong> Done-for-you software that turns your website into 20 custom posts per month ready to approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Plans start at $99/month. <a href="https://app.glowsocial.com/preview">See posts from your website first</a>
-
-
-### Want to see what Glow Social can do for your Salon business?
-
-[**Get a free, no-login preview of 12 custom posts for your business here.**](/preview/salon)
