@@ -39,11 +39,11 @@ export default function DropsSignupCard() {
 
   return (
     <aside className="drops-signup-card">
-      <div className="drops-signup-card__kicker">Email layer</div>
-      <h2>Read the library here. Get future Drops by email.</h2>
+      <div className="drops-signup-card__kicker">Email list</div>
+      <h2>Get future Drops by email.</h2>
       <p>
-        The website page is the source of truth. The email version is the lighter
-        delivery layer after each Drop has a permanent home here.
+        Short, useful notes for owners who want their website, search presence,
+        and social proof to work harder.
       </p>
 
       {!submitted ? (
@@ -66,10 +66,10 @@ export default function DropsSignupCard() {
             className="btn btn--primary drops-signup-form__button"
             disabled={loading}
           >
-            {loading ? "Joining..." : "Get future Drops by email"}
+            {loading ? "Joining..." : "Get Drops by email"}
           </button>
           <p className="drops-signup-form__fine-print">
-            One list. One signup path. Built on the same Kit account you already use.
+            One practical note at a time. No content-guru nonsense.
           </p>
         </form>
       ) : (
