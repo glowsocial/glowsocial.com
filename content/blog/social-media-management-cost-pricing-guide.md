@@ -179,7 +179,7 @@ For most small local businesses, the question isn't "can I afford social media m
 
 Start by previewing posts from your website at <a href="https://app.glowsocial.com/preview">app.glowsocial.com/preview</a>.
 
-Related: [Social media management pricing quick answer](/resources/questions/social-media-management-pricing-2026) · [How much should I budget for social media management?](/blog/how-much-should-i-budget-for-social-media-management) · [Is hiring a social media manager worth it?](/blog/is-hiring-a-social-media-manager-worth-it-for-small-business) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Affordable social media management](/affordable-social-media-management) · [Social media agency alternative](/social-media-agency-alternative) · [Compare All Solutions](/blog/compare)
+Related: [Social media management pricing quick answer](/resources/questions/social-media-management-pricing-2026) · [Social media manager prices](/resources/questions/how-much-does-a-social-media-manager-cost) · [How much should I budget for social media management?](/blog/how-much-should-i-budget-for-social-media-management) · [Is hiring a social media manager worth it?](/blog/is-hiring-a-social-media-manager-worth-it-for-small-business) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Affordable social media management](/affordable-social-media-management) · [Social media agency alternative](/social-media-agency-alternative) · [Compare All Solutions](/blog/compare)
 
 <hr>
 

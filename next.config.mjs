@@ -128,6 +128,36 @@ const nextConfig = {
         destination: "/blog/freelance-social-media-manager-charge-cost",
         permanent: true,
       },
+      {
+        source: "/social-media-manager-prices",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/social-media-manager-prices-2026",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/social-media-manager-rates",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/social-media-manager-rates-2026",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/social-media-manager-cost",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
+      {
+        source: "/social-media-manager-cost-2026",
+        destination: "/blog/freelance-social-media-manager-charge-cost",
+        permanent: true,
+      },
 
       // === GSC duplicate URL fixes — root-level → /blog/ canonical ===
       // Root /social-media-caption-length had 1,443 impressions splitting with /blog/ version (5,010 imp)

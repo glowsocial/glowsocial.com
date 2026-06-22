@@ -1,15 +1,40 @@
-# How much does a social media manager cost?
+---
+title: "Social Media Manager Prices 2026: What Should You Pay?"
+description: "Social media manager prices usually range from $300-$1,500/month for freelancers, $1,000+/month for agencies, or $99/month for done-for-you posting software."
+date: "2026-06-22"
+updated: "2026-06-22"
+relatedResources:
+  - title: "Freelance Social Media Manager Rates 2026"
+    href: "/blog/freelance-social-media-manager-charge-cost"
+    description: "Full cost guide by freelancer, agency, software, and owner time."
+  - title: "Social Media Management Pricing 2026"
+    href: "/resources/questions/social-media-management-pricing-2026"
+    description: "Quick pricing answer across DIY tools, freelancers, agencies, and done-for-you options."
+  - title: "Free Scheduler vs Social Media Manager"
+    href: "/blog/free-scheduler-vs-social-media-manager"
+    description: "When a tool is enough and when hiring a person makes sense."
+  - title: "Is Hiring a Social Media Manager Worth It?"
+    href: "/resources/questions/is-hiring-social-media-manager-worth-it"
+    description: "Decision guide before paying for a manager."
+---
+
+# Social Media Manager Prices 2026: What Should You Pay?
 
 ## Direct Answer
-A freelance social media manager often costs $300-$1,500 per month for small business packages. Basic posting can land around $300-$500/month, while strategy, short-form video, engagement, and reporting cost more. A full-time hire can run $50,000-$70,000 per year before benefits and management time. Done-for-you software like Glow Social starts at $99/month for posts ready to approve.
+In 2026, social media manager prices usually land around **$300-$1,500/month** for small business freelance packages, **$1,000+/month** for agencies, and **$99/month** for done-for-you posting software. Upwork lists social media managers around **$14-$35/hour**, while broader pricing guides show higher rates when strategy, ads, reporting, video, or community management are included.
 
 ## Why This Matters
-The sticker price of a social media manager hides the real cost. A freelancer may quote a monthly retainer, but the scope can range from a few scheduled posts to strategy, design, video, engagement, and reporting. Full-time hires bring the most control but require benefits, management time, and enough work to justify the role. Done-for-you platforms sit in the middle: they are not a human strategy partner, but they can remove the recurring baseline posting work.
+The phrase "social media manager prices" is vague because people sell very different scopes under the same label. One manager may create 8 basic posts per month. Another may handle content strategy, Reels, comments, DMs, ads, reports, and campaign planning. A price only makes sense when you know what work is included and what still stays with the business owner.
 
-If you are still deciding whether the hire is justified at all, start with this decision guide: [Is hiring a social media manager worth it?](/resources/questions/is-hiring-social-media-manager-worth-it)
+If you only need finished posts so your profiles stop looking quiet, a lower-cost posting system may be enough. If you need judgment, campaigns, customer interaction, or original creative direction, budget for a person.
 
 ## Real-World Example
-A 5-person chiropractic office might pay a freelancer $450/month for 8 Facebook posts and 4 Instagram posts. That can be fair if the freelancer writes the captions, creates the graphics, schedules the posts, and handles revisions. If the owner still has to provide every idea and image, the package is less valuable. A $99 done-for-you posting workflow may be a better fit when the goal is a consistent baseline, not human campaign strategy.
+A 5-person chiropractic office might pay **$450/month** for a freelancer to create 12 Facebook and Instagram posts. That can be fair if the freelancer writes captions, makes graphics, schedules posts, and handles one revision round. If the owner still has to supply every idea, image, and caption, the same package is less valuable.
 
 ## What Most People Get Wrong
-Most people compare monthly price before comparing what work is included. A $300 freelancer can be expensive if they only schedule posts you already wrote. A $1,000 freelancer can be reasonable if they bring strategy, creative production, engagement, and reporting. The useful comparison is cost plus workload, not cost alone.
+Most people compare the monthly price before comparing the workload. A $300 manager can be expensive if they only schedule posts you already wrote. A $1,000 manager can be reasonable if they bring strategy, creative production, engagement, and reporting.
+
+## Sources Checked
+- [Upwork social media manager rates](https://www.upwork.com/hire/social-media-managers/)
+- [Sprout Social social media management pricing](https://sproutsocial.com/insights/social-media-management-cost/)
+- [WebFX social media pricing](https://www.webfx.com/blog/social-media/social-media-pricing/)

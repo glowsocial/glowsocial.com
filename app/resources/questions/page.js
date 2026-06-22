@@ -26,6 +26,7 @@ const topicGroups = [
     description: "Decision pages for owners comparing DIY, software, freelancers, agencies, and done-for-you options.",
     slugs: [
       "freelance-social-media-manager-rates-2026",
+      "how-much-does-a-social-media-manager-cost",
       "cheapest-social-media-scheduler",
       "free-social-media-scheduler",
       "how-much-time-social-media-marketing-small-business",
