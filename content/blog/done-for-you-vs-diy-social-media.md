@@ -67,7 +67,7 @@ Tools like Buffer, Later, and Meta Business Suite help you:
 - keep a simple calendar organized
 - batch content when you already have it
 
-If you enjoy making social media content, start there. For pricing details, compare [Buffer's free plan limits](/blog/buffer-pricing-free-plan-limits-2026), [Later's free plan and trial](/blog/later-pricing-free-plan-2026), and [social media tools under $50/month](/blog/social-media-tools-under-50).
+If you enjoy making social media content, start there. For pricing details, compare [the cheapest social media scheduler options](/blog/cheapest-social-media-scheduler), [Buffer's free plan limits](/blog/buffer-pricing-free-plan-limits-2026), [Later's free plan and trial](/blog/later-pricing-free-plan-2026), and [social media tools under $50/month](/blog/social-media-tools-under-50).
 
 ## What Free Schedulers Do Not Solve
 

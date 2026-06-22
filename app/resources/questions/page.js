@@ -26,6 +26,7 @@ const topicGroups = [
     description: "Decision pages for owners comparing DIY, software, freelancers, agencies, and done-for-you options.",
     slugs: [
       "freelance-social-media-manager-rates-2026",
+      "cheapest-social-media-scheduler",
       "how-much-time-social-media-marketing-small-business",
       "social-media-management-pricing-2026",
       "most-affordable-social-media-management-small-business",
@@ -41,6 +42,7 @@ const topicGroups = [
     title: "Schedulers & Platform Limits",
     description: "Current answers for owners comparing tools, plan limits, and platform constraints.",
     slugs: [
+      "cheapest-social-media-scheduler",
       "later-vs-buffer-small-business",
       "buffer-free-plan-limits-2026",
       "later-pricing-social-sets-2026",
