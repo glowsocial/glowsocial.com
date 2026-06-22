@@ -10,6 +10,15 @@ faqs:
     a: "Facebook and Instagram are the most important for most local businesses, followed by Google Business Profile. LinkedIn matters for B2B services like accountants and consultants. The best strategy is posting consistently across 2-3 platforms rather than being everywhere inconsistently."
   - q: "How much time should a local business spend on social media?"
     a: "With AI tools like Glow Social, a local business can maintain a professional social media presence in about 2 minutes per week — just reviewing and approving AI-generated posts. Without automation, plan for 5-10 hours per month to create and schedule content."
+video:
+  name: "Why Local Businesses Cannot Ignore Social Media in 2026"
+  description: "A short visual summary of why active social profiles have become a basic trust signal for local businesses in 2026."
+  youtubeId: "sQtnyJVYciI"
+  url: "https://youtu.be/sQtnyJVYciI"
+  embedUrl: "https://www.youtube.com/embed/sQtnyJVYciI"
+  thumbnailUrl: "https://i.ytimg.com/vi/sQtnyJVYciI/hqdefault.jpg"
+  uploadDate: "2026-06-22"
+  duration: "PT10S"
 ---
 
 There was a time when local businesses could get away without social media. Your reputation lived on yard signs, word of mouth, and maybe a Yelp page. Customers found you through the Yellow Pages, then Google, and social media was optional — something the bigger companies did.

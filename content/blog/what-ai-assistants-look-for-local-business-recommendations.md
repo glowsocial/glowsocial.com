@@ -11,6 +11,15 @@ faqs:
     a: "Yes. Reviews are one of the clearest public trust signals for local businesses, especially when they are recent, specific, and consistent across platforms."
   - q: "Can social media help AI assistants trust a business?"
     a: "Social media can help when profiles are public, active, consistent with the website, and show recent proof of work or customer trust."
+video:
+  name: "What AI Assistants Look For in Local Businesses"
+  description: "A quick visual summary of the trust signals AI assistants use when deciding whether a local business is credible enough to recommend."
+  youtubeId: "Br_eY_YvOnY"
+  url: "https://youtu.be/Br_eY_YvOnY"
+  embedUrl: "https://www.youtube.com/embed/Br_eY_YvOnY"
+  thumbnailUrl: "https://i.ytimg.com/vi/Br_eY_YvOnY/hqdefault.jpg"
+  uploadDate: "2026-06-22"
+  duration: "PT10S"
 ---
 
 ## Direct Answer

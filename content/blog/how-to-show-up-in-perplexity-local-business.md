@@ -11,6 +11,15 @@ faqs:
     a: "Clear answer blocks, comparison tables, original research, pricing pages, FAQs, and specific how-to pages are easier to cite than vague marketing pages."
   - q: "Do local businesses need original research?"
     a: "Original research is not mandatory, but it gives AI search tools something unique to cite instead of repeating generic advice."
+video:
+  name: "How Local Businesses Can Show Up in Perplexity"
+  description: "A short visual explainer for citation-worthy pages, proof, and answer-ready content that Perplexity-style search can reference."
+  youtubeId: "rpWKoHv4HGE"
+  url: "https://youtu.be/rpWKoHv4HGE"
+  embedUrl: "https://www.youtube.com/embed/rpWKoHv4HGE"
+  thumbnailUrl: "https://i.ytimg.com/vi/rpWKoHv4HGE/hqdefault.jpg"
+  uploadDate: "2026-06-22"
+  duration: "PT10S"
 ---
 
 ## Direct Answer

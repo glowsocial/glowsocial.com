@@ -10,6 +10,15 @@ faqs:
     a: "Post service reminders, seasonal prompts, review highlights, before-and-after proof, FAQs, booking windows, and clear next steps. The best posts reduce hesitation before someone calls."
   - q: "How often should a local business post on Google Business Profile?"
     a: "A practical baseline is weekly or a few times per month. The right frequency depends on how often your services, offers, photos, reviews, or seasonal reminders change."
+video:
+  name: "Google Business Profile Posts That Drive Phone Calls"
+  description: "A short visual summary of practical Google Business Profile posts that help local searchers decide to call."
+  youtubeId: "6dnW-6Bi5TA"
+  url: "https://youtu.be/6dnW-6Bi5TA"
+  embedUrl: "https://www.youtube.com/embed/6dnW-6Bi5TA"
+  thumbnailUrl: "https://i.ytimg.com/vi/6dnW-6Bi5TA/hqdefault.jpg"
+  uploadDate: "2026-06-22"
+  duration: "PT10S"
 ---
 
 Google Business Profile posts that drive phone calls are not clever brand updates. They are short, practical trust signals that help a local searcher decide, "Yes, this business can help me."

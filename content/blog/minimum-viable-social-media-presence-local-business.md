@@ -12,6 +12,15 @@ faqs:
     a: "No. Most local businesses should start with the platforms customers actually inspect, usually Google Business Profile, Facebook, and Instagram if the category is visual."
   - q: "How many posts does a small business need per month?"
     a: "A practical baseline is about 12 useful posts per month, or roughly three per week, using reviews, photos, FAQs, service reminders, and local proof."
+video:
+  name: "Minimum Viable Social Media Presence for Local Business"
+  description: "A quick visual guide to the smallest social media presence a local business needs to look active, trustworthy, and easy to contact."
+  youtubeId: "9FqKBDwMGYI"
+  url: "https://youtu.be/9FqKBDwMGYI"
+  embedUrl: "https://www.youtube.com/embed/9FqKBDwMGYI"
+  thumbnailUrl: "https://i.ytimg.com/vi/9FqKBDwMGYI/hqdefault.jpg"
+  uploadDate: "2026-06-22"
+  duration: "PT10S"
 ---
 
 Most local businesses do not need a huge social media strategy.

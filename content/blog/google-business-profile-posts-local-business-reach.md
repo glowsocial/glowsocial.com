@@ -10,6 +10,15 @@ faqs:
     a: "A practical cadence is at least once per week, with more frequent posts for seasonal businesses, service updates, offers, events, and businesses competing heavily in local search."
   - q: "Are Google Business Profile posts better than Instagram?"
     a: "They serve different jobs. Instagram helps with brand familiarity and visual trust. Google Business Profile posts appear closer to local search intent, where people may already be comparing businesses."
+video:
+  name: "Do Google Business Profile Posts Still Matter?"
+  description: "A short visual summary of why Google Business Profile posts still matter close to local search intent."
+  youtubeId: "gNk4jt4nckE"
+  url: "https://youtu.be/gNk4jt4nckE"
+  embedUrl: "https://www.youtube.com/embed/gNk4jt4nckE"
+  thumbnailUrl: "https://i.ytimg.com/vi/gNk4jt4nckE/hqdefault.jpg"
+  uploadDate: "2026-06-22"
+  duration: "PT10S"
 ---
 
 Google Business Profile posts are easy to overlook because they do not feel like social media.
