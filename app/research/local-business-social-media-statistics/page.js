@@ -1,6 +1,17 @@
 import Link from "next/link";
 
 const REPORT_URL = "https://glowsocial.com/research/local-business-social-media-statistics";
+const GLOW_SOCIAL_ORGANIZATION = {
+  "@type": "Organization",
+  name: "Glow Social",
+  url: "https://glowsocial.com",
+};
+
+const RESEARCH_DATA_LICENSE = {
+  "@type": "CreativeWork",
+  name: "Glow Social Terms of Service",
+  url: "https://glowsocial.com/terms",
+};
 
 export const metadata = {
   title: "State of Local Business Social Media 2026 | Glow Social Research",
@@ -88,11 +99,7 @@ function ResearchJsonLd() {
     url: REPORT_URL,
     datePublished: "2026-04-01",
     dateModified: "2026-05-12",
-    author: {
-      "@type": "Organization",
-      name: "Glow Social",
-      url: "https://glowsocial.com",
-    },
+    author: GLOW_SOCIAL_ORGANIZATION,
     publisher: {
       "@type": "Organization",
       name: "Glow Social",
@@ -114,6 +121,8 @@ function ResearchJsonLd() {
       name: "Anonymized Glow Social local business social media dataset",
       description:
         "Aggregated performance data from 16 local businesses, 918+ posts, and 9 connected social platforms as of April 2026.",
+      creator: GLOW_SOCIAL_ORGANIZATION,
+      license: RESEARCH_DATA_LICENSE,
       measurementTechnique:
         "Engagement rate calculated as likes, comments, shares, and saves divided by impressions, averaged across posts with at least one impression recorded.",
       variableMeasured: [

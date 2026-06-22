@@ -3,6 +3,18 @@ import Link from "next/link";
 import { getAllSlugs, getPostBySlug } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 
+const GLOW_SOCIAL_ORGANIZATION = {
+  "@type": "Organization",
+  name: "Glow Social",
+  url: "https://glowsocial.com",
+};
+
+const RESEARCH_DATA_LICENSE = {
+  "@type": "CreativeWork",
+  name: "Glow Social Terms of Service",
+  url: "https://glowsocial.com/terms",
+};
+
 export async function generateStaticParams() {
   const slugs = getAllSlugs("research");
   return slugs.map((slug) => ({ slug }));
@@ -41,11 +53,7 @@ function ReportJsonLd({ report, slug }) {
     url: `https://glowsocial.com/research/${slug}`,
     datePublished: report.date,
     dateModified: report.updated || report.date,
-    author: {
-      "@type": "Organization",
-      name: "Glow Social",
-      url: "https://glowsocial.com",
-    },
+    author: GLOW_SOCIAL_ORGANIZATION,
     publisher: {
       "@type": "Organization",
       name: "Glow Social",
@@ -66,6 +74,8 @@ function ReportJsonLd({ report, slug }) {
       "@type": "Dataset",
       name: report.datasetName,
       description: report.datasetDescription || report.description,
+      creator: GLOW_SOCIAL_ORGANIZATION,
+      license: RESEARCH_DATA_LICENSE,
     };
   }
 
