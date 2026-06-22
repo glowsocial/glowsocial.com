@@ -2,9 +2,9 @@
 title: "What is the best time to post on social media in 2026?"
 description: "In 2026, current platform data points to weekday mornings for Facebook, 9 AM and 6 PM weekdays for Instagram, late afternoon for LinkedIn, and evenings for TikTok."
 date: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-06-22"
 relatedResources:
-  - title: "Best Time to Post on Social Media"
+  - title: "Best Time to Post on Social Media Platform Chart"
     href: "/blog/best-time-to-post-on-social-media"
     description: "Full platform chart for current posting times."
   - title: "How Often Should Small Businesses Post?"
@@ -19,6 +19,8 @@ relatedResources:
 
 ## Direct Answer
 In 2026, the best general posting windows are: Facebook from 8 AM to 12 PM on weekdays, Instagram around 9 AM and 6 PM on weekdays, LinkedIn from 3 PM to 6 PM from Wednesday through Sunday, and TikTok from 6 PM to 11 PM daily with some strong weekend mornings. These are averages, not rules. A consistent schedule that a small business can maintain usually beats chasing the perfect hour.
+
+For the full platform-by-platform table, read the [Best Time to Post on Social Media 2026 platform chart](/blog/best-time-to-post-on-social-media).
 
 ## Why This Matters
 Posting-time advice goes stale quickly because platform behavior changes. LinkedIn is a good example: older advice often says to post only during business mornings, while newer Buffer data shows stronger 2026 engagement in late afternoon and evening windows. Local businesses should use current benchmarks as a starting point, then check their own audience data after publishing consistently for a few weeks.

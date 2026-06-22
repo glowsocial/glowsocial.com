@@ -1,9 +1,9 @@
 ---
 title: "Best Time to Post on Social Media 2026: Platform Chart"
-description: "Best times to post on Facebook, Instagram, LinkedIn, TikTok, and GBP in 2026. Use the chart, then prioritize consistency over timing."
+description: "Best time to post on social media in 2026 by platform: Facebook, Instagram, LinkedIn, TikTok, YouTube, and Google Business Profile."
 slug: "best-time-to-post-on-social-media"
 date: "2026-04-27"
-updated: "2026-06-17"
+updated: "2026-06-22"
 tags: ["social media", "posting times", "engagement", "schedule"]
 schema_type: "Article"
 faqs:
@@ -19,7 +19,7 @@ faqs:
     a: "Consistency in schedule helps your audience know when to expect new content, but varying your posting times slightly (within a 2-hour window) can help you reach different segments of your audience. Most scheduling tools can help you test times once you already have posts ready."
 ---
 
-## Direct Answer: Best Time to Post on Social Media
+## Direct Answer: Best Time to Post on Social Media 2026
 
 The best time to post on social media in 2026 is usually **weekday morning to midday** for Facebook, Instagram, and LinkedIn, and **weekday evenings** for TikTok. For most small businesses, a consistent 3-post-per-week schedule matters more than chasing the perfect hour.
 
@@ -29,7 +29,7 @@ The best time to post on social media in 2026 is usually **weekday morning to mi
 <tr><td><strong>Instagram</strong></td><td>Weekdays, especially Wednesday-Thursday</td><td>9 AM and 6 PM; Thursday 9 AM is a strong benchmark</td><td>Friday and deep overnight windows</td></tr>
 <tr><td><strong>LinkedIn</strong></td><td>Wednesday-Friday, with some weekend strength</td><td>3-6 PM; Wednesday 4 PM and Friday afternoon are strong benchmarks</td><td>Early weekday mornings are weaker in current data</td></tr>
 <tr><td><strong>TikTok</strong></td><td>Daily, with Saturday and Monday strong</td><td>6-11 PM; Sunday 9 AM is also a strong benchmark</td><td>Midweek afternoons</td></tr>
-<tr><td><strong>Google Business Profile</strong></td><td>Any day</td><td>Any time</td><td>N/A (posts display for 7 days)</td></tr>
+<tr><td><strong>Google Business Profile</strong></td><td>Weekly freshness matters more than day</td><td>Business hours or before peak buying windows</td><td>Going weeks without updates</td></tr>
 </table>
 
 These are general guidelines based on 2026 engagement data. Your specific audience may have different habits — check your analytics for confirmation.
@@ -99,6 +99,22 @@ TikTok's audience is primarily consuming content during leisure time — evening
 **The TikTok reality:** TikTok's For You Page algorithm cares far less about posting time than any other platform. A video can go viral 3 days or 3 weeks after posting. Content quality and hook (first 2 seconds) matter 10x more than timing.
 
 
+## Google Business Profile: Best Times to Post
+
+**Best overall:** Post at least weekly, during business hours or before the time customers usually search for you.
+
+Google Business Profile is not a feed-first social platform. The goal is not to catch someone scrolling at the perfect minute. The goal is to keep your profile fresh when someone searches on Google Search or Maps.
+
+For most local businesses:
+
+- Restaurants and cafes: post before lunch, dinner, or weekend rushes
+- Home services: post weekday mornings when people plan repairs and calls
+- Salons, spas, and retail: post before weekends or promotion windows
+- Professional services: post weekday mornings or lunch windows
+
+**The GBP reality:** Timing matters less than freshness. A useful weekly update, offer, service reminder, or project photo is better than waiting for a perfect posting window.
+
+
 ## Best Times by Industry
 
 Different industries have different audience behaviors:
@@ -108,7 +124,7 @@ Different industries have different audience behaviors:
 <tr><th>Platform</th><th>Best Time</th><th>Why</th></tr>
 <tr><td>Facebook</td><td>9-10 AM weekdays</td><td>Homeowners checking phones before daily tasks</td></tr>
 <tr><td>Instagram</td><td>7-8 PM weekdays</td><td>Evening browsing when planning home projects</td></tr>
-<tr><td>Google Business Profile</td><td>Monday morning</td><td>Appears in search results all week</td></tr>
+<tr><td>Google Business Profile</td><td>Monday morning</td><td>Keeps the profile fresh before the week of searches starts</td></tr>
 </table>
 
 ### Restaurants & Food Service
@@ -172,6 +188,8 @@ For a complete scheduling framework, see our [social media posting schedule for 
 
 **Related reading:** [Best time to post quick answer](/resources/questions/best-time-to-post-social-media-2026) · [Social media posting schedule guide](/blog/social-media-posting-schedule-small-business) · [Social media caption limits guide](/blog/social-media-caption-length) · [47 content ideas for small business](/blog/social-media-content-ideas-small-business) · [Social media for small business: complete guide](/blog/social-media-for-small-business-guide) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
+**Sources checked:** [Buffer's 2026 best time to post data](https://buffer.com/resources/best-time-to-post-social-media/) · [Buffer's 2026 posting frequency guide](https://buffer.com/resources/social-media-frequency-guide/) · [Google Business Profile posting frequency guide](https://www.sendible.com/insights/google-business-profile-guide)
+
 
 ## Related Guides
 
@@ -180,4 +198,4 @@ Looking to explore more options? Check out these related guides:
 * [Best Sprout Social Alternative for Salons (2026)](/blog/best-sprout-social-alternative-salons)
 * [Best Sprout Social Alternative for Plumbers (2026)](/blog/best-sprout-social-alternative-plumbers)
 * [Best Sprout Social Alternative for Restaurants (2026)](/blog/best-sprout-social-alternative-restaurants)
-* [How to Automatically Post to All Social Media Platforms](/blog/how-to-automatically-post-to-all-social-media-platforms)
+* [Social media scheduler that creates content](/social-media-scheduler-that-creates-content)

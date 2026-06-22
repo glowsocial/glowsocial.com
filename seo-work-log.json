@@ -53,6 +53,12 @@
       "route": "/blog/glow-social-vs-vista-social",
       "status": "complete",
       "report": "seo-agent-runs/seo-work-2026-06-22T23-07-00Z-vista-social.md"
+    },
+    {
+      "at": "2026-06-22T23:11:00Z",
+      "route": "/blog/best-time-to-post-on-social-media",
+      "status": "complete",
+      "report": "seo-agent-runs/seo-work-2026-06-22T23-11-00Z-best-time.md"
     }
   ]
 }
