@@ -14,6 +14,7 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const drop = getDropBySlug(slug);
   if (!drop) return { title: "Drop Not Found" };
+  const imageUrl = `${SITE_URL}/pins/${drop.slug}.png`;
 
   return {
     title: `${drop.title} | Boomp Drops`,
@@ -30,11 +31,18 @@ export async function generateMetadata({ params }) {
       publishedTime: drop.date,
       modifiedTime: drop.updated || drop.date,
       authors: ["Kathleen Celmins"],
+      images: [{ url: imageUrl, width: 1000, height: 1500 }],
     },
     twitter: {
       card: "summary_large_image",
       title: drop.title,
       description: drop.description,
+      images: [imageUrl],
+    },
+    other: {
+      "pin:media": imageUrl,
+      "pin:description": drop.description || drop.title,
+      "pin:url": `${SITE_URL}/drops/${drop.slug}`,
     },
   };
 }
@@ -153,6 +161,18 @@ export default async function DropPage({ params }) {
         className="blog-post-content drops-post-content"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
+
+      <div className="pinterest-image-block">
+        <p className="pinterest-label">📌 Save this to Pinterest</p>
+        <img
+          src={`/pins/${drop.slug}.png`}
+          alt={drop.title}
+          width={500}
+          height={750}
+          loading="lazy"
+          style={{ borderRadius: "12px", display: "block", margin: "0 auto" }}
+        />
+      </div>
 
       <div className="post-cta-box">
         <h3>Want posts from your own website?</h3>

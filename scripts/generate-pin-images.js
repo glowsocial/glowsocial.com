@@ -18,6 +18,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const CONTENT_DIR = path.join(__dirname, "..", "content");
+const DROPS_DIR = path.join(__dirname, "..", "content-bank", "new-site-launch", "drafts");
 const OUTPUT_DIR = path.join(__dirname, "..", "public", "pins");
 
 const WIDTH = 1000;
@@ -98,6 +99,36 @@ function getPostsFromDir(subdir) {
     .filter((p) => p.title);
 }
 
+function getMarkdownFilesRecursive(dir) {
+  if (!fs.existsSync(dir)) return [];
+
+  return fs
+    .readdirSync(dir, { withFileTypes: true })
+    .flatMap((entry) => {
+      const fullPath = path.join(dir, entry.name);
+      if (entry.isDirectory()) return getMarkdownFilesRecursive(fullPath);
+      if (/\.(md|mdx)$/.test(entry.name)) return [fullPath];
+      return [];
+    });
+}
+
+function getDrops() {
+  return getMarkdownFilesRecursive(DROPS_DIR)
+    .map((filePath) => {
+      const fileContent = fs.readFileSync(filePath, "utf-8");
+      const { data } = matter(fileContent);
+      const slug = data.slug || path.basename(filePath).replace(/\.(md|mdx)$/, "");
+
+      return {
+        title: data.title || "",
+        description: data.description || "",
+        slug,
+        category: "drops",
+      };
+    })
+    .filter((p) => p.title);
+}
+
 function truncate(str, max) {
   if (!str) return "";
   return str.length > max ? str.slice(0, max - 3) + "..." : str;
@@ -107,8 +138,9 @@ function truncate(str, max) {
  * Build the JSX element for the pin image.
  * Intentionally boring: title on a brand background.
  */
-function buildPinJsx(title) {
+function buildPinJsx(title, category = "blog") {
   const displayTitle = truncate(title, 90);
+  const label = category === "drops" ? "Boomp Drops" : "Glow Social";
   return {
     type: "div",
     props: {
@@ -156,7 +188,7 @@ function buildPinJsx(title) {
                     letterSpacing: "1px",
                     textTransform: "uppercase",
                   },
-                  children: "Glow Social",
+                  children: label,
                 },
               },
             ],
@@ -230,6 +262,7 @@ async function main() {
     ...getPostsFromDir("blog"),
     ...getPostsFromDir("comparisons"),
     ...getPostsFromDir("local"),
+    ...getDrops(),
   ].filter((post) => targetSlugs.length === 0 || targetSlugs.includes(post.slug));
 
   console.log(`Generating ${allPosts.length} pin images...`);
@@ -249,7 +282,7 @@ async function main() {
     }
 
     try {
-      const element = buildPinJsx(post.title);
+      const element = buildPinJsx(post.title, post.category);
 
       const svg = await satori(element, {
         width: WIDTH,
