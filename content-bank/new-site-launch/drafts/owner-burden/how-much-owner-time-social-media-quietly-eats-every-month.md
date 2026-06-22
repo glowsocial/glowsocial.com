@@ -13,7 +13,6 @@ tags: ["owner burden", "objection", "new site content bank"]
 
 # How Much Owner Time Social Media Quietly Eats Every Month
 
-## Direct answer
 Usually more than people think.
 
 Not because posting itself takes forever, but because social media steals time in small annoying chunks: thinking of the idea, rewriting the caption, finding a photo, deciding whether it is good enough, circling back because nothing went out last week, and repeating the whole cycle again.

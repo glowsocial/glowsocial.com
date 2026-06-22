@@ -13,7 +13,6 @@ tags: ["ai search readiness", "awareness", "new site content bank"]
 
 # How to Help Your Local Business Show Up in AI Answers
 
-## Direct answer
 Make the business easier to understand and easier to trust.
 
 AI tools are more likely to mention a local business when they can clearly see what the business does, where it operates, what kinds of customers it helps, and what proof supports those claims.

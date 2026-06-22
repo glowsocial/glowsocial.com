@@ -13,7 +13,6 @@ tags: ["buyers guides", "objection", "new site content bank"]
 
 # How to Compare Social Media Tools When You Also Need Content
 
-## Direct answer
 If you also need content, do not compare social media tools only by publishing features.
 
 Compare them by what happens before the post is scheduled. Who comes up with the idea? Who writes the caption? Who gathers the proof? Who keeps the queue from going empty? That is where the real difference lives.

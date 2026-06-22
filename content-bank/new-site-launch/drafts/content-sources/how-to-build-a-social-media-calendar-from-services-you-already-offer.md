@@ -13,7 +13,6 @@ tags: ["content sources", "workflow", "new site content bank"]
 
 # How to Build a Social Media Calendar From Services You Already Offer
 
-## Direct answer
 You can build a social media calendar from your existing services by turning each service into several repeatable angles.
 
 Instead of treating a service like one post idea, treat it like a small cluster: what it is, who it helps, when someone needs it, what people get wrong about it, what proof supports it, and what happens next.

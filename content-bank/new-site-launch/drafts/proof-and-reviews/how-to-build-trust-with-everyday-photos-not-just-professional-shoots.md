@@ -13,7 +13,6 @@ tags: ["proof and reviews", "objection", "new site content bank"]
 
 # How to Build Trust With Everyday Photos, Not Just Professional Shoots
 
-## Direct answer
 You do not need constant professional photography to build trust.
 
 Everyday photos often work well because they show the business in normal motion. That makes the business feel real, active, and easier to believe.

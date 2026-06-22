@@ -13,7 +13,6 @@ tags: ["ai search readiness", "objection", "new site content bank"]
 
 # What Answer Engines Look For When Recommending Local Businesses
 
-## Direct answer
 They look for clarity, relevance, and trust.
 
 That usually means a business with understandable service pages, consistent location and contact details, visible proof, and answers written plainly enough to reuse or summarize.

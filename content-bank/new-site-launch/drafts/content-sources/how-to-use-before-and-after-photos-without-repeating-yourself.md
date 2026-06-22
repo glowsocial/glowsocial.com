@@ -13,7 +13,6 @@ tags: ["content sources", "awareness", "new site content bank"]
 
 # How to Use Before-and-After Photos Without Repeating Yourself
 
-## Direct answer
 Before-and-after photos only feel repetitive when every post says the same thing about them.
 
 The fix is not getting rid of the photos. It is changing the angle around them: what changed, why it mattered, what the customer was dealing with before, what someone should notice in the result, or what the job says about the service itself.

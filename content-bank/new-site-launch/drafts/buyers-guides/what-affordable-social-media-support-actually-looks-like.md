@@ -13,7 +13,6 @@ tags: ["buyers guides", "SEO/AEO", "new site content bank"]
 
 # What Affordable Social Media Support Actually Looks Like
 
-## Direct answer
 Affordable social media support is not just support with a low monthly price.
 
 It is support that keeps the business looking current without requiring the owner to spend hours every week inventing content, chasing approvals, and patching gaps.

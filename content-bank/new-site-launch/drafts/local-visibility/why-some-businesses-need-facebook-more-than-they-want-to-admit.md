@@ -13,7 +13,6 @@ tags: ["local visibility", "objection", "new site content bank"]
 
 # Why Some Businesses Need Facebook More Than They Want to Admit
 
-## Direct answer
 Some businesses still need Facebook because customers are still checking it.
 
 Not because Facebook is glamorous. Not because it is the future of marketing. Just because a lot of real local buyers still click there after hearing about a business somewhere else.

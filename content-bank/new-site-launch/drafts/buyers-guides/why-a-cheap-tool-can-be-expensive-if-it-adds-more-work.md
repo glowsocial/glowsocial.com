@@ -13,7 +13,6 @@ tags: ["buyers guides", "objection", "new site content bank"]
 
 # Why a Cheap Tool Can Be Expensive if It Adds More Work
 
-## Direct answer
 A cheap tool gets expensive when it adds more owner work instead of removing it.
 
 The monthly fee may be low, but if the owner still has to create every caption, find every image, fix every weak draft, and keep the whole thing alive, the real cost has just moved off the invoice and onto the calendar.

@@ -13,7 +13,6 @@ tags: ["local visibility", "solution-aware", "new site content bank"]
 
 # How to Stay Visible Locally Without Being Everywhere
 
-## Direct answer
 You stay visible locally by keeping the most important trust surfaces current.
 
 That usually means your website, Google Business Profile, reviews, and one social profile that customers actually check. Most businesses do not need omnipresence. They need signs of life in the right places.

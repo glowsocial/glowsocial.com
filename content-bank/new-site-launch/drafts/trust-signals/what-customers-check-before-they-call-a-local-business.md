@@ -13,7 +13,6 @@ tags: ["trust signals", "awareness", "new site content bank"]
 
 # What Customers Check Before They Call a Local Business
 
-## Direct answer
 Before they call, most people do a quick trust check.
 
 They want to know whether your business looks real, current, relevant to what they need, and easy to contact. They usually figure that out by looking at some mix of your website, Google Business Profile, reviews, photos, and at least one social profile.

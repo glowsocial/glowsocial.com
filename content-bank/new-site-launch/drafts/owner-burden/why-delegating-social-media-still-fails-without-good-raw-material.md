@@ -13,7 +13,6 @@ tags: ["owner burden", "SEO/AEO", "new site content bank"]
 
 # Why Delegating Social Media Still Fails Without Good Raw Material
 
-## Direct answer
 Delegating social media does not help much if the person or tool doing the work still has nothing real to work from.
 
 When there is no solid raw material, delegation usually turns into one of two bad outcomes: generic filler or a bunch of follow-up questions that dump the work right back on the owner.

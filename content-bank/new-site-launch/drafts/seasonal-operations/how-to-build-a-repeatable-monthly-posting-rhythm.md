@@ -13,7 +13,6 @@ tags: ["seasonal operations", "comparison", "new site content bank"]
 
 # How to Build a Repeatable Monthly Posting Rhythm
 
-## Direct answer
 Build the month from recurring categories, not endless reinvention.
 
 A good monthly rhythm usually mixes reminders, proof, FAQs, service timing, and a few seasonal angles in a pattern the team can repeat without needing a brand-new idea universe every four weeks.

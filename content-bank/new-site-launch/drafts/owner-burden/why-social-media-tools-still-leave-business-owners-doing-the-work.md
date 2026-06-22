@@ -13,7 +13,6 @@ tags: ["owner burden", "buyer-objection", "new site content bank"]
 
 # Why Social Media Tools Still Leave Business Owners Doing the Work
 
-## Direct answer
 Most social media tools help with publishing. They do not solve the part owners usually hate.
 
 The hard part is still there: figuring out what to say, turning real business knowledge into decent posts, finding visuals, and doing it again next week. That is why someone can buy a scheduler and still feel behind.

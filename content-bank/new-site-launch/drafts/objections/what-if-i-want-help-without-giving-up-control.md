@@ -13,7 +13,6 @@ tags: ["objections", "comparison", "new site content bank"]
 
 # What If I Want Help Without Giving Up Control?
 
-## Direct answer
 You can have both, but the boundaries need to be clear.
 
 A lot of owners do want help. They just do not want to wake up to content that sounds wrong, overpromises something, or misrepresents the business. That is a control problem, not a laziness problem.

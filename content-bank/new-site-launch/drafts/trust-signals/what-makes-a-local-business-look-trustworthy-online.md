@@ -13,7 +13,6 @@ tags: ["trust signals", "awareness", "new site content bank"]
 
 # What Makes a Local Business Look Trustworthy Online
 
-## Direct answer
 A local business looks trustworthy online when it is easy to understand, current enough to feel alive, specific about what it does, and backed by proof.
 
 That proof can be reviews, photos, examples, FAQs, accurate business details, or a website that actually explains the work clearly.

@@ -13,7 +13,6 @@ tags: ["content sources", "how-to", "new site content bank"]
 
 # How to Turn Customer FAQs Into a Month of Social Posts
 
-## Direct answer
 If customers keep asking the same questions, you already have content ideas.
 
 FAQs make strong social posts because they are tied to real confusion, real buying hesitation, and real language people already use before they book, buy, or call.

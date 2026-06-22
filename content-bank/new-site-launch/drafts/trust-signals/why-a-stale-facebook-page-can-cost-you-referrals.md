@@ -13,7 +13,6 @@ tags: ["trust signals", "awareness", "new site content bank"]
 
 # Why a Stale Facebook Page Can Cost You Referrals
 
-## Direct answer
 A stale Facebook page can absolutely weaken a referral.
 
 Not because people are obsessed with Facebook, but because it is still one of the easiest places to sanity-check a business after hearing its name. If the page looks abandoned, the referral suddenly feels less solid.

@@ -13,7 +13,6 @@ tags: ["owner burden", "awareness", "new site content bank"]
 
 # Why Social Media Becomes a Guilt Loop for Service Business Owners
 
-## Direct answer
 Social media becomes a guilt loop because owners know it matters, know they are behind, and rarely get a clean block of time to fix it properly.
 
 The task keeps coming back. That repeated reset is what makes it feel heavier than it should.

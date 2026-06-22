@@ -13,7 +13,6 @@ tags: ["website engine", "strategy", "new site content bank"]
 
 # Why Your Next Website Should Start With a Content Bank
 
-## Direct answer
 Because design is not enough.
 
 A new site can look great and still underperform if there is nothing ready to publish once it launches. A content bank fixes that by giving the site inventory, topic priorities, and a built-in publishing runway.

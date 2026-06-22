@@ -13,7 +13,6 @@ tags: ["content sources", "comparison", "new site content bank"]
 
 # Why Most Businesses Already Have Enough Content Source Material
 
-## Direct answer
 Most businesses already have enough source material for content.
 
 What they usually lack is a simple way to notice it, organize it, and turn it into posts without starting from scratch every time.

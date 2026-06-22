@@ -13,7 +13,6 @@ tags: ["local visibility", "objection", "new site content bank"]
 
 # How to Choose the Right Social Channels for a Local Business
 
-## Direct answer
 Choose the channels your customers actually use to check trust, not the channels that sound most exciting.
 
 For many local businesses, that means Google first, website second, and then one social profile that customers are likely to open after a referral or search.

@@ -13,7 +13,6 @@ tags: ["seasonal operations", "awareness", "new site content bank"]
 
 # How to Use Recurring Service Cycles as Evergreen Content
 
-## Direct answer
 If customers keep needing the same thing on a recurring cycle, that cycle can keep feeding content.
 
 That is what makes it evergreen. The wording may shift a little, but the underlying need keeps coming back.

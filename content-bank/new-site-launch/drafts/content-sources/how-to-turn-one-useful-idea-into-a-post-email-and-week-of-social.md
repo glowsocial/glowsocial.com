@@ -13,7 +13,6 @@ tags: ["content sources", "workflow", "new site content bank"]
 
 # How to Turn One Useful Idea Into a Post, Email, and Week of Social
 
-## Direct answer
 The cleanest workflow is to build one useful page first, then adapt it into an email and several social posts.
 
 That gives the idea a durable home on the website and turns the other channels into lighter rewrites instead of fresh acts of invention.

@@ -13,7 +13,6 @@ tags: ["seasonal operations", "solution-aware", "new site content bank"]
 
 # How to Plan a Quarter of Content Around Customer Timing
 
-## Direct answer
 Plan the quarter around what customers tend to need and when they tend to need it.
 
 That usually works better than inventing abstract monthly themes because it gives the calendar a real reason to exist.

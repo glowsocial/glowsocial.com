@@ -13,7 +13,6 @@ tags: ["website engine", "comparison", "new site content bank"]
 
 # What Makes a Content Bank Useful Instead of Just a Pile of Drafts
 
-## Direct answer
 A useful content bank helps you publish.
 
 A pile of drafts just proves you thought about publishing once.

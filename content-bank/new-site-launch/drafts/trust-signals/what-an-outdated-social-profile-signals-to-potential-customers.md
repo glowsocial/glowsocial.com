@@ -13,7 +13,6 @@ tags: ["trust signals", "objection", "new site content bank"]
 
 # What an Outdated Social Profile Signals to Potential Customers
 
-## Direct answer
 An outdated social profile rarely sends a neutral message.
 
 Even if the business is busy in real life, the profile can make it look inattentive, inconsistent, or half-checked-out. That is enough to make some prospects hesitate.

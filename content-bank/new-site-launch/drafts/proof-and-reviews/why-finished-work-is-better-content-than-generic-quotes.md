@@ -13,7 +13,6 @@ tags: ["proof and reviews", "SEO/AEO", "new site content bank"]
 
 # Why Finished Work Is Better Content Than Generic Quotes
 
-## Direct answer
 Finished work usually persuades better because it is concrete.
 
 A generic quote says nice things. Finished work gives people something visible to react to. That makes it easier for the next customer to imagine what the business can actually do.

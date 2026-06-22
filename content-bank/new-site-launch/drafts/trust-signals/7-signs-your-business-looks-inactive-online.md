@@ -13,7 +13,6 @@ tags: ["trust signals", "awareness", "new site content bank"]
 
 # 7 Signs Your Business Looks Inactive Online
 
-## Direct answer
 A business can be busy in real life and still look half-closed online.
 
 That happens when the visible trust signals people check start looking stale, thin, or neglected. You do not need a dramatic failure for this to happen. Usually it is a pileup of small signs.

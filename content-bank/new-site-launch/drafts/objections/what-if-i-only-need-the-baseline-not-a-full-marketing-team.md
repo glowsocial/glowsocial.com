@@ -13,7 +13,6 @@ tags: ["objections", "objection", "new site content bank"]
 
 # What If I Only Need the Baseline, Not a Full Marketing Team?
 
-## Direct answer
 That is a completely reasonable thing to need.
 
 A lot of local businesses are not trying to run a giant content machine. They just need the business to look active, current, and trustworthy without adding a whole new department to the payroll.

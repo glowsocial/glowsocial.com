@@ -13,7 +13,6 @@ tags: ["ai search readiness", "solution-aware", "new site content bank"]
 
 # Why Trust Signals Matter Even More in AI Search
 
-## Direct answer
 Because AI answers are often recommendation-shaped.
 
 When a tool summarizes options or points someone toward a business, it needs reasons to feel confident. Trust signals help provide that confidence.

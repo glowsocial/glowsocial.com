@@ -13,7 +13,6 @@ tags: ["objections", "awareness", "new site content bank"]
 
 # What If AI Posts Sound Generic for My Business?
 
-## Direct answer
 Then the inputs are probably too generic.
 
 AI usually sounds bland when it is asked to invent from nothing or when it is fed the same vague business language everyone else uses. If the source material is specific, the output gets better fast.

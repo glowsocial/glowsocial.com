@@ -13,7 +13,6 @@ tags: ["local visibility", "comparison", "new site content bank"]
 
 # Where Local Customers Actually Check Before They Contact You
 
-## Direct answer
 Most local customers check a short list.
 
 Usually it is some combination of Google, your website, reviews, and one social profile if they want a quick signal that the business is still active. They are not doing a full audit. They are looking for enough trust to make the next move.

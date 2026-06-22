@@ -13,7 +13,6 @@ tags: ["website engine", "solution-aware", "new site content bank"]
 
 # How to Build Two Years of Content Before Your New Site Launches
 
-## Direct answer
 You build two years of content before launch by changing the unit of work.
 
 Instead of chasing fresh inspiration every week, you map the recurring questions, objections, proofs, service explanations, and buyer moments the business already deals with. Then you turn those into a structured bank of pages.

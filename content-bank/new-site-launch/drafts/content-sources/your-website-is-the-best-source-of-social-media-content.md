@@ -13,7 +13,6 @@ tags: ["content sources", "solution-aware", "new site content bank"]
 
 # Your Website Is the Best Source of Social Media Content
 
-## Direct answer
 For most local businesses, the website is the best place to pull social content from.
 
 It already contains the clearest version of what the business does, who it helps, what customers ask, what makes the offer credible, and what someone should do next. That is exactly the material most owners struggle to come up with on demand when it is time to post.

@@ -13,7 +13,6 @@ tags: ["owner burden", "workflow", "new site content bank"]
 
 # How to Keep Marketing Moving When You Are Busy Serving Customers
 
-## Direct answer
 If you are busy serving customers, the easiest way to keep marketing moving is to use the work already happening in the business as the source material.
 
 Customer questions, finished jobs, reviews, before-and-after photos, service reminders, and website pages are not side notes. They are the raw material.

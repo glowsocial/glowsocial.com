@@ -13,7 +13,6 @@ tags: ["buyers guides", "solution-aware", "new site content bank"]
 
 # How to Spot a Social Media Offer That Still Leaves You Doing Too Much
 
-## Direct answer
 If the offer still needs you to be the strategist, source, writer, editor, and reminder system, it is still leaving you doing too much.
 
 The package may sound supportive, but the weekly lived experience is what matters.

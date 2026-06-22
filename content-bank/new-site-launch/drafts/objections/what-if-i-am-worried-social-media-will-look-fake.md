@@ -13,7 +13,6 @@ tags: ["objections", "solution-aware", "new site content bank"]
 
 # What If I Am Worried Social Media Will Look Fake?
 
-## Direct answer
 That worry is reasonable.
 
 Social starts looking fake when the posts feel disconnected from real business activity, real opinions, or real customer concerns. The fix is not to post less. The fix is to ground the content better.

@@ -13,7 +13,6 @@ tags: ["proof and reviews", "solution-aware", "new site content bank"]
 
 # How to Show Real Business Activity Without Posting Constantly
 
-## Direct answer
 You do it by posting the right proof, not by posting all the time.
 
 A business can look active with a modest cadence if the content shows recent work, real customer signals, and visible signs that things are still moving.

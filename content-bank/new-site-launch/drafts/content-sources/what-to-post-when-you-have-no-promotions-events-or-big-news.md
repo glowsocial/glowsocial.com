@@ -13,7 +13,6 @@ tags: ["content sources", "how-to", "new site content bank"]
 
 # What to Post When You Have No Promotions, Events, or Big News
 
-## Direct answer
 If you do not have promotions, events, or big news, post what customers still need in order to trust you.
 
 That usually means answers, reminders, reviews, recent work, process explainers, mistakes to avoid, and proof that the business is active and paying attention.

@@ -13,7 +13,6 @@ tags: ["local visibility", "channel-strategy", "new site content bank"]
 
 # Why Google Business Profile Often Matters More Than Instagram
 
-## Direct answer
 For a lot of local businesses, Google Business Profile matters more than Instagram because it shows up closer to action.
 
 People are usually on GBP when they are checking hours, reviews, service area, photos, or whether the business looks legitimate enough to call. That is a different moment than casual social scrolling.

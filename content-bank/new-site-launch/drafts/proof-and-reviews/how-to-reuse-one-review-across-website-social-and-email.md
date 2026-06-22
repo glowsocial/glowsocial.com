@@ -13,7 +13,6 @@ tags: ["proof and reviews", "how-to", "new site content bank"]
 
 # How to Reuse One Review Across Website, Social, and Email
 
-## Direct answer
 Reuse the review by giving each channel a different job.
 
 The website can use it as nearby trust proof. Social can use it as visible credibility. Email can use one line from it to support a larger point. Same source, different roles.

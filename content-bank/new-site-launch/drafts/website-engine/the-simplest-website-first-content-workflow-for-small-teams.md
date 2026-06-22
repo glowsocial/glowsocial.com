@@ -13,7 +13,6 @@ tags: ["website engine", "awareness", "new site content bank"]
 
 # The Simplest Website-First Content Workflow for Small Teams
 
-## Direct answer
 The simplest workflow is this: page first, then email, then social.
 
 A small team does not need a sprawling content machine. It needs one dependable source, one clear adaptation path, and as little reinvention as possible.

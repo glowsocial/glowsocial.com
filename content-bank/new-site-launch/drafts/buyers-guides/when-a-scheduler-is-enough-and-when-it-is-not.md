@@ -13,7 +13,6 @@ tags: ["buyers guides", "comparison", "new site content bank"]
 
 # When a Scheduler Is Enough and When It Is Not
 
-## Direct answer
 A scheduler is enough when the content already exists.
 
 It is not enough when the real problem is still deciding what to post, writing it, pulling source material together, or keeping the queue from going empty.

@@ -13,7 +13,6 @@ tags: ["local visibility", "awareness", "new site content bank"]
 
 # Why Google Business Profile Posts Matter for Service Businesses
 
-## Direct answer
 GBP posts matter because they help a service business look current in a place customers already use to judge whether the business feels alive.
 
 They are not magic, and they are not the only thing that matters. But they do add one more visible trust signal right where intent is already high.

@@ -13,7 +13,6 @@ tags: ["trust signals", "SEO/AEO", "new site content bank"]
 
 # How to Keep Your Online Presence From Looking Neglected
 
-## Direct answer
 You keep an online presence from looking neglected by maintaining a small set of visible trust signals on purpose.
 
 That usually means: accurate business details, current enough photos, a few recent posts, an updated Google Business Profile, and a website that still reflects what the business actually does.

@@ -13,7 +13,6 @@ tags: ["owner burden", "awareness", "new site content bank"]
 
 # Why Posting Consistently Feels So Hard for Small Business Owners
 
-## Direct answer
 Posting consistently feels hard because the job is bigger than it looks.
 
 What sounds like "just post a few times a week" usually means coming up with an idea, deciding whether it is worth saying, writing it clearly, finding a visual, approving it, and repeating that whole process while the actual business is already asking for attention.

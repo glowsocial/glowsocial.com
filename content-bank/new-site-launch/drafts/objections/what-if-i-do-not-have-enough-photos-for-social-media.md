@@ -13,7 +13,6 @@ tags: ["objections", "objection", "new site content bank"]
 
 # What If I Do Not Have Enough Photos for Social Media?
 
-## Direct answer
 You probably have more content than you think.
 
 A lack of endless fresh photos does not mean you are out of things to post. It usually just means the content mix needs to rely less on visuals and more on useful information, proof, and reuse.

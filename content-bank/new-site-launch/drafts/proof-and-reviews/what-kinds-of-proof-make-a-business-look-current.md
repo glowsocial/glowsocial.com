@@ -13,7 +13,6 @@ tags: ["proof and reviews", "comparison", "new site content bank"]
 
 # What Kinds of Proof Make a Business Look Current
 
-## Direct answer
 Recent, specific proof usually does the most work.
 
 Customers want signs that the business is active now, not just that it had happy customers at some point in the past.

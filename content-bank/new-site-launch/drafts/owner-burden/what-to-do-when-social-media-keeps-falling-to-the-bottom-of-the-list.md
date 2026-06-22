@@ -13,7 +13,6 @@ tags: ["owner burden", "objection", "new site content bank"]
 
 # What To Do When Social Media Keeps Falling to the Bottom of the List
 
-## Direct answer
 If social media keeps falling to the bottom of the list, the problem is usually not that you do not care.
 
 It usually means the system asks for too much invention every single week. When a workflow only works during calm weeks, it is too fragile for a real business.

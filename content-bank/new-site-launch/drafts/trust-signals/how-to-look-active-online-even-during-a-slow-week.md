@@ -13,7 +13,6 @@ tags: ["trust signals", "how-to", "new site content bank"]
 
 # How to Look Active Online Even During a Slow Week
 
-## Direct answer
 A slow week does not have to look like a dead week.
 
 You can still look active by publishing useful evergreen content, resurfacing proof, answering real customer questions, and tightening the profiles people already check.

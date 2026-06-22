@@ -13,7 +13,6 @@ tags: ["seasonal operations", "comparison", "new site content bank"]
 
 # How to Use Slow Seasons To Build a Better Content Library
 
-## Direct answer
 Use the slower stretch to build what busy season will not leave time for.
 
 That can mean drafting pages, organizing proof, capturing FAQs, gathering photos, cleaning up service explanations, and building a stronger backlog before demand picks up again.

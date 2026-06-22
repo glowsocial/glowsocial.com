@@ -13,7 +13,6 @@ tags: ["buyers guides", "comparison", "new site content bank"]
 
 # What to Ask Before Hiring Help for Social Media
 
-## Direct answer
 Before hiring help, ask questions that expose the real workflow.
 
 You want to know who creates the content, who gathers the inputs, how approvals work, how much owner effort is still expected, and what happens during a busy month when nobody has extra time.

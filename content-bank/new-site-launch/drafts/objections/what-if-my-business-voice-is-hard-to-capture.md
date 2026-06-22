@@ -13,7 +13,6 @@ tags: ["objections", "awareness", "new site content bank"]
 
 # What If My Business Voice Is Hard To Capture?
 
-## Direct answer
 It is usually less mysterious than it seems.
 
 Business voice often feels hard to capture when people describe it in abstract words like warm, premium, or approachable instead of showing how the business actually talks to customers.

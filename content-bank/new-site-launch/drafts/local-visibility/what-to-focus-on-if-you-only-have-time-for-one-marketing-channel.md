@@ -13,7 +13,6 @@ tags: ["local visibility", "SEO/AEO", "new site content bank"]
 
 # What to Focus On if You Only Have Time for One Marketing Channel
 
-## Direct answer
 If you only have time for one channel, focus on the one closest to customer action.
 
 For many local businesses, that is Google Business Profile supported by a clear website. If the category is more visual or referral-driven, the answer may shift, but the principle stays the same: put effort where decisions are happening.

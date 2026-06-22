@@ -13,7 +13,6 @@ tags: ["ai search readiness", "comparison", "new site content bank"]
 
 # Why Consistent Website, GBP, and Social Signals Matter for AI Search
 
-## Direct answer
 Consistency reduces doubt.
 
 When your website, GBP, and social presence all describe the business in compatible ways, it becomes easier for AI tools to understand what is true and what the business should be known for.

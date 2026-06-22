@@ -13,7 +13,6 @@ tags: ["ai search readiness", "objection", "new site content bank"]
 
 # What Small Businesses Should Publish if They Want More AI Mentions
 
-## Direct answer
 Publish content that makes the business easier to understand and easier to trust.
 
 That usually means clear service pages, FAQ answers, proof-rich pages, comparison content, local details, and plain-language explanations tied to real customer questions.

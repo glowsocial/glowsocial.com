@@ -13,7 +13,6 @@ tags: ["website engine", "SEO/AEO", "new site content bank"]
 
 # Why Distribution Gets Easier When the Post Comes First
 
-## Direct answer
 Distribution gets easier when the page exists first.
 
 That is because email, social, and follow-up no longer have to invent the core thought from nothing. They can borrow from something already structured, already clear, and already worth pointing to.

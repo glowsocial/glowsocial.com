@@ -13,7 +13,6 @@ tags: ["proof and reviews", "awareness", "new site content bank"]
 
 # How to Use Small Wins as Content Without Overselling
 
-## Direct answer
 Keep the framing modest and specific.
 
 Small wins can be great content because they feel believable. The problem starts when the business tries to make every ordinary good outcome sound like a dramatic breakthrough.

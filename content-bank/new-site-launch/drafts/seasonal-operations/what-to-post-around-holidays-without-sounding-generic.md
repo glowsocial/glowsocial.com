@@ -13,7 +13,6 @@ tags: ["seasonal operations", "solution-aware", "new site content bank"]
 
 # What to Post Around Holidays Without Sounding Generic
 
-## Direct answer
 Tie the holiday to something real.
 
 Holiday posts usually feel generic when they are only greetings. They get better when they connect to scheduling, timing, service changes, reminders, or something customers genuinely need to know.

@@ -13,7 +13,6 @@ tags: ["proof and reviews", "objection", "new site content bank"]
 
 # What Proof Helps Customers Feel Safe Contacting a Business
 
-## Direct answer
 The safest-feeling proof is usually proof that lowers uncertainty.
 
 People want signs that the business is real, active, competent, and likely to treat them well.

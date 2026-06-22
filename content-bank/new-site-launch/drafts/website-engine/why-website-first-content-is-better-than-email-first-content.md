@@ -13,7 +13,6 @@ tags: ["website engine", "workflow", "new site content bank"]
 
 # Why Website-First Content Is Better Than Email-First Content
 
-## Direct answer
 Website-first content usually works better because the best version of the idea gets a permanent home.
 
 If you start with email, a good idea often does one quick job and then disappears into the archive. If you start with a page, that same idea can keep working through search, internal links, sales follow-up, and future reuse.

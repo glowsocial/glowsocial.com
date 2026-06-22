@@ -13,7 +13,6 @@ tags: ["buyers guides", "comparison", "new site content bank"]
 
 # What a Small Business Is Really Paying For in Social Media Management
 
-## Direct answer
 A small business is not just paying for posts.
 
 It is paying for some combination of strategy, writing, design, scheduling, approvals, coordination, source gathering, and relief from owner attention. The mistake is thinking the monthly price tells the full story.

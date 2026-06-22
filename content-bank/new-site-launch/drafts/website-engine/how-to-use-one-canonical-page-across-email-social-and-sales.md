@@ -13,7 +13,6 @@ tags: ["website engine", "comparison", "new site content bank"]
 
 # How to Use One Canonical Page Across Email, Social, and Sales
 
-## Direct answer
 Use the page as the source and everything else as the adaptation.
 
 The page holds the full argument. Email pulls the timely angle. Social pulls the short proof, quote, or hook. Sales pulls the part that answers a real buyer hesitation. Same core idea, different jobs.

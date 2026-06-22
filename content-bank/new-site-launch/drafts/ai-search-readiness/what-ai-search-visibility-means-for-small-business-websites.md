@@ -13,7 +13,6 @@ tags: ["ai search readiness", "solution-aware", "new site content bank"]
 
 # What AI Search Visibility Means for Small Business Websites
 
-## Direct answer
 It means the website is understandable enough to be surfaced inside AI-driven answers and discovery.
 
 For a small business, that usually comes down to whether the site clearly explains services, locations, timing, questions, and trust signals in a way both people and machines can follow.

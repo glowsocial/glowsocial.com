@@ -13,7 +13,6 @@ tags: ["website engine", "SEO/AEO", "new site content bank"]
 
 # How to Turn Marketing Emails Into Searchable Assets the Right Way
 
-## Direct answer
 The right way is usually to stop treating the email as the original asset.
 
 If the idea has search value, make it a real page first. Then send the email as the distribution layer. That gives the useful idea a structure search can understand and a home that keeps working after the send.

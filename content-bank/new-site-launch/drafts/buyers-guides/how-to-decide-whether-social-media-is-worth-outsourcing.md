@@ -13,7 +13,6 @@ tags: ["buyers guides", "SEO/AEO", "new site content bank"]
 
 # How to Decide Whether Social Media Is Worth Outsourcing
 
-## Direct answer
 Social media is usually worth outsourcing when the business keeps paying for it in owner attention anyway.
 
 If content keeps sliding, the owner keeps carrying it late at night, and the business still looks inactive in spite of good intentions, the work is already costing something. The question is whether outside help can lower that cost in a real way.

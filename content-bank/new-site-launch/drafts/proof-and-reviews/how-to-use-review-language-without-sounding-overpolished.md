@@ -13,7 +13,6 @@ tags: ["proof and reviews", "solution-aware", "new site content bank"]
 
 # How to Use Review Language Without Sounding Overpolished
 
-## Direct answer
 Keep the customer voice recognizable.
 
 Review language starts losing power when you rewrite it so heavily that it no longer sounds like something a real person would say. A little cleanup is fine. Overpolishing usually makes the proof feel weaker.

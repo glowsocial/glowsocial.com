@@ -13,7 +13,6 @@ tags: ["content sources", "how-to", "new site content bank"]
 
 # How to Turn Reviews Into Social Proof Without Sounding Braggy
 
-## Direct answer
 The easiest way to use reviews without sounding braggy is to make the post about the customer outcome, not about how amazing you are.
 
 The review already carries the praise. Your job is to add context that helps the next buyer understand why it matters.

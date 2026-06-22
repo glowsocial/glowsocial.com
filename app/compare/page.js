@@ -143,7 +143,6 @@ export default function CompareIndexPage() {
               border: "1px solid rgba(14, 14, 14, 0.08)",
             }}
           >
-            <h2 style={{ textAlign: "left", marginBottom: 12 }}>Direct answer</h2>
             <p style={{ marginBottom: 0 }}>
               Glow Social is the better fit than most social media schedulers when your real
               problem is not publishing. It is getting the posts made in the first place. Use

@@ -13,7 +13,6 @@ tags: ["owner burden", "solution-aware", "new site content bank"]
 
 # What Busy Owners Actually Need From a Social Media System
 
-## Direct answer
 Busy owners do not need more dashboards.
 
 They need a system that reduces repeat decisions, pulls from business information they already have, and keeps the company looking current without asking for daily attention.

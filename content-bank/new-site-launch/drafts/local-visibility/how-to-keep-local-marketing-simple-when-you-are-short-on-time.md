@@ -13,7 +13,6 @@ tags: ["local visibility", "SEO/AEO", "new site content bank"]
 
 # How to Keep Local Marketing Simple When You Are Short on Time
 
-## Direct answer
 Keep local marketing simple by focusing on the few surfaces that help customers trust you fastest.
 
 Most owners make this harder than it needs to be by trying to keep every profile alive, every idea fresh, and every platform equally important. That is a good way to create a maintenance problem.

@@ -20,8 +20,6 @@ The trick is to stop treating social media as a personal habit and start treatin
 
 For local businesses, the goal is not to become a content creator. The goal is to look current, credible, and easy to contact when customers check Google, Facebook, Instagram, your website, and reviews before calling.
 
-## Direct answer
-
 To keep business social media active without posting yourself, build a recurring content system from assets your business already creates: services, FAQs, customer reviews, job photos, website pages, seasonal reminders, service-area details, and proof from real work. Then delegate or use a done-for-you workflow to turn those assets into posts you can review and approve.
 
 The standard is not "post every day." The standard is "do we look alive when someone checks?"

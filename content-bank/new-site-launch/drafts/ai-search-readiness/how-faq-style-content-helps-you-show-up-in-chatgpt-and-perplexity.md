@@ -13,7 +13,6 @@ tags: ["ai search readiness", "SEO/AEO", "new site content bank"]
 
 # How FAQ-Style Content Helps You Show Up in ChatGPT and Perplexity
 
-## Direct answer
 It helps because the answer is easy to find.
 
 FAQ-style pages are useful for AI tools when they answer real questions directly, then add context. That structure makes it easier for the system to understand what the page is about and what answer it might cite.

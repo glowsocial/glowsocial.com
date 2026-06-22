@@ -13,7 +13,6 @@ tags: ["trust signals", "comparison", "new site content bank"]
 
 # How Reviews, Photos, and Recent Posts Work Together to Build Trust
 
-## Direct answer
 Reviews, photos, and recent posts are doing different jobs.
 
 Reviews say other people trusted you. Photos say the business is real. Recent posts say someone is still paying attention. Put together, they make the business feel much safer to contact.

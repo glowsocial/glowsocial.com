@@ -13,7 +13,6 @@ tags: ["content sources", "objection", "new site content bank"]
 
 # How to Create Social Posts From Website Service Pages
 
-## Direct answer
 The easiest way to create social posts from service pages is to break each page into smaller useful parts.
 
 A good service page already explains the problem, the offer, the timing, the process, the objections, and the next step. Each of those can become its own post.

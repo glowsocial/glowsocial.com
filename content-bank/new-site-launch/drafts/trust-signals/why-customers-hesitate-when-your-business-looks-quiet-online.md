@@ -13,7 +13,6 @@ tags: ["trust signals", "solution-aware", "new site content bank"]
 
 # Why Customers Hesitate When Your Business Looks Quiet Online
 
-## Direct answer
 Customers hesitate because a quiet online presence creates uncertainty.
 
 When a business looks inactive, thin, or stale online, people start wondering whether it is still responsive, still operating smoothly, or still the safest option. They usually do not say it that way. They just slow down.

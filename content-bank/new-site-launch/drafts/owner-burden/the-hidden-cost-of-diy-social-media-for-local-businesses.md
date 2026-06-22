@@ -13,7 +13,6 @@ tags: ["owner burden", "pricing", "new site content bank"]
 
 # The Hidden Cost of DIY Social Media for Local Businesses
 
-## Direct answer
 DIY social media looks inexpensive because the software bill is low.
 
 What gets missed is the owner time. The context switching. The stop-start rhythm. The stale weeks where nothing goes out and the business starts looking quieter than it really is.

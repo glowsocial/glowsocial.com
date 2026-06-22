@@ -13,7 +13,6 @@ tags: ["objections", "SEO/AEO", "new site content bank"]
 
 # What If I Need Approval Before Anything Goes Live?
 
-## Direct answer
 That is workable, but the approval step has to be tight.
 
 Content usually slows down when approval is vague, late, or emotionally expensive. It is much easier when the team agrees in advance on tone, boundaries, and what kinds of posts move fastest.

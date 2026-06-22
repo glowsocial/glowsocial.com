@@ -13,7 +13,6 @@ tags: ["seasonal operations", "SEO/AEO", "new site content bank"]
 
 # How to Keep Social Media Moving During Vacation or Staff Shortages
 
-## Direct answer
 Lower the standard before the system breaks.
 
 When staffing is thin, the goal is not to maintain your most ambitious content plan. The goal is to keep a believable baseline moving without creating more chaos for the team.

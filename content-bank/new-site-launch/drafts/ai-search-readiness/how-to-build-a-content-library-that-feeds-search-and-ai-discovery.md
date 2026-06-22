@@ -13,7 +13,6 @@ tags: ["ai search readiness", "comparison", "new site content bank"]
 
 # How to Build a Content Library That Feeds Search and AI Discovery
 
-## Direct answer
 Build pages that answer different questions at different stages.
 
 A strong content library helps both search engines and AI tools because it gives them more useful material to surface, summarize, and connect back to the business.

@@ -13,7 +13,6 @@ tags: ["proof and reviews", "awareness", "new site content bank"]
 
 # How to Turn Customer Reviews Into a Month of Social Proof
 
-## Direct answer
 You do it by changing the angle, not by repeating the same quote.
 
 A good review usually contains several useful pieces: the customer's problem, what they were worried about, what stood out, what felt easy, and what result they cared about. That is why one batch of reviews can support weeks of trust content.

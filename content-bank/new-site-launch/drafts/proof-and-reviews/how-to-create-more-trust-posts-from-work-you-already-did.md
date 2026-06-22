@@ -13,7 +13,6 @@ tags: ["proof and reviews", "SEO/AEO", "new site content bank"]
 
 # How to Create More Trust Posts From Work You Already Did
 
-## Direct answer
 Look back at finished work and pull more than the obvious angle.
 
 A completed job, project, or customer outcome can usually support several trust posts if you stop treating it like a single before-and-after moment.

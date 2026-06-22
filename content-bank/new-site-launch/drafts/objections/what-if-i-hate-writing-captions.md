@@ -13,7 +13,6 @@ tags: ["objections", "objection", "new site content bank"]
 
 # What If I Hate Writing Captions?
 
-## Direct answer
 Then stop building a system that depends on loving captions.
 
 A lot of owners assume the problem is that they need to get better at writing social copy. Usually the real issue is that they are being asked to create small polished thoughts from scratch too often.

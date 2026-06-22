@@ -13,7 +13,6 @@ tags: ["local visibility", "comparison", "new site content bank"]
 
 # How to Make Your Website, GBP, and Social Profiles Support Each Other
 
-## Direct answer
 Make them support each other by giving each one a job and keeping the message consistent across all three.
 
 The website should explain. GBP should validate locally. Social should provide one more layer of proof that the business is active and real.

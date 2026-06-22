@@ -13,8 +13,6 @@ tags: []
 
 # {{title}}
 
-## Direct Answer
-
 ## Why This Matters
 
 ## What Most Businesses Get Wrong

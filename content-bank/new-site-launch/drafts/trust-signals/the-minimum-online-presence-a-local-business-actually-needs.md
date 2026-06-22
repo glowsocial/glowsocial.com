@@ -13,7 +13,6 @@ tags: ["trust signals", "buyer-guide", "new site content bank"]
 
 # The Minimum Online Presence a Local Business Actually Needs
 
-## Direct answer
 Most local businesses do not need to be everywhere.
 
 They need a minimum presence that makes people feel safe contacting them: a clear website, an accurate Google Business Profile, at least one maintained social profile, current enough photos, visible reviews, and obvious contact details.

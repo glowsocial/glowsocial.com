@@ -13,7 +13,6 @@ tags: ["owner burden", "comparison", "new site content bank"]
 
 # Why Content Creation Is the Real Bottleneck, Not Scheduling
 
-## Direct answer
 For most local businesses, the bottleneck is not publishing.
 
 It is making enough useful content in the first place.

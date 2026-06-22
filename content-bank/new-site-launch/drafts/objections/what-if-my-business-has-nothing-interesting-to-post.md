@@ -13,7 +13,6 @@ tags: ["objections", "comparison", "new site content bank"]
 
 # What If My Business Has Nothing Interesting To Post?
 
-## Direct answer
 That is usually not true.
 
 Most businesses are surrounded by useful material. It just does not feel interesting because the owner sees it every day. Customers do not.

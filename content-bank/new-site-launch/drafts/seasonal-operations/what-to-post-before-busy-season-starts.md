@@ -13,7 +13,6 @@ tags: ["seasonal operations", "objection", "new site content bank"]
 
 # What to Post Before Busy Season Starts
 
-## Direct answer
 Post the things customers will wish they had known a little earlier.
 
 That usually means reminders, prep advice, booking guidance, timing warnings, and simple explanations about what gets harder once the rush begins.

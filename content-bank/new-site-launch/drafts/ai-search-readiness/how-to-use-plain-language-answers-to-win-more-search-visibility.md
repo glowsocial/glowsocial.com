@@ -13,7 +13,6 @@ tags: ["ai search readiness", "SEO/AEO", "new site content bank"]
 
 # How to Use Plain-Language Answers To Win More Search Visibility
 
-## Direct answer
 Answer the question the way a normal person would ask for it.
 
 Plain-language answers help because they reduce friction. The page becomes easier to scan, easier to understand, and easier for search engines or AI tools to interpret.

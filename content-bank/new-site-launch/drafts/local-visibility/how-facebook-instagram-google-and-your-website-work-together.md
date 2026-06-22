@@ -13,7 +13,6 @@ tags: ["local visibility", "channel-strategy", "new site content bank"]
 
 # How Facebook, Instagram, Google, and Your Website Work Together
 
-## Direct answer
 These channels work best when they support the same basic impression: this business is real, current, competent, and easy to contact.
 
 Most customers do not think in channel strategy terms. They just bounce between Google, your website, and a social profile or two until they feel sure enough to reach out.

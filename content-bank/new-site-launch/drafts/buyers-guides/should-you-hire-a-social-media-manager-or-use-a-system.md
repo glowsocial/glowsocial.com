@@ -13,7 +13,6 @@ tags: ["buyers guides", "awareness", "new site content bank"]
 
 # Should You Hire a Social Media Manager or Use a System?
 
-## Direct answer
 The better choice usually comes down to one thing: after you hire or buy, who still has to carry the content work?
 
 If the owner still has to feed the machine every week with ideas, photos, captions, approvals, and rewrites, the solution may look different on paper without feeling very different in real life.

@@ -13,7 +13,6 @@ tags: ["website engine", "solution-aware", "new site content bank"]
 
 # How to Plan Content in Clusters Before You Have a New Site
 
-## Direct answer
 You can plan strong clusters before the new site exists.
 
 You do not need finished design files to know which questions belong together, which buyer concerns repeat, and which pages should eventually support each other through internal links.

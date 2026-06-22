@@ -13,7 +13,6 @@ tags: ["website engine", "objection", "new site content bank"]
 
 # How to Prebuild a Publishing Pipeline Before Redesign Work Starts
 
-## Direct answer
 You can prebuild the pipeline before the redesign by deciding how content will move, even if the final site is not ready.
 
 You can settle the source inputs, cluster structure, page types, adaptation flow, and first release batches now. That way the redesign is not also carrying the full burden of inventing the content system.

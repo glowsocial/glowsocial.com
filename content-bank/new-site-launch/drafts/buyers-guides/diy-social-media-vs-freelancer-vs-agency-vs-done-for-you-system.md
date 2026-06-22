@@ -13,7 +13,6 @@ tags: ["buyers guides", "comparison", "new site content bank"]
 
 # DIY Social Media vs Freelancer vs Agency vs Done-for-You System
 
-## Direct answer
 The best setup depends on what kind of burden you are trying to remove.
 
 DIY costs the least in cash but the most in owner attention. A freelancer can reduce the load, but the relationship quality varies a lot. An agency can bring more muscle, but often with more meetings, more process, and more cost. A done-for-you system usually fits the owner who wants the baseline handled without hiring a whole marketing apparatus.
