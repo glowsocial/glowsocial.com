@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # How to market your business if you hate social media
 
-## Direct Answer
 You don't have to enjoy social media to benefit from it. The most effective approach for business owners who hate social media is to automate the entire process — use an AI platform that creates and publishes professional posts on your behalf so you never have to open Instagram, write a caption, or think about hashtags again.
 
 For the broader local-business framework, start with [social media for business owners who hate social media](/blog/social-media-for-business-owners-who-hate-social-media).

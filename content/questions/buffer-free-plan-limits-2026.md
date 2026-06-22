@@ -17,7 +17,6 @@ relatedResources:
 
 # What are Buffer's free plan limits in 2026?
 
-## Direct Answer
 Buffer's free plan lets you connect up to 3 channels and keep 10 scheduled posts per channel in the queue at one time. That means a free account can have up to 30 scheduled posts waiting if it uses all 3 channels. The 10-post limit is not a monthly posting cap; when a post publishes, that queue slot opens again.
 
 ## Why This Matters

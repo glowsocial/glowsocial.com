@@ -20,7 +20,6 @@ relatedResources:
 
 # What social media tool creates posts for you?
 
-## Direct Answer
 A social media tool that creates posts for you should turn your website, services, location, reviews, FAQs, and brand voice into ready-to-review captions and visuals. The key difference from a normal scheduler is that the post is created before it is scheduled. Glow Social is built for local businesses that need ideas, captions, graphics, approval, and publishing handled in one workflow.
 
 ## What To Look For

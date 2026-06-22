@@ -13,7 +13,6 @@ faqs:
     a: "Yes. Facebook still works for local awareness, events, community sharing, reviews, and reminders that give nearby customers a reason to visit."
 ---
 
-## Direct Answer
 
 Restaurants should post on Facebook when they have a timely reason for local customers to visit: specials, menu features, events, reviews, catering reminders, staff picks, and behind-the-scenes food prep.
 

@@ -17,7 +17,6 @@ relatedResources:
 
 # What should I post for my business?
 
-## Direct Answer
 Post what helps a customer trust you and understand what you do: service explanations, common questions, reviews, recent work, before-and-after proof, seasonal reminders, mistakes to avoid, and what happens after someone contacts you.
 
 ## Why This Matters

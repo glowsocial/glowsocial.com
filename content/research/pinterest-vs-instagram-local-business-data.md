@@ -7,7 +7,6 @@ datasetName: "Glow Social local business platform comparison dataset"
 datasetDescription: "Aggregated local business social media performance data comparing Pinterest and Instagram in 2026."
 ---
 
-## Direct Answer
 
 In Glow Social's 2026 local business dataset, Pinterest had a higher average engagement rate than Instagram: 7.7% for Pinterest versus 2.14% for Instagram. Pinterest also averaged 6,878 impressions in the dataset versus 3,047 for Instagram. The sample is smaller for Pinterest, so treat this as a directional signal, not a universal rule.
 

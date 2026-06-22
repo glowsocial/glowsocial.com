@@ -15,7 +15,6 @@ relatedResources:
 
 # How many social media posts per month does a local business need?
 
-## Direct Answer
 Most local businesses need 12 to 20 useful social media posts per month to look active and build trust. That usually means 3 to 5 posts per week across core channels. Businesses with visual work, frequent promotions, or active customer demand may benefit from more; businesses with limited time should start with a sustainable minimum.
 
 ## A Practical Monthly Mix

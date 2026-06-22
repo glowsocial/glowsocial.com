@@ -1,6 +1,5 @@
 # How do I set up social media for my small business?
 
-## Direct Answer
 Pick 3-4 platforms where your customers already spend time, create consistent profiles with a professional bio and logo on each, and commit to posting at least 3 times per week. For most local businesses, that means Google Business Profile, Facebook, and Instagram as a baseline, with LinkedIn added for B2B or professional services.
 
 ## Why This Matters

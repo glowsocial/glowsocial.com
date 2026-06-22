@@ -1,6 +1,5 @@
 # Can automation replace a social media manager?
 
-## Direct Answer
 For content creation and scheduling, yes. For community management, crisis response, and relationship-building through DMs, not yet. Our system handles the 70% of social media work that is repeatable. The 30% requiring human judgment still needs a person.
 
 ## Why This Matters

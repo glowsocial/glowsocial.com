@@ -17,7 +17,6 @@ relatedResources:
 
 # What makes a local business's social media look trustworthy?
 
-## Direct Answer
 Trustworthy local business social media looks recent, specific, useful, and consistent. The strongest profiles show real services, real questions, real proof, clear local context, and activity that matches the business's website and Google profile.
 
 ## Why This Matters

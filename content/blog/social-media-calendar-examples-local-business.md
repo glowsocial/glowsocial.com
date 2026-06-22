@@ -13,7 +13,6 @@ faqs:
     a: "The easiest calendar is a repeating weekly mix: one educational post, one proof post, and one service reminder."
 ---
 
-## Direct Answer
 
 A simple local business social media calendar should include 12 posts per month: four educational posts, four proof posts, and four service reminders or timely updates.
 

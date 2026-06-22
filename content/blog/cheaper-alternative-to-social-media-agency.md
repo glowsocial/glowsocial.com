@@ -19,7 +19,6 @@ If you are looking for a cheaper alternative to a social media agency, start by 
 
 Those are not the same job. Agencies are built for the first one. Many small businesses only need the second one.
 
-## Direct Answer
 
 The cheaper alternative to a social media agency is a done-for-you posting service if your main need is consistent organic content.
 

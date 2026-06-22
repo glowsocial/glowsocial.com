@@ -30,7 +30,6 @@ For a local business, a useful social media content strategy is not a 30-page ma
 
 Without those answers, every post becomes a fresh decision. That is why random posting usually turns into silence.
 
-## Direct Answer
 
 Content strategy is important for social media because it gives every post a purpose. It helps a local business stay consistent, build credibility, avoid repetitive promotions, and keep the public profiles active when customers check before calling.
 

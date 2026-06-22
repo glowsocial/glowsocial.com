@@ -18,7 +18,6 @@ That distinction matters. A social media agency can be the right move when you n
 
 If the real problem is inconsistent posting, buying an agency retainer can be more service than you need.
 
-## Direct Answer
 
 Hire a social media agency if you need strategy, paid ads, custom shoots, community management, influencer work, or monthly reporting.
 

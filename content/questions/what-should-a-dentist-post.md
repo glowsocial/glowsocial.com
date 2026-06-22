@@ -15,7 +15,6 @@ relatedResources:
 
 # What should a dentist post on social media?
 
-## Direct Answer
 A dentist should post preventive care tips, treatment explainers, patient FAQs, office updates, team introductions, review highlights, appointment reminders, and seasonal oral health advice. The best dental posts reduce anxiety and help patients understand when to book.
 
 ## Best Post Categories For Dentists

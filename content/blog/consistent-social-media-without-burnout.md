@@ -24,7 +24,6 @@ There is always another caption to write, another platform to check, another gra
 
 For local business owners, the answer is not to care more. The answer is to build a system that works when you are busy.
 
-## Direct Answer
 
 To stay consistent on social media without burnout, lower the cadence to something sustainable, use a repeatable posting mix, batch posts in focused sessions, reuse proof from the business, and automate the parts that do not require judgment.
 

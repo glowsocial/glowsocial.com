@@ -1,6 +1,5 @@
 # How do I set up social media profiles for my business?
 
-## Direct Answer
 Start with Google Business Profile, then create accounts on Facebook, Instagram, LinkedIn, and any platform your customers use. Use a free setup tool like [glowsocial.com/setup](https://glowsocial.com/setup) — it scans your website, writes your bios for 8 platforms, and walks you through each one step by step.
 
 ## Why This Matters

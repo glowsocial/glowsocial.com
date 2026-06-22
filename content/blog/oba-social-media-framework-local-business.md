@@ -22,7 +22,6 @@ Most local business owners do not need a complicated content strategy. They need
 
 That is what OBA is for.
 
-## Direct Answer
 
 OBA stands for Offer, Behind-the-Scenes, and Authority. It is a social media framework for local businesses that balances three jobs:
 

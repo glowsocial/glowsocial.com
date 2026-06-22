@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # What's the best way to automate social media posting?
 
-## Direct Answer
 The best way to automate social media is to use an AI-powered platform that creates the content *and* schedules it, rather than just using a tool that schedules content you still have to create yourself.
 
 ## Why This Matters

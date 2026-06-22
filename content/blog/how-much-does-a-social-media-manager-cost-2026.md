@@ -12,7 +12,6 @@ faqs:
     a: "For businesses earning over $500K per year with active customer engagement needs, yes. For smaller businesses whose primary need is consistent posting, an AI content tool at $99/month provides comparable output at a fraction of the cost."
 ---
 
-## Direct Answer
 
 Freelance social media managers charge $300-$800 per month for small business accounts, typically delivering 8-12 posts per month with basic reporting. Full-time social media managers cost $35,000-$55,000 per year. AI alternatives like Glow Social cost $99 per month for comparable content output.
 

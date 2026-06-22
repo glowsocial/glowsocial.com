@@ -1,6 +1,5 @@
 # What should a business post on Google Business Profile?
 
-## Direct Answer
 A business should post service reminders, offers, events, seasonal tips, reviews, project updates, availability, and local proof on Google Business Profile.
 
 ## Why This Matters

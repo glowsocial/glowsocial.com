@@ -178,7 +178,6 @@ export default function SocialMediaAgencyAlternativePage() {
 
       <section className="affordable-answer">
         <div className="container affordable-answer-box">
-          <h2>Direct Answer</h2>
           <p>
             The best alternative to a social media agency is a done-for-you
             posting service when your main problem is consistency. Agencies are

@@ -1,6 +1,5 @@
 # How do I set up social media for a new business?
 
-## Direct Answer
 Start with Google Business Profile (for local search visibility), then Facebook (for social proof), then Instagram (for visual discovery). Claim your name on LinkedIn, Pinterest, X, Bluesky, and Threads while you're at it — takes 15-20 minutes total with a setup tool. You don't need content ready before creating profiles.
 
 ## Why This Matters

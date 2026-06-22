@@ -1,6 +1,5 @@
 # How do I set up an Instagram business account?
 
-## Direct Answer
 Download the Instagram app, create a new account with your business email, then switch it to a Professional (Business) account in Settings → Account type and tools → Switch to professional account. Choose "Business" (not Creator), pick your category, and add your contact info. Then edit your profile and paste in your bio.
 
 ## Why This Matters

@@ -17,7 +17,6 @@ relatedResources:
 
 # Does Later have a free plan in 2026?
 
-## Direct Answer
 Yes. Later's help center says Later offers a **Free plan** for creators to schedule a limited number of posts each month or participate in brand campaigns. Later's public pricing page also promotes a **14-day free trial** for paid plans: Starter, Growth, and Scale.
 
 If you need the most generous ongoing free scheduler for a small business, compare Meta Business Suite, [Buffer's free plan limits](/blog/buffer-pricing-free-plan-limits-2026), Publer, or Metricool too. For the full plan breakdown, read [Later pricing, free plan, trial, and Social Sets](/blog/later-pricing-free-plan-2026).

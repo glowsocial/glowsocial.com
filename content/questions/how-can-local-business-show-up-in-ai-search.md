@@ -24,7 +24,6 @@ relatedResources:
 
 # How can a local business show up in AI search?
 
-## Direct Answer
 A local business can improve AI search visibility by making its business information explicit, consistent, and verifiable across the web. The most important assets are clear service pages, a complete Google Business Profile, reviews, local content, recent social proof, and answer-ready pages that explain what the business does, who it serves, where it works, and why customers trust it.
 
 ## The AI Search Visibility Checklist

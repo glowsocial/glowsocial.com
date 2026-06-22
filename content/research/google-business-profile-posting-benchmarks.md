@@ -7,7 +7,6 @@ datasetName: "Glow Social Google Business Profile posting dataset"
 datasetDescription: "Aggregated local business posting and engagement patterns for Google Business Profile posts in 2026."
 ---
 
-## Direct Answer
 
 Google Business Profile posts are worth maintaining because they appear close to local search intent. In Glow Social's 2026 dataset, Google Business Profile averaged 4,573 impressions and a 1.38% engagement rate across tracked posts, outperforming several social feeds on average impressions per post.
 

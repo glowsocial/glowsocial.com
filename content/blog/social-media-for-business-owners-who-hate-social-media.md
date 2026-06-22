@@ -24,7 +24,6 @@ They check your Google Business Profile. They check your Facebook page. They che
 
 That is the real job of social media for business owners who hate social media. It is not performance. It is evidence.
 
-## Direct Answer
 
 The best social media strategy for business owners who hate social media is a minimum active-presence system: keep the few profiles customers actually check, publish steady proof that the business is active, reuse reviews and photos you already have, and automate or delegate the recurring posting work.
 

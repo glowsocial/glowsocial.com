@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # What's the difference between Buffer and AI content tools?
 
-## Direct Answer
 Buffer and similar legacy tools only *schedule* content that you have already written and designed yourself. Modern AI content tools, like Glow Social, actually *generate* the images and write the captions for you, in addition to scheduling them.
 
 ## Why This Matters

@@ -1,6 +1,5 @@
 # How do I set up Bluesky for my business?
 
-## Direct Answer
 Go to bsky.app, click "Create Account," choose the default server (bsky.social), enter your email, password, and pick a handle (yourbusiness.bsky.social). Verify your email, then go to Settings → Edit Profile. Add your display name, bio, profile photo, and banner image.
 
 ## Why This Matters

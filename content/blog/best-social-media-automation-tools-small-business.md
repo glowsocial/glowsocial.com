@@ -1,6 +1,5 @@
 # Best social media automation tools for small business
 
-## Direct Answer
 For small businesses, the three tools worth evaluating are Buffer (scheduling only, free tier available), Glow Social (AI content creation plus scheduling, $99 per month), and Canva with a scheduler (design plus basic scheduling, $13 per month). Choose based on whether your bottleneck is creating content or distributing it.
 
 ## Why This Matters

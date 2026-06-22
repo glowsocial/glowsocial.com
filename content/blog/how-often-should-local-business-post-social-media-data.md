@@ -22,7 +22,6 @@ They do need to stop disappearing.
 
 Posting frequency is not about winning a volume contest. It is about making sure customers see recent evidence that the business is active, trustworthy, and easy to contact.
 
-## Direct Answer
 
 Most local businesses should post three times per week as a practical baseline.
 

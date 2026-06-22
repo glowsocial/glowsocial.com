@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # Why is posting consistently on social media so hard?
 
-## Direct Answer
 Because content creation requires three completely separate skills—idea generation, copywriting, and graphic design—that most business owners simply don't have time to learn or execute regularly.
 
 ## Why This Matters

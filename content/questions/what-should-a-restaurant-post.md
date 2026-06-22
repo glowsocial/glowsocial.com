@@ -15,7 +15,6 @@ relatedResources:
 
 # What should a restaurant post on social media?
 
-## Direct Answer
 A restaurant should post menu highlights, specials, events, customer favorites, reviews, behind-the-scenes updates, staff features, catering or reservation reminders, and reasons to visit this week. Restaurant content should make people hungry, informed, and confident that the menu and hours are current.
 
 ## Best Post Categories For Restaurants

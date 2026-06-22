@@ -17,7 +17,6 @@ relatedResources:
 
 # Is Canva a good social media scheduler for small businesses?
 
-## Direct Answer
 Canva is a good social media scheduler when the business already creates posts inside Canva and wants to plan, schedule, and publish those designs from one workspace. It is not the best standalone social media management system if the business needs strategy, caption writing, cross-platform adaptation, review posts, Google Business Profile updates, or someone to keep the calendar full.
 
 ## Why This Matters

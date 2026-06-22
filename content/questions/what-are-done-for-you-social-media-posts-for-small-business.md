@@ -17,7 +17,6 @@ relatedResources:
 
 # What are done-for-you social media posts for small businesses?
 
-## Direct Answer
 Done-for-you social media posts are review-ready posts prepared from source material like your website, services, reviews, photos, FAQs, and local details, so the owner mainly reviews and approves instead of doing the writing, ideation, and design from scratch.
 
 ## Why This Matters

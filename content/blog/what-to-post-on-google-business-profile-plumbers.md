@@ -13,7 +13,6 @@ faqs:
     a: "GBP posts help plumbing companies look active when homeowners are searching in Google or Maps."
 ---
 
-## Direct Answer
 
 Plumbers should use Google Business Profile posts for practical, high-intent updates: emergency availability, service reminders, water heater maintenance, drain tips, customer reviews, service-area posts, and seasonal warnings.
 

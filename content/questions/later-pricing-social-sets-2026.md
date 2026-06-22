@@ -23,7 +23,6 @@ relatedResources:
 
 # How much does Later cost in 2026, and what is a Social Set?
 
-## Direct Answer
 Later's paid social scheduling plans start at $18.75/month for Starter, $37.50/month for Growth, and $82.50/month for Scale when billed yearly. A Later Social Set is one profile from each supported platform: Instagram, Facebook, Threads, Pinterest, TikTok, LinkedIn, YouTube, and Snapchat. Starter includes 1 Social Set, Growth includes 2, and Scale includes 6.
 
 For the full free-plan, trial, and pricing breakdown, read [Later pricing, free plan, trial, and Social Sets](/blog/later-pricing-free-plan-2026).

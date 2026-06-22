@@ -19,7 +19,6 @@ relatedResources:
 
 # What is answer engine optimization?
 
-## Direct Answer
 Answer engine optimization, or AEO, is the process of making your content easy for search engines and AI assistants to understand, trust, summarize, quote, cite, and use in direct answers. It focuses on clear answers, structured pages, entity consistency, crawlability, internal links, proof, and content that directly matches real customer questions.
 
 AEO is not a separate trick layer on top of SEO. For Google Search, the same foundations still matter: helpful content, crawlable pages, clear structure, good page experience, and trustworthy information. The difference is that answer engines often need to extract the answer, verify the source, and decide whether the page is reliable enough to cite.

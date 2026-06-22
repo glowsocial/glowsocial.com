@@ -23,7 +23,6 @@ The first question every small business owner asks about social media help is: *
 
 The honest answer: anywhere from $99 to $10,000 per month, depending on what you need and who does the work. Just as important: **how much of the work still stays on your plate.** Here is the complete breakdown for 2026.
 
-## Direct Answer: Social Media Manager Cost
 
 A freelance social media manager usually costs **$300-1,500 per month** for lean small business packages, with broader public pricing guides showing outsourced social media management can run from about **$500-5,000+ per month** depending on scope. Agencies usually start around **$1,000 per month** and can run **$5,000+ per month** when strategy, reporting, community management, paid ads, or video are included.
 

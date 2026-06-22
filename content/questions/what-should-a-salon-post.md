@@ -15,7 +15,6 @@ relatedResources:
 
 # What should a salon post on social media?
 
-## Direct Answer
 A salon should post client transformations, service education, stylist expertise, hair care tips, reviews, booking reminders, seasonal style ideas, and behind-the-scenes content. The goal is to show proof, reduce uncertainty, and remind clients to book before they need an appointment.
 
 ## Best Post Categories For Salons

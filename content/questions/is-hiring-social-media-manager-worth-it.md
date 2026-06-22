@@ -15,7 +15,6 @@ relatedResources:
     description: "When you searched for an agency but mainly need your posting handled."
 ---
 
-## Direct Answer
 Hiring a social media manager is worth it when you need strategy, custom creative, campaign planning, paid ads, community management, or daily judgment.
 
 It is usually not worth it yet if your main problem is simpler: your social pages look inactive because no one has time to create posts. In that case, start with a lower-cost done-for-you posting service or scheduler before hiring a person.

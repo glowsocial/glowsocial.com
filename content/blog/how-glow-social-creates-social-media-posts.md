@@ -16,7 +16,6 @@ faqs:
 
 # How does Glow Social create social media posts for small businesses?
 
-## Direct Answer
 
 Glow Social creates social media posts by turning a business's real services, customer problems, offers, and voice into ready-to-review drafts. Instead of asking business owners to start with a blank calendar, Glow Social does the content thinking first: it finds useful topics, applies proven post styles, turns those into post ideas, and writes drafts the owner can approve, edit, or skip.
 

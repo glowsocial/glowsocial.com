@@ -21,7 +21,6 @@ That changes how your Google Business Profile should be set up. A plumber, clean
 
 This guide covers how to use Google Business Profile for service-area businesses, what to show, what to hide, and what to post so customers can quickly decide whether to call.
 
-## Direct Answer
 
 A Google Business Profile for a service-area business should clearly show the services you offer, the areas you serve, accurate hours, current photos, recent reviews, and useful posts. If customers do not visit your business address, Google says to remove the address from your Business Profile and only show the service area.
 

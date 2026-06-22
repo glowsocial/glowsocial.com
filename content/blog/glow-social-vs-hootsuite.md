@@ -1,6 +1,5 @@
 # How is Glow Social different from Hootsuite?
 
-## Direct Answer
 Hootsuite is a scheduling and analytics platform. Glow Social is a content creation and scheduling platform. Hootsuite requires you to write every post. Glow Social generates the posts for you using AI trained on your business profile, then schedules them automatically.
 
 ## Why This Matters

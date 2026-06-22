@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # Cheapest way to do social media for your business
 
-## Direct Answer
 The cheapest way to maintain a professional social media presence is to use an AI done-for-you platform at around $99/month. While DIY is technically free in dollars, it costs 8-12 hours of your time monthly — time worth far more than $99 to most business owners. The cheapest option in total cost (money + time) is automation.
 
 ## Why This Matters

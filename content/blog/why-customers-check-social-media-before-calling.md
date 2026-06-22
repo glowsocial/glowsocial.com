@@ -22,7 +22,6 @@ Can I trust this business enough to take the next step?
 
 That decision can happen quietly. A customer finds you on Google, hears your name from a neighbor, clicks your website, then opens your Facebook or Instagram page. If the page looks current and credible, they keep moving toward the call. If it looks abandoned, generic, or confusing, they may keep searching.
 
-## Direct Answer
 
 Customers check social media before calling because it helps them confirm that a local business is active, legitimate, trusted by other customers, and worth contacting. They usually look for recent posts, real photos, reviews, finished work, clear services, accurate contact details, and signs that someone is paying attention.
 

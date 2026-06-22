@@ -1,6 +1,5 @@
 # How does Glow Social work?
 
-## Direct Answer
 Glow Social generates and schedules social media posts automatically. You connect your social accounts, answer a few questions about your business, and the platform creates personalized posts with captions and images, then publishes them on your chosen schedule across Facebook, Instagram, LinkedIn, and TikTok.
 
 ## Why This Matters

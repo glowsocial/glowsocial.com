@@ -13,7 +13,6 @@ faqs:
     a: "Restaurants should usually post 4-7 times per week, depending on specials, events, menu changes, and available photos."
 ---
 
-## Direct Answer
 
 The best social media automation tool for a restaurant depends on the bottleneck. If the restaurant already has posts, use a scheduler. If it needs graphics, use a design tool. If it needs campaigns, use an agency. If it needs consistent done-for-you posting, use Glow Social.
 

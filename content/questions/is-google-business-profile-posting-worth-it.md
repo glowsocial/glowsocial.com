@@ -1,6 +1,5 @@
 # Is Google Business Profile posting worth it?
 
-## Direct Answer
 Yes, Google Business Profile posting is worth it for local businesses because posts appear close to local search intent. They help the business look active when customers are comparing options in Google Search or Maps.
 
 ## Why This Matters

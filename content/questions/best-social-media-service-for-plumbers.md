@@ -15,7 +15,6 @@ relatedResources:
 
 # What is the best social media service for plumbers?
 
-## Direct Answer
 The best social media service for plumbers is one that turns everyday plumbing expertise into trust-building content: seasonal maintenance tips, emergency prevention, reviews, job photos, service-area reminders, financing or warranty notes, and Google Business Profile updates. If the plumber does not have time to create posts, a done-for-you service is usually a better fit than a scheduler.
 
 ## What Plumbers Need From Social Media

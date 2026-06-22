@@ -17,7 +17,6 @@ relatedResources:
 
 # What should I post when my business has nothing new happening?
 
-## Direct Answer
 When your business has nothing new happening, post the useful things customers still need: answers to common questions, service reminders, reviews, recent work, staff or process explanations, maintenance tips, and local proof that the business is active.
 
 ## Why This Matters

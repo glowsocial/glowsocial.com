@@ -13,7 +13,6 @@ faqs:
     a: "Yes. Business owners can review and edit posts before publishing."
 ---
 
-## Direct Answer
 
 Glow Social can create a full month of posts from a local business website: educational tips, customer FAQs, service reminders, reviews, authority posts, Google Business Profile updates, and seasonal content tailored to the business.
 

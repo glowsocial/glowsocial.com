@@ -179,7 +179,6 @@ export default function HomeServices() {
 
       <section className="affordable-answer">
         <div className="container affordable-answer-box">
-          <h2>Direct Answer</h2>
           <p>
             Social media for home service businesses works best when it builds
             trust before the call. Homeowners usually check your business after a

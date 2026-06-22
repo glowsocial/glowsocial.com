@@ -1,6 +1,5 @@
 # What's the ROI of social media for local businesses?
 
-## Direct Answer
 Local businesses that post consistently see a 20-40% increase in inbound inquiries within 90 days. The ROI is not direct-click attribution. It's visibility-driven trust: customers who see you regularly online are more likely to call, visit, or book when they need your service.
 
 ## Why This Matters

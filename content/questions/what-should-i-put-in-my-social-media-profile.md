@@ -1,6 +1,5 @@
 # What should I put in my social media profile?
 
-## Direct Answer
 Your business name, what you do, who you serve, your location, and a link to your website or booking page. Add your logo as the profile photo and a photo of your work, team, or storefront as the cover/banner image. That's it — skip the motivational quotes.
 
 ## Why This Matters

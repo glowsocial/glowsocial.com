@@ -17,7 +17,6 @@ relatedResources:
 
 # What is the TikTok bio character limit in 2026?
 
-## Direct Answer
 Use **80 characters** as the safest TikTok bio planning limit in 2026 unless your own TikTok account clearly shows a longer field. Some accounts and tests may show different limits, but an 80-character bio is the conservative version that will fit cleanly.
 
 Write the bio so the first 80 characters stand alone: who you help, what you do, and why someone should follow or tap the link.

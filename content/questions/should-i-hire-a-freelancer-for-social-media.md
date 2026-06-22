@@ -17,7 +17,6 @@ relatedResources:
 
 # Should I hire a freelancer for social media?
 
-## Direct Answer
 Hire a freelancer for social media if you need human creative judgment, original photos or videos, comments and DMs handled, campaign planning, reporting, or a person making decisions every month. Do not hire a freelancer only because your page needs basic consistent posts; a scheduler or done-for-you posting workflow may solve that at lower cost.
 
 ## Why This Matters

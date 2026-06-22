@@ -186,7 +186,6 @@ export default function GoogleBusinessProfilePostingServicePage() {
 
       <section className="affordable-answer">
         <div className="container affordable-answer-box">
-          <h2>Direct Answer</h2>
           <p>
             A Google Business Profile posting service keeps regular updates on
             your Google listing so local customers see a current, active

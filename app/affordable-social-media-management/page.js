@@ -187,7 +187,6 @@ export default function AffordableSocialMediaManagementPage() {
 
       <section className="affordable-answer">
         <div className="container affordable-answer-box">
-          <h2>Direct Answer</h2>
           <p>
             Yes, a small business can get social media management under $100/month
             when the job is steady organic posting, not full agency strategy.

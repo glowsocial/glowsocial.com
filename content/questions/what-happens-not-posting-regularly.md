@@ -1,6 +1,5 @@
 # What happens if you don't post on social media regularly?
 
-## Direct Answer
 Your business becomes invisible to the algorithm and to customers. Social platforms stop showing your content to followers after 2-3 weeks of inactivity, and potential customers who find your page see a stale profile that signals "closed" or "doesn't care."
 
 ## Why This Matters

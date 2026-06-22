@@ -13,7 +13,6 @@ faqs:
     a: "It is enough to measure consistency, profile activity, and early indicators. Full ROI depends on sales cycle, industry, pricing, and how customers buy."
 ---
 
-## Direct Answer
 
 After 90 days of consistent posting, a local business usually has a stronger public trust signal: recent posts, more proof, fewer abandoned profiles, and a clearer baseline for what topics drive engagement, profile clicks, and customer conversations.
 

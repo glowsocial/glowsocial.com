@@ -1,6 +1,5 @@
 # What social media platforms should a local business be on?
 
-## Direct Answer
 Google Business Profile, Facebook, and Instagram — in that order. Google Business Profile is the single highest-impact platform for local businesses because it directly affects local search rankings and drives phone calls. Facebook is where most local customers go to check reviews and hours. Instagram is visual proof that your business is active and worth hiring. Add LinkedIn if you're B2B or professional services, and consider Pinterest if you're in a visual industry like home decor, food, or weddings.
 
 ## Why This Matters

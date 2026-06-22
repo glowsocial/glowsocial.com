@@ -15,7 +15,6 @@ relatedResources:
 
 # How much does social media cost for a salon?
 
-## Direct Answer
 Salon social media usually costs $0 plus owner or stylist time for DIY, $15-$100/month for scheduling software, $300-$1,500/month for a freelancer, $1,500+/month for an agency, or $99-$299/month for done-for-you automation. The right option depends on whether the salon needs content ideas, publishing, photo/video help, or full strategy.
 
 ## Typical Cost Ranges

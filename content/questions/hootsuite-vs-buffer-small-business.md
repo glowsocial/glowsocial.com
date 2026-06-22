@@ -17,7 +17,6 @@ relatedResources:
 
 # Hootsuite vs Buffer: which is better for a small business?
 
-## Direct Answer
 Buffer is usually better for a small business that already has posts ready and only needs a simple, low-cost scheduler. Hootsuite is better for a business or team that needs a social inbox, analytics, monitoring, recommendations, collaboration, and broader management workflows. Neither tool is the best answer if the business has no posts ready to schedule.
 
 ## Why This Matters

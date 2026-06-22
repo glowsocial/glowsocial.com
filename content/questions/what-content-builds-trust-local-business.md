@@ -1,6 +1,5 @@
 # What social media content builds trust for a local business?
 
-## Direct Answer
 The social media content that builds trust for a local business includes reviews, before-and-after photos, team introductions, customer FAQs, process explanations, service reminders, and proof of recent work.
 
 ## Why This Matters

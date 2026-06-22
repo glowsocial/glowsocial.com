@@ -4,7 +4,6 @@ date: "2026-05-09"
 
 # Should I hire a social media manager or do it myself?
 
-## Direct Answer
 If your revenue is under $500K and you don't have a dedicated marketing budget, do it yourself with an AI-powered tool. Hire a human when you need community management, DM-based sales, or influencer outreach that AI cannot handle yet.
 
 ## Why This Matters

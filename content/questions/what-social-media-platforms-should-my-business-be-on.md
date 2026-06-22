@@ -1,6 +1,5 @@
 # What social media platforms should my business be on?
 
-## Direct Answer
 At minimum: Google Business Profile, Facebook, and Instagram. Add LinkedIn if you serve other businesses. Add Pinterest if your work is visual (interior design, food, events). Add X, Bluesky, or Threads if your customers are in those conversations. The right answer is: claim your name everywhere, but actively post on 2-3.
 
 ## Why This Matters

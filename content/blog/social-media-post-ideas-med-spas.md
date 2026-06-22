@@ -13,7 +13,6 @@ faqs:
     a: "Yes, but only with proper permission and careful handling of claims, privacy, and expectations."
 ---
 
-## Direct Answer
 
 Med spas should post content that builds confidence: treatment education, provider authority, realistic expectations, reviews, aftercare tips, before-and-after proof with permission, and booking reminders.
 

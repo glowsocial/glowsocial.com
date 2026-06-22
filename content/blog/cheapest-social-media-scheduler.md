@@ -23,7 +23,6 @@ But the cheapest subscription is not always the cheapest way to keep a business 
 
 Here is the plain comparison.
 
-## Direct Answer: Cheapest Social Media Scheduler
 
 The cheapest social media scheduler depends on what you need:
 

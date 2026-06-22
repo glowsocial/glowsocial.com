@@ -22,7 +22,6 @@ Instagram captions still matter in 2026, but not because every post needs a long
 
 The caption's job is to make the post easier to understand, easier to save, or easier to act on. For small businesses, that usually means clarity beats cleverness.
 
-## Direct Answer: Instagram Caption Best Practices
 
 In 2026, Instagram captions can be up to **2,200 characters**, but most business captions should be much shorter.
 

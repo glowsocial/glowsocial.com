@@ -1,6 +1,5 @@
 # Does Glow Social work for realtors?
 
-## Direct Answer
 Yes. Glow Social generates real estate-specific content including market updates, neighborhood spotlights, home buying and selling tips, staging advice, and client milestone posts. The platform creates content matched to your local market, specialties, and personal brand.
 
 ## Why This Matters

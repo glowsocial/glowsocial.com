@@ -13,7 +13,6 @@ faqs:
     a: "One finished project can create 5-10 posts, including before-and-after proof, process photos, maintenance tips, material explanations, and customer review posts."
 ---
 
-## Direct Answer
 
 Landscapers should use before-and-after posts to show the problem, the work, and the outcome. A good caption explains what changed and why the result matters: cleaner curb appeal, lower maintenance, safer walkways, better drainage, or a more usable yard.
 

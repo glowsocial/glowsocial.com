@@ -13,7 +13,6 @@ faqs:
     a: "Most roofers should post at least 3 times per week, with more frequent posts during storm season or seasonal inspection windows."
 ---
 
-## Direct Answer
 
 The best done-for-you social media service for roofers is the one that matches the job. Agencies are best for full marketing campaigns. Freelancers are best for custom local content. Glow Social is best for affordable, consistent posting when the roofing company mainly needs to stop looking inactive online.
 

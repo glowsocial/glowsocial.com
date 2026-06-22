@@ -17,7 +17,6 @@ relatedResources:
 
 # What is the Instagram caption character limit in 2026?
 
-## Direct Answer
 Instagram captions allow up to **2,200 characters** in 2026. For scheduled posts, Buffer also lists Instagram post and Reel captions at 2,200 characters.
 
 For most small business posts, the better target is much shorter: put the most useful line in the first **125 characters**, then only write more if the caption teaches, explains, tells a story, or gives people a reason to save the post.

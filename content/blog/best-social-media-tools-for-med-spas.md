@@ -13,7 +13,6 @@ faqs:
     a: "Yes, but med spas should use AI carefully and review sensitive treatment claims before publishing."
 ---
 
-## Direct Answer
 
 Med spas need social media tools that support trust, education, and visual proof. Use Canva for visuals, scheduling tools for prepared posts, agencies for full campaigns, and done-for-you automation when the team needs consistent content without managing every post manually.
 

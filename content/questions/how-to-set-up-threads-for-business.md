@@ -1,6 +1,5 @@
 # How do I set up Threads for my business?
 
-## Direct Answer
 You need an Instagram account first. Download the Threads app, tap "Log in with Instagram," and your name and profile photo carry over automatically. Write your bio (or use the same one from Instagram), choose whether to follow the same accounts, and tap "Join Threads." The entire setup takes under 2 minutes if you already have Instagram.
 
 ## Why This Matters

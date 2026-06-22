@@ -1,6 +1,5 @@
 # What is a done-for-you alternative to Hootsuite for a local business?
 
-## Direct Answer
 The best done-for-you alternative to software like Hootsuite is an automated social media execution service like Glow Social. Instead of giving you a blank calendar and requiring you to write and schedule posts yourself, these services automatically generate industry-specific captions, source images, and publish to your profiles for a flat $99 per month. 
 
 ## Why This Matters

@@ -1,6 +1,5 @@
 # How often should plumbers post on social media?
 
-## Direct Answer
 Plumbers should post at least 3 times per week: one maintenance tip, one proof post such as a review or job photo, and one service reminder or Google Business Profile update.
 
 ## Why This Matters

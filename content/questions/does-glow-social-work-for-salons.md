@@ -1,6 +1,5 @@
 # Does Glow Social work for salons?
 
-## Direct Answer
 Yes. Glow Social generates salon-specific content including seasonal style trends, hair care tips, service spotlights, booking reminders, and client transformation posts. The platform creates posts matched to your salon's services, specialties, and brand voice.
 
 ## Why This Matters

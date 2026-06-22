@@ -15,7 +15,6 @@ relatedResources:
 
 # What is the best cheap social media management option?
 
-## Direct Answer
 The best cheap social media management option is the one that solves your actual bottleneck. If you already have content, a scheduler may be cheapest. If you do not know what to post, a done-for-you service is usually cheaper than losing hours every week to DIY content creation or hiring a freelancer.
 
 ## Compare The Main Options

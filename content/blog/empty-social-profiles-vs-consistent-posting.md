@@ -13,7 +13,6 @@ faqs:
     a: "Most local businesses should post at least 3 times per week, or enough that the most recent post is always current."
 ---
 
-## Direct Answer
 
 Empty or abandoned social profiles make customers hesitate. Consistent posting shows that the business is active, responsive, and still serving customers. For local businesses, that trust signal can matter before a customer calls, books, or requests a quote.
 

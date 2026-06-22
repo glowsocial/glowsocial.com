@@ -15,7 +15,6 @@ relatedResources:
 
 # What should a roofer post on social media?
 
-## Direct Answer
 A roofer should post completed projects, storm-prep tips, leak warning signs, inspection reminders, customer reviews, service-area updates, warranty or financing notes, and seasonal roof maintenance advice. Roofing content should reduce risk and help homeowners know when to request an estimate.
 
 ## Best Post Categories For Roofers

@@ -1,6 +1,5 @@
 # How to compete with bigger businesses on social media?
 
-## Direct Answer
 Be more local, more personal, and more consistent than they are. Big businesses have budget but lack authenticity and local relevance. A small business that posts consistently about its specific community, customers, and expertise will outperform a national chain's generic content with local audiences every time.
 
 ## Why This Matters

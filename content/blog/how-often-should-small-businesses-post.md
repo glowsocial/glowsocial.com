@@ -4,7 +4,6 @@ date: "2026-05-09"
 
 # How often should small businesses post on social media?
 
-## Direct Answer
 3-5 times per week per platform is a good target, but the more useful rule for most local businesses is simpler: 3 solid posts per week beats daily filler content. Consistency matters more than volume, and the real risk is letting social media become another job that keeps getting dropped.
 
 If that is already happening, the better next step is not more frequency theory. It is to [see posts from your website first](/preview) and decide whether review-and-approve is easier than creating every post yourself.

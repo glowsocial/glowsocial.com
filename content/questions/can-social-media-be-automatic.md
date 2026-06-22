@@ -17,7 +17,6 @@ relatedResources:
 
 # Can social media be automatic for a small business?
 
-## Direct Answer
 Yes. Social media can be automatic for baseline posting: post ideas, captions, simple graphics, scheduling, and publishing. It should not be fully automatic for comments, DMs, complaints, sensitive claims, live updates, or final business judgment.
 
 ## Why This Matters

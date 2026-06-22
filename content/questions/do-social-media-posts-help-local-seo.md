@@ -15,7 +15,6 @@ relatedResources:
 
 # Do social media posts help local SEO?
 
-## Direct Answer
 Social media posts can support local SEO, but they are not a direct substitute for reviews, service pages, citations, and a complete Google Business Profile. Their main value is indirect: they create freshness, trust, public proof, branded search signals, and profile activity that customers may check before calling.
 
 ## Where Social Helps

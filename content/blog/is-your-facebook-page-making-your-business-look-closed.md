@@ -21,7 +21,6 @@ They get your name from a friend. They Google you. They click the Facebook resul
 
 If your last post is old, your cover photo is stale, your hours are wrong, and your page looks half-finished, the customer may wonder whether you are still open.
 
-## Direct Answer
 
 Yes, an inactive Facebook page can make a local business look closed. Customers may interpret old posts, outdated information, missing photos, and unanswered messages as signs that the business is inactive, unreliable, or no longer taking customers.
 

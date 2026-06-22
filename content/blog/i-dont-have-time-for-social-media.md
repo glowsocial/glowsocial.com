@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # I don't have time for social media
 
-## Direct Answer
 You're not wrong — managing social media properly takes 8 to 12 hours per month when done manually. But you don't have to do it manually anymore. AI-powered done-for-you platforms create and publish professional posts automatically, reducing your time commitment from hours per week to minutes per month.
 
 ## Why This Matters

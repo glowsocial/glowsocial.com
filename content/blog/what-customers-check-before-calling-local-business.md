@@ -22,7 +22,6 @@ That check is fast, quiet, and hard to measure.
 
 If what they find feels current and credible, they call. If it feels stale or confusing, they may choose someone else.
 
-## Direct Answer
 
 Before calling a local business, customers commonly check Google Business Profile, reviews, recent photos, Facebook or Instagram activity, the website, hours, services, service area, contact options, and signs that the business is still active.
 

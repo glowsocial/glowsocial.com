@@ -13,7 +13,6 @@ faqs:
     a: "Typical options range from $99-$299 per month for done-for-you automation to $300-$1,500 for freelancers and $1,500+ for agencies."
 ---
 
-## Direct Answer
 
 The best social media service for plumbers is the one that solves the real bottleneck. If the plumber needs more leads, an agency may fit. If they need consistent visibility and trust-building posts without extra desk work, done-for-you automation is usually the practical starting point.
 

@@ -17,7 +17,6 @@ faqs:
     a: "Do not fully automate customer replies, complaint handling, crisis communication, sensitive medical/legal/financial claims, community relationships, live event coverage, or final approval for high-risk content."
 ---
 
-## Direct Answer
 
 The best social media tasks to automate are the repetitive production tasks: generating post ideas, drafting captions, adapting posts for each platform, scheduling, publishing, repurposing existing content, and creating basic reports.
 

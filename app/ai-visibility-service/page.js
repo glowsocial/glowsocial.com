@@ -181,7 +181,6 @@ export default function AIVisibilityPage() {
 
       <section className="affordable-answer">
         <div className="container affordable-answer-box">
-          <h2>Direct Answer</h2>
           <p>
             An AI visibility service helps a business become easier for AI assistants to discover,
             understand, verify, and cite. For local businesses, that usually means clear service pages,

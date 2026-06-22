@@ -1,6 +1,5 @@
 # Should I use Buffer or done-for-you social media?
 
-## Direct Answer
 Use Buffer if you already create your own content and mainly need scheduling. Use done-for-you social media if the hard part is deciding what to post, writing captions, creating graphics, and staying consistent.
 
 ## Why This Matters

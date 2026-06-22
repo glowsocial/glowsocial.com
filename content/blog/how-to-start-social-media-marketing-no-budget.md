@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # How to start social media marketing with no budget
 
-## Direct Answer
 To start social media marketing with no budget, set up free business profiles on Google Business Profile, Facebook, and Instagram using your existing website content. Use a [free setup tool](/setup) to generate platform-specific bios, pull your logo, and identify which accounts you still need to create — then post 3 times per week using your phone and your existing expertise.
 
 ## Why This Matters

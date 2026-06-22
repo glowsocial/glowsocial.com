@@ -15,7 +15,6 @@ relatedResources:
 
 # What is the best social media service for roofers?
 
-## Direct Answer
 The best social media service for roofers creates consistent posts from project photos, reviews, storm-prep tips, maintenance advice, service-area updates, financing reminders, and Google Business Profile content. Roofers usually need trust and proof more than trendy social content.
 
 ## What Roofing Buyers Need To See

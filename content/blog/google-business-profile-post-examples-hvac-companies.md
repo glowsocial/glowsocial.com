@@ -13,7 +13,6 @@ faqs:
     a: "Yes. They help the business look active at the moment homeowners are checking Google Search or Maps before calling."
 ---
 
-## Direct Answer
 
 HVAC companies should use Google Business Profile posts for timely, local, high-intent updates: maintenance reminders, emergency availability, tune-up offers, review highlights, and weather-driven service prompts.
 

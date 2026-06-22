@@ -17,7 +17,6 @@ Publer and Buffer are both affordable social media scheduling tools. They are al
 
 They can help you organize and publish posts. They do not remove the need to create the posts.
 
-## Direct Answer
 
 Choose **Buffer** if you want the simplest scheduler for a small number of channels.
 

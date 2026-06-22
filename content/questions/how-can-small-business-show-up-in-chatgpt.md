@@ -18,7 +18,6 @@ relatedResources:
 
 # How can a small business show up in ChatGPT?
 
-## Direct Answer
 A small business can improve its chances of showing up in ChatGPT by publishing clear service pages, keeping public profiles consistent, earning reviews, answering customer questions on its website, and creating recent public content that proves the business is active and real. No one can guarantee a ChatGPT recommendation, but clear, crawlable, consistent evidence gives AI systems more to work with.
 
 ## What ChatGPT Needs Before It Can Recommend You

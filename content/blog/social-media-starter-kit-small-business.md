@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # Social media starter kit for small business
 
-## Direct Answer
 A social media starter kit for small business includes platform-specific bios, your logo and images sized correctly for each network, direct links to create accounts on every major platform, and a simple posting schedule. You can generate all of this for free at [glowsocial.com/setup](/setup) — just enter your website URL.
 
 ## Why This Matters

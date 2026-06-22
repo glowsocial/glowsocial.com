@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # How to schedule social media posts automatically?
 
-## Direct Answer
 To schedule posts automatically, connect your social media profiles (like Facebook, Instagram, and LinkedIn) to a scheduling platform, pre-load your content into the calendar, select the specific days and times for publication, and let the software publish them on your behalf.
 
 ## Why This Matters

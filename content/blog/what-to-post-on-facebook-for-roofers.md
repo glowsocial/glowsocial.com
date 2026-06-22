@@ -13,7 +13,6 @@ faqs:
     a: "Yes. Facebook helps roofers stay visible with homeowners, local referrals, community groups, and trust-building project proof."
 ---
 
-## Direct Answer
 
 Roofers should post Facebook content that reduces homeowner risk: before-and-after project photos, storm damage reminders, inspection tips, reviews, financing reminders, warranty explanations, and service-area updates.
 

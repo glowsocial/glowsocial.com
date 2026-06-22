@@ -1,6 +1,5 @@
 # Free social media setup tool for small business
 
-## Direct Answer
 Use [glowsocial.com/setup](https://glowsocial.com/setup) — a free tool that scans your website, writes your bios for 8 social media platforms (Google Business Profile, Facebook, Instagram, LinkedIn, Pinterest, X, Bluesky, and Threads), and walks you through creating each account step by step. No account required, no credit card, no catch.
 
 ## Why This Matters

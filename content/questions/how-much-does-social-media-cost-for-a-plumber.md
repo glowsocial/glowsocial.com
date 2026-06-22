@@ -15,7 +15,6 @@ relatedResources:
 
 # How much does social media cost for a plumber?
 
-## Direct Answer
 Social media for a plumbing company usually costs $0 plus owner time for DIY, $15-$100/month for scheduling software, $300-$1,500/month for a freelancer, $1,500+/month for an agency, or $99-$299/month for done-for-you automation. The real cost depends on whether the plumber needs publishing, content creation, strategy, or all three.
 
 ## Typical Cost Ranges

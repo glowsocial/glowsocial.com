@@ -29,7 +29,6 @@ relatedResources:
 
 # What are the 2026 social media caption and character limits?
 
-## Direct Answer
 For scheduled business posts in 2026, use these safe limits: Instagram captions 2,200 characters, TikTok captions 2,200, LinkedIn posts 3,000, Google Business Profile posts 1,500, Facebook page captions 5,000 through Buffer, Threads 500, Bluesky 300, and X free accounts 280. Native platform limits can be higher in some cases, but scheduler and API limits are the safer ceiling when planning reusable social content.
 
 For the fuller platform-by-platform breakdown, see the [Social Media Caption Limits 2026 guide](/blog/social-media-caption-length).

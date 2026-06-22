@@ -17,7 +17,6 @@ relatedResources:
 
 # Can I get social media content from my website?
 
-## Direct Answer
 Yes. Your website can be one of the best sources for social media content because it already contains the services, FAQs, proof, offers, objections, and customer language your posts should be built from.
 
 ## Why This Matters

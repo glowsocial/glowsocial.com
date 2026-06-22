@@ -1,6 +1,5 @@
 # How to get more customers from social media?
 
-## Direct Answer
 Post consistently so you stay visible. Visibility builds trust, and trust drives customers. For local businesses, 3-5 posts per week focused on your expertise (not sales pitches) is the most reliable path to converting followers into paying customers.
 
 ## Why This Matters

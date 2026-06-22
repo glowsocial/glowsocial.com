@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { getAllQuestions, getQuestionBySlug } from "@/lib/posts";
+import { extractAnswerText, getAllQuestions, getQuestionBySlug } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 import Link from "next/link";
 import AuthorBio, { PersonJsonLd } from "@/app/components/AuthorBio";
@@ -70,27 +70,8 @@ function ArticleJsonLd({ title, description, date, updated, slug, body }) {
   );
 }
 
-function stripMarkdown(value) {
-  return value
-    .replace(/```[\s\S]*?```/g, "")
-    .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-    .replace(/^#{1,6}\s+/gm, "")
-    .replace(/^\s*>\s?/gm, "")
-    .replace(/^\s*[-*+]\s+/gm, "")
-    .replace(/^\s*\d+\.\s+/gm, "")
-    .replace(/[*_`]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function getDirectAnswer(content, fallback = "") {
-  const match = content.match(/## Direct Answer\r?\n([\s\S]*?)(?=\r?\n##|$)/);
-  return stripMarkdown(match ? match[1] : fallback);
-}
-
 function QuestionFaqJsonLd({ question }) {
-  const answer = getDirectAnswer(question.content, question.description);
+  const answer = extractAnswerText(question.content, question.description);
   if (!answer) return null;
 
   const schema = {

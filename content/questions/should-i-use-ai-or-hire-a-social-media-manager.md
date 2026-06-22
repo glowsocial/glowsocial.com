@@ -20,7 +20,6 @@ relatedResources:
 
 # Should I use AI or hire a social media manager?
 
-## Direct Answer
 Use AI when you mainly need baseline consistency: posts drafted, graphics prepared, captions adapted, and approved content published. Hire a social media manager when you need strategy, campaign planning, community management, paid ads, influencer work, or nuanced brand judgment.
 
 ## Why This Matters

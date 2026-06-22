@@ -1,6 +1,5 @@
 # What is social media automation?
 
-## Direct Answer
 Social media automation uses software to reduce manual work in planning, creating, scheduling, publishing, or repurposing posts. Some tools only schedule content; others also generate posts.
 
 ## Why This Matters

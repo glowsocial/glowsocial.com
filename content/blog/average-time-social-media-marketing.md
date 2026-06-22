@@ -21,7 +21,6 @@ If you've ever wondered how much time social media marketing *actually* takes, y
 
 Here's the real data on the **average time spent on social media marketing** for a small business.
 
-## Direct Answer: Average Social Media Marketing Time
 
 **Most small businesses spend 3-10 hours per week on social media marketing.** That is 12-40 hours per month once you include content planning, writing, graphics, publishing, comments, and light reporting.
 

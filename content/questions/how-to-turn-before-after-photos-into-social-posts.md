@@ -1,6 +1,5 @@
 # How do you turn before-and-after photos into social posts?
 
-## Direct Answer
 Turn before-and-after photos into social posts by explaining the starting problem, what changed, why it matters, and what result the customer gets now.
 
 ## Why This Matters

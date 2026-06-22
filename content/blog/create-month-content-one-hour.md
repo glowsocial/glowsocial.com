@@ -22,7 +22,6 @@ Instead of asking "what should I post today?" every few days, you answer the que
 
 For local businesses, the goal is not to create a perfect content calendar. The goal is to keep the business looking active, useful, and trustworthy when customers check.
 
-## Direct Answer
 
 Yes, you can batch create a month of social media content in one focused hour if you keep the month simple: 12 posts, three posts per week, built from business material you already have.
 

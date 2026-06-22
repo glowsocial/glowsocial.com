@@ -13,7 +13,6 @@ faqs:
     a: "Most dental practices should post 3 times per week to stay visible without overwhelming the team."
 ---
 
-## Direct Answer
 
 Dentists should post content that reduces anxiety and builds trust before a patient books. The best topics are preventive care, common patient questions, treatment explanations, reviews, office culture, and reminders to schedule care.
 

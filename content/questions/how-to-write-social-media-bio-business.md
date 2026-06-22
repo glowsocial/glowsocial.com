@@ -1,6 +1,5 @@
 # How to write a social media bio for a business
 
-## Direct Answer
 State what you do, who you help, and where you're located — in that order. Keep it under the platform's character limit (150 for Instagram, 101 for Twitter/X, 2,000 for LinkedIn). Skip motivational quotes and clever wordplay. A customer scanning your profile needs to know in 3 seconds whether you can solve their problem.
 
 ## Why This Matters

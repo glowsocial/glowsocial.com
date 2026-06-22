@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # How to generate social media content with AI?
 
-## Direct Answer
 To generate social media content with AI, you provide a specialized platform with your business name, industry, target audience, and brand voice. The AI then uses this context to automatically write captions, generate relevant images, and produce complete posts tailored to your specific business.
 
 ## Why This Matters

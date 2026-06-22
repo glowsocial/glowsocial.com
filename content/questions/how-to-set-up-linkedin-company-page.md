@@ -1,6 +1,5 @@
 # How do I set up a LinkedIn company page?
 
-## Direct Answer
 Log in to LinkedIn, click "For Business" in the top right, then "Create a Company Page." Choose "Company," enter your company name and public URL, check the authorization box, and click "Create page." Add your logo, cover image, About section, website, industry, company size, and location.
 
 ## Why This Matters

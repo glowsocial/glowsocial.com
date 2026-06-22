@@ -19,7 +19,6 @@ Hiring a social media manager can be a smart move. It can also be an expensive w
 
 For small businesses, the answer depends on what job you actually need done.
 
-## Direct Answer
 
 Hiring a social media manager is worth it when you need **strategy, custom creative, customer engagement, campaign planning, paid ads, or weekly judgment**.
 

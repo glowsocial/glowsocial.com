@@ -29,7 +29,6 @@ The answer depends on the platform. What works on LinkedIn would flop on TikTok.
 
 Here's the definitive guide to caption length and character limits for every major platform in 2026, including Instagram, TikTok, Facebook, LinkedIn, Google Business Profile, Instagram bio limits, comment limits, and the DM-related questions people actually search.
 
-## Direct Answer: Social Media Caption Limits
 
 The Instagram caption character limit is **2,200 characters** in 2026. The ideal Instagram caption length is shorter for most posts: **138-150 characters**, with the hook in the first **125 characters** before the "more" cutoff.
 

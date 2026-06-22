@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # How long does it take to manage social media?
 
-## Direct Answer
 For a small business posting 3-4 times a week, managing social media manually takes roughly 8 to 12 hours per month. However, by using an AI-powered content creation and scheduling platform, that time can be reduced to just 5 minutes per month.
 
 ## Why This Matters

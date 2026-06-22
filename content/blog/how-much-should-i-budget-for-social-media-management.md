@@ -19,7 +19,6 @@ Most small businesses ask the budget question too late. They start by comparing 
 
 The useful question is: **how much should I budget to keep my social media active without creating another job for myself?**
 
-## Direct Answer: Social Media Management Budget
 
 Most small businesses should budget **$99-$500/month** for social media management.
 

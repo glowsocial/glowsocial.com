@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # What's the biggest challenge with social media marketing?
 
-## Direct Answer
 The biggest challenge with social media marketing is consistency—not strategy, not graphic design, and not paid ads. Simply showing up regularly is where the vast majority of local businesses fail.
 
 ## Why This Matters

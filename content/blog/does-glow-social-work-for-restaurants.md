@@ -4,7 +4,6 @@ date: "2026-05-09"
 
 # Does Glow Social work for restaurants?
 
-## Direct Answer
 Yes. Glow Social generates restaurant-specific content including seasonal menu highlights, behind-the-scenes kitchen moments, customer appreciation posts, and local event tie-ins. The platform pulls context from your restaurant's website and menu to create posts that match your cuisine, atmosphere, and location.
 
 ## Why This Matters

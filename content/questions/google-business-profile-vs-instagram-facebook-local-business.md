@@ -17,7 +17,6 @@ relatedResources:
 
 # Should a local business focus on Google Business Profile, Instagram, or Facebook?
 
-## Direct Answer
 A local business should usually focus on Google Business Profile first, then Facebook and Instagram. Google Business Profile captures high-intent search and Maps visibility. Facebook and Instagram help customers confirm the business is active, trustworthy, and current before they call, book, or visit.
 
 ## Why This Matters

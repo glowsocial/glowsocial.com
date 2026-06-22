@@ -156,7 +156,6 @@ export default function ToolsPage() {
 
       <main className="tools-shell">
         <section className="tools-answer" aria-labelledby="tools-direct-answer">
-          <p className="tools-kicker">Direct Answer</p>
           <h2 id="tools-direct-answer">What are the best social media calculators for a local business?</h2>
           <p>
             The most useful social media calculators answer four decisions: how

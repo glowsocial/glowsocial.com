@@ -15,7 +15,6 @@ relatedResources:
 
 # What is the best social media service for med spas?
 
-## Direct Answer
 The best social media service for med spas creates polished, trust-building content from treatment education, FAQs, reviews, provider expertise, before-and-after guidance, booking reminders, and seasonal offers. Med spas need content that feels credible and careful, not generic wellness fluff.
 
 ## What Med Spa Clients Need To Know

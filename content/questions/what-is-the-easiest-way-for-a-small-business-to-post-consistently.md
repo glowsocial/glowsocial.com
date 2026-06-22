@@ -20,7 +20,6 @@ relatedResources:
 
 # What is the easiest way for a small business to post consistently?
 
-## Direct Answer
 The easiest way for a small business to post consistently is to stop deciding from scratch every day. Use a repeatable mix such as one helpful tip, one proof post, one service reminder, and one local or seasonal update each week, then review and approve the posts instead of creating each one from scratch.
 
 ## Why This Matters

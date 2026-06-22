@@ -15,7 +15,6 @@ relatedResources:
 
 # What should a med spa post on social media?
 
-## Direct Answer
 A med spa should post treatment education, provider expertise, consultation prompts, aftercare tips, reviews, seasonal skin care advice, before-and-after guidance where appropriate, and answers to common client questions. The best content builds confidence before someone books.
 
 ## Best Post Categories For Med Spas

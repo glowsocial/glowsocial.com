@@ -1,6 +1,5 @@
 # How to save time on social media marketing?
 
-## Direct Answer
 Batch your content creation into a single session, use automation to generate the posts, and automate scheduling. This collapses 8-12 hours per month of scattered work into one focused session under 30 minutes.
 
 ## Why This Matters

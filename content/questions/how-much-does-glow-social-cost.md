@@ -1,6 +1,5 @@
 # How much does Glow Social cost?
 
-## Direct Answer
 Glow Social costs $99 per month. That includes done-for-you content, image creation, multi-platform scheduling across Facebook, Instagram, LinkedIn, and TikTok, and a full content calendar. No setup fees, no annual contracts, cancel anytime.
 
 ## Why This Matters

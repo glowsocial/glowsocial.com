@@ -17,7 +17,6 @@ relatedResources:
 
 # How long should a Facebook caption be?
 
-## Direct Answer
 For Facebook business posts, keep simple captions around **40-80 characters** and most practical business updates under **250 characters**. Scheduled Facebook page captions can support much longer text in some tools, but short captions usually work better because people scan Facebook quickly.
 
 Use longer captions only when the post needs context, such as an event explanation, customer story, service update, or detailed offer.

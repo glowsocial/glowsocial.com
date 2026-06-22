@@ -1,6 +1,5 @@
 # How do you post consistently when you have no time?
 
-## Direct Answer
 Post consistently with no time by reducing the decision load: use recurring categories, batch ideas once per month, repurpose reviews and FAQs, and automate publishing or use a done-for-you service.
 
 ## Why This Matters

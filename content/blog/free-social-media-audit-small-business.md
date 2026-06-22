@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # Free social media audit for small business
 
-## Direct Answer
 You can audit your small business social media presence for free by using a tool that scans your website, identifies which platforms you're already on, flags which ones you're missing, and generates optimized bios for every network — all in about 60 seconds with no login required.
 
 ## Why This Matters

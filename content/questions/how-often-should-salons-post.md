@@ -1,6 +1,5 @@
 # How often should salons post on social media?
 
-## Direct Answer
 Salons should post 3-5 times per week if they have enough client photos and service content. The minimum useful cadence is 3 posts per week.
 
 ## Why This Matters

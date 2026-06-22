@@ -1,6 +1,5 @@
 # How do I set up a Google Business Profile?
 
-## Direct Answer
 Go to business.google.com, click "Manage now," search for your business name, and either claim it or add it as new. Enter your business name, category, address (or service area), phone number, and website. Google will send a verification postcard or phone call — this takes 5-14 days, but you can edit your profile while waiting.
 
 ## Why This Matters

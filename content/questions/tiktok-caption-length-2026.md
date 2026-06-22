@@ -17,7 +17,6 @@ relatedResources:
 
 # What is the TikTok caption length limit in 2026?
 
-## Direct Answer
 For scheduled TikTok posts in 2026, use **2,200 characters** as the safest caption limit. Native TikTok tests and ad placements can behave differently, but 2,200 characters is the safer ceiling when content is going through a scheduler or API-based publishing tool.
 
 For most small business posts, the better target is **50-150 characters**. The caption should support the video, add one searchable phrase, and leave room for a few relevant hashtags.

@@ -23,7 +23,6 @@ That is reasonable. The confusing part is that Later's public pricing page leads
 
 Here is the clean small-business version.
 
-## Direct Answer: Later Free Plan, Trial, and Pricing
 
 As of this June 22, 2026 refresh, Later has a **limited Free plan** and a **14-day free trial** for paid social media management plans. Later's help center says the Free plan lets creators schedule a limited number of posts each month or participate in brand campaigns. Later's public pricing page highlights paid plans: Starter, Growth, and Scale.
 

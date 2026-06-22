@@ -1,6 +1,5 @@
 # Can AI create social media posts from a website?
 
-## Direct Answer
 Yes, AI can create social media posts from a website by using the site's services, tone, location, offers, and customer language as source material. This usually produces better content than a generic prompt.
 
 ## Why This Matters

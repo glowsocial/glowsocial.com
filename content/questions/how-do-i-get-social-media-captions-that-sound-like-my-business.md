@@ -17,7 +17,6 @@ relatedResources:
 
 # How do I get social media captions that sound like my business?
 
-## Direct Answer
 The best way to get captions that sound like your business is to start from your real business language: website copy, reviews, FAQs, service descriptions, and the way customers describe what they needed help with.
 
 ## Why This Matters

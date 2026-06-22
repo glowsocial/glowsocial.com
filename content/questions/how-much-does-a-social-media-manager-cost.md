@@ -20,7 +20,6 @@ relatedResources:
 
 # Social Media Manager Prices 2026: What Should You Pay?
 
-## Direct Answer
 In 2026, social media manager prices usually land around **$300-$1,500/month** for small business freelance packages, **$1,000+/month** for agencies, and **$99/month** for done-for-you posting software. Upwork lists social media managers around **$14-$35/hour**, while broader pricing guides show higher rates when strategy, ads, reporting, video, or community management are included.
 
 ## Why This Matters

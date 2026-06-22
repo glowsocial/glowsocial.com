@@ -1,6 +1,5 @@
 # How often should small businesses post on social media?
 
-## Direct Answer
 3-5 times per week per platform. For local businesses with under 1,000 followers, 3 high-quality posts per week outperform daily generic content. Consistency matters more than volume.
 
 ## Why This Matters

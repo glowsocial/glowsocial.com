@@ -1,6 +1,5 @@
 # How do I set up a Facebook business page?
 
-## Direct Answer
 Log in to your personal Facebook account, click the menu (9 dots) in the top left, click "Page," then "Create New Page." Enter your business name, choose a category, write your bio, and add a profile photo (your logo) and cover photo. Your page is live immediately — no verification wait.
 
 ## Why This Matters

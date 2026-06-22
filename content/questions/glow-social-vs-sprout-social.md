@@ -1,6 +1,5 @@
 # How is Glow Social different from Sprout Social?
 
-## Direct Answer
 Sprout Social is an enterprise-grade social listening and customer care platform built for massive marketing teams, starting at $399 per month. Glow Social is an anti-agency, done-for-you content creation platform built for local businesses at $99 per month. Sprout Social helps 50-person departments manage thousands of incoming customer messages and approval workflows. Glow Social handles the heavy lifting of actually writing and publishing content for businesses that don't have a marketing team.
 
 ## Why This Matters

@@ -22,7 +22,6 @@ video:
   duration: "PT10S"
 ---
 
-## Direct Answer
 
 AI assistants look for relevance, clarity, trust, and evidence. A local business is easier to recommend when its services are clear, its location is obvious, reviews support its quality, public profiles are consistent, and recent activity shows the business is still operating.
 

@@ -20,7 +20,6 @@ relatedResources:
 
 # What is the most affordable social media management for small businesses?
 
-## Direct Answer
 The most affordable social media management option depends on whether the business counts owner time. If time is not counted, free tools such as Meta Business Suite or Buffer's free plan are cheapest. If time is counted, a low-cost done-for-you option can be more affordable because it replaces the hours spent writing captions, making graphics, and filling a scheduler.
 
 For the low-cost software side, compare the [best social media tools under $50/month](/blog/social-media-tools-under-50).

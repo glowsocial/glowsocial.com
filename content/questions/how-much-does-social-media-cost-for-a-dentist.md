@@ -15,7 +15,6 @@ relatedResources:
 
 # How much does social media cost for a dentist?
 
-## Direct Answer
 Social media for a dental practice usually costs $0 plus staff time for DIY, $15-$100/month for scheduling software, $300-$1,500/month for a freelancer, $1,500+/month for an agency, or $99-$299/month for done-for-you automation. The right price depends on whether the practice needs consistency, custom creative, patient education, or full marketing strategy.
 
 ## Typical Cost Ranges

@@ -19,7 +19,6 @@ They do not need to be clever. They do not need to go viral. They do not need to
 
 They need to answer one practical question for a local customer who is already checking you: "Can I trust this business enough to call?"
 
-## Direct Answer
 
 If you hate marketing, use Google Business Profile posts for simple, useful local updates: service reminders, customer reviews, recent work, FAQs, seasonal tips, availability notes, offers, and photos. The goal is to keep your listing current and helpful, not to perform.
 

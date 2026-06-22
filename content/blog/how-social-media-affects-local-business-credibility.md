@@ -22,7 +22,6 @@ They may find you through Google, a referral, a truck in the neighborhood, or a 
 
 Your social profiles are one of those signals.
 
-## Direct Answer
 
 Social media affects local business credibility by showing whether the business is active, real, professional, and trusted by other customers. A current Facebook page, Instagram profile, LinkedIn page, or Google Business Profile can reassure customers before they call. A stale or abandoned profile can create doubt.
 

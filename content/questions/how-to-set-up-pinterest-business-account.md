@@ -1,6 +1,5 @@
 # How do I set up a Pinterest business account?
 
-## Direct Answer
 Go to pinterest.com/business/create/, enter your email, password, and business name. Choose your business type, add your website, and click Next. Your business account is created immediately. Then click your profile icon, "Edit profile," and add your photo and bio.
 
 ## Why This Matters

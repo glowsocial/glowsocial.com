@@ -19,7 +19,6 @@ Home service businesses—contractors, HVAC companies, plumbers, landscapers—r
 
 This guide covers what works for home service businesses specifically. For general small business advice, see our guide on [the best social media platforms for local businesses](/blog/best-platforms-local-business).
 
-## Direct Answer: Social Media for Home Services
 
 Home service social media should make homeowners trust you before they need a quote. The best posts show proof: real jobs, before-and-after photos, seasonal advice, reviews, crew professionalism, and local availability.
 

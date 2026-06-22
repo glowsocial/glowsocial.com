@@ -1,6 +1,5 @@
 # How do I set up X (Twitter) for my business?
 
-## Direct Answer
 Go to x.com, click "Create account," enter your business name, email, and date of birth. Verify your email, choose a short username (your business name with no spaces), then edit your profile to add your logo, header image, and bio. You don't need to pay for a premium account to get started.
 
 ## Why This Matters

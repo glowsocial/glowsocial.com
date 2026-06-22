@@ -183,7 +183,6 @@ export default function SocialMediaSchedulerThatCreatesContentPage() {
 
       <section className="affordable-answer">
         <div className="container affordable-answer-box">
-          <h2>Direct Answer</h2>
           <p>
             If you want a social media scheduler that creates content for you,
             look for a workflow that handles the work before scheduling: topic

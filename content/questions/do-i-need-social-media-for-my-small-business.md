@@ -1,6 +1,5 @@
 # Do I need social media for my small business?
 
-## Direct Answer
 Yes — but not for the reason most people think. You don't need social media to "go viral." You need it because it's where people verify you exist. When someone hears your name from a friend, gets your business card, or finds you on Google, their next step is checking your social media profiles. No profiles = no trust.
 
 ## Why This Matters

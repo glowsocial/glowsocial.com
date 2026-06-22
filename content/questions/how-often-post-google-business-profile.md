@@ -1,6 +1,5 @@
 # How often should you post on Google Business Profile?
 
-## Direct Answer
 Most local businesses should post on Google Business Profile 1-2 times per week. Seasonal or urgent businesses can post more often during demand spikes.
 
 ## Why This Matters

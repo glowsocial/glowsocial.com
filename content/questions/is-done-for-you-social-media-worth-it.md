@@ -15,7 +15,6 @@ relatedResources:
 
 # Is done-for-you social media worth it?
 
-## Direct Answer
 Done-for-you social media is worth it when the business needs consistent, professional public activity but the owner does not have time to plan, write, design, and publish posts every week. It is usually most valuable for local businesses where customers check social profiles before calling, booking, or trusting the business.
 
 ## When It Is Worth It

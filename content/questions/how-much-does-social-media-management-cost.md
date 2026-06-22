@@ -1,6 +1,5 @@
 # How much should a local business pay for social media management?
 
-## Direct Answer
 A local business should pay between $99 and $200 per month for foundational social media consistency using automated, done-for-you software. Traditional marketing agencies charge $500 to $2,500 per month, which is an unnecessary expense unless the business requires high-end video production, custom photography shoots, or complex paid advertising campaigns.
 
 ## Why This Matters

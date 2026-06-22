@@ -31,7 +31,6 @@ That means enough current, useful public information that a customer can verify 
 
 The goal is not to win the internet. The goal is to stop losing trust because the business looks inactive.
 
-## Direct Answer
 
 The minimum viable social media presence for a local business is a small maintained system: complete profiles on the platforms customers check, accurate contact information, recent posts, current photos, customer proof, clear services, and an easy next step to call, book, or request a quote.
 

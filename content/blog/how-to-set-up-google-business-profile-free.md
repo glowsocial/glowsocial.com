@@ -1,6 +1,5 @@
 # How to set up a Google Business Profile for free
 
-## Direct Answer
 Go to business.google.com, click "Manage now," enter your business name and category, add your address (or set a service area if you're mobile), verify by postcard or phone, then fill out every field — hours, services, description, photos, and attributes. Verification takes 3-7 days by mail. The profile is completely free and is the single most important local marketing asset most businesses underutilize.
 
 ## Why This Matters

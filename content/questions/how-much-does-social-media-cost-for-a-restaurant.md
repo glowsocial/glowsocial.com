@@ -15,7 +15,6 @@ relatedResources:
 
 # How much does social media cost for a restaurant?
 
-## Direct Answer
 Restaurant social media usually costs $0 plus manager time for DIY, $15-$100/month for scheduling software, $300-$1,500/month for a freelancer, $1,500+/month for an agency, or $99-$299/month for done-for-you automation. Restaurants that need fresh photography, video, and daily community management should expect to pay more.
 
 ## Typical Cost Ranges

@@ -15,7 +15,6 @@ relatedResources:
 
 # What should a plumber post on social media?
 
-## Direct Answer
 A plumber should post practical maintenance tips, emergency prevention advice, water heater and drain education, customer reviews, before-and-after job photos, service-area reminders, and seasonal warnings. The goal is to be remembered and trusted before a pipe bursts, drain clogs, or water heater fails.
 
 ## Best Post Categories For Plumbers

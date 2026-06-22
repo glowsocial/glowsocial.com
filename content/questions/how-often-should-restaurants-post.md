@@ -1,6 +1,5 @@
 # How often should restaurants post on social media?
 
-## Direct Answer
 Restaurants should usually post 4-7 times per week, depending on specials, events, menu changes, and available photos. Daily posting can make sense for restaurants with frequent updates.
 
 ## Why This Matters

@@ -1,6 +1,5 @@
 # How to set up all social media accounts at once
 
-## Direct Answer
 Use a social media profile kit tool that scans your website and generates platform-specific bios, images, and signup links for every major platform. This turns an 8-hour process into 15 minutes. Without a tool, batch the work: write your core bio first, then adapt it for each platform's character limits and conventions, create all accounts in one sitting, and upload your logo and cover photos while you have them sized correctly.
 
 ## Why This Matters

@@ -17,7 +17,6 @@ relatedResources:
 
 # How much time does social media marketing take for a small business?
 
-## Direct Answer
 Social media marketing usually takes a small business 3-10 hours per week if the owner or team handles it themselves. The low end covers simple posting to one or two platforms. The high end includes content planning, captions, graphics, Reels or TikToks, scheduling, comments, messages, analytics, and platform-specific adjustments.
 
 ## Why This Matters

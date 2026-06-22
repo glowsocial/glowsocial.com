@@ -13,7 +13,6 @@ faqs:
     a: "Instagram helps plumbers show proof through job photos, but Facebook and Google Business Profile are often more important for local trust and emergency-service discovery."
 ---
 
-## Direct Answer
 
 Plumbers should post content that helps homeowners prevent expensive problems and trust the company before they call. The best mix is seasonal maintenance, emergency prevention, customer reviews, job photos, team credibility, and simple explanations of plumbing issues.
 

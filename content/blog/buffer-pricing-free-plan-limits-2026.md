@@ -23,7 +23,6 @@ The part that confuses people is the limit structure. Buffer's free plan limit i
 
 Here is the plain-English breakdown.
 
-## Direct Answer: Buffer Free Plan Limits and Pricing
 
 As of June 22, 2026, Buffer's free plan lets you connect up to **3 channels** and keep up to **10 scheduled posts per channel** in the queue at one time. Instagram and TikTok can both be included, but they count as separate channels. If you connect Instagram, TikTok, and one more profile, that means up to 30 scheduled posts waiting across the free account.
 

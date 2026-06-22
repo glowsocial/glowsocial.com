@@ -15,7 +15,6 @@ relatedResources:
 
 # How do you measure social media ROI for a local business?
 
-## Direct Answer
 Measure social media ROI for a local business by tracking influenced leads, calls, bookings, website clicks, Google Business Profile actions, customer mentions, and the gross profit from customers who saw or checked the business online. Local social media often assists trust before the final call, so do not measure it only by direct clicks.
 
 ## Metrics Worth Tracking

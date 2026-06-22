@@ -19,7 +19,6 @@ Affordable social media for attorneys does not have to mean hiring a $3,000/mont
 
 That is where a done-for-you system like Glow Social fits. Glow Social turns your firm's website, practice areas, FAQs, team details, and local proof into 20 posts per month starting at $99/month. You get the consistency of a managed service without paying agency prices for strategy work you may not need yet.
 
-## Direct Answer
 
 The best affordable social media option for attorneys is a reviewable, done-for-you posting service that creates educational law-firm content without asking the attorney to write captions, design graphics, or manage a posting calendar. A law firm should still review posts for jurisdiction-specific advertising rules, but it does not need a full agency just to stay active on Facebook, LinkedIn, Instagram, and Google Business Profile.
 

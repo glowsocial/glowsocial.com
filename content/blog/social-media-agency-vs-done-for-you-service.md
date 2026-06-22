@@ -16,7 +16,6 @@ A social media agency and a done-for-you social media service are not the same t
 
 That is good news for small businesses. It means you do not have to choose between doing everything yourself and hiring a full agency team. There is a middle option when the main job is keeping your profiles active.
 
-## Direct Answer
 
 Choose a social media agency when you need strategy, paid ads, campaign planning, custom creative, community management, and reporting.
 

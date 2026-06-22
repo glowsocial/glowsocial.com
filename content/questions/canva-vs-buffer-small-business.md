@@ -17,7 +17,6 @@ relatedResources:
 
 # Canva vs Buffer: which is better for small business social media?
 
-## Direct Answer
 Canva is better when the business needs to design social graphics and schedule Canva-made posts from the same workspace. Buffer is better when the business already has finished captions, images, and videos and wants a simple publishing queue across channels. Neither tool is the best answer if the real problem is deciding what to post every week.
 
 ## Why This Matters

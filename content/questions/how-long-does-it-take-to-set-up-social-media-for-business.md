@@ -1,6 +1,5 @@
 # How long does it take to set up social media for a business?
 
-## Direct Answer
 15-30 minutes for all major platforms if you use a setup tool that generates your bios and walks you through each step. Doing it manually — writing bios from scratch, figuring out each platform's process, resizing images — takes 3-5 hours.
 
 ## Why This Matters

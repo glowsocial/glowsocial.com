@@ -1,6 +1,5 @@
 # How do you keep business social media active?
 
-## Direct Answer
 Keep business social media active by using a repeatable weekly mix: one educational post, one proof post, and one service reminder. Batch content monthly or use a done-for-you system if the team cannot maintain it.
 
 ## Why This Matters

@@ -1,6 +1,5 @@
 # Do customers check social media before calling a business?
 
-## Direct Answer
 Yes, many customers check social media before calling a local business, especially for visual, high-trust, or high-cost services. They look for recent activity, proof of work, reviews, and signs that the business is still operating.
 
 ## Why This Matters

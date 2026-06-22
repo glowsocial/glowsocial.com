@@ -15,7 +15,6 @@ relatedResources:
 
 # Can AI help a local business with social media?
 
-## Direct Answer
 Yes. AI can help a local business generate post ideas, draft captions, repurpose reviews, turn FAQs into posts, build calendars, and keep content consistent. It works best when the AI has real business context: services, location, customer questions, photos, reviews, brand voice, and examples of completed work.
 
 ## What AI Is Good At

@@ -1,6 +1,5 @@
 # What is done-for-you social media?
 
-## Direct Answer
 Done-for-you social media is a service or system that creates and publishes social media content for a business, reducing or eliminating the owner's need to plan, write, design, and schedule posts.
 
 ## Why This Matters

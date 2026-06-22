@@ -1,6 +1,5 @@
 # What platforms does Glow Social support?
 
-## Direct Answer
 Glow Social supports Facebook, Instagram, LinkedIn, and TikTok. You can connect unlimited social accounts and schedule content across all four platforms from a single dashboard. Each post is adapted to the platform's format and best practices.
 
 ## Why This Matters

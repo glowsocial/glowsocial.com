@@ -1,6 +1,5 @@
 # How do you turn FAQs into social media posts?
 
-## Direct Answer
 Turn FAQs into social media posts by answering one customer question clearly, explaining why it matters, giving a quick example, and ending with a simple next step.
 
 ## Why This Matters

@@ -29,7 +29,6 @@ relatedResources:
 
 # Is a social media scheduler enough for a small business?
 
-## Direct Answer
 A social media scheduler is enough only if you already have posts ready to publish. If the real problem is deciding what to post, writing captions, choosing visuals, and staying consistent, a scheduler gives you a cleaner calendar but not less work.
 
 ## Why This Matters

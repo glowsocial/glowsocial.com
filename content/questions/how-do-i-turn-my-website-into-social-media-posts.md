@@ -17,7 +17,6 @@ relatedResources:
 
 # How do I turn my website into social media posts?
 
-## Direct Answer
 Turn your website into social media posts by extracting the parts customers already care about: services, FAQs, reviews, before-and-after proof, seasonal advice, process details, local context, and common objections. Each section of the site can become a different post angle.
 
 ## Why This Matters

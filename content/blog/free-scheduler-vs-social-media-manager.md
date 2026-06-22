@@ -24,7 +24,6 @@ A social media manager helps decide what to post, create the content, manage the
 
 If you choose based only on price, you may buy the wrong kind of help.
 
-## Direct Answer: Free Scheduler vs Social Media Manager
 
 Use a **free social media scheduler** if you already have:
 

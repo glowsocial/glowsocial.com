@@ -22,7 +22,6 @@ New arrivals. Displays. Staff picks. Gift ideas. Seasonal products. Customer fav
 
 The problem is not usually lack of material. The problem is turning that material into a consistent posting rhythm while also running the store.
 
-## Direct Answer
 
 The best social media strategy for a retail store or boutique is to treat social media like a digital storefront window. Post current products, real in-store proof, useful buying guidance, and timely reasons to visit.
 

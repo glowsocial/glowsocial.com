@@ -7,7 +7,6 @@ authors: ["Kathleen Celmins"]
 ---
 # How to create a social media calendar automatically?
 
-## Direct Answer
 To create a social media calendar automatically, use an AI-powered content generation platform that creates a month's worth of posts tailored to your business and automatically distributes them across an optimized publishing schedule.
 
 ## Why This Matters

@@ -22,7 +22,6 @@ That distinction matters because a lot of business owners search for a "free soc
 
 Here is how to tell which problem you have.
 
-## Direct Answer: Free Scheduler vs Done-For-You Social Media
 
 Use a **free social media scheduler** if you already have:
 

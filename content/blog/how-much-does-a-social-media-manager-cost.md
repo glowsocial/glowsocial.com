@@ -1,6 +1,5 @@
 # How much does a social media manager cost?
 
-## Direct Answer
 A freelance social media manager costs $300-$500 per month for basic posting. A full-time hire runs $50,000-$70,000 per year. AI-powered done-for-you platforms like Glow Social start at $99 per month and handle both content creation and scheduling.
 
 ## Why This Matters

@@ -22,7 +22,6 @@ Most businesses get a good Google review, feel grateful for a minute, and then l
 
 Here is how to turn customer reviews into social media posts without sounding repetitive, awkward, or braggy.
 
-## Direct Answer
 
 To turn customer reviews into social media posts, pull out the specific service, problem, result, location, emotion, or trust signal in the review. Then build a post around that one point instead of reposting the same screenshot repeatedly.
 

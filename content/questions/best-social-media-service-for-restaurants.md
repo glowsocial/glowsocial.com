@@ -15,7 +15,6 @@ relatedResources:
 
 # What is the best social media service for restaurants?
 
-## Direct Answer
 The best social media service for restaurants helps keep menus, specials, events, reviews, photos, and local updates visible without adding more work to the owner or manager. Restaurants usually need a mix of fresh visual content, repeat reminders, Google Business Profile updates, and simple posts that drive visits.
 
 ## What Restaurants Need From Social Media

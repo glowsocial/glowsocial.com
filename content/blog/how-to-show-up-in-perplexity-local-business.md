@@ -22,7 +22,6 @@ video:
   duration: "PT10S"
 ---
 
-## Direct Answer
 
 To show up in Perplexity as a local business, publish pages that are worth citing. Use direct answers, original data, comparison tables, FAQs, clear service descriptions, and proof that the business is real, active, and relevant to the search.
 
