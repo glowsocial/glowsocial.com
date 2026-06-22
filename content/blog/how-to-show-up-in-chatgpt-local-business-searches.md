@@ -14,10 +14,10 @@ faqs:
 video:
   name: "How to Show Up in ChatGPT for Local Business Searches: 80-second guide"
   description: "A short Pictory video guide to the signals local businesses can improve so ChatGPT-style AI search tools can understand, trust, and recommend them more easily."
-  contentUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches.mp4"
-  thumbnailUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches-thumbnail.jpg"
-  captionsUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches-captions.vtt"
-  transcriptUrl: "/videos/pictory/how-to-show-up-in-chatgpt-local-business-searches-transcript.txt"
+  youtubeId: "C_Amr5w5dRc"
+  url: "https://youtu.be/C_Amr5w5dRc"
+  embedUrl: "https://www.youtube.com/embed/C_Amr5w5dRc"
+  thumbnailUrl: "https://i.ytimg.com/vi/C_Amr5w5dRc/maxresdefault.jpg"
   uploadDate: "2026-06-22"
   duration: "PT1M21S"
   transcript: >-

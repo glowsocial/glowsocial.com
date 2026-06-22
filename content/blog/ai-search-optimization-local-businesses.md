@@ -14,10 +14,10 @@ faqs:
 video:
   name: "AI Search Optimization for Local Businesses: 90-second checklist"
   description: "A short Pictory video checklist for local businesses that want to be easier for ChatGPT, Gemini, Perplexity, and search engines to understand and cite."
-  contentUrl: "/videos/pictory/ai-search-optimization-local-businesses.mp4"
-  thumbnailUrl: "/videos/pictory/ai-search-optimization-local-businesses-thumbnail.jpg"
-  captionsUrl: "/videos/pictory/ai-search-optimization-local-businesses-captions.vtt"
-  transcriptUrl: "/videos/pictory/ai-search-optimization-local-businesses-transcript.txt"
+  youtubeId: "kJMZSqpLAYs"
+  url: "https://youtu.be/kJMZSqpLAYs"
+  embedUrl: "https://www.youtube.com/embed/kJMZSqpLAYs"
+  thumbnailUrl: "https://i.ytimg.com/vi/kJMZSqpLAYs/maxresdefault.jpg"
   uploadDate: "2026-06-22"
   duration: "PT1M26S"
   transcript: >-

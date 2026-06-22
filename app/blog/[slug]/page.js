@@ -19,6 +19,12 @@ function absoluteUrl(url) {
   return `${SITE_URL}${url.startsWith("/") ? "" : "/"}${url}`;
 }
 
+function youtubeEmbedUrl(video) {
+  if (video?.youtubeId) return `https://www.youtube.com/embed/${video.youtubeId}`;
+  if (video?.embedUrl) return video.embedUrl;
+  return undefined;
+}
+
 function toIsoDuration(duration) {
   if (!duration) return undefined;
   if (typeof duration === "string" && duration.startsWith("PT")) return duration;
@@ -39,7 +45,8 @@ export async function generateMetadata({ params }) {
   if (!post) return { title: "Post Not Found" };
 
   const ogImageUrl = `https://glowsocial.com/api/og?title=${encodeURIComponent(post.title)}&description=${encodeURIComponent(post.description || "")}`;
-  const videoUrl = absoluteUrl(post.video?.contentUrl);
+  const videoUrl = absoluteUrl(post.video?.contentUrl || youtubeEmbedUrl(post.video));
+  const videoType = post.video?.contentUrl ? "video/mp4" : "text/html";
 
   return {
     title: post.title,
@@ -58,7 +65,7 @@ export async function generateMetadata({ params }) {
       authors: ["Kathleen Celmins"],
       images: [{ url: ogImageUrl, width: 1000, height: 1500 }],
       videos: videoUrl
-        ? [{ url: videoUrl, width: 1920, height: 1080, type: "video/mp4" }]
+        ? [{ url: videoUrl, width: 1920, height: 1080, type: videoType }]
         : undefined,
     },
     twitter: {
@@ -135,7 +142,9 @@ function ArticleJsonLd({ title, description, date, updated, slug, video }) {
 }
 
 function VideoJsonLd({ video, date, slug }) {
-  if (!video?.contentUrl) return null;
+  const contentUrl = absoluteUrl(video?.contentUrl);
+  const embedUrl = absoluteUrl(youtubeEmbedUrl(video));
+  if (!contentUrl && !embedUrl) return null;
 
   const thumbnailUrl = absoluteUrl(video.thumbnailUrl);
   const schema = {
@@ -147,8 +156,8 @@ function VideoJsonLd({ video, date, slug }) {
     thumbnailUrl: thumbnailUrl ? [thumbnailUrl] : undefined,
     uploadDate: video.uploadDate || date,
     duration: toIsoDuration(video.duration || video.durationSeconds),
-    contentUrl: absoluteUrl(video.contentUrl),
-    embedUrl: absoluteUrl(video.embedUrl),
+    contentUrl,
+    embedUrl,
     transcript: video.transcript,
     url: `${SITE_URL}/blog/${slug}#video`,
     publisher: {
@@ -204,7 +213,8 @@ function BreadcrumbJsonLd({ title, slug }) {
 }
 
 function BlogVideoBlock({ video }) {
-  if (!video?.contentUrl) return null;
+  const embedUrl = youtubeEmbedUrl(video);
+  if (!embedUrl && !video?.contentUrl) return null;
 
   const videoTitle = video.name || video.title || "Watch the short video";
 
@@ -213,22 +223,40 @@ function BlogVideoBlock({ video }) {
       <p className="blog-video-kicker">Short video</p>
       <h2 id="blog-video-title">{videoTitle}</h2>
       {video.description && <p>{video.description}</p>}
-      <video
-        className="blog-video-player"
-        controls
-        preload="metadata"
-        poster={video.thumbnailUrl}
-      >
-        <source src={video.contentUrl} type="video/mp4" />
-        {video.captionsUrl && (
-          <track
-            kind="captions"
-            src={video.captionsUrl}
-            srcLang="en"
-            label="English"
-          />
-        )}
-      </video>
+      {embedUrl ? (
+        <iframe
+          className="blog-video-player"
+          src={embedUrl}
+          title={videoTitle}
+          loading="lazy"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+        />
+      ) : (
+        <video
+          className="blog-video-player"
+          controls
+          preload="metadata"
+          poster={video.thumbnailUrl}
+        >
+          <source src={video.contentUrl} type="video/mp4" />
+          {video.captionsUrl && (
+            <track
+              kind="captions"
+              src={video.captionsUrl}
+              srcLang="en"
+              label="English"
+            />
+          )}
+        </video>
+      )}
+      {video.url && (
+        <p className="blog-video-link">
+          <a href={video.url} target="_blank" rel="noopener noreferrer">
+            Watch on YouTube
+          </a>
+        </p>
+      )}
       {video.transcript && (
         <details className="blog-video-transcript">
           <summary>Video transcript</summary>

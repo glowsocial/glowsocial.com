@@ -978,7 +978,20 @@ h2 {
   width: 100%;
   aspect-ratio: 16 / 9;
   background: var(--navy);
+  border: 0;
   border-radius: var(--radius-sm);
+}
+
+.blog-video-link {
+  margin: 14px 0 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.blog-video-link a {
+  color: var(--accent-dark);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .blog-video-transcript {
