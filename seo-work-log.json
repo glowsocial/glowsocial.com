@@ -41,6 +41,12 @@
       "route": "/blog/later-pricing-free-plan-2026",
       "status": "complete",
       "report": "seo-agent-runs/seo-work-2026-06-22T23-03-00Z-later-pricing.md"
+    },
+    {
+      "at": "2026-06-22T23:05:00Z",
+      "route": "/compare/plann-alternative",
+      "status": "complete",
+      "report": "seo-agent-runs/seo-work-2026-06-22T23-05-00Z-plann-alternative.md"
     }
   ]
 }

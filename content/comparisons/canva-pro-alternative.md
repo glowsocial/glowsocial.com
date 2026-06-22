@@ -21,7 +21,7 @@ If you are a local business owner searching for a Canva Pro alternative, you are
 ## Why Small Businesses Outgrow Canva Pro
 Canva is a very popular design platform with free and paid plans, plus Content Planner scheduling for businesses that already create their own social content. However, its biggest limitation for local business owners (like plumbers, dentists, and salon owners) is that it is **great for design, but you still have to decide what to say**.
 
-Paying a monthly subscription fee for a tool that still requires you to do all the work is not actually saving you money. When you factor in your own hourly rate as a business owner, a "cheap" DIY tool actually costs you thousands of dollars a month in lost billable hours.
+Paying for a low-cost design tool can be worth it if you enjoy creating posts. It becomes expensive when the calendar still sits empty because no one has time to write captions, design graphics, and keep the queue filled.
 
 ## The Glow Social Alternative
 
@@ -59,11 +59,9 @@ If you are tired of paying a monthly subscription just to spend your weekends st
 The best Canva Pro alternative for local businesses is Glow Social. It prepares posts for approval and publishes what you approve for just $99/mo, whereas Canva Pro requires you to do the work yourself.
 
 ### Why is Glow Social better than Canva Pro?
-Glow Social is better for business owners because it is a done-for-you service. Canva Pro is a DIY software (great for design, but you still have to write captions and schedule). Glow Social saves you 10+ hours a month by preparing posts from your website.
+Glow Social is better for business owners who want the content prepared for them. Canva Pro is still useful for design, but Glow Social prepares routine social posts from your website so your job is to review, edit if needed, and approve.
 
-**Compare more tools:** [Canva vs Buffer quick answer](/resources/questions/canva-vs-buffer-small-business) · [Canva scheduler quick answer](/resources/questions/canva-social-media-scheduler-small-business) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Later Alternative](/compare/later-alternative) · [Best tools under $50/mo](/blog/social-media-tools-under-50)
+**Compare more tools:** [Canva vs Buffer quick answer](/resources/questions/canva-vs-buffer-small-business) · [Canva scheduler quick answer](/resources/questions/canva-social-media-scheduler-small-business) · [Plann Alternative: done-for-you posts, not a calendar](/compare/plann-alternative) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Later Alternative](/compare/later-alternative) · [Best tools under $50/mo](/blog/social-media-tools-under-50)
 
 
-### Want to see what Glow Social can do for your Dentist business?
-
-[**Get a free, no-login preview of 20 posts ready to review for your business here.**](/preview/dentist)
+[See posts from your website first](https://app.glowsocial.com/preview)
