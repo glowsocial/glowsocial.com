@@ -59,6 +59,12 @@
       "route": "/blog/best-time-to-post-on-social-media",
       "status": "complete",
       "report": "seo-agent-runs/seo-work-2026-06-22T23-11-00Z-best-time.md"
+    },
+    {
+      "at": "2026-06-22T23:16:00Z",
+      "route": "/blog/social-media-tools-under-50",
+      "status": "complete",
+      "report": "seo-agent-runs/seo-work-2026-06-22T23-16-00Z-tools-under-50.md"
     }
   ]
 }
