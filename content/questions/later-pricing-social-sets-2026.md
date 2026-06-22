@@ -2,8 +2,11 @@
 title: "How much does Later cost in 2026, and what is a Social Set?"
 description: "Later's paid social scheduling plans start at $18.75/month when billed yearly. A Social Set is one profile from each supported platform."
 date: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-06-22"
 relatedResources:
+  - title: "Does Later Have a Free Plan?"
+    href: "/resources/questions/does-later-have-a-free-plan-2026"
+    description: "Short answer on Later's free trial vs ongoing free scheduler options."
   - title: "Later Pricing 2026"
     href: "/blog/later-pricing-free-plan-2026"
     description: "Full Later pricing, free plan, trial, and Social Set breakdown."
@@ -21,7 +24,7 @@ relatedResources:
 Later's paid social scheduling plans start at $18.75/month for Starter, $37.50/month for Growth, and $82.50/month for Scale when billed yearly. A Later Social Set is one profile from each supported platform: Instagram, Facebook, Threads, Pinterest, TikTok, LinkedIn, YouTube, and Snapchat. Starter includes 1 Social Set, Growth includes 2, and Scale includes 6.
 
 ## Why This Matters
-Later pricing is easy to misread because it does not work like simple per-channel pricing. Buffer charges by connected channel. Later packages profiles into Social Sets. That can be convenient if you use most of the included platforms, but confusing if you only care about two or three accounts. Later's public pricing also emphasizes a 14-day free trial, while the help center describes a limited Free plan for basic creator use.
+Later pricing is easy to misread because it does not work like simple per-channel pricing. Buffer charges by connected channel. Later packages profiles into Social Sets. That can be convenient if you use most of the included platforms, but confusing if you only care about two or three accounts. Later's public pricing also emphasizes a 14-day free trial, and the current help center describes three paid plans: Starter, Growth, and Scale.
 
 ## Real-World Example
 A boutique that actively posts to Instagram, Facebook, TikTok, Pinterest, and LinkedIn may get good value from Later Starter because those profiles fit inside one Social Set. A plumber that only wants Facebook, Instagram, and Google Business Profile may find Later less aligned because Google Business Profile is not part of Later's listed supported social platforms.

@@ -7,6 +7,9 @@ relatedResources:
   - title: "Freelance Social Media Manager Rates 2026"
     href: "/blog/freelance-social-media-manager-charge-cost"
     description: "Full cost breakdown by freelancer, agency, software, and true time cost."
+  - title: "Free Social Media Scheduler"
+    href: "/blog/free-social-media-scheduler"
+    description: "When a free scheduler is enough and when it leaves too much work."
   - title: "Is Hiring a Social Media Manager Worth It?"
     href: "/resources/questions/is-hiring-social-media-manager-worth-it"
     description: "Decision guide before hiring a person."
@@ -18,7 +21,7 @@ relatedResources:
 # How much does a freelance social media manager charge in 2026?
 
 ## Direct Answer
-A freelance social media manager commonly charges $300-$1,500 per month for small business content packages, but the real range depends on scope. Light posting costs less. Strategy, short-form video, community management, analytics, paid ads, and daily engagement can push the price into the thousands. Current public pricing guides show hourly freelance rates around $20-$150/hour and outsourced monthly ranges from about $100 to $5,000+.
+A freelance social media manager commonly charges $300-$1,500 per month for small business content packages, but the real range depends on scope. Light posting costs less. Strategy, short-form video, community management, analytics, paid ads, and daily engagement can push the price into the thousands. Upwork's current social media manager cost page lists a $14-$35/hour marketplace range, while experienced specialists and agencies can cost much more.
 
 For the full breakdown by package, true time cost, agency comparison, and software alternatives, see the [freelance social media manager rates guide](/blog/freelance-social-media-manager-charge-cost).
 
@@ -32,6 +35,7 @@ A solo salon owner might pay $400/month for a freelancer to create 12 posts for 
 Most people ask "How much does it cost?" before asking "What work is included?" A $300 package can be expensive if it only schedules posts the owner already wrote. A $1,000 package can be reasonable if it includes strategy, creative production, engagement, and reporting.
 
 ## Sources Checked
+- [Upwork social media manager hourly rates](https://www.upwork.com/hire/social-media-managers/cost/)
 - [Sprout Social social media management pricing](https://sproutsocial.com/insights/social-media-management-cost/)
 - [WebFX social media pricing](https://www.webfx.com/blog/social-media/social-media-pricing/)
 - [SolidGigs freelance social media manager rates](https://solidgigs.com/blog/freelance-social-media-manager-rates/)

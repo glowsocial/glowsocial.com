@@ -166,6 +166,23 @@ const nextConfig = {
         destination: "/blog/cheapest-social-media-scheduler",
         permanent: true,
       },
+      // Root /later-free-plan variants should consolidate to the updated Later pricing hub.
+      {
+        source: "/later-free-plan",
+        destination: "/blog/later-pricing-free-plan-2026",
+        permanent: true,
+      },
+      {
+        source: "/later-free-plan-2026",
+        destination: "/blog/later-pricing-free-plan-2026",
+        permanent: true,
+      },
+      // Root /metricool-vs-hootsuite should consolidate to the small-business comparison.
+      {
+        source: "/metricool-vs-hootsuite",
+        destination: "/blog/metricool-vs-hootsuite-for-small-business",
+        permanent: true,
+      },
       // Root /free-social-media-scheduler should consolidate to the blog hub.
       {
         source: "/free-social-media-scheduler",
