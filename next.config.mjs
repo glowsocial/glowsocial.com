@@ -166,6 +166,12 @@ const nextConfig = {
         destination: "/blog/cheapest-social-media-scheduler",
         permanent: true,
       },
+      // Root /free-social-media-scheduler should consolidate to the blog hub.
+      {
+        source: "/free-social-media-scheduler",
+        destination: "/blog/free-social-media-scheduler",
+        permanent: true,
+      },
       // Root /best-affordable-social-media-management-small-business should consolidate to the transactional hub.
       {
         source: "/best-affordable-social-media-management-small-business",

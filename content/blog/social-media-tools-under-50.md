@@ -17,13 +17,13 @@ Most small businesses don't need enterprise social media software. For under $50
 
 I am also including Glow Social even though it is $99/month, because it answers a different question: what if the cheapest tool is not the cheapest total cost once your time is included?
 
-Here are the best affordable options. If you are searching specifically for the lowest-cost scheduler, start with the dedicated [cheapest social media scheduler comparison](/blog/cheapest-social-media-scheduler).
+Here are the best affordable options. If you are searching specifically for a no-cost or lowest-cost scheduler, start with the dedicated [free social media scheduler guide](/blog/free-social-media-scheduler) or the [cheapest social media scheduler comparison](/blog/cheapest-social-media-scheduler).
 
 
 ## Best Social Media Management Tools Under $50/Month
 
 ### Glow Social — $99/month, included for true-cost comparison
-<strong>What it does:</strong> Turns your website into 20 posts ready to approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile
+<strong>What it does:</strong> Turns your website into 20 posts ready to approve for the profiles you connect
 
 <strong>Your time:</strong> Review and approve
 
@@ -176,7 +176,7 @@ Cheaper tools aren't always cheaper when time is included. See our full [AI tool
 <li>$99/month fits your budget</li>
 </ul>
 
-Looking for the most affordable option overall? See our [cheapest social media scheduler comparison](/blog/cheapest-social-media-scheduler), [affordable social media management service](/affordable-social-media-management), the [best tools under $50 quick answer](/resources/questions/best-social-media-tools-under-50-month), the complete [affordable social media management guide](/blog/best-affordable-social-media-management-small-business), or the [social media budget guide](/blog/how-much-should-i-budget-for-social-media-management).
+Looking for the most affordable option overall? See our [free social media scheduler guide](/blog/free-social-media-scheduler), [cheapest social media scheduler comparison](/blog/cheapest-social-media-scheduler), [affordable social media management service](/affordable-social-media-management), the [best tools under $50 quick answer](/resources/questions/best-social-media-tools-under-50-month), the complete [affordable social media management guide](/blog/best-affordable-social-media-management-small-business), or the [social media budget guide](/blog/how-much-should-i-budget-for-social-media-management).
 
 ## Getting Started
 
@@ -188,4 +188,4 @@ For approval-first posting, Glow Social turns your website into 20 posts ready t
 
 <hr>
 
-<strong>About Glow Social:</strong> Done-for-you software that turns your website into 20 custom posts ready to approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Plans start at $99/month. <a href="https://app.glowsocial.com/preview">See posts from your website first</a>.
+<strong>About Glow Social:</strong> Done-for-you software that turns your website into custom posts ready to approve, then publishes approved posts to connected profiles. Plans start at $99/month. <a href="https://app.glowsocial.com/preview">See posts from your website first</a>.

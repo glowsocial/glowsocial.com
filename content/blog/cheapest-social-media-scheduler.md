@@ -190,12 +190,12 @@ That usually sounds like:
 - "We bought a tool, but we never fill it."
 - "I do not know what to post."
 - "The calendar looks organized for two weeks, then it dies."
-- "I need Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile handled."
+- "I need more than Facebook and Instagram handled."
 - "I do not want another dashboard."
 
 That is not a scheduling problem. That is a content supply problem.
 
-For that situation, compare cheap schedulers with [free scheduler vs done-for-you social media](/blog/done-for-you-vs-diy-social-media), [affordable social media management](/affordable-social-media-management), and [freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost).
+For that situation, compare cheap schedulers with [free social media scheduler options](/blog/free-social-media-scheduler), [free scheduler vs done-for-you social media](/blog/done-for-you-vs-diy-social-media), [affordable social media management](/affordable-social-media-management), and [freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost).
 
 ## Where Glow Social Fits
 
@@ -241,6 +241,6 @@ For some businesses, that answer is a free scheduler. For others, it is posts pr
 
 ---
 
-**Related guides:** [What is the cheapest social media scheduler?](/resources/questions/cheapest-social-media-scheduler) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Free scheduler vs done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost)
+**Related guides:** [What is the cheapest social media scheduler?](/resources/questions/cheapest-social-media-scheduler) · [Free social media scheduler](/blog/free-social-media-scheduler) · [Best social media tools under $50/month](/blog/social-media-tools-under-50) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Free scheduler vs done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [How much does a social media manager cost?](/blog/freelance-social-media-manager-charge-cost)
 
 **About Glow Social:** Glow Social turns your website into 20 custom social media posts ready to approve, then publishes approved posts for local businesses. [See posts from your website first](https://app.glowsocial.com/preview).

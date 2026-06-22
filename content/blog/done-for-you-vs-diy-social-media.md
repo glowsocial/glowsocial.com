@@ -67,7 +67,7 @@ Tools like Buffer, Later, and Meta Business Suite help you:
 - keep a simple calendar organized
 - batch content when you already have it
 
-If you enjoy making social media content, start there. For pricing details, compare [the cheapest social media scheduler options](/blog/cheapest-social-media-scheduler), [Buffer's free plan limits](/blog/buffer-pricing-free-plan-limits-2026), [Later's free plan and trial](/blog/later-pricing-free-plan-2026), and [social media tools under $50/month](/blog/social-media-tools-under-50).
+If you enjoy making social media content, start there. For pricing details, compare [free social media scheduler options](/blog/free-social-media-scheduler), [the cheapest social media scheduler options](/blog/cheapest-social-media-scheduler), [Buffer's free plan limits](/blog/buffer-pricing-free-plan-limits-2026), [Later's free plan and trial](/blog/later-pricing-free-plan-2026), and [social media tools under $50/month](/blog/social-media-tools-under-50).
 
 ## What Free Schedulers Do Not Solve
 
@@ -96,7 +96,7 @@ Instead of giving you a calendar to fill, it handles the work that usually gets 
 - platform scheduling
 - publishing
 
-Glow Social sits in this category. It creates and publishes 20 custom posts per month for $99/month. That is why it does not have a free plan: the product is not empty software access. The product is the content output.
+Glow Social sits in this category. It creates posts ready to approve and publishes approved posts for $99/month. That is why it does not have a free plan: the product is not empty software access. The product is the content output.
 
 ## Why Glow Social Does Not Offer a Free Plan
 
@@ -143,4 +143,4 @@ For the service page, see [affordable social media management from Glow Social](
 
 ---
 
-**About Glow Social:** Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. $99/month, 5-minute setup, no contracts. [glowsocial.com](https://glowsocial.com)
+**About Glow Social:** Done-for-you software that creates posts ready to approve, then publishes approved posts to connected profiles. $99/month, no contracts. [glowsocial.com](https://glowsocial.com)

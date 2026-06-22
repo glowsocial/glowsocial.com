@@ -3,7 +3,7 @@ title: "Social Media Caption Limits 2026: IG, TikTok, LinkedIn"
 description: "See 2026 caption limits and ideal lengths for Instagram, TikTok, Facebook, LinkedIn, Google Business Profile, hashtags, and more."
 slug: "social-media-caption-length"
 date: "2026-03-23"
-updated: "2026-06-17"
+updated: "2026-06-22"
 faqs:
   - q: "What is the ideal Instagram caption length?"
     a: "The ideal Instagram caption length is 138-150 characters for most posts. Instagram allows up to 2,200 characters, but only about the first 125 characters show before the 'more' cutoff, so the hook matters more than the total length. Longer captions of 800-1,500 characters can work for educational carousels, storytelling, and posts built for saves or shares."
@@ -176,6 +176,8 @@ For business content, the practical rule is simple: write the important part fir
 - Use keywords naturally (TikTok is increasingly a search engine)
 - Keep it conversational — TikTok's audience skews informal
 
+For the short version, see [TikTok caption length 2026](/resources/questions/tiktok-caption-length-2026). If you are tightening the profile too, use the safe planning guidance in [TikTok bio character limit 2026](/resources/questions/tiktok-bio-character-limit-2026).
+
 ## Google Business Profile Post Length
 
 GBP posts are underused by most local businesses, but they directly impact local search visibility.
@@ -240,7 +242,7 @@ That is why preview-first social media matters. You should be able to see the po
 
 If figuring out the right caption length, hashtag strategy, and posting schedule for each platform sounds like a lot of work — it is. That's exactly why [Glow Social's affordable social media management service](/affordable-social-media-management) exists.
 
-Glow Social turns your website into 20 posts ready to approve across Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile — with platform-aware captions, professional graphics, and your brand voice built in.
+Glow Social turns your website into 20 posts ready to approve for the profiles you connect, with platform-aware captions, professional graphics, and your brand voice built in.
 
 **Preview the posts first. Plans start at $99/month. No contracts.**
 
@@ -248,6 +250,6 @@ Glow Social turns your website into 20 posts ready to approve across Facebook, I
 
 ---
 
-**Related guides:** [Caption character limits quick answer](/resources/questions/social-media-caption-character-limits-2026) · [Best time to post on social media](/blog/best-time-to-post-on-social-media) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
+**Related guides:** [Caption character limits quick answer](/resources/questions/social-media-caption-character-limits-2026) · [TikTok caption length 2026](/resources/questions/tiktok-caption-length-2026) · [TikTok bio character limit 2026](/resources/questions/tiktok-bio-character-limit-2026) · [Best time to post on social media](/blog/best-time-to-post-on-social-media) · [Later vs Buffer comparison](/blog/later-vs-buffer-differences-comparison) · [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [How much time does social media take?](/blog/average-time-social-media-marketing) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management)
 
 **About Glow Social:** Done-for-you software that turns your website into 20 custom social media posts ready to approve. Posts are customized to your brand voice and optimized for each platform. Plans start at $99/month. [See the affordable social media management service](/affordable-social-media-management).
