@@ -1,14 +1,14 @@
 ---
-title: "Average Social Media Marketing Time: 3-10 hrs/week"
-description: "Most small businesses spend 3-10 hours/week on social media. See task breakdowns, platform time, and how to cut the workload."
+title: "Average Time Spent on Social Media Marketing: 3-10 hrs/week"
+description: "Most small businesses spend 3-10 hours/week on social media marketing. See task breakdowns, platform time, and how to cut the workload."
 slug: "average-time-social-media-marketing"
 date: "2026-03-23"
-updated: "2026-06-17"
+updated: "2026-06-22"
 faqs:
   - q: "How many hours per week does social media marketing take for a small business?"
-    a: "Most small businesses spend 3-10 hours per week on social media marketing, including content creation (2-4 hours), scheduling and publishing (1-2 hours), engagement and responses (1-2 hours), and analytics review (30-60 minutes). Done-for-you services like Glow Social reduce this to near zero."
+    a: "Most small businesses spend 3-10 hours per week on social media marketing, including content creation (2-4 hours), scheduling and publishing (1-2 hours), engagement and responses (1-2 hours), and analytics review (30-60 minutes). Done-for-you services like Glow Social reduce the creation and scheduling burden while still keeping approval and customer conversations human."
   - q: "How much time should I spend on social media marketing per day?"
-    a: "For small businesses, 30-60 minutes per day is typical if you're doing it yourself. That breaks down to about 15 minutes creating content, 10 minutes scheduling, 15 minutes engaging with comments and messages, and 10 minutes reviewing what's working. Automation tools can eliminate most of this."
+    a: "For small businesses, 30-60 minutes per day is typical if you're doing it yourself. That breaks down to about 15 minutes creating content, 10 minutes scheduling, 15 minutes engaging with comments and messages, and 10 minutes reviewing what's working. Done-for-you systems can reduce the creation and scheduling work, but review and real customer replies still matter."
   - q: "Is it worth spending time on social media marketing for a local business?"
     a: "Yes — 76% of consumers check a business's social media before visiting or calling. But the ROI depends on how you spend time. DIY posting yields diminishing returns past 5 hours per week. Done-for-you services like Glow Social ($99/month) maintain your presence without the time investment."
   - q: "What takes the most time in social media marketing?"
@@ -77,7 +77,7 @@ Here's where those hours actually go, based on surveys of small business owners 
 
 The biggest time sink? **Content creation.** Writing captions, designing graphics, taking or finding photos, and editing videos consumes roughly half of all social media management time.
 
-That's also the task most easily automated.
+That is also the task most easily delegated, batched, or turned into a review-and-approve workflow.
 
 ## Time Per Platform
 

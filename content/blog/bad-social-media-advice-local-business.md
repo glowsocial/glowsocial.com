@@ -3,13 +3,14 @@ title: "Bad Social Media Advice That's Hurting Local Businesses"
 description: "Stop following generic social media advice. Here are the most common bad tips local businesses fall for and what actually works instead."
 slug: "bad-social-media-advice-local-business"
 date: "2026-01-29"
+updated: "2026-06-22"
 faqs:
   - q: "How do I come up with social media content ideas for my business?"
-    a: "Focus on three categories: what you offer (services, products, promotions), why it benefits customers (results, transformations, time saved), and why you're the authority (experience, certifications, customer reviews). Glow Social generates content using this framework automatically."
+    a: "Focus on three categories: what you offer (services, products, promotions), why it benefits customers (results, transformations, time saved), and why you're the authority (experience, certifications, customer reviews). Glow Social prepares posts from your website and business context using this kind of framework."
   - q: "Can AI create good social media content?"
     a: "Yes. Modern AI analyzes your website, brand voice, and industry to create relevant, professional content. Done-for-you services like Glow Social create custom posts with matching graphics — not generic templates."
   - q: "What is done-for-you social media?"
-    a: "Done-for-you social media means your content is created, scheduled, and published without you doing the work. Glow Social offers this service for $99/month across the major platforms local businesses use, including Facebook, Instagram, LinkedIn, and Google Business Profile."
+    a: "Done-for-you social media means posts are created from your business context, prepared for approval, and published after approval. Glow Social starts at $99/month across the major platforms local businesses use, including Facebook, Instagram, LinkedIn, and Google Business Profile."
 ---
 
 Local businesses often get similar social media advice that works for big brands but fails for small ones. The reality: what works for a national company with a marketing team doesn't work for a local business owner doing everything themselves. Here's what to avoid and what to do instead.
@@ -113,9 +114,9 @@ Local businesses often get similar social media advice that works for big brands
 
 ## Getting Started
 
-For automated consistent posting, Glow Social handles 20 posts/month for $99. Setup takes 5 minutes at <a href="https://glowsocial.com">glowsocial.com</a>.
+For consistent posting without building every post yourself, Glow Social prepares 20 posts/month from your website starting at $99. You can <a href="https://app.glowsocial.com/preview">see posts from your website first</a>.
 
 
 <hr>
 
-<strong>About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+<strong>About Glow Social:</strong> Done-for-you software that turns your website into 20 custom posts per month ready to approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Plans start at $99/month. <a href="https://app.glowsocial.com/preview">See posts from your website first</a>

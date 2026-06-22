@@ -1,8 +1,9 @@
 ---
 title: "How Many Hours a Week Does Social Media Take? (Real Data)"
-description: "Small businesses spend 6-10 hours per week on social media. Here's the breakdown and how to cut it to under 1 hour with automation."
+description: "Small businesses often spend several hours per week on social media. Here's the breakdown and how to reduce the creation burden with a review-and-approve workflow."
 slug: "hours-per-week-social-media"
 date: "2026-01-29"
+updated: "2026-06-22"
 faqs:
   - q: "Can social media be fully automated for small businesses?"
     a: "Small businesses can automate a lot of the repeatable production work, but the healthiest setup still keeps review, customer conversations, and sensitive judgment human."
@@ -17,6 +18,8 @@ You're busy running your business. The real question is not whether social media
 For most small businesses, baseline social media still takes a few hours per month if you do it yourself. The bigger issue is that those hours are not just scheduling. They are deciding what to post, writing captions, gathering visuals, and staying consistent.
 
 If that work keeps sliding, the better next step is to [see posts from your website first](/preview) and decide whether review-and-approve is a better fit than create-from-scratch.
+
+For the fuller weekly and monthly breakdown, see the [average time spent on social media marketing guide](/blog/average-time-social-media-marketing).
 
 
 ## Current Reality: How Much Time Small Businesses Actually Spend
@@ -53,7 +56,7 @@ That's it. You don't need to post daily. You don't need hours of engagement. Jus
 <tr><th>Approach</th><th>Setup Time</th><th>Monthly Time</th></tr>
 <tr><td>DIY (daily posting as you go)</td><td>None</td><td>8-15 hours</td></tr>
 <tr><td>DIY (monthly batching)</td><td>1 hour (one-time)</td><td>2-4 hours</td></tr>
-<tr><td>Automated (Glow Social)</td><td>5 minutes</td><td>5-30 minutes</td></tr>
+<tr><td>Review-and-approve (Glow Social)</td><td>Preview posts first</td><td>Review and approve</td></tr>
 <tr><td>Hiring (freelancer)</td><td>5-10 hours</td><td>1-2 hours (management)</td></tr>
 </table>
 
@@ -117,8 +120,8 @@ Calculate your hourly value:
 
 <ul>
 <li>DIY batching at 3 hours/month = $150 in time</li>
-<li>Glow Social at 0 hours/month = $99</li>
-<li>Savings: $101/month worth of your time</li>
+<li>Glow Social at $99/month shifts the work from creating posts to reviewing and approving</li>
+<li>Savings depend on how much creation time it removes from your month</li>
 </ul>
 
 For most business owners, paying for automation costs less than DIY when you account for time value.
@@ -166,4 +169,4 @@ Either way, you do not need 10+ hours per month. You need a posting rhythm you c
 
 ---
 
-About Glow Social:</strong> Done-for-you software that automatically creates and publishes 20 custom posts per month to Facebook, Instagram, LinkedIn, and TikTok. $99/month, 5-minute setup. <a href="https://glowsocial.com">glowsocial.com</a>
+About Glow Social:</strong> Done-for-you software that turns your website into 20 custom posts per month ready to approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Plans start at $99/month. <a href="https://app.glowsocial.com/preview">See posts from your website first</a>
