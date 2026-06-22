@@ -5,6 +5,7 @@ import {
   getAllQuestions,
   getAllResearchPages,
 } from "@/lib/posts";
+import { getAllDrops } from "@/lib/drops";
 
 const BASE_URL = "https://glowsocial.com";
 
@@ -47,6 +48,13 @@ export default function sitemap() {
     lastModified: lastModifiedFor(page),
     changeFrequency: "monthly",
     priority: 0.8,
+  }));
+
+  const dropsPages = getAllDrops().map((drop) => ({
+    url: `${BASE_URL}/drops/${drop.slug}`,
+    lastModified: lastModifiedFor(drop),
+    changeFrequency: "monthly",
+    priority: 0.7,
   }));
 
   const staticPages = [
@@ -97,5 +105,6 @@ export default function sitemap() {
     ...comparisonPages,
     ...questionsPages,
     ...researchPages,
+    ...dropsPages,
   ];
 }

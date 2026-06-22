@@ -208,10 +208,11 @@
   font-weight: 800;
   letter-spacing: 0.8px;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .drops-card-grid {
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .drops-card {
@@ -221,11 +222,15 @@
   box-shadow: none;
 }
 
-.drops-card h3 {
+.drops-card h3,
+.drops-card h4 {
   font-family: var(--font-heading);
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: -0.01em;
+  color: var(--navy);
+  line-height: 1.08;
+  margin-bottom: 12px;
 }
 
 .drops-card__status {
@@ -238,6 +243,75 @@
 
 .drops-cta-box {
   margin-top: 0;
+}
+
+.drops-cluster-stack {
+  display: grid;
+  gap: 42px;
+}
+
+.drops-cluster {
+  scroll-margin-top: 110px;
+}
+
+.drops-cluster__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  border-bottom: 1px solid var(--card-border);
+  margin-bottom: 18px;
+  padding-bottom: 10px;
+}
+
+.drops-cluster__header h3 {
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: clamp(1.65rem, 3vw, 2.35rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.drops-cluster__header span {
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.drops-back-link {
+  color: var(--accent-dark);
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+  text-decoration: none;
+}
+
+.drops-post-header .blog-card-meta {
+  margin-bottom: 16px;
+}
+
+.drops-post-content h2,
+.drops-post-content h3,
+.drops-related h2 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+
+.drops-related {
+  margin: 56px auto 0;
+  max-width: 980px;
+}
+
+.drops-related h2 {
+  color: var(--navy);
+  margin-bottom: 18px;
 }
 
 @media (max-width: 1024px) {
@@ -262,5 +336,10 @@
 
   .drops-card-grid {
     grid-template-columns: 1fr;
+  }
+
+  .drops-cluster__header {
+    align-items: flex-start;
+    flex-direction: column;
   }
 }

@@ -1,70 +1,7 @@
 import { getPricing } from "@/app/pricing-config";
+import { getAllDrops, getDropsByCluster } from "@/lib/drops";
 import DropsSignupCard from "./DropsSignupCard";
 import "./drops.css";
-
-const topicGroups = [
-  "Owner Burden",
-  "Trust Signals",
-  "Content Sources",
-  "Buyer Guides",
-  "Local Visibility",
-  "Website Engine",
-  "Objections",
-  "Proof & Reviews",
-  "Seasonal Operations",
-  "AI Search Readiness",
-];
-
-const firstWave = [
-  {
-    cluster: "Owner Burden",
-    title: "Why Social Media Tools Still Leave Business Owners Doing the Work",
-    description:
-      "Most social media tools make publishing easier but still leave the owner stuck finding ideas, writing captions, choosing visuals, and keeping the whole thing moving.",
-  },
-  {
-    cluster: "Trust Signals",
-    title: "What Customers Check Before They Call a Local Business",
-    description:
-      "Before calling a local business, people usually run a fast trust check: does this look real, current, relevant, and easy to contact?",
-  },
-  {
-    cluster: "Local Visibility",
-    title: "Why Google Business Profile Often Matters More Than Instagram",
-    description:
-      "For many local businesses, Google Business Profile sits much closer to the buying moment than Instagram, so it deserves more attention than it usually gets.",
-  },
-  {
-    cluster: "Content Sources",
-    title: "How to Turn One Useful Idea Into a Post, Email, and Week of Social",
-    description:
-      "One strong idea should not die after one email. A website-first workflow lets it become a page, an email, and several social pieces without starting over.",
-  },
-  {
-    cluster: "Buyer Guides",
-    title: "When a Scheduler Is Enough and When It Is Not",
-    description:
-      "Schedulers are useful when the content already exists. They disappoint when the real bottleneck is still deciding what to say.",
-  },
-  {
-    cluster: "Website Engine",
-    title: "Why Website-First Content Is Better Than Email-First Content",
-    description:
-      "When the page comes first, the idea has a durable home. Email gets easier, reuse gets cleaner, and the content can keep working after the send is over.",
-  },
-  {
-    cluster: "Objections",
-    title: "What If I Do Not Have Enough Photos for Social Media?",
-    description:
-      "A business can keep posting without a constant stream of new photos by leaning on reviews, FAQs, explainers, reminders, and smarter reuse of the images it already has.",
-  },
-  {
-    cluster: "AI Search Readiness",
-    title: "How to Help Your Local Business Show Up in AI Answers",
-    description:
-      "Local businesses show up in AI answers more often when their website and profiles make it easy to understand what they do, where they work, and why people trust them.",
-  },
-];
 
 export const metadata = {
   title: "Boomp Drops | Website-First Marketing Ideas for Small Businesses",
@@ -89,7 +26,7 @@ export const metadata = {
   },
 };
 
-function CollectionJsonLd() {
+function CollectionJsonLd({ drops }) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -97,6 +34,12 @@ function CollectionJsonLd() {
     url: "https://glowsocial.com/drops",
     description:
       "Boomp Drops is a practical library of website-first marketing ideas for small businesses.",
+    hasPart: drops.slice(0, 100).map((drop) => ({
+      "@type": "Article",
+      headline: drop.title,
+      url: `https://glowsocial.com/drops/${drop.slug}`,
+      description: drop.description,
+    })),
     isPartOf: {
       "@type": "WebSite",
       name: "Glow Social",
@@ -114,10 +57,13 @@ function CollectionJsonLd() {
 
 export default function DropsPage() {
   const pricing = getPricing();
+  const drops = getAllDrops();
+  const dropsByCluster = getDropsByCluster();
+  const clusters = Object.keys(dropsByCluster);
 
   return (
     <>
-      <CollectionJsonLd />
+      <CollectionJsonLd drops={drops} />
 
       <section className="drops-hero">
         <div className="container drops-hero__grid">
@@ -134,8 +80,8 @@ export default function DropsPage() {
               and posts without starting from a blank screen.
             </p>
             <div className="drops-hero__actions">
-              <a className="btn btn--primary" href="#first-wave">
-                Browse the first wave
+              <a className="btn btn--primary" href="#all-drops">
+                Browse all {drops.length} Drops
               </a>
               <a className="btn btn--outline" href="https://app.glowsocial.com/preview">
                 See posts from your website first — {pricing.startingAtShort}
@@ -152,35 +98,52 @@ export default function DropsPage() {
           <div className="section-kicker">Browse by topic</div>
           <h2 className="drops-section-title">A library, not a blog roll.</h2>
           <p className="drops-section-copy">
-            The goal is to build a useful set of pages that answer real questions,
-            support search, and make email/social reuse easier later.
+            The whole archive is live now. Pick a topic, read what is useful, and
+            use it the next time you are stuck staring at a blank post.
           </p>
           <div className="drops-chip-row">
-            {topicGroups.map((topic) => (
-              <span key={topic} className="drops-chip">
+            {clusters.map((topic) => (
+              <a key={topic} className="drops-chip" href={`#${topic.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`}>
                 {topic}
-              </span>
+              </a>
             ))}
           </div>
         </section>
 
-        <section className="question-hub-section" id="first-wave">
-          <div className="section-kicker">First wave</div>
-          <h2 className="drops-section-title">First Drops in the pipeline</h2>
+        <section className="question-hub-section" id="all-drops">
+          <div className="section-kicker">All Drops</div>
+          <h2 className="drops-section-title">Published archive</h2>
           <p className="drops-section-copy">
-            These are the first topics we are turning into permanent pages. They
-            show where the library is headed before the individual articles go live.
+            One hundred practical prompts, answers, and angles for turning real
+            business knowledge into useful marketing.
           </p>
-          <div className="blog-grid drops-card-grid">
-            {firstWave.map((drop) => (
-              <article key={drop.title} className="blog-card drops-card">
-                <div className="blog-card-body">
-                  <div className="blog-card-meta">{drop.cluster}</div>
-                  <h3>{drop.title}</h3>
-                  <p>{drop.description}</p>
-                  <span className="read-more drops-card__status">Coming soon</span>
+
+          <div className="drops-cluster-stack">
+            {clusters.map((cluster) => (
+              <section
+                className="drops-cluster"
+                id={cluster.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
+                key={cluster}
+              >
+                <div className="drops-cluster__header">
+                  <h3>{cluster}</h3>
+                  <span>{dropsByCluster[cluster].length} Drops</span>
                 </div>
-              </article>
+                <div className="blog-grid drops-card-grid">
+                  {dropsByCluster[cluster].map((drop) => (
+                    <article key={drop.slug} className="blog-card drops-card">
+                      <div className="blog-card-body">
+                        <div className="blog-card-meta">{drop.readingTime}</div>
+                        <h4>{drop.title}</h4>
+                        <p>{drop.description}</p>
+                        <a className="read-more drops-card__status" href={`/drops/${drop.slug}`}>
+                          Read Drop →
+                        </a>
+                      </div>
+                    </article>
+                  ))}
+                </div>
+              </section>
             ))}
           </div>
         </section>
