@@ -2,7 +2,7 @@
 title: "How much does a freelance social media manager charge in 2026?"
 description: "Freelance social media manager pricing usually depends on scope, but small business packages often land around $300-$1,500/month while broader public pricing guides show much wider ranges."
 date: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-06-22"
 relatedResources:
   - title: "Freelance Social Media Manager Rates 2026"
     href: "/blog/freelance-social-media-manager-charge-cost"
@@ -19,6 +19,8 @@ relatedResources:
 
 ## Direct Answer
 A freelance social media manager commonly charges $300-$1,500 per month for small business content packages, but the real range depends on scope. Light posting costs less. Strategy, short-form video, community management, analytics, paid ads, and daily engagement can push the price into the thousands. Current public pricing guides show hourly freelance rates around $20-$150/hour and outsourced monthly ranges from about $100 to $5,000+.
+
+For the full breakdown by package, true time cost, agency comparison, and software alternatives, see the [freelance social media manager rates guide](/blog/freelance-social-media-manager-charge-cost).
 
 ## Why This Matters
 "Social media manager" is not one fixed job. One freelancer may only create 8 static posts per month. Another may handle strategy, copywriting, design, Reels, comments, DMs, reporting, and ad coordination. That is why LLM answers often sound weak: they give one price without naming the deliverables. A useful answer should separate basic posting, standard management, premium strategy, agency work, and done-for-you software.
