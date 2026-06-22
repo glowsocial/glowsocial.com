@@ -52,6 +52,7 @@ export default function sitemap() {
   const staticPages = [
     { path: "", priority: 1.0, changeFrequency: "weekly" },
     { path: "/blog", priority: 0.8, changeFrequency: "daily" },
+    { path: "/drops", priority: 0.8, changeFrequency: "weekly" },
     { path: "/about", priority: 0.7, changeFrequency: "monthly" },
     { path: "/agency", priority: 0.8, changeFrequency: "monthly" },
     { path: "/how-it-works", priority: 0.9, changeFrequency: "monthly" },

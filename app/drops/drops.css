@@ -1,0 +1,426 @@
+/* ========================================
+   DROPS LANDING PAGE
+   ======================================== */
+.drops-hero {
+  background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.drops-hero::after {
+  content: "";
+  position: absolute;
+  top: -120px;
+  right: -80px;
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(215, 226, 120, 0.22) 0%, rgba(215, 226, 120, 0) 72%);
+}
+
+.drops-hero__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
+  gap: 32px;
+  align-items: start;
+}
+
+.drops-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: var(--accent);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+
+.drops-hero h1 {
+  color: var(--white);
+  margin-bottom: 18px;
+}
+
+.drops-hero__lead {
+  color: rgba(255, 255, 255, 0.92) !important;
+  font-size: 1.18rem !important;
+  max-width: 40rem;
+  margin-bottom: 14px;
+}
+
+.drops-hero__copy {
+  color: rgba(255, 255, 255, 0.76) !important;
+  max-width: 42rem;
+}
+
+.drops-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 28px;
+}
+
+.drops-hero__actions .btn--outline {
+  color: var(--white);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.drops-hero__actions .btn--outline:hover {
+  color: var(--navy);
+  background: var(--white);
+}
+
+.drops-signup-card {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  box-shadow: var(--shadow-lg);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.drops-signup-card__kicker {
+  color: var(--accent);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.drops-signup-card h2 {
+  color: var(--white);
+  text-align: left;
+  text-transform: none;
+  letter-spacing: -0.2px;
+  margin-bottom: 12px;
+}
+
+.drops-signup-card p {
+  color: rgba(255, 255, 255, 0.82);
+  margin-bottom: 18px;
+}
+
+.drops-signup-form {
+  display: grid;
+  gap: 0.8rem;
+  margin-top: 1.25rem;
+}
+
+.drops-signup-form__label {
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 0.86rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.drops-signup-form__input {
+  width: 100%;
+  padding: 0.95rem 1rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  background: rgba(255, 255, 255, 0.98);
+  color: var(--navy);
+  font-size: 1rem;
+}
+
+.drops-signup-form__input::placeholder {
+  color: rgba(21, 31, 54, 0.55);
+}
+
+.drops-signup-form__input:focus {
+  outline: 2px solid rgba(204, 255, 0, 0.55);
+  outline-offset: 2px;
+}
+
+.drops-signup-form__button {
+  width: 100%;
+  justify-content: center;
+}
+
+.drops-signup-form__error {
+  margin: 0;
+  color: #ffd6d6;
+  font-size: 0.95rem;
+}
+
+.drops-signup-form__fine-print {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 0.92rem;
+}
+
+.drops-signup-card__note {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  color: rgba(255, 255, 255, 0.86);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.drops-page {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.drops-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.drops-stat-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  padding: 24px 20px;
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.drops-stat-card strong {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: 2.1rem;
+  font-weight: 800;
+  color: var(--navy);
+  line-height: 1;
+  margin-bottom: 10px;
+}
+
+.drops-stat-card span {
+  display: block;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.drops-section-title {
+  text-transform: none;
+  letter-spacing: -0.3px;
+  text-align: left;
+  margin-bottom: 12px;
+}
+
+.drops-section-copy {
+  color: var(--text-muted);
+  max-width: 46rem;
+  margin-bottom: 22px;
+}
+
+.drops-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.drops-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: var(--paper);
+  border: 1px solid var(--card-border);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.drops-feature-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
+  gap: 22px;
+  align-items: start;
+}
+
+.drops-feature-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 20px;
+  align-items: center;
+  background: linear-gradient(180deg, var(--paper) 0%, var(--white) 100%);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  padding: 26px;
+  box-shadow: var(--shadow);
+}
+
+.drops-feature-card__label {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: var(--green-soft);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.drops-feature-card h2 {
+  text-align: left;
+  text-transform: none;
+  letter-spacing: -0.2px;
+  margin-bottom: 14px;
+}
+
+.drops-feature-card p {
+  color: var(--text-muted);
+}
+
+.drops-feature-card p + p {
+  margin-top: 14px;
+}
+
+.drops-phone-shell {
+  display: flex;
+  justify-content: center;
+}
+
+.drops-phone-frame {
+  width: 220px;
+  background: #111821;
+  border-radius: 30px;
+  padding: 10px;
+  box-shadow: 0 12px 32px rgba(25, 39, 52, 0.18);
+  position: relative;
+}
+
+.drops-phone-frame::before {
+  content: "";
+  position: absolute;
+  top: 7px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 84px;
+  height: 18px;
+  border-radius: 999px;
+  background: #0b1016;
+}
+
+.drops-phone-screen {
+  min-height: 300px;
+  border-radius: 22px;
+  background: linear-gradient(180deg, var(--bg) 0%, var(--white) 100%);
+  padding: 28px 14px 14px;
+}
+
+.drops-phone-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 8px;
+  border-radius: 999px;
+  background: rgba(25, 39, 52, 0.08);
+  color: var(--navy);
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.drops-phone-post {
+  background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%);
+  border-radius: 18px;
+  padding: 16px;
+  color: var(--white);
+}
+
+.drops-phone-post h3 {
+  font-size: 1.18rem;
+  line-height: 1.05;
+  text-transform: none;
+  letter-spacing: -0.3px;
+  margin-bottom: 10px;
+}
+
+.drops-phone-post p {
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.84rem;
+  line-height: 1.55;
+}
+
+.drops-side-note h2 {
+  text-align: left;
+  text-transform: none;
+  letter-spacing: -0.2px;
+}
+
+.drops-side-note ul {
+  margin-top: 16px;
+  padding-left: 20px;
+  list-style: disc;
+}
+
+.drops-side-note li {
+  color: var(--text);
+  line-height: 1.65;
+}
+
+.drops-card-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.drops-card {
+  height: 100%;
+}
+
+.drops-card__status {
+  color: var(--accent-dark) !important;
+}
+
+.drops-cta-wrap {
+  margin-bottom: 0;
+}
+
+.drops-cta-box {
+  margin-top: 0;
+}
+
+.drops-cta-box__subcopy {
+  color: rgba(255, 255, 255, 0.82);
+  margin-top: 16px;
+}
+
+@media (max-width: 1024px) {
+  .drops-hero__grid,
+  .drops-feature-grid,
+  .drops-feature-card {
+    grid-template-columns: 1fr;
+  }
+
+  .drops-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .drops-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .drops-hero__actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .drops-card-grid {
+    grid-template-columns: 1fr;
+  }
+}

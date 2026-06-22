@@ -14,6 +14,7 @@ const compareLinks = [
 
 const resourceLinks = [
   ["/blog", "BLOG"],
+  ["/drops", "DROPS"],
   ["/affordable-social-media-management", "AFFORDABLE SOCIAL MEDIA"],
   ["/about", "ABOUT"],
   ["/manifesto", "MANIFESTO"],
