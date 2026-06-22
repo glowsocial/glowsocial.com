@@ -123,14 +123,15 @@ export default function DropsPage() {
         <div className="container drops-hero__grid">
           <div className="drops-hero__copy-block">
             <div className="drops-eyebrow">Boomp Drops</div>
-            <h1>Useful marketing ideas for small businesses.</h1>
+            <h1>Stop wondering what to post.</h1>
             <p className="drops-hero__lead">
-              Practical notes on content, local visibility, trust, and the work of
-              looking active online without becoming a full-time content creator.
+              Drops gives you simple, useful ideas for showing customers why your
+              business is worth choosing.
             </p>
             <p className="drops-hero__copy">
-              We are starting the archive here while Glow Social becomes Boomp. The
-              pieces below are the first topics being turned into permanent pages.
+              Start with questions people already ask, proof you already have, and
+              moments from the work you already do. Turn those into pages, emails,
+              and posts without starting from a blank screen.
             </p>
             <div className="drops-hero__actions">
               <a className="btn btn--primary" href="#first-wave">
