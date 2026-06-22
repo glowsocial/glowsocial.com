@@ -11,8 +11,8 @@ relatedResources:
     href: "/resources/questions/best-metricool-alternative-local-business"
     description: "When a local business should use Metricool or another tool."
   - title: "Buffer Free Plan Limits"
-    href: "/resources/questions/buffer-free-plan-limits-2026"
-    description: "Current Buffer free plan and queue limits."
+    href: "/blog/buffer-pricing-free-plan-limits-2026"
+    description: "Current Buffer free plan, Instagram, TikTok, and queue limits."
   - title: "Best Tools Under $50"
     href: "/resources/questions/best-social-media-tools-under-50-month"
     description: "Compare low-cost social media tools by bottleneck."
@@ -33,6 +33,8 @@ A solo massage therapist who only needs Facebook, Instagram, and Google Business
 Most people compare Buffer and Metricool by price only. The real difference is workflow: Buffer is a lighter publishing queue; Metricool is a management and measurement tool.
 
 If you are mainly choosing between simple schedulers, compare [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) before you compare heavier analytics tools.
+
+For the exact free-plan breakdown, read [Buffer's free plan limits for Instagram, TikTok, and pricing](/blog/buffer-pricing-free-plan-limits-2026).
 
 ## Sources Checked
 - [Buffer pricing](https://buffer.com/pricing)

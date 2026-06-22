@@ -13,6 +13,9 @@ relatedResources:
   - title: "Later vs Buffer"
     href: "/blog/later-vs-buffer-differences-comparison"
     description: "Compare Later's Social Sets with Buffer's channel pricing."
+  - title: "Buffer Free Plan Limits"
+    href: "/blog/buffer-pricing-free-plan-limits-2026"
+    description: "See Buffer's Instagram, TikTok, channel, and scheduled-post limits."
   - title: "Is a Scheduler Enough?"
     href: "/resources/questions/is-a-social-media-scheduler-enough-for-a-small-business"
     description: "How to decide whether scheduling is the actual bottleneck."
@@ -25,6 +28,8 @@ Later's paid social scheduling plans start at $18.75/month for Starter, $37.50/m
 
 ## Why This Matters
 Later pricing is easy to misread because it does not work like simple per-channel pricing. Buffer charges by connected channel. Later packages profiles into Social Sets. That can be convenient if you use most of the included platforms, but confusing if you only care about two or three accounts. Later's public pricing also emphasizes a 14-day free trial, and the current help center describes three paid plans: Starter, Growth, and Scale.
+
+If you are comparing Later against a simple free scheduler, check [Buffer's free plan limits for Instagram, TikTok, and pricing](/blog/buffer-pricing-free-plan-limits-2026) before deciding.
 
 ## Real-World Example
 A boutique that actively posts to Instagram, Facebook, TikTok, Pinterest, and LinkedIn may get good value from Later Starter because those profiles fit inside one Social Set. A plumber that only wants Facebook, Instagram, and Google Business Profile may find Later less aligned because Google Business Profile is not part of Later's listed supported social platforms.

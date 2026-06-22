@@ -1,9 +1,9 @@
 ---
 title: "Buffer Free Plan Limits 2026: Instagram, TikTok & Pricing"
-description: "Buffer's free plan supports 3 channels and 10 queued posts per channel. See Instagram/TikTok support, paid pricing, and hidden time cost."
+description: "Buffer's free plan supports Instagram and TikTok, with 3 total channels and 10 queued posts per channel. Compare Buffer pricing, Later, and fit."
 slug: "buffer-pricing-free-plan-limits-2026"
 date: "2026-05-13"
-updated: "2026-06-17"
+updated: "2026-06-22"
 faqs:
   - q: "How much does Buffer cost in 2026?"
     a: "Buffer has a free plan for up to 3 channels. Paid publishing plans start at $5 per channel per month when billed yearly for Essentials, or $6 per channel on monthly billing. The Team plan starts at $10 per channel per month when billed yearly, or $12 per channel on monthly billing."
@@ -25,7 +25,7 @@ Here is the plain-English breakdown.
 
 ## Direct Answer: Buffer Free Plan Limits and Pricing
 
-As of June 2026, Buffer's free plan lets you connect up to **3 channels** and keep up to **10 scheduled posts per channel** in the queue at one time. If you connect 3 channels, that means up to 30 scheduled posts waiting across the account.
+As of June 22, 2026, Buffer's free plan lets you connect up to **3 channels** and keep up to **10 scheduled posts per channel** in the queue at one time. Instagram and TikTok can both be included, but they count as separate channels. If you connect Instagram, TikTok, and one more profile, that means up to 30 scheduled posts waiting across the free account.
 
 Buffer's paid publishing plans are priced per channel:
 
@@ -45,6 +45,20 @@ Buffer is a strong choice when you already have posts ready and only need help s
 <tr><td>Does it support TikTok?</td><td>Yes, as one connected channel</td></tr>
 <tr><td>Is it a monthly post limit?</td><td>No. It is a queue limit that refills after posts publish.</td></tr>
 </table>
+
+## Can You Use Buffer's Free Plan for Instagram and TikTok?
+
+Yes. Buffer's free plan can work for Instagram and TikTok if those are two of your three connected channels.
+
+The practical limit is the queue:
+
+- Instagram: 10 scheduled posts at one time
+- TikTok: 10 scheduled posts at one time
+- Third channel: 10 scheduled posts at one time
+
+That is enough for a light posting rhythm. It is not enough for a business that wants to batch a full month of posts across several platforms without touching the calendar again.
+
+If Instagram and TikTok are your main channels and you care about visual planning, also compare [Later pricing and Social Sets](/blog/later-pricing-free-plan-2026). If you mostly want simple scheduling across Instagram, TikTok, Google Business Profile, LinkedIn, and Facebook, Buffer is usually the cleaner comparison point.
 
 ## Buffer Pricing Table
 
@@ -121,6 +135,8 @@ If you want a deeper comparison, read [Later vs Buffer](/blog/later-vs-buffer-di
 The simplest way to think about it:
 
 **Buffer is cheaper and broader. Later is more visual. Neither replaces content creation.**
+
+For a deeper side-by-side, read [Later vs Buffer](/blog/later-vs-buffer-differences-comparison). For the current Later plan structure, read [Later pricing, free plan, and Social Sets](/blog/later-pricing-free-plan-2026).
 
 ## The Hidden Cost: Your Time
 
