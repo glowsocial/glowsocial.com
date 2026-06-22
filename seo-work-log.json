@@ -11,6 +11,12 @@
       "route": "/blog/social-media-caption-length",
       "status": "complete",
       "report": "seo-agent-runs/seo-work-2026-06-22T23-02-00Z-caption-cluster.md"
+    },
+    {
+      "at": "2026-06-22T23:22:00Z",
+      "route": "/blog/later-vs-buffer-differences-comparison",
+      "status": "complete",
+      "report": "seo-agent-runs/seo-work-2026-06-22T23-22-00Z-later-buffer.md"
     }
   ]
 }
