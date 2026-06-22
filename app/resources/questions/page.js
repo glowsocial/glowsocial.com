@@ -26,6 +26,7 @@ const topicGroups = [
     description: "Decision pages for owners comparing DIY, software, freelancers, agencies, and done-for-you options.",
     slugs: [
       "freelance-social-media-manager-rates-2026",
+      "should-i-hire-a-freelancer-for-social-media",
       "how-much-does-a-social-media-manager-cost",
       "cheapest-social-media-scheduler",
       "free-social-media-scheduler",
@@ -67,6 +68,7 @@ const topicGroups = [
       "facebook-caption-length",
       "tiktok-caption-length-2026",
       "tiktok-bio-character-limit-2026",
+      "can-social-media-be-automatic",
       "what-social-media-tool-creates-posts-for-you",
       "should-i-use-buffer-or-done-for-you-social-media",
       "is-a-social-media-scheduler-enough-for-a-small-business",

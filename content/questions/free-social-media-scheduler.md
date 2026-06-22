@@ -24,7 +24,7 @@ relatedResources:
 # Is there a free social media scheduler?
 
 ## Direct Answer
-Yes. There are free social media schedulers. Meta Business Suite is free for Facebook and Instagram. Buffer has a free plan for up to 3 channels with 10 scheduled posts per channel. Later has a limited Free plan for creators. Publer and Metricool also offer free plans with account, queue, brand, or monthly scheduling limits.
+Yes. If you are asking "is there a free option?", there are free social media schedulers. Meta Business Suite is free for Facebook and Instagram. Buffer has a free plan with 10 scheduled posts per channel. Publer and Metricool also offer free plans with account, queue, brand, or monthly scheduling limits. Later offers a 14-day free trial for its main scheduling plans.
 
 Free schedulers are useful when you already have posts ready. They are not a replacement for content ideas, captions, graphics, or a monthly posting plan.
 

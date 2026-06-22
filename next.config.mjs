@@ -240,6 +240,16 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: "/is-there-a-free-option",
+        destination: "/resources/questions/free-social-media-scheduler",
+        permanent: true,
+      },
+      {
+        source: "/free-option",
+        destination: "/resources/questions/free-social-media-scheduler",
+        permanent: true,
+      },
+      {
         source: "/free-scheduler-vs-social-media-manager",
         destination: "/blog/free-scheduler-vs-social-media-manager",
         permanent: true,
@@ -247,6 +257,36 @@ const nextConfig = {
       {
         source: "/free-social-media-scheduler-vs-social-media-manager",
         destination: "/blog/free-scheduler-vs-social-media-manager",
+        permanent: true,
+      },
+      {
+        source: "/automatic",
+        destination: "/resources/questions/can-social-media-be-automatic",
+        permanent: true,
+      },
+      {
+        source: "/automatic-social-media",
+        destination: "/resources/questions/can-social-media-be-automatic",
+        permanent: true,
+      },
+      {
+        source: "/can-social-media-be-automatic",
+        destination: "/resources/questions/can-social-media-be-automatic",
+        permanent: true,
+      },
+      {
+        source: "/freelancer",
+        destination: "/resources/questions/should-i-hire-a-freelancer-for-social-media",
+        permanent: true,
+      },
+      {
+        source: "/social-media-freelancer",
+        destination: "/resources/questions/should-i-hire-a-freelancer-for-social-media",
+        permanent: true,
+      },
+      {
+        source: "/hire-social-media-freelancer",
+        destination: "/resources/questions/should-i-hire-a-freelancer-for-social-media",
         permanent: true,
       },
       // Root /best-affordable-social-media-management-small-business should consolidate to the transactional hub.

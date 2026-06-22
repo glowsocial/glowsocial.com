@@ -13,6 +13,9 @@ relatedResources:
   - title: "Should I use Buffer or done-for-you social media?"
     href: "/resources/questions/should-i-use-buffer-or-done-for-you-social-media"
     description: "A quick decision guide for owners comparing software and service."
+  - title: "Can Social Media Be Automatic?"
+    href: "/resources/questions/can-social-media-be-automatic"
+    description: "What can be automated safely and what still needs human review."
 ---
 
 # What social media tool creates posts for you?

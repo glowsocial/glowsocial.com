@@ -25,6 +25,8 @@ The tasks that should stay human are the trust tasks: replying to comments and m
 
 For most small businesses, the right answer is not "automate everything." It is "automate the work that keeps us from posting consistently, then keep humans involved where judgment and relationships matter."
 
+For the quick answer, see [can social media be automatic for a small business?](/resources/questions/can-social-media-be-automatic).
+
 If that sounds like your situation, the better next step is not another abstract debate about automation. It is to [see posts from your website first](/preview) and decide whether review-and-approve would remove the real burden.
 
 ## Why This Matters
@@ -327,6 +329,7 @@ Yes, if inconsistent posting is making the business look inactive. Automation is
 
 <ul>
   <li><a href="/blog/automated-social-media-local-business">Automated social media for local businesses</a></li>
+  <li><a href="/resources/questions/can-social-media-be-automatic">Can social media be automatic?</a></li>
   <li><a href="/blog/create-month-content-one-hour">How to create a month of social media content in one hour</a></li>
   <li><a href="/blog/social-media-manager-vs-ai">Can AI replace a social media manager?</a></li>
   <li><a href="/blog/can-ai-write-good-social-media-posts">Can AI write good social media posts?</a></li>

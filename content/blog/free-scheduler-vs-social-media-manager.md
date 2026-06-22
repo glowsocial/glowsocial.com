@@ -42,6 +42,8 @@ Hire a **social media manager** if you need:
 - Comment and DM management.
 - Reporting, campaigns, or creative judgment.
 
+If you are specifically weighing a solo contractor, start with [should I hire a freelancer for social media?](/resources/questions/should-i-hire-a-freelancer-for-social-media).
+
 Use **done-for-you software** if you need:
 
 - A consistent baseline of posts.
@@ -137,6 +139,6 @@ Use a free scheduler when posts already exist. Hire a social media manager when 
 
 ---
 
-**Related guides:** [Free social media scheduler](/blog/free-social-media-scheduler) · [Freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost) · [Is a scheduler enough for a small business?](/resources/questions/is-a-social-media-scheduler-enough-for-a-small-business) · [Done-for-you vs DIY social media](/blog/done-for-you-vs-diy-social-media) · [Cheapest social media scheduler](/blog/cheapest-social-media-scheduler)
+**Related guides:** [Free social media scheduler](/blog/free-social-media-scheduler) · [Should I hire a freelancer for social media?](/resources/questions/should-i-hire-a-freelancer-for-social-media) · [Freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost) · [Is a scheduler enough for a small business?](/resources/questions/is-a-social-media-scheduler-enough-for-a-small-business) · [Done-for-you vs DIY social media](/blog/done-for-you-vs-diy-social-media) · [Cheapest social media scheduler](/blog/cheapest-social-media-scheduler)
 
 **About Glow Social:** Glow Social turns your website into posts ready to approve, then publishes approved posts for local businesses. [See posts from your website first](https://app.glowsocial.com/preview).
