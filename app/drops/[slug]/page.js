@@ -122,6 +122,21 @@ function relatedDrops(currentDrop) {
     .slice(0, 3);
 }
 
+function DropPinterestImage({ drop }) {
+  return (
+    <figure className="pinterest-image-block">
+      <p className="pinterest-label">Save this Drop</p>
+      <img
+        src={`/pins/${drop.slug}.png`}
+        alt={`${drop.title} — Boomp Drop graphic`}
+        width={500}
+        height={750}
+        loading="lazy"
+      />
+    </figure>
+  );
+}
+
 export default async function DropPage({ params }) {
   const { slug } = await params;
   const drop = getDropBySlug(slug);
@@ -129,6 +144,9 @@ export default async function DropPage({ params }) {
 
   const pricing = getPricing();
   const contentHtml = markdownToHtml(drop.content);
+  const firstSectionIndex = contentHtml.indexOf("<h2");
+  const introHtml = firstSectionIndex === -1 ? contentHtml : contentHtml.slice(0, firstSectionIndex);
+  const restHtml = firstSectionIndex === -1 ? "" : contentHtml.slice(firstSectionIndex);
   const related = relatedDrops(drop);
 
   return (
@@ -159,20 +177,17 @@ export default async function DropPage({ params }) {
 
       <div
         className="blog-post-content drops-post-content"
-        dangerouslySetInnerHTML={{ __html: contentHtml }}
+        dangerouslySetInnerHTML={{ __html: introHtml }}
       />
 
-      <div className="pinterest-image-block">
-        <p className="pinterest-label">📌 Save this to Pinterest</p>
-        <img
-          src={`/pins/${drop.slug}.png`}
-          alt={drop.title}
-          width={500}
-          height={750}
-          loading="lazy"
-          style={{ borderRadius: "12px", display: "block", margin: "0 auto" }}
+      <DropPinterestImage drop={drop} />
+
+      {restHtml && (
+        <div
+          className="blog-post-content drops-post-content"
+          dangerouslySetInnerHTML={{ __html: restHtml }}
         />
-      </div>
+      )}
 
       <div className="post-cta-box">
         <h3>Want posts from your own website?</h3>

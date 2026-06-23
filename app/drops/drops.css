@@ -304,6 +304,34 @@
   text-transform: uppercase;
 }
 
+.pinterest-image-block {
+  background: var(--paper);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  margin: 28px auto 36px;
+  max-width: 560px;
+  padding: 18px;
+  text-align: center;
+}
+
+.pinterest-image-block img {
+  border-radius: 12px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.pinterest-label {
+  color: var(--accent-dark);
+  font-family: var(--font-heading);
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 1.1px;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
 .drops-related {
   margin: 56px auto 0;
   max-width: 980px;
