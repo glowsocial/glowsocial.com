@@ -5,7 +5,7 @@
 - **Canonical URL:** `https://glowsocial.com/blog/glow-social-vs-hiring-social-media-manager`
 - **Work type:** Crawled-not-indexed comparison-page improvement
 - **Boomp migration target:** `https://boomp.net/blog/glow-social-vs-hiring-social-media-manager`
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `465581a`
 
 ## Why this page
 
