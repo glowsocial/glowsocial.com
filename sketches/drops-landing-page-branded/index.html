@@ -1,0 +1,540 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Drops landing page mockup — branded</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --navy: #192734;
+      --navy-light: #243548;
+      --accent: #d7e278;
+      --accent-dark: #d2c964;
+      --everglow: #9399cc;
+      --bg: #ddecf7;
+      --bg-alt: #d0e5f2;
+      --white: #ffffff;
+      --paper: #faf8f7;
+      --text: #192734;
+      --text-muted: #4a5f72;
+      --card-bg: #faf8f7;
+      --card-border: #d4dfe8;
+      --green-soft: rgba(215, 226, 120, 0.18);
+      --shadow: 0 2px 16px rgba(25, 39, 52, 0.06);
+      --shadow-lg: 0 8px 32px rgba(25, 39, 52, 0.10);
+      --radius: 12px;
+      --radius-sm: 8px;
+      --radius-lg: 20px;
+    }
+    body {
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: var(--text);
+      line-height: 1.6;
+      background: linear-gradient(180deg, var(--bg) 0%, var(--paper) 100%);
+      -webkit-font-smoothing: antialiased;
+      padding: 28px 14px 60px;
+    }
+    .page { max-width: 1140px; margin: 0 auto; }
+    .hero {
+      background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%);
+      color: var(--white);
+      border-radius: 28px;
+      box-shadow: var(--shadow-lg);
+      padding: 42px;
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 28px;
+      margin-bottom: 22px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: "";
+      position: absolute;
+      right: -90px;
+      top: -40px;
+      width: 280px;
+      height: 280px;
+      background: radial-gradient(circle, rgba(215,226,120,0.22) 0%, rgba(215,226,120,0) 70%);
+      border-radius: 50%;
+      pointer-events: none;
+    }
+    .eyebrow {
+      display: inline-block;
+      background: rgba(255,255,255,0.10);
+      color: var(--accent);
+      border: 1px solid rgba(255,255,255,0.16);
+      padding: 8px 14px;
+      border-radius: 999px;
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+    }
+    h1, h2, h3 {
+      font-family: Urbanist, Inter, sans-serif;
+    }
+    h1 {
+      font-size: clamp(2.6rem, 5vw, 4.4rem);
+      line-height: 0.95;
+      font-weight: 800;
+      letter-spacing: -1px;
+      margin-bottom: 16px;
+    }
+    .hero-sub {
+      font-size: 1.12rem;
+      max-width: 58ch;
+      color: rgba(255,255,255,0.92);
+      margin-bottom: 16px;
+    }
+    .hero-copy {
+      color: rgba(255,255,255,0.76);
+      max-width: 60ch;
+    }
+    .signup {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.14);
+      backdrop-filter: blur(8px);
+      border-radius: 22px;
+      padding: 22px;
+      align-self: start;
+    }
+    .signup-kicker {
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    .signup h2 {
+      font-size: 1.45rem;
+      line-height: 1.05;
+      margin-bottom: 10px;
+      text-transform: none;
+      letter-spacing: -0.4px;
+    }
+    .signup p {
+      color: rgba(255,255,255,0.82);
+      font-size: 0.98rem;
+      margin-bottom: 16px;
+    }
+    .email-row { display: flex; gap: 10px; flex-wrap: wrap; }
+    input {
+      flex: 1 1 220px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,0.22);
+      padding: 14px 16px;
+      background: rgba(255,255,255,0.96);
+      color: var(--text);
+      font-size: 14px;
+    }
+    button {
+      border: 0;
+      border-radius: 999px;
+      padding: 14px 20px;
+      background: var(--accent);
+      color: var(--navy);
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.9rem;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      cursor: pointer;
+      box-shadow: 0 4px 16px rgba(215,226,120,0.28);
+    }
+    .micro {
+      font-size: 12px;
+      color: rgba(255,255,255,0.65);
+      margin-top: 10px;
+    }
+    .section {
+      background: var(--white);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 26px;
+      box-shadow: var(--shadow);
+      margin-bottom: 18px;
+    }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+    .section-title {
+      font-size: 1.95rem;
+      font-weight: 800;
+      line-height: 1.02;
+      letter-spacing: -0.5px;
+      text-transform: none;
+      margin-bottom: 6px;
+    }
+    .section-copy { color: var(--text-muted); max-width: 60ch; }
+    .chips { display: flex; flex-wrap: wrap; gap: 10px; }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: var(--paper);
+      border: 1px solid var(--card-border);
+      color: var(--navy);
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.84rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .chip.active {
+      background: var(--green-soft);
+      border-color: rgba(215,226,120,0.5);
+    }
+    .feature-grid {
+      display: grid;
+      grid-template-columns: 1.25fr 0.75fr;
+      gap: 20px;
+    }
+    .feature-card {
+      border-radius: 24px;
+      background: linear-gradient(180deg, var(--paper) 0%, var(--white) 100%);
+      border: 1px solid var(--card-border);
+      padding: 24px;
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 16px;
+      min-height: 350px;
+    }
+    .label {
+      display: inline-block;
+      background: var(--navy);
+      color: var(--accent);
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.74rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+    .feature-title {
+      font-size: 2.05rem;
+      font-weight: 800;
+      line-height: 0.98;
+      letter-spacing: -0.8px;
+      text-transform: none;
+      margin-bottom: 12px;
+      max-width: 13ch;
+    }
+    .feature-copy { color: var(--text-muted); margin-bottom: 16px; max-width: 46ch; }
+    .read-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--navy);
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.86rem;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+    .read-link span { color: var(--accent-dark); }
+    .phone-shell { display:flex; justify-content:center; align-items:center; }
+    .phone {
+      width: 230px;
+      background: #111821;
+      border-radius: 32px;
+      padding: 10px;
+      box-shadow: 0 12px 32px rgba(25,39,52,0.18);
+      position: relative;
+    }
+    .phone::before {
+      content: "";
+      position: absolute;
+      top: 7px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 84px;
+      height: 18px;
+      background: #0d1218;
+      border-radius: 999px;
+      z-index: 2;
+    }
+    .screen {
+      background: linear-gradient(180deg, var(--bg) 0%, var(--white) 100%);
+      border-radius: 24px;
+      min-height: 308px;
+      padding: 28px 14px 14px;
+      overflow: hidden;
+    }
+    .mini-pill {
+      display: inline-block;
+      padding: 6px 8px;
+      border-radius: 999px;
+      background: rgba(25,39,52,0.08);
+      color: var(--navy);
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.68rem;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .mini-card {
+      border-radius: 18px;
+      background: linear-gradient(180deg, var(--navy) 0%, var(--navy-light) 100%);
+      color: var(--white);
+      padding: 16px;
+      box-shadow: 0 8px 20px rgba(25,39,52,0.14);
+    }
+    .mini-title {
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 1.35rem;
+      font-weight: 800;
+      line-height: 1.03;
+      letter-spacing: -0.5px;
+      margin-bottom: 10px;
+      text-transform: none;
+    }
+    .mini-copy {
+      font-size: 0.83rem;
+      color: rgba(255,255,255,0.86);
+    }
+    .side-stack { display: grid; gap: 14px; }
+    .side-card {
+      border-radius: 18px;
+      background: var(--paper);
+      border: 1px solid var(--card-border);
+      padding: 18px;
+    }
+    .side-card h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      text-transform: none;
+      letter-spacing: -0.2px;
+      margin-bottom: 6px;
+    }
+    .side-card p { color: var(--text-muted); font-size: 0.95rem; }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0,1fr));
+      gap: 16px;
+    }
+    .card {
+      background: linear-gradient(180deg, var(--white) 0%, var(--paper) 100%);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: var(--shadow);
+      min-height: 215px;
+    }
+    .card .topic {
+      display: inline-block;
+      margin-bottom: 12px;
+      color: var(--navy);
+      background: var(--green-soft);
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .card h3 {
+      font-size: 1.18rem;
+      font-weight: 700;
+      line-height: 1.12;
+      text-transform: none;
+      letter-spacing: -0.2px;
+      margin-bottom: 10px;
+    }
+    .card p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 14px;
+    }
+    .card a {
+      font-family: Urbanist, Inter, sans-serif;
+      font-size: 0.82rem;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--navy);
+      text-decoration: none;
+    }
+    .card a span { color: var(--accent-dark); }
+    .footer-cta {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 20px;
+      align-items: center;
+      background: linear-gradient(135deg, var(--bg) 0%, var(--white) 100%);
+    }
+    @media (max-width: 980px) {
+      .hero, .feature-grid, .feature-card, .footer-cta { grid-template-columns: 1fr; }
+      .cards { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 720px) {
+      body { padding: 16px 10px 40px; }
+      .hero, .section { padding: 20px; }
+      .cards { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="hero">
+      <div>
+        <div class="eyebrow">Drops · archive + email series</div>
+        <h1>Drops</h1>
+        <p class="hero-sub">Useful weekly drops on content, visibility, trust, and the real work of keeping a business active online.</p>
+        <p class="hero-copy">This is where the content lives. Every Drop is a real page first, then an email adaptation second. That gives the archive something to browse and the email something worth subscribing to.</p>
+      </div>
+      <aside class="signup">
+        <div class="signup-kicker">Get the next Drop</div>
+        <h2>Read it on the site. Get it by email too.</h2>
+        <p>New Drops can land in your inbox, but every issue also stays here as a permanent page you can revisit, search, and share.</p>
+        <div class="email-row">
+          <input type="email" placeholder="Email address" />
+          <button>Get Drops</button>
+        </div>
+        <div class="micro">Weekly by default. Practical, not noisy.</div>
+      </aside>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <h2 class="section-title">Browse by topic</h2>
+          <p class="section-copy">Use the archive like a library, not like a pile of dated blog posts.</p>
+        </div>
+      </div>
+      <div class="chips">
+        <div class="chip active">Owner Burden</div>
+        <div class="chip">Trust Signals</div>
+        <div class="chip">Content Sources</div>
+        <div class="chip">Buyer Guides</div>
+        <div class="chip">Local Visibility</div>
+        <div class="chip">Website Engine</div>
+        <div class="chip">Objections</div>
+        <div class="chip">Proof & Reviews</div>
+        <div class="chip">Seasonal Operations</div>
+        <div class="chip">AI Search Readiness</div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <h2 class="section-title">Featured Drop</h2>
+          <p class="section-copy">Lead with one strong entry point, then let people browse the archive from there.</p>
+        </div>
+      </div>
+      <div class="feature-grid">
+        <article class="feature-card">
+          <div>
+            <div class="label">Owner Burden</div>
+            <h3 class="feature-title">Why Social Media Tools Still Leave Business Owners Doing the Work</h3>
+            <p class="feature-copy">Scheduling is not usually the hard part. The real burden is figuring out what to say, finding the raw material, and making the business look active without turning content into another owner job.</p>
+            <a class="read-link" href="#">Read this Drop <span>→</span></a>
+          </div>
+          <div class="phone-shell">
+            <div class="phone">
+              <div class="screen">
+                <div class="mini-pill">owner burden</div>
+                <div class="mini-card">
+                  <div class="mini-title">The tool isn't the bottleneck</div>
+                  <div class="mini-copy">If you're still the one inventing every post, the hard part never left. Scheduling wasn't the problem.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <aside class="side-stack">
+          <div class="side-card">
+            <h3>Archive first</h3>
+            <p>The page should make it obvious there is real content to read before anyone subscribes.</p>
+          </div>
+          <div class="side-card">
+            <h3>Email is the delivery layer</h3>
+            <p>The opt-in is important, but it should support the library instead of replacing it.</p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <h2 class="section-title">Recent Drops</h2>
+          <p class="section-copy">The cards below are the content inventory. This should feel more like a useful section of the site than a generic blog roll.</p>
+        </div>
+      </div>
+      <div class="cards">
+        <article class="card">
+          <div class="topic">Trust Signals</div>
+          <h3>What Customers Check Before They Call a Local Business</h3>
+          <p>What people actually look at before they trust a business enough to reach out.</p>
+          <a href="#">Read Drop <span>→</span></a>
+        </article>
+        <article class="card">
+          <div class="topic">Content Sources</div>
+          <h3>How to Turn Customer FAQs Into a Month of Social Posts</h3>
+          <p>Use the questions you already answer to build practical content without reaching for filler.</p>
+          <a href="#">Read Drop <span>→</span></a>
+        </article>
+        <article class="card">
+          <div class="topic">Buyer Guides</div>
+          <h3>When a Scheduler Is Enough and When It Is Not</h3>
+          <p>A cleaner way to understand when software solves the problem and when it only organizes it.</p>
+          <a href="#">Read Drop <span>→</span></a>
+        </article>
+        <article class="card">
+          <div class="topic">Local Visibility</div>
+          <h3>Why Google Business Profile Often Matters More Than Instagram</h3>
+          <p>Where local customers actually look first, and why that changes what should get attention.</p>
+          <a href="#">Read Drop <span>→</span></a>
+        </article>
+        <article class="card">
+          <div class="topic">Website Engine</div>
+          <h3>Why Website-First Content Is Better Than Email-First Content</h3>
+          <p>Why the page should hold the durable value and the email should carry it outward.</p>
+          <a href="#">Read Drop <span>→</span></a>
+        </article>
+        <article class="card">
+          <div class="topic">Objections</div>
+          <h3>What If I Do Not Have Enough Photos for Social Media?</h3>
+          <p>Why a thin photo library is usually a workflow problem, not an automatic content blocker.</p>
+          <a href="#">Read Drop <span>→</span></a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section footer-cta">
+      <div>
+        <h2 class="section-title">Read here. Get the next one by email.</h2>
+        <p class="section-copy">That is the intended behavior: browse the library when you want depth, subscribe when you want the next useful Drop delivered automatically.</p>
+      </div>
+      <aside class="signup" style="background: var(--navy); border-color: transparent;">
+        <div class="signup-kicker">Optional, not required</div>
+        <h2>Subscribe after you've seen the content.</h2>
+        <p>The best opt-in pitch is that the archive is already useful.</p>
+        <div class="email-row">
+          <input type="email" placeholder="Email address" />
+          <button>Subscribe</button>
+        </div>
+      </aside>
+    </section>
+  </main>
+</body>
+</html>

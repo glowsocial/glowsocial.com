@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boomp Drops phone mockup demo</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #f6f2ea;
+      --paper: #fffdf9;
+      --ink: #1f2430;
+      --muted: #6d736f;
+      --line: #e6ddd0;
+      --accent: #ef6b4a;
+      --accent-soft: #ffe4dc;
+      --accent-deep: #b94224;
+      --shadow: 0 24px 60px rgba(42, 35, 28, 0.12);
+      --radius-xl: 28px;
+      --radius-lg: 20px;
+      --radius-md: 14px;
+    }
+    body {
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, #fff7ec 0%, transparent 32%),
+        linear-gradient(180deg, #fbf8f2 0%, #f3ede4 100%);
+      line-height: 1.55;
+      min-height: 100vh;
+      padding: 48px 20px 80px;
+    }
+    .page {
+      max-width: 880px;
+      margin: 0 auto;
+      background: rgba(255,253,249,0.9);
+      border: 1px solid rgba(230,221,208,0.8);
+      border-radius: 32px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      backdrop-filter: blur(6px);
+    }
+    .header {
+      padding: 36px 48px 22px;
+      border-bottom: 1px solid rgba(230,221,208,0.7);
+      background: linear-gradient(180deg, rgba(255,255,255,0.72), rgba(255,253,249,0.96));
+    }
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent-deep);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      margin-bottom: 18px;
+    }
+    h1 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(2.15rem, 4vw, 3.35rem);
+      line-height: 1.06;
+      letter-spacing: -0.03em;
+      max-width: 12ch;
+      margin-bottom: 16px;
+    }
+    .dek {
+      max-width: 56ch;
+      color: var(--muted);
+      font-size: 1.08rem;
+    }
+    .body {
+      padding: 34px 48px 52px;
+    }
+    .lede {
+      max-width: 64ch;
+      font-size: 1.05rem;
+      color: #2d3440;
+      margin-bottom: 34px;
+    }
+    .mockup-wrap {
+      display: flex;
+      justify-content: center;
+      margin: 18px 0 38px;
+    }
+    .phone {
+      width: min(330px, 100%);
+      background: #171819;
+      border-radius: 42px;
+      padding: 14px;
+      box-shadow: 0 28px 60px rgba(29, 25, 22, 0.28);
+      position: relative;
+    }
+    .phone::before {
+      content: "";
+      position: absolute;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 112px;
+      height: 24px;
+      background: #0f1011;
+      border-radius: 999px;
+      z-index: 2;
+    }
+    .screen {
+      background: linear-gradient(180deg, #fff9f3 0%, #fffdf9 100%);
+      border-radius: 30px;
+      min-height: 640px;
+      overflow: hidden;
+      border: 1px solid rgba(255,255,255,0.16);
+      position: relative;
+    }
+    .screen-top {
+      padding: 44px 22px 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #70757b;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .account {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 0 22px 18px;
+    }
+    .avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #ef6b4a 0%, #f6b16b 100%);
+      color: white;
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+      font-size: 15px;
+      box-shadow: 0 8px 20px rgba(239, 107, 74, 0.24);
+    }
+    .account-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: #1f2430;
+    }
+    .account-meta {
+      font-size: 12px;
+      color: #7a7f86;
+    }
+    .post-card {
+      margin: 0 18px;
+      border-radius: 28px;
+      background:
+        radial-gradient(circle at top right, rgba(255,255,255,0.55), transparent 28%),
+        linear-gradient(160deg, #f16745 0%, #dd5538 52%, #b53c22 100%);
+      color: white;
+      padding: 24px 22px 22px;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 22px 32px rgba(196, 71, 40, 0.22);
+    }
+    .post-card::after {
+      content: "";
+      position: absolute;
+      right: -30px;
+      bottom: -34px;
+      width: 140px;
+      height: 140px;
+      background: rgba(255,255,255,0.12);
+      border-radius: 50%;
+    }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.18);
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+      backdrop-filter: blur(6px);
+    }
+    .post-title {
+      font-size: 29px;
+      line-height: 1.08;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      max-width: 9ch;
+      margin-bottom: 16px;
+      position: relative;
+      z-index: 1;
+    }
+    .post-copy {
+      font-size: 14px;
+      line-height: 1.5;
+      max-width: 23ch;
+      color: rgba(255,255,255,0.92);
+      position: relative;
+      z-index: 1;
+    }
+    .post-footer {
+      margin-top: 18px;
+      padding-top: 16px;
+      border-top: 1px solid rgba(255,255,255,0.18);
+      font-size: 12px;
+      font-weight: 700;
+      color: rgba(255,255,255,0.84);
+      position: relative;
+      z-index: 1;
+    }
+    .caption {
+      padding: 18px 24px 0;
+      font-size: 14px;
+      color: #3d4652;
+    }
+    .caption strong {
+      color: #19202b;
+    }
+    .meta-row {
+      display: flex;
+      gap: 16px;
+      padding: 16px 24px 14px;
+      color: #7a8088;
+      font-size: 13px;
+      border-bottom: 1px solid #eee4d8;
+    }
+    .comment-block {
+      padding: 16px 24px 22px;
+      color: #525963;
+      font-size: 13px;
+    }
+    .comment-label {
+      color: #9aa0a8;
+      font-weight: 700;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      font-size: 11px;
+    }
+    h2 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.65rem;
+      margin: 10px 0 10px;
+      line-height: 1.15;
+    }
+    p + h2 { margin-top: 28px; }
+    p { margin-bottom: 16px; color: #35404b; }
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-top: 12px;
+    }
+    .note {
+      background: #fcf7f0;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+    }
+    .note strong {
+      display: block;
+      margin-bottom: 8px;
+      color: #1c2530;
+    }
+    .toggle-row {
+      display: flex;
+      gap: 10px;
+      margin: 0 auto 22px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    button {
+      appearance: none;
+      border: 0;
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 10px 14px;
+      font-size: 13px;
+      font-weight: 700;
+      color: #46515d;
+      cursor: pointer;
+      transition: transform 120ms ease, background 160ms ease, border-color 160ms ease, color 160ms ease;
+    }
+    button:hover { transform: translateY(-1px); }
+    button.active {
+      background: var(--accent-soft);
+      border-color: #f0c5b8;
+      color: var(--accent-deep);
+    }
+    @media (max-width: 760px) {
+      body { padding: 20px 12px 50px; }
+      .header, .body { padding-left: 20px; padding-right: 20px; }
+      .two-col { grid-template-columns: 1fr; }
+      .phone { width: min(320px, 100%); }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="header">
+      <div class="eyebrow">Boomp Drop · inline phone mockup demo</div>
+      <h1>Why Social Media Tools Still Leave Business Owners Doing the Work</h1>
+      <p class="dek">This shows the proposed pattern: a direct answer up top, then one believable post idea shown inside a phone mockup in the top third of the page.</p>
+    </section>
+
+    <section class="body">
+      <p class="lede">
+        Most social media tools make planning, scheduling, or organizing easier. They do not remove the hardest part for most owners: figuring out what to say, gathering raw material, and making the business look active without adding another job to the owner's week.
+      </p>
+
+      <div class="toggle-row" aria-label="mockup variants">
+        <button class="active" data-title="The tool isn't the bottleneck" data-copy="If you're still the one inventing every post, the hard part never left. Scheduling wasn't the problem." data-footer="Boomp · owner burden">Insight card</button>
+        <button data-title="Still doing the work?" data-copy="If the software is organized but the owner is still writing, choosing photos, and rescuing the calendar, the system is still owner-heavy." data-footer="Boomp · plain-language answer">Q&A card</button>
+        <button data-title="Tools help with…" data-copy="• scheduling\n• storage\n• approvals\n\nNot with:\n• ideas\n• proof\n• raw material" data-footer="Boomp · comparison post">Comparison card</button>
+      </div>
+
+      <div class="mockup-wrap">
+        <div class="phone" aria-label="Phone mockup showing example social post">
+          <div class="screen">
+            <div class="screen-top">
+              <span>9:41</span>
+              <span>Preview</span>
+            </div>
+            <div class="account">
+              <div class="avatar">B</div>
+              <div>
+                <div class="account-name">Boomp</div>
+                <div class="account-meta">Post example pulled from a canonical page</div>
+              </div>
+            </div>
+            <div class="post-card" id="card">
+              <div class="pill">owner burden</div>
+              <div class="post-title" id="cardTitle">The tool isn't the bottleneck</div>
+              <div class="post-copy" id="cardCopy">If you're still the one inventing every post, the hard part never left. Scheduling wasn't the problem.</div>
+              <div class="post-footer" id="cardFooter">Boomp · owner burden</div>
+            </div>
+            <div class="caption">
+              <strong>Example post angle:</strong> one simple, believable social cut pulled from the page's core idea.
+            </div>
+            <div class="meta-row">
+              <span>♥ 84</span>
+              <span>💬 12</span>
+              <span>↗ Share</span>
+            </div>
+            <div class="comment-block">
+              <div class="comment-label">Why this works</div>
+              It feels like a real post, but it stays short enough to read inside the phone without turning into a tiny fake UI exercise.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <h2>Why this placement makes sense</h2>
+      <p>
+        The page states the idea first, then immediately shows what that idea could become in public. That keeps the page answer-first while giving the reader a concrete formatting example before the article gets longer.
+      </p>
+
+      <div class="two-col">
+        <div class="note">
+          <strong>What this image is doing</strong>
+          It is not a hero graphic. It is proof that the page can turn into a publishable post.
+        </div>
+        <div class="note">
+          <strong>Why the phone matters</strong>
+          It makes the content feel like a real content system instead of a text archive waiting for design someday.
+        </div>
+      </div>
+
+      <h2>What we'd repeat across the library</h2>
+      <p>
+        Same phone frame. Same early placement. Same readable text rules. Different post types depending on whether the page is an objection, proof page, comparison page, or seasonal reminder.
+      </p>
+    </section>
+  </main>
+
+  <script>
+    const buttons = document.querySelectorAll('button[data-title]');
+    const title = document.getElementById('cardTitle');
+    const copy = document.getElementById('cardCopy');
+    const footer = document.getElementById('cardFooter');
+
+    buttons.forEach((button) => {
+      button.addEventListener('click', () => {
+        buttons.forEach((b) => b.classList.remove('active'));
+        button.classList.add('active');
+        title.textContent = button.dataset.title;
+        copy.innerHTML = button.dataset.copy.replace(/\n/g, '<br>');
+        footer.textContent = button.dataset.footer;
+      });
+    });
+  </script>
+</body>
+</html>
