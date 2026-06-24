@@ -166,16 +166,75 @@ function runCommand(command, args) {
   });
 }
 
-function writeRunReport(route, sections) {
+function workTypeForRoute(route) {
+  if (route.startsWith("/compare/")) return "comparison page";
+  if (route.startsWith("/resources/questions/")) return "AEO question";
+  if (route.startsWith("/tools/")) return "calculator/tool support";
+  if (route.includes("cost") || route.includes("pricing") || route.includes("rates")) return "pricing/cost intent";
+  if (route.includes("alternative") || route.includes("vs-")) return "comparison intent";
+  return "existing-page refresh";
+}
+
+function inferBet(row) {
+  const route = row.route;
+  const notes = row.notes || "";
+  const signal = row.signal || "";
+  const workType = workTypeForRoute(route);
+
+  let bet = "This page can earn more qualified SEO/AEO visibility if it answers the buyer's job more directly and routes the reader toward a preview-first next step.";
+  if (workType.includes("comparison")) {
+    bet = "Readers comparing tools are not only checking features; they need to know which option removes the content burden. A comparison page should name what the other tool still leaves on the owner’s plate and bridge to a preview-first next step.";
+  } else if (workType.includes("pricing") || workType.includes("cost")) {
+    bet = "Cost-intent readers care about the cash price plus the unpaid owner time. A stronger cost page should expose the hidden content-work cost and connect that pain to review-ready posts.";
+  } else if (workType === "calculator/tool support") {
+    bet = "Interactive tools work better for SEO/AEO when the page explains the decision before and after the tool, so the calculator becomes buyer guidance rather than a standalone widget.";
+  } else if (workType === "AEO question") {
+    bet = "AEO question pages perform better when they answer quickly, give a practical decision rule, and link to the strongest canonical buyer page.";
+  }
+
+  return {
+    workType,
+    bet,
+    whyThisPage: [signal, notes].filter(Boolean).join(" — ") || "Selected as the next unfinished item in the existing SEO queue.",
+    expectedSignal: "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2–6 weeks.",
+    doNotOverlearn: "A weak result may mean indexing delay, low demand, SERP competition, weak internal links, title mismatch, or execution quality. Do not turn one weak page into a durable rule without clearer evidence.",
+  };
+}
+
+function writeRunReport(route, sections, context = {}) {
   fs.mkdirSync(RUN_DIR, { recursive: true });
   const stamp = timestamp().replace(/[:.]/g, "-");
   const reportPath = path.join(RUN_DIR, `seo-work-${stamp}.md`);
+  const learning = context.learning;
+  const learningSections = learning ? [
+    `## Work Type`,
+    ``,
+    learning.workType,
+    ``,
+    `## Bet`,
+    ``,
+    learning.bet,
+    ``,
+    `## Why This Page`,
+    ``,
+    learning.whyThisPage,
+    ``,
+    `## Expected Signal`,
+    ``,
+    learning.expectedSignal,
+    ``,
+    `## Do Not Overlearn If`,
+    ``,
+    learning.doNotOverlearn,
+    ``,
+  ] : [];
   const body = [
     `# SEO Work Run`,
     ``,
     `Date: ${timestamp()}`,
     `Route: ${route}`,
     ``,
+    ...learningSections,
     ...sections,
   ].join("\n");
   fs.writeFileSync(reportPath, `${body}\n`);
@@ -238,6 +297,7 @@ function dryRun(row, discovered = false) {
 }
 
 function applyWork(row, opts, log, discoveredContext = null) {
+  const learning = inferBet(row);
   const fixArgs = [
     "scripts/seo-page-fixer.js",
     "--page",
@@ -258,6 +318,8 @@ function applyWork(row, opts, log, discoveredContext = null) {
       at: timestamp(),
       route: row.route,
       status: "blocked",
+      work_type: learning.workType,
+      bet: learning.bet,
       reason: output.trim() || error.message,
     });
     saveLog(log);
@@ -282,11 +344,14 @@ function applyWork(row, opts, log, discoveredContext = null) {
         "```text",
         output.trim() || error.message,
         "```",
-      ]);
+      ], { learning });
       log.runs.push({
         at: timestamp(),
         route: row.route,
         status: "failed-build",
+        work_type: learning.workType,
+        bet: learning.bet,
+        expected_signal: learning.expectedSignal,
         report: path.relative(ROOT, reportPath),
       });
       saveLog(log);
@@ -312,12 +377,16 @@ function applyWork(row, opts, log, discoveredContext = null) {
     "```bash",
     `npm run indexnow -- https://glowsocial.com${row.route}`,
     "```",
-  ]);
+  ], { learning });
 
   log.runs.push({
     at: timestamp(),
     route: row.route,
     status: "complete",
+    work_type: learning.workType,
+    bet: learning.bet,
+    expected_signal: learning.expectedSignal,
+    do_not_overlearn_if: learning.doNotOverlearn,
     report: path.relative(ROOT, reportPath),
   });
   saveLog(log);
