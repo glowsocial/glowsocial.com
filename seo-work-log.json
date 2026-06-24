@@ -187,6 +187,17 @@
       "do_not_overlearn_if": "If these pages remain unindexed, do not assume all local pages should be removed. Possible causes include local-page duplication, thin city/industry differentiation, crawl timing, weak hub links, or Google preferring fewer local variants.",
       "migration_target": "Boomp local-page strategy pending review before port",
       "report": "seo-agent-runs/seo-work-2026-06-24T21-07-42Z-local-page-cluster-2.md"
+    },
+    {
+      "at": "2026-06-24T21:33:12Z",
+      "route": "/blog/boost-your-engagement-discover-the-benefits-of-social-media-schedulers",
+      "status": "complete",
+      "work_type": "crawled-not-indexed scheduler intent refresh",
+      "bet": "Scheduler-benefits pages are more index-worthy when they answer both sides of the query: schedulers help with publishing consistency, but they do not solve the empty-calendar content burden. This page should support scheduler-related queries while routing owners toward preview-first content creation when scheduling is not the bottleneck.",
+      "expected_signal": "Check whether the page moves from crawled/not indexed to indexed, and later whether impressions/clicks improve for social media scheduler benefits, scheduler limits, social media scheduler for small business, and is a scheduler enough queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume scheduler intent is weak. Possible causes include the old generic slug, overlap with free/cheap scheduler pages, crawl timing, SERP competition, or insufficient internal-link equity.",
+      "migration_target": "Boomp port after branding is ready",
+      "report": "seo-agent-runs/seo-work-2026-06-24T21-33-12Z-scheduler-benefits.md"
     }
   ]
 }
