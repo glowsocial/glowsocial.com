@@ -14,7 +14,7 @@
   - `https://glowsocial.com/local/social-media-management-dentists-charlotte`
   - `https://glowsocial.com/local/social-media-management-local-gyms-seattle`
   - `https://glowsocial.com/local/social-media-management-boutique-hotels-austin`
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `97918b5`
 - **Boomp migration target:** Local-page strategy pending review before port
 
 ## Why this cluster
