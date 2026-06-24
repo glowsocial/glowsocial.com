@@ -2,19 +2,143 @@ import "../home.css";
 import { getPricing } from "../pricing-config";
 import { appMarketingUrl, checkoutUrl, previewUrl } from "../../lib/marketing-links";
 
+const PAGE_URL = "https://glowsocial.com/pricing";
+
 // Force dynamic rendering so pricing is evaluated at request time, not build time
 export const dynamic = 'force-dynamic';
 
 export const metadata = {
-  title: "Pricing for Social Media That Just Works",
+  title: "Glow Social Pricing: Social Media Management from $99/month",
   description:
-    "Preview posts from your website before you choose a plan. Glow Social keeps social channels and Google Business Profile active with no content calendar or strategy homework.",
+    "Compare Glow Social pricing plans for social media and Google Business Profile posting. Preview posts from your website before choosing Core, Pro, or Unlimited.",
+  alternates: {
+    canonical: "/pricing",
+  },
   openGraph: {
-    title: "Pricing — Glow Social",
+    title: "Glow Social Pricing: Social Media Management from $99/month",
     description:
-      "Start with steady posting. Add more only when you need it. Free preview first, no contracts, cancel anytime.",
+      "Compare Core, Pro, and Unlimited plans for review-ready social media posts created from your website. Free preview first, no contracts, cancel anytime.",
+    url: PAGE_URL,
+    siteName: "Glow Social",
+    type: "website",
+    images: [
+      {
+        url: "https://glowsocial.com/images/og-image.png?v=pricing-2026-06",
+        width: 1200,
+        height: 630,
+        alt: "Glow Social pricing plans",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Glow Social Pricing: Social Media Management from $99/month",
+    description:
+      "Preview posts from your website, then choose the plan that fits your local business.",
+    images: ["https://glowsocial.com/images/og-image.png?v=pricing-2026-06"],
   },
 };
+
+function PricingJsonLd({ pricing }) {
+  const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      name: "Glow Social pricing",
+      url: PAGE_URL,
+      description:
+        "Pricing for Glow Social plans that prepare review-ready social media and Google Business Profile posts from a business website.",
+      isPartOf: {
+        "@type": "WebSite",
+        name: "Glow Social",
+        url: "https://glowsocial.com",
+      },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      name: "Glow Social social media management",
+      url: PAGE_URL,
+      serviceType: "Social media management for local businesses",
+      provider: {
+        "@type": "Organization",
+        name: "Glow Social",
+        url: "https://glowsocial.com",
+      },
+      areaServed: "US",
+      offers: [pricing.core, pricing.pro, pricing.unlimited].map((plan) => ({
+        "@type": "Offer",
+        name: plan.name,
+        price: plan.price,
+        priceCurrency: "USD",
+        availability: "https://schema.org/InStock",
+        url: PAGE_URL,
+        priceSpecification: {
+          "@type": "UnitPriceSpecification",
+          price: plan.price,
+          priceCurrency: "USD",
+          billingIncrement: 1,
+          unitText: "MONTH",
+        },
+      })),
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: [
+        {
+          "@type": "Question",
+          name: "How much does Glow Social cost?",
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: `${pricing.summaryFull} ${pricing.billingPolicy}`,
+          },
+        },
+        {
+          "@type": "Question",
+          name: "Can I see the posts before I pay?",
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: "Yes. The free preview uses your website to show the posts Glow Social would prepare before you create an account, connect profiles, or choose a paid plan.",
+          },
+        },
+        {
+          "@type": "Question",
+          name: "Do I need to commit for a year?",
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: "No. Glow Social plans are month-to-month, with no annual commitment and no cancellation fees.",
+          },
+        },
+      ],
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: "https://glowsocial.com",
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: "Pricing",
+          item: PAGE_URL,
+        },
+      ],
+    },
+  ];
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
 
 function quickStartUrl(content) {
   return appMarketingUrl("/quick-start", {
@@ -37,6 +161,8 @@ export default function PricingPage() {
   const pricing = getPricing();
   return (
     <>
+      <PricingJsonLd pricing={pricing} />
+
       {/* ============ HERO ============ */}
       <section className="pricing-hero">
         <div className="container" style={{ textAlign: "center" }}>
