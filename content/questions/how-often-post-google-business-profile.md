@@ -3,7 +3,7 @@
 Most local businesses should post on Google Business Profile 1-2 times per week. Seasonal or urgent businesses can post more often during demand spikes.
 
 ## Why This Matters
-GBP posts keep the profile fresh near search and Maps results. That freshness helps customers see that the business is active.
+GBP posts keep the profile fresh near search and Maps results. That freshness helps customers see that the business is active. If you visit customers instead of serving them at a storefront, also read [Google Business Profile for service-area businesses](/blog/google-business-profile-for-service-area-businesses).
 
 ## Real-World Example
 A plumber might post one maintenance tip and one service availability update each week.

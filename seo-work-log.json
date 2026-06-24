@@ -129,6 +129,17 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume GBP/AEO question pages are weak. Possible causes include overlap with the GBP service page and longer GBP tools guide, crawl timing, insufficient internal-link equity, or Google preferring the service/blog canonical over a short answer page.",
       "migration_target": "https://boomp.net/resources/questions/best-google-business-profile-posting-tool-local-business",
       "report": "seo-agent-runs/seo-work-2026-06-24T19-41-42Z-gbp-posting-tool.md"
+    },
+    {
+      "at": "2026-06-24T20:09:03Z",
+      "route": "/blog/google-business-profile-for-service-area-businesses",
+      "status": "complete",
+      "work_type": "crawled-not-indexed GBP/local SEO guide improvement",
+      "bet": "GBP service-area pages are more index-worthy when they answer the setup question immediately and connect profile setup to ongoing local proof. Service-area businesses need to know what to show, what to hide, and how to keep the profile current enough to earn a call.",
+      "expected_signal": "Check whether the page moves from crawled/not indexed to indexed, and later whether impressions/clicks improve for Google Business Profile service area business, service-area business GBP, hide address GBP, and GBP posting for service area business queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume GBP/local SEO content is weak. Possible causes include overlap with GBP support documentation, crawl timing, insufficient internal-link equity, or Google preferring shorter AEO question pages for some queries.",
+      "migration_target": "https://boomp.net/blog/google-business-profile-for-service-area-businesses",
+      "report": "seo-agent-runs/seo-work-2026-06-24T20-09-03Z-gbp-service-area.md"
     }
   ]
 }
