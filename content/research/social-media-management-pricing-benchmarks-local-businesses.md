@@ -7,7 +7,6 @@ datasetName: "Glow Social local business social media pricing benchmark"
 datasetDescription: "A practical benchmark built from Glow Social customer conversations, public pricing checks, and common small business social media packages."
 ---
 
-
 Most local businesses should expect social media management to cost either 4-16 hours of owner time per month, $15-100/month for scheduling software plus content work, $300-1,500/month for a freelancer, $1,500-5,000/month for an agency, or $99-299/month for done-for-you automation.
 
 ## Pricing Benchmarks
@@ -118,3 +117,5 @@ Pricing varies by location, scope, approval requirements, photography/video need
 - [Social Media Management Cost Calculator](/tools/social-media-management-cost-calculator)
 - [DIY vs Agency Cost Calculator](/tools/diy-vs-agency-cost-calculator)
 - [Social Media ROI Estimator](/tools/social-media-roi-estimator)
+
+**Related guide:** [Social Media Management Pricing DIY vs Freelancer vs Agency](/blog/social-media-management-cost-pricing-guide)

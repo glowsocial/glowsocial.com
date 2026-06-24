@@ -65,6 +65,16 @@
       "route": "/blog/social-media-tools-under-50",
       "status": "complete",
       "report": "seo-agent-runs/seo-work-2026-06-22T23-16-00Z-tools-under-50.md"
+    },
+    {
+      "at": "2026-06-24T18:44:06.882Z",
+      "route": "/blog/social-media-management-cost-pricing-guide",
+      "status": "complete",
+      "work_type": "pricing/cost intent",
+      "bet": "Cost-intent readers care about the cash price plus the unpaid owner time. A stronger cost page should expose the hidden content-work cost and connect that pain to review-ready posts.",
+      "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2–6 weeks.",
+      "do_not_overlearn_if": "A weak result may mean indexing delay, low demand, SERP competition, weak internal links, title mismatch, or execution quality. Do not turn one weak page into a durable rule without clearer evidence.",
+      "report": "seo-agent-runs/seo-work-2026-06-24T18-44-06-880Z.md"
     }
   ]
 }
