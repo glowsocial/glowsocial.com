@@ -107,6 +107,17 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume comparison pages are weak. Possible causes include crawl timing, SERP competition, duplicate/overlapping Hootsuite/Metricool comparison pages, not enough internal-link equity, or Google treating the page as too similar to other scheduler comparison pages.",
       "migration_target": "https://boomp.net/blog/metricool-vs-hootsuite-for-small-business",
       "report": "seo-agent-runs/seo-work-2026-06-24T19-34-55Z-metricool-hootsuite.md"
+    },
+    {
+      "at": "2026-06-24T19:38:24Z",
+      "route": "/blog/buffer-alternative-with-content-creation-built-in",
+      "status": "complete",
+      "work_type": "crawled-not-indexed alternative-page improvement",
+      "bet": "Alternative pages are more index-worthy when they name the exact buyer mismatch early. For Buffer alternatives, the mismatch is that Buffer helps publish posts the business already made, while many owners are really searching for a way to get posts created before scheduling.",
+      "expected_signal": "Check whether the page moves from crawled/not indexed to indexed, and later whether impressions/clicks improve for Buffer alternative with content creation, Buffer alternative small business, Buffer content creation, and scheduler-with-content queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume Buffer-alternative intent is weak. Possible causes include overlap with /compare/buffer-alternative, overlap with Buffer pricing/free-plan pages, crawl timing, insufficient internal-link equity, or Google treating this as too close to other scheduler comparison pages.",
+      "migration_target": "https://boomp.net/blog/buffer-alternative-with-content-creation-built-in",
+      "report": "seo-agent-runs/seo-work-2026-06-24T19-38-24Z-buffer-content-creation.md"
     }
   ]
 }
