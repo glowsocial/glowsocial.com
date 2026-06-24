@@ -352,6 +352,10 @@ export default function GoogleBusinessProfilePostingServicePage() {
               <h3>GBP posts that support calls</h3>
               <p>Use service reminders, proof, and FAQ answers to help searchers take action.</p>
             </Link>
+            <Link href="/resources/questions/best-google-business-profile-posting-tool-local-business" className="affordable-card">
+              <h3>Best GBP posting tool</h3>
+              <p>Compare native posting, schedulers, agencies, and posts prepared for approval.</p>
+            </Link>
             <Link href="/social-media-scheduler-that-creates-content" className="affordable-card">
               <h3>Scheduler that creates content</h3>
               <p>Compare scheduling tools with posts created from your website.</p>

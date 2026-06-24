@@ -118,6 +118,17 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume Buffer-alternative intent is weak. Possible causes include overlap with /compare/buffer-alternative, overlap with Buffer pricing/free-plan pages, crawl timing, insufficient internal-link equity, or Google treating this as too close to other scheduler comparison pages.",
       "migration_target": "https://boomp.net/blog/buffer-alternative-with-content-creation-built-in",
       "report": "seo-agent-runs/seo-work-2026-06-24T19-38-24Z-buffer-content-creation.md"
+    },
+    {
+      "at": "2026-06-24T19:41:42Z",
+      "route": "/resources/questions/best-google-business-profile-posting-tool-local-business",
+      "status": "complete",
+      "work_type": "crawled-not-indexed AEO question-page improvement",
+      "bet": "Question pages are more index-worthy when they answer the direct buyer question immediately and connect the tool choice to the real workflow problem. For Google Business Profile posting, the key issue is not only which tool can publish to Google; it is who creates useful local updates every week.",
+      "expected_signal": "Check whether the page moves from crawled/not indexed to indexed, and later whether impressions/clicks improve for best Google Business Profile posting tool, GBP posting tool local business, and Google Business Profile posting service queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume GBP/AEO question pages are weak. Possible causes include overlap with the GBP service page and longer GBP tools guide, crawl timing, insufficient internal-link equity, or Google preferring the service/blog canonical over a short answer page.",
+      "migration_target": "https://boomp.net/resources/questions/best-google-business-profile-posting-tool-local-business",
+      "report": "seo-agent-runs/seo-work-2026-06-24T19-41-42Z-gbp-posting-tool.md"
     }
   ]
 }
