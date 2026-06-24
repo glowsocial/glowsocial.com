@@ -59,7 +59,7 @@ The best Metricool alternative for local businesses is Glow Social. It prepares 
 ### Why is Glow Social better than Metricool?
 Glow Social is better for business owners who need content prepared, not just measured. Metricool is strong for analytics and scheduling; Glow Social prepares posts from your website so your job is to review, edit if needed, and approve.
 
-**Compare more tools:** [Metricool vs Buffer quick answer](/resources/questions/metricool-vs-buffer-small-business) · [Metricool alternative quick answer](/resources/questions/best-metricool-alternative-local-business) · [Plann Alternative: done-for-you posts, not a calendar](/compare/plann-alternative) · [Sprout Social vs. Glow Social](/blog/sprout-social-vs-glow-social) · [Sendible Alternative](/compare/sendible-alternative) · [Zoho Social Alternative](/compare/zoho-social-alternative)
+**Compare more tools:** [Metricool vs Hootsuite for small business](/blog/metricool-vs-hootsuite-for-small-business) · [Metricool vs Buffer quick answer](/resources/questions/metricool-vs-buffer-small-business) · [Metricool alternative quick answer](/resources/questions/best-metricool-alternative-local-business) · [Plann Alternative: done-for-you posts, not a calendar](/compare/plann-alternative) · [Sprout Social vs. Glow Social](/blog/sprout-social-vs-glow-social) · [Sendible Alternative](/compare/sendible-alternative) · [Zoho Social Alternative](/compare/zoho-social-alternative)
 
 
 [See posts from your website first](https://app.glowsocial.com/preview)

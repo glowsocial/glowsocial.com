@@ -96,6 +96,17 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume the page topic is weak. Possible causes include duplicate/competing affordable-management routes, insufficient internal links, crawl timing, the existing blog guide competing with the service page, or Google treating this as too similar to related pricing/cost pages.",
       "migration_target": "https://boomp.net/affordable-social-media-management",
       "report": "seo-agent-runs/seo-work-2026-06-24T19-17-36Z-affordable-canonical.md"
+    },
+    {
+      "at": "2026-06-24T19:34:55Z",
+      "route": "/blog/metricool-vs-hootsuite-for-small-business",
+      "status": "complete",
+      "work_type": "crawled-not-indexed comparison-page improvement",
+      "bet": "Comparison pages are more index-worthy when they answer the buyer's decision in the first screen and make the underlying workflow difference explicit. For Metricool vs Hootsuite, the important distinction is not only feature count or price; it is whether the business already has content ready to manage.",
+      "expected_signal": "Check whether the page moves from crawled/not indexed to indexed, and later whether impressions/clicks improve for Metricool vs Hootsuite, Metricool for small business, Hootsuite for small business, and scheduling-tool comparison queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume comparison pages are weak. Possible causes include crawl timing, SERP competition, duplicate/overlapping Hootsuite/Metricool comparison pages, not enough internal-link equity, or Google treating the page as too similar to other scheduler comparison pages.",
+      "migration_target": "https://boomp.net/blog/metricool-vs-hootsuite-for-small-business",
+      "report": "seo-agent-runs/seo-work-2026-06-24T19-34-55Z-metricool-hootsuite.md"
     }
   ]
 }
