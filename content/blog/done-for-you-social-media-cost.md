@@ -175,4 +175,4 @@ Start with a <a href="https://app.glowsocial.com/preview">free preview from your
 
 <strong>About Glow Social:</strong> Done-for-you software that turns your website into 20 custom posts per month ready to approve for Facebook, Instagram, LinkedIn, TikTok, and Google Business Profile. Plans start at $99/month. <a href="https://app.glowsocial.com/preview">See posts from your website first</a>
 
-**Related guide:** [Social Media Management Pricing DIY vs Freelancer vs Agency](/blog/social-media-management-cost-pricing-guide)
+**Related guide:** [Social Media Management Pricing DIY vs Freelancer vs Agency](/blog/social-media-management-cost-pricing-guide) · [Affordable Social Media Management](/blog/best-affordable-social-media-management-small-business)

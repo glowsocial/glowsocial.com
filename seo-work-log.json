@@ -75,6 +75,16 @@
       "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2–6 weeks.",
       "do_not_overlearn_if": "A weak result may mean indexing delay, low demand, SERP competition, weak internal links, title mismatch, or execution quality. Do not turn one weak page into a durable rule without clearer evidence.",
       "report": "seo-agent-runs/seo-work-2026-06-24T18-44-06-880Z.md"
+    },
+    {
+      "at": "2026-06-24T18:54:27.805Z",
+      "route": "/blog/best-affordable-social-media-management-small-business",
+      "status": "complete",
+      "work_type": "existing-page refresh",
+      "bet": "This page can earn more qualified SEO/AEO visibility if it answers the buyer's job more directly and routes the reader toward a preview-first next step.",
+      "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2–6 weeks.",
+      "do_not_overlearn_if": "A weak result may mean indexing delay, low demand, SERP competition, weak internal links, title mismatch, or execution quality. Do not turn one weak page into a durable rule without clearer evidence.",
+      "report": "seo-agent-runs/seo-work-2026-06-24T18-54-27-803Z.md"
     }
   ]
 }
