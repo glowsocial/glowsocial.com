@@ -85,6 +85,17 @@
       "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2–6 weeks.",
       "do_not_overlearn_if": "A weak result may mean indexing delay, low demand, SERP competition, weak internal links, title mismatch, or execution quality. Do not turn one weak page into a durable rule without clearer evidence.",
       "report": "seo-agent-runs/seo-work-2026-06-24T18-54-27-803Z.md"
+    },
+    {
+      "at": "2026-06-24T19:17:36Z",
+      "route": "/affordable-social-media-management",
+      "status": "complete",
+      "work_type": "crawled-not-indexed canonical improvement",
+      "bet": "Affordable social media management searches are not only price-comparison searches. The page is more index-worthy and conversion-ready when it explains that the cheapest option is only truly cheap if the content creation burden is handled.",
+      "expected_signal": "Check whether the canonical page moves from crawled/not indexed to indexed, and later whether it gains impressions/clicks for affordable social media management, social media management under $100, low-cost social media management, and related small-business service queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume the page topic is weak. Possible causes include duplicate/competing affordable-management routes, insufficient internal links, crawl timing, the existing blog guide competing with the service page, or Google treating this as too similar to related pricing/cost pages.",
+      "migration_target": "https://boomp.net/affordable-social-media-management",
+      "report": "seo-agent-runs/seo-work-2026-06-24T19-17-36Z-affordable-canonical.md"
     }
   ]
 }

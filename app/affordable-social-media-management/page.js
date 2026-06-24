@@ -9,9 +9,9 @@ export const dynamic = "force-dynamic";
 const PAGE_URL = "https://glowsocial.com/affordable-social-media-management";
 
 export const metadata = {
-  title: "Social Media Management Service Under $100 for Small Business",
+  title: "Affordable Social Media Management Under $100/Month",
   description:
-    "A social media management service under $100/month for small businesses. Glow Social turns your website into 20 posts ready to approve.",
+    "Compare affordable social media management options for small businesses. Glow Social starts under $100/month and includes posts created from your website.",
   alternates: {
     canonical: "/affordable-social-media-management",
   },
@@ -44,6 +44,15 @@ function JsonLd({ pricing }) {
   const schema = [
     {
       "@context": "https://schema.org",
+      "@type": "WebPage",
+      name: "Affordable Social Media Management Under $100/Month",
+      url: PAGE_URL,
+      description:
+        "Compare affordable social media management options for small businesses and see why low-cost tools only work when the content creation burden is handled.",
+      primaryImageOfPage: "https://glowsocial.com/images/og-image.png?v=handled-2026-06",
+    },
+    {
+      "@context": "https://schema.org",
       "@type": "Service",
       name: "Social Media Management Service Under $100",
       serviceType: "Done-for-you social media marketing",
@@ -70,6 +79,14 @@ function JsonLd({ pricing }) {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       mainEntity: [
+        {
+          "@type": "Question",
+          name: "What is the most affordable social media management option?",
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: "Free tools are cheapest if you only count software cost. If you count the hours required to write, design, schedule, and restart posts, an affordable done-for-you service can be cheaper because it removes the content creation burden.",
+          },
+        },
         {
           "@type": "Question",
           name: "Can I get social media management under $100/month?",
@@ -190,7 +207,9 @@ export default function AffordableSocialMediaManagementPage() {
           <p>
             Yes, a small business can get social media management under $100/month
             when the job is steady organic posting, not full agency strategy.
-            Glow Social starts at {pricing.startingAtFull} and includes posts
+            The catch is that cheap schedulers are only cheap if someone still has
+            time to write captions, choose ideas, make graphics, and keep the calendar
+            alive. Glow Social starts at {pricing.startingAtFull} and includes posts
             created from your website, graphics, approval control, and publishing
             for approved posts.
           </p>

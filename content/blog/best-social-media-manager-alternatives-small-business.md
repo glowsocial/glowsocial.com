@@ -73,7 +73,7 @@ The right alternative depends on what's stopping you from posting consistently:
 - **No budget?** → Buffer free tier + your own time
 - **Want human help?** → Freelancer ($300-500/month)
 
-See our full guide: [Affordable Social Media Management for Small Business](/blog/best-affordable-social-media-management-small-business)
+See our full guide: [Affordable Social Media Management for Small Business](/blog/best-affordable-social-media-management-small-business), or go straight to the service page for [affordable social media management under $100/month](/affordable-social-media-management).
 
 ## Get Started
 

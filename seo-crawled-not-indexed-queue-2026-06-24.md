@@ -17,7 +17,7 @@ This is a filtered work queue, not a literal resubmission list. Static assets, a
 
 | Status | Last crawled | Export URL | Canonical route | Local source | Notes |
 |---|---|---|---|---|---|
-| real-local-page | 2026-02-05 | `https://glowsocial.com/affordable-social-media-management/` | `/affordable-social-media-management` | `app/affordable-social-media-management/page.js` | Exact local page |
+| worked 2026-06-24 | 2026-02-05 | `https://glowsocial.com/affordable-social-media-management/` | `/affordable-social-media-management` | `app/affordable-social-media-management/page.js` | Improved canonical service page; see `seo-agent-runs/seo-work-2026-06-24T19-17-36Z-affordable-canonical.md`. Pending Boomp port to `https://boomp.net/affordable-social-media-management`. |
 | real-local-page | 2026-03-16 | `https://glowsocial.com/local/social-media-management-auto-repair-shops-miami` | `/local/social-media-management-auto-repair-shops-miami` | `content/local/social-media-management-auto-repair-shops-miami.md` | Exact local page |
 | real-local-page | 2026-03-16 | `https://glowsocial.com/local/social-media-management-dentists-austin` | `/local/social-media-management-dentists-austin` | `content/local/social-media-management-dentists-austin.md` | Exact local page |
 | real-local-page | 2026-03-16 | `https://glowsocial.com/local/social-media-management-roofers-dallas` | `/local/social-media-management-roofers-dallas` | `content/local/social-media-management-roofers-dallas.md` | Exact local page |
