@@ -14,7 +14,7 @@ relatedResources:
     href: "/resources/questions/can-automation-replace-social-media-manager"
     description: "What automation can handle and what still needs human judgment."
   - title: "Glow Social vs Hiring a Social Media Manager"
-    href: "/resources/questions/glow-social-vs-hiring-social-media-manager"
+    href: "/blog/glow-social-vs-hiring-social-media-manager"
     description: "A direct comparison for small businesses choosing between software and a person."
 ---
 

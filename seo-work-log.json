@@ -140,6 +140,17 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume GBP/local SEO content is weak. Possible causes include overlap with GBP support documentation, crawl timing, insufficient internal-link equity, or Google preferring shorter AEO question pages for some queries.",
       "migration_target": "https://boomp.net/blog/google-business-profile-for-service-area-businesses",
       "report": "seo-agent-runs/seo-work-2026-06-24T20-09-03Z-gbp-service-area.md"
+    },
+    {
+      "at": "2026-06-24T20:28:11Z",
+      "route": "/blog/glow-social-vs-hiring-social-media-manager",
+      "status": "complete",
+      "work_type": "crawled-not-indexed comparison-page improvement",
+      "bet": "Hiring-comparison pages are more index-worthy when they make the scope tradeoff explicit: Glow Social is for baseline post production and review-ready consistency, while a manager is for strategy, engagement, campaigns, and judgment. The page should earn more qualified visibility by answering the replacement question without overclaiming.",
+      "expected_signal": "Check whether the page moves from crawled/not indexed to indexed, and later whether impressions/clicks improve for Glow Social vs social media manager, hiring a social media manager alternative, social media manager cost alternative, and AI vs social media manager queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume hiring-comparison intent is weak. Possible causes include duplicate question/blog routes, overlap with cost and AI-vs-manager pages, crawl timing, insufficient internal-link equity, or Google preferring a pricing/cost canonical for some queries.",
+      "migration_target": "https://boomp.net/blog/glow-social-vs-hiring-social-media-manager",
+      "report": "seo-agent-runs/seo-work-2026-06-24T20-28-11Z-glow-vs-hiring-manager.md"
     }
   ]
 }
