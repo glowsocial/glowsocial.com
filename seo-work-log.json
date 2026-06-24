@@ -151,6 +151,24 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume hiring-comparison intent is weak. Possible causes include duplicate question/blog routes, overlap with cost and AI-vs-manager pages, crawl timing, insufficient internal-link equity, or Google preferring a pricing/cost canonical for some queries.",
       "migration_target": "https://boomp.net/blog/glow-social-vs-hiring-social-media-manager",
       "report": "seo-agent-runs/seo-work-2026-06-24T20-28-11Z-glow-vs-hiring-manager.md"
+    },
+    {
+      "at": "2026-06-24T20:47:19Z",
+      "route": "/local/social-media-management-auto-repair-shops-miami",
+      "status": "complete",
+      "work_type": "crawled-not-indexed local-page cluster improvement",
+      "routes": [
+        "/local/social-media-management-auto-repair-shops-miami",
+        "/local/social-media-management-dentists-austin",
+        "/local/social-media-management-roofers-dallas",
+        "/local/social-media-management-dentists-phoenix",
+        "/local/social-media-management-accountants-denver"
+      ],
+      "bet": "Thin local pages are more index-worthy when they answer the local/industry question immediately, use safer review-ready product language, and route visitors to a concrete preview rather than a generic pricing CTA.",
+      "expected_signal": "Check whether these five local pages move from crawled/not indexed to indexed, and later whether impressions improve for industry + city social media management and affordable social media management local queries.",
+      "do_not_overlearn_if": "If these pages remain unindexed, do not assume all local pages are weak. Possible causes include local-page duplication, thin city/industry differentiation, crawl timing, weak internal links from hubs, or Google deciding only a smaller set of local pages should be indexed.",
+      "migration_target": "Boomp local-page strategy pending review before port",
+      "report": "seo-agent-runs/seo-work-2026-06-24T20-47-19Z-local-page-cluster.md"
     }
   ]
 }
