@@ -169,6 +169,24 @@
       "do_not_overlearn_if": "If these pages remain unindexed, do not assume all local pages are weak. Possible causes include local-page duplication, thin city/industry differentiation, crawl timing, weak internal links from hubs, or Google deciding only a smaller set of local pages should be indexed.",
       "migration_target": "Boomp local-page strategy pending review before port",
       "report": "seo-agent-runs/seo-work-2026-06-24T20-47-19Z-local-page-cluster.md"
+    },
+    {
+      "at": "2026-06-24T21:07:42Z",
+      "route": "/local/social-media-management-wedding-photographers-dallas",
+      "status": "complete",
+      "work_type": "crawled-not-indexed local-page cluster improvement",
+      "routes": [
+        "/local/social-media-management-wedding-photographers-dallas",
+        "/local/social-media-management-accountants-nashville",
+        "/local/social-media-management-dentists-charlotte",
+        "/local/social-media-management-local-gyms-seattle",
+        "/local/social-media-management-boutique-hotels-austin"
+      ],
+      "bet": "The proven local-page pattern should help another batch of thin local pages: answer the city/industry intent fast, clean up overclaims, and send visitors to a preview-first next step.",
+      "expected_signal": "Check whether these five local pages move from crawled/not indexed to indexed, and later whether impressions improve for industry + city social media management and affordable local-service social media queries.",
+      "do_not_overlearn_if": "If these pages remain unindexed, do not assume all local pages should be removed. Possible causes include local-page duplication, thin city/industry differentiation, crawl timing, weak hub links, or Google preferring fewer local variants.",
+      "migration_target": "Boomp local-page strategy pending review before port",
+      "report": "seo-agent-runs/seo-work-2026-06-24T21-07-42Z-local-page-cluster-2.md"
     }
   ]
 }
