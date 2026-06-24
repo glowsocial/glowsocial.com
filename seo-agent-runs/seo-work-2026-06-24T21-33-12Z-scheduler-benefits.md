@@ -4,7 +4,7 @@
 - **Route:** `/blog/boost-your-engagement-discover-the-benefits-of-social-media-schedulers`
 - **Canonical URL:** `https://glowsocial.com/blog/boost-your-engagement-discover-the-benefits-of-social-media-schedulers`
 - **Work type:** Crawled-not-indexed scheduler intent refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `5006ff5`
 - **Boomp migration target:** Port after branding is ready
 
 ## Why this page
