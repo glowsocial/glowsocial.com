@@ -253,6 +253,17 @@
       "do_not_overlearn_if": "If weak, possible causes include low exact-query volume, Google preferring the broader social media management cost calculator, insufficient internal-link equity, or needing page-specific query evidence before another title change. Do not assume tools/calculators are weak from one page.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
       "report": "seo-agent-runs/seo-work-2026-06-25T16-01-57Z-diy-agency-calculator.md"
+    },
+    {
+      "at": "2026-06-25T01:32:00Z",
+      "route": "/resources/questions/buffer-free-plan-limits-2026",
+      "status": "complete",
+      "work_type": "GSC striking-distance question-page refresh",
+      "bet": "For simple numeric queries like Buffer free-plan limits, the title and first paragraph need to carry the answer directly. Reframing the page title around 3 channels and 10 queued posts, adding the queue-limit-not-monthly-limit answer earlier, and strengthening close scheduler links should improve CTR and position without competing with the full Buffer pricing guide.",
+      "expected_signal": "Check 7/14/28-day Pages and page-specific Queries exports for clicks from the 0-click baseline, CTR improvement, movement from pos ~9.1 toward positions 5-7, stable/improved impressions for Buffer free plan limits and Buffer 10 scheduled posts terms, and support lift into the full Buffer pricing guide.",
+      "do_not_overlearn_if": "If weak, possible causes include zero-click SERPs for simple numeric answers, Google preferring Buffer official docs, title/snippet rewriting, or the support page needing to consolidate more strongly into the full Buffer pricing guide.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-25T01-32-00Z-buffer-free-plan-striking-distance.md"
     }
   ]
 }

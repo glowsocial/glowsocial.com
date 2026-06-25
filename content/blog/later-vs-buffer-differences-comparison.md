@@ -44,7 +44,7 @@ The shortest version: Later is the more visual Instagram/TikTok planner; Buffer 
 <tr><td>Best if you need posts prepared for approval</td><td>Glow Social</td></tr>
 </table>
 
-For the dedicated pricing breakdowns, see [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026), [Later pricing, free plan, and social sets](/blog/later-pricing-free-plan-2026), and the broader [cheapest social media scheduler comparison](/blog/cheapest-social-media-scheduler). If the issue is not choosing a scheduler but never having posts ready in the first place, compare both with [affordable social media management](/affordable-social-media-management).
+For the dedicated pricing breakdowns, see [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026), the quick answer on [Buffer's free plan limits: 3 channels and 10 queued posts](/resources/questions/buffer-free-plan-limits-2026), [Later pricing, free plan, and social sets](/blog/later-pricing-free-plan-2026), and the broader [cheapest social media scheduler comparison](/blog/cheapest-social-media-scheduler). If the issue is not choosing a scheduler but never having posts ready in the first place, compare both with [affordable social media management](/affordable-social-media-management).
 
 ## Later vs. Buffer: Quick Comparison
 

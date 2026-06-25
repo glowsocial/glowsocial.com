@@ -3,7 +3,7 @@ title: "Buffer Free Plan Limits 2026: Instagram, TikTok & Pricing"
 description: "Buffer's free plan supports Instagram and TikTok, with 3 total channels and 10 queued posts per channel. Compare Buffer pricing, Later, and fit."
 slug: "buffer-pricing-free-plan-limits-2026"
 date: "2026-05-13"
-updated: "2026-06-22"
+updated: "2026-06-25"
 faqs:
   - q: "How much does Buffer cost in 2026?"
     a: "Buffer has a free plan for up to 3 channels. Paid publishing plans start at $5 per channel per month when billed yearly for Essentials, or $6 per channel on monthly billing. The Team plan starts at $10 per channel per month when billed yearly, or $12 per channel on monthly billing."
@@ -24,7 +24,7 @@ The part that confuses people is the limit structure. Buffer's free plan limit i
 Here is the plain-English breakdown.
 
 
-As of June 22, 2026, Buffer's free plan lets you connect up to **3 channels** and keep up to **10 scheduled posts per channel** in the queue at one time. Instagram and TikTok can both be included, but they count as separate channels. If you connect Instagram, TikTok, and one more profile, that means up to 30 scheduled posts waiting across the free account.
+As of June 25, 2026, Buffer's free plan lets you connect up to **3 channels** and keep up to **10 scheduled posts per channel** in the queue at one time. Instagram and TikTok can both be included, but they count as separate channels. If you connect Instagram, TikTok, and one more profile, that means up to 30 scheduled posts waiting across the free account.
 
 Buffer's paid publishing plans are priced per channel:
 
@@ -34,7 +34,7 @@ Buffer's paid publishing plans are priced per channel:
 
 Buffer is a strong choice when you already have posts ready and only need help scheduling them. It is not the best fit if your real bottleneck is creating content in the first place.
 
-**If the real pain is that the queue keeps going empty, skip the pricing rabbit hole and [see posts from your website first](https://app.glowsocial.com/preview).** That is the faster way to test whether you needed content creation, not just scheduling.
+**If the real pain is that the queue keeps going empty, skip the pricing rabbit hole and [see posts from your website first](/preview).** That is the faster way to test whether you needed content creation, not just scheduling.
 
 <table>
 <tr><th>Buffer free plan question</th><th>2026 answer</th></tr>
@@ -201,7 +201,7 @@ Glow Social costs $99/month. Before paying, you can look at the kind of content 
 
 For the full decision framework, read [free social media scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media).
 
-[See posts from your website first](https://app.glowsocial.com/preview)
+[See posts from your website first](/preview)
 
 ## Sources Checked
 
@@ -211,4 +211,4 @@ Pricing and plan limits can change. For the current official details, check [Buf
 
 **Related guides:** [Buffer free plan quick answer](/resources/questions/buffer-free-plan-limits-2026) · [Free scheduler vs. done-for-you social media](/blog/done-for-you-vs-diy-social-media) · [Later pricing and free plan](/blog/later-pricing-free-plan-2026) · [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) · [Best tools under $50/month](/blog/social-media-tools-under-50) · [Affordable social media management](/affordable-social-media-management) · [Buffer vs Glow Social](/blog/buffer-vs-glow-social) · [Social media caption length guide](/blog/social-media-caption-length)
 
-**About Glow Social:** Glow Social turns your website into 20 custom social media posts ready to approve, then publishes approved posts for local businesses. [See posts from your website first](https://app.glowsocial.com/preview).
+**About Glow Social:** Glow Social turns your website into 20 custom social media posts ready to approve, then publishes approved posts for local businesses. [See posts from your website first](/preview).

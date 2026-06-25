@@ -65,7 +65,7 @@ As of this June 2026 check, Buffer listed:
 - Essentials: $5 per channel/month when billed yearly
 - Team: $10 per channel/month when billed yearly
 
-Use Buffer if you want a simple scheduler and you already create content. Read the detailed [Buffer free plan limits](/blog/buffer-pricing-free-plan-limits-2026) before choosing.
+Use Buffer if you want a simple scheduler and you already create content. Read the quick answer on [Buffer free plan limits: 3 channels and 10 queued posts](/resources/questions/buffer-free-plan-limits-2026) before choosing, then use the detailed [Buffer pricing and free plan limits](/blog/buffer-pricing-free-plan-limits-2026) guide if you need the full table.
 
 ### Publer
 
