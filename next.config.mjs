@@ -2,6 +2,12 @@
 const nextConfig = {
   trailingSlash: false,
 
+  // This site prerenders hundreds of markdown-backed pages. On slower local
+  // builds, Next's default 60s static generation watchdog can retry healthy
+  // pages while the worker is still processing the batch, turning a successful
+  // build into noisy "took more than 60 seconds" retry warnings.
+  staticPageGenerationTimeout: 300,
+
   // Proxy the app-owned preview tool to app.glowsocial.com while keeping the
   // public SEO URL on glowsocial.com.
   // beforeFiles: fires before routing, so slug form submissions proxy even though
