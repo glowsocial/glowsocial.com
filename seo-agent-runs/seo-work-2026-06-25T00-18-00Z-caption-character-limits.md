@@ -4,7 +4,7 @@
 - **Route:** `/blog/social-media-caption-length`
 - **Canonical URL:** `https://glowsocial.com/blog/social-media-caption-length`
 - **Work type:** Search Console query-led title/snippet refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `959f5e4`
 - **Boomp migration target:** Port after branding is ready
 
 ## Why this page
