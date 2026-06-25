@@ -4,7 +4,7 @@
 - **Route:** `/resources/questions/buffer-free-plan-limits-2026`
 - **Canonical URL:** `https://glowsocial.com/resources/questions/buffer-free-plan-limits-2026`
 - **Work type:** GSC striking-distance question-page refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `52d246c`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move
 
 ## Why this page
