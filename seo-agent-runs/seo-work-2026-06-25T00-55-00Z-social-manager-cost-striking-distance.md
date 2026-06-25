@@ -4,7 +4,7 @@
 - **Route:** `/blog/freelance-social-media-manager-charge-cost`
 - **Canonical URL:** `https://glowsocial.com/blog/freelance-social-media-manager-charge-cost`
 - **Work type:** GSC striking-distance refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `ac89f5b`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move
 
 ## Why this page
