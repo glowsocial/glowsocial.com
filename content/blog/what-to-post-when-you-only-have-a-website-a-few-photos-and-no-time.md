@@ -139,5 +139,7 @@ Glow Social turns the limited material you already have into consistent posts.
 
 Your website, photos, reviews, FAQs, and service area become content that keeps your business looking active online, even when you do not have time to post.
 
+For the full operating system, see [how to keep your business looking active online without posting yourself](/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself).
+
 [Preview posts for your business](/preview)
 

@@ -198,6 +198,17 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume scheduler intent is weak. Possible causes include the old generic slug, overlap with free/cheap scheduler pages, crawl timing, SERP competition, or insufficient internal-link equity.",
       "migration_target": "Boomp port after branding is ready",
       "report": "seo-agent-runs/seo-work-2026-06-24T21-33-12Z-scheduler-benefits.md"
+    },
+    {
+      "at": "2026-06-24T22:02:31Z",
+      "route": "/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself",
+      "status": "complete",
+      "work_type": "crawled-not-indexed owner-burden page refresh",
+      "bet": "This page is a strong fit for Glow's core buyer pain: owners do not want to become content creators, but they need the business to look current when customers check. A clearer snippet-style answer plus preview-first links should make the page more index-worthy and conversion-ready.",
+      "expected_signal": "Check whether the page moves from crawled/not indexed to indexed, and later whether impressions/clicks improve for keep business active without posting, social media without posting yourself, business looking active online, and no time to post social media queries.",
+      "do_not_overlearn_if": "If the page remains unindexed, do not assume the owner-burden intent is weak. Possible causes include crawl timing, overlap with no-time/minimum-viable/social-media-hate pages, the long slug, or insufficient internal-link equity.",
+      "migration_target": "Boomp port after branding is ready",
+      "report": "seo-agent-runs/seo-work-2026-06-24T22-02-31Z-looking-active-without-posting.md"
     }
   ]
 }
