@@ -242,6 +242,17 @@
       "do_not_overlearn_if": "If weak, possible causes include Google rewriting the title/snippet, queries being mostly navigational for Vista Social, low Glow brand awareness in comparison SERPs, or the page needing more external authority/reviews rather than title and internal-link work.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
       "report": "seo-agent-runs/seo-work-2026-06-25T01-12-00Z-vista-social-striking-distance.md"
+    },
+    {
+      "at": "2026-06-25T16:01:57Z",
+      "route": "/tools/diy-vs-agency-cost-calculator",
+      "status": "complete",
+      "work_type": "buyer-intent tool page refresh",
+      "bet": "A thin but useful DIY-vs-agency calculator page should become more index-worthy and conversion-ready when it answers the hiring decision before the calculator, explains how to interpret the result, adds matching FAQ/Breadcrumb schema, and routes high-time-cost users toward a preview-first next step.",
+      "expected_signal": "Check 7/14/28-day indexing, impressions, clicks, CTR, average position, and assisted movement into /preview, /tools/social-media-management-cost-calculator, and cost/pricing pages for DIY vs agency social media cost and agency cost calculator queries.",
+      "do_not_overlearn_if": "If weak, possible causes include low exact-query volume, Google preferring the broader social media management cost calculator, insufficient internal-link equity, or needing page-specific query evidence before another title change. Do not assume tools/calculators are weak from one page.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-25T16-01-57Z-diy-agency-calculator.md"
     }
   ]
 }

@@ -37,3 +37,7 @@ Export page-specific Queries for the top 6 pages first:
 6. https://glowsocial.com/blog/later-pricing-free-plan-2026
 
 Use those exports for the next pass: match exact page queries, add missing FAQ/direct-answer blocks, and adjust headings only where query intent is clearly underserved.
+
+## Buyer-Intent Tool Notes
+
+- 2026-06-25: Refreshed `https://glowsocial.com/tools/diy-vs-agency-cost-calculator` because it belongs to the owner-burden/cost decision cluster but was thin compared with the main cost calculator. Added stronger metadata, Open Graph/Twitter fields, direct answer, interpretation guidance, matching FAQPage + BreadcrumbList schema, and a preview-first link. Bet: a standalone calculator page should become more index-worthy for DIY vs agency/social media agency cost queries when it explains the hiring decision around the preserved interactive calculator. Manual indexing URL: `https://glowsocial.com/tools/diy-vs-agency-cost-calculator`.
