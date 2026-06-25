@@ -48,7 +48,7 @@ The bottleneck for most small business owners isn't publishing. It's **creating 
 <tr><td>Analytics</td><td>Basic on free, advanced on paid</td><td>Basic</td></tr>
 <tr><td>Platforms</td><td>Instagram, Facebook, LinkedIn, X, TikTok, Pinterest, GBP, Threads, Bluesky, Mastodon, YouTube</td><td>Facebook, Instagram, LinkedIn, TikTok, GBP</td></tr>
 <tr><td>Your time/month</td><td>3-10+ hours depending on content volume</td><td>Review and approve</td></tr>
-<tr><td>Free plan</td><td>Yes: 3 channels, 10 scheduled posts per channel</td><td>No</td></tr>
+<tr><td>Starting point</td><td>Free scheduling plan with 3 channels and 10 scheduled posts per channel</td><td>Preview posts before choosing a plan</td></tr>
 </table>
 
 ## When Buffer Is the Right Choice

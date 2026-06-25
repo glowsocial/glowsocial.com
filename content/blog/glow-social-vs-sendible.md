@@ -31,7 +31,7 @@ Sendible is purpose-built for social media agencies and teams managing multiple 
 <tr><td>Social inbox</td><td>❌ No</td><td>✅ Priority inbox with assignment</td></tr>
 <tr><td>Team collaboration</td><td>❌ Not applicable</td><td>✅ Up to 80 users</td></tr>
 <tr><td>Platforms</td><td>Facebook, Instagram, LinkedIn, TikTok</td><td>Facebook, Instagram, LinkedIn, X, TikTok, Google Business, YouTube, WordPress</td></tr>
-<tr><td>Free plan</td><td>❌ No</td><td>❌ No (14-day trial)</td></tr>
+<tr><td>Starting point</td><td>Preview posts before choosing a plan</td><td>14-day trial</td></tr>
 <tr><td>Best for</td><td>Business owners who want zero effort</td><td>Agencies and teams managing multiple accounts</td></tr>
 </table>
 

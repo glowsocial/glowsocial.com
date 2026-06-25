@@ -31,7 +31,7 @@ Zoho Social is the most affordable social media scheduling tool on the market, s
 <tr><td>Analytics</td><td>Basic</td><td>Detailed with custom reports</td></tr>
 <tr><td>Team collaboration</td><td>❌ Not applicable</td><td>✅ Approval workflows, roles</td></tr>
 <tr><td>Platforms</td><td>Facebook, Instagram, LinkedIn, TikTok</td><td>Facebook, Instagram, LinkedIn, X, TikTok, Google Business, Pinterest, YouTube</td></tr>
-<tr><td>Free plan</td><td>❌ No</td><td>✅ Yes — 1 brand, limited features</td></tr>
+<tr><td>Starting point</td><td>Preview posts before choosing a plan</td><td>Free scheduling plan for 1 brand with limited features</td></tr>
 <tr><td>Best for</td><td>Business owners who want zero effort</td><td>Budget-conscious teams already doing social media</td></tr>
 </table>
 

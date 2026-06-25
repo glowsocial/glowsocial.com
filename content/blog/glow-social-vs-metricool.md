@@ -31,7 +31,7 @@ Metricool is one of the most underrated social media tools on the market. Its an
 <tr><td>Web analytics</td><td>❌ No</td><td>✅ Yes — website traffic integration</td></tr>
 <tr><td>SmartLinks (Link in Bio)</td><td>❌ No</td><td>✅ Yes</td></tr>
 <tr><td>Platforms</td><td>Facebook, Instagram, LinkedIn, TikTok</td><td>Facebook, Instagram, LinkedIn, X, TikTok, Pinterest, YouTube, Google Business, Twitch</td></tr>
-<tr><td>Free plan</td><td>❌ No</td><td>✅ Yes — 1 brand with limited features</td></tr>
+<tr><td>Starting point</td><td>Preview posts before choosing a plan</td><td>Free analytics plan for 1 brand with limited features</td></tr>
 <tr><td>Best for</td><td>Business owners who want zero effort</td><td>Data-driven marketers who want to optimize performance</td></tr>
 </table>
 

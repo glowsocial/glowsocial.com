@@ -68,10 +68,10 @@ That can be attractive if Buffer's per-channel model does not fit the way your p
 ## Pricing Structure
 
 <table>
-<tr><th>Tool</th><th>Free plan</th><th>Paid pricing shape</th><th>Best for</th></tr>
-<tr><td>Buffer</td><td>Up to 3 channels and 10 scheduled posts per channel</td><td>Per-channel pricing for Essentials and Team</td><td>Simple scheduling with a clean queue</td></tr>
-<tr><td>Publer</td><td>1 workspace, 3 social accounts except X, 10 scheduled posts per account</td><td>Scales by social accounts and additional members</td><td>More workflow controls and account/member flexibility</td></tr>
-<tr><td>Glow Social</td><td>No scheduler-only free plan</td><td>$99/month for posts prepared for approval</td><td>Businesses that do not have posts ready to schedule</td></tr>
+<tr><th>Tool</th><th>Starting point</th><th>Paid pricing shape</th><th>Best for</th></tr>
+<tr><td>Buffer</td><td>Free scheduling plan with up to 3 channels and 10 scheduled posts per channel</td><td>Per-channel pricing for Essentials and Team</td><td>Simple scheduling with a clean queue</td></tr>
+<tr><td>Publer</td><td>Free scheduling plan with 1 workspace, 3 social accounts except X, 10 scheduled posts per account</td><td>Scales by social accounts and additional members</td><td>More workflow controls and account/member flexibility</td></tr>
+<tr><td>Glow Social</td><td>Preview posts before choosing a plan</td><td>$99/month for posts prepared for approval</td><td>Businesses that do not have posts ready to schedule</td></tr>
 </table>
 
 ## Supported Channels
