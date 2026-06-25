@@ -33,7 +33,7 @@ It is usually not worth it yet if your main issue is simpler: your social pages 
 <tr><td>You need custom photos and video every month</td><td>Hire a human creative partner</td></tr>
 </table>
 
-For cost context, read [how much a social media manager costs](/blog/freelance-social-media-manager-charge-cost) and [how much to budget for social media management](/blog/how-much-should-i-budget-for-social-media-management).
+For cost context, read the [social media manager cost and freelance rates guide](/blog/freelance-social-media-manager-charge-cost) and [how much to budget for social media management](/blog/how-much-should-i-budget-for-social-media-management).
 
 ## What a Social Media Manager Actually Does
 
@@ -142,4 +142,4 @@ Hiring a social media manager is worth it when the job requires human judgment. 
 
 ---
 
-**Related guides:** [Should I use AI or hire a social media manager?](/resources/questions/should-i-use-ai-or-hire-a-social-media-manager) | [How much should I budget for social media management?](/blog/how-much-should-i-budget-for-social-media-management) | [Social media management pricing guide](/blog/social-media-management-cost-pricing-guide) | [Freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost) | [Glow Social vs hiring a manager](/resources/questions/glow-social-vs-hiring-social-media-manager) | [Social media agency alternative](/social-media-agency-alternative)
+**Related guides:** [Should I use AI or hire a social media manager?](/resources/questions/should-i-use-ai-or-hire-a-social-media-manager) | [How much should I budget for social media management?](/blog/how-much-should-i-budget-for-social-media-management) | [Social media management pricing guide](/blog/social-media-management-cost-pricing-guide) | [Social media manager cost and freelance rates](/blog/freelance-social-media-manager-charge-cost) | [Glow Social vs hiring a manager](/resources/questions/glow-social-vs-hiring-social-media-manager) | [Social media agency alternative](/social-media-agency-alternative)

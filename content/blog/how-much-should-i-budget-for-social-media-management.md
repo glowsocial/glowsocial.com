@@ -35,7 +35,7 @@ The right number depends on what you need handled:
 
 If you mostly need the page to stop looking abandoned, a $99/month posting system can be enough. If social media is tied to campaigns, ads, customer messages, launches, or daily sales conversations, budget for a person.
 
-For the full cost breakdown, see the [social media management pricing guide](/blog/social-media-management-cost-pricing-guide) and the [freelance social media manager rates guide](/blog/freelance-social-media-manager-charge-cost).
+For the full cost breakdown, see the [social media management pricing guide](/blog/social-media-management-cost-pricing-guide) and the detailed [social media manager cost and freelance rates guide](/blog/freelance-social-media-manager-charge-cost).
 
 ## Current Tool Prices In Context
 
@@ -153,4 +153,4 @@ If you are not sure which category you are in, preview the lower-cost option fir
 
 ---
 
-**Related guides:** [Social media management pricing guide](/blog/social-media-management-cost-pricing-guide) | [Social media manager prices](/resources/questions/how-much-does-a-social-media-manager-cost) | [Is hiring a social media manager worth it?](/blog/is-hiring-a-social-media-manager-worth-it-for-small-business) | [Freelance social media manager rates](/blog/freelance-social-media-manager-charge-cost) | [Average social media marketing time](/blog/average-time-social-media-marketing) | [Affordable social media management](/affordable-social-media-management) | [Best social media tools under $50/month](/blog/social-media-tools-under-50)
+**Related guides:** [Social media management pricing guide](/blog/social-media-management-cost-pricing-guide) | [Social media manager prices](/resources/questions/how-much-does-a-social-media-manager-cost) | [Is hiring a social media manager worth it?](/blog/is-hiring-a-social-media-manager-worth-it-for-small-business) | [Social media manager cost and freelance rates](/blog/freelance-social-media-manager-charge-cost) | [Average social media marketing time](/blog/average-time-social-media-marketing) | [Affordable social media management](/affordable-social-media-management) | [Best social media tools under $50/month](/blog/social-media-tools-under-50)

@@ -72,7 +72,7 @@
       "status": "complete",
       "work_type": "pricing/cost intent",
       "bet": "Cost-intent readers care about the cash price plus the unpaid owner time. A stronger cost page should expose the hidden content-work cost and connect that pain to review-ready posts.",
-      "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2–6 weeks.",
+      "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2\u20136 weeks.",
       "do_not_overlearn_if": "A weak result may mean indexing delay, low demand, SERP competition, weak internal links, title mismatch, or execution quality. Do not turn one weak page into a durable rule without clearer evidence.",
       "report": "seo-agent-runs/seo-work-2026-06-24T18-44-06-880Z.md"
     },
@@ -82,7 +82,7 @@
       "status": "complete",
       "work_type": "existing-page refresh",
       "bet": "This page can earn more qualified SEO/AEO visibility if it answers the buyer's job more directly and routes the reader toward a preview-first next step.",
-      "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2–6 weeks.",
+      "expected_signal": "Check impressions, clicks, CTR, average position, indexing status, and whether related buyer-intent pages receive stronger internal-link support over the next 2\u20136 weeks.",
       "do_not_overlearn_if": "A weak result may mean indexing delay, low demand, SERP competition, weak internal links, title mismatch, or execution quality. Do not turn one weak page into a durable rule without clearer evidence.",
       "report": "seo-agent-runs/seo-work-2026-06-24T18-54-27-803Z.md"
     },
@@ -220,6 +220,17 @@
       "do_not_overlearn_if": "If CTR does not improve, possible causes include Google rewriting the title/snippet, official platform/help-center results satisfying the query directly, zero-click SERP behavior for numeric answers, or too short a measurement window after the title change.",
       "migration_target": "Boomp port after branding is ready",
       "report": "seo-agent-runs/seo-work-2026-06-25T00-18-00Z-caption-character-limits.md"
+    },
+    {
+      "at": "2026-06-25T00:55:00Z",
+      "route": "/blog/freelance-social-media-manager-charge-cost",
+      "status": "complete",
+      "work_type": "GSC striking-distance title/top-answer/internal-link refresh",
+      "bet": "The page is in the position 8-11 band with the largest impression opportunity. Broadening title/meta/top answer from freelance-only rates to social media manager cost across freelance, agency, hourly, and full-time options should improve position and CTR while preserving the existing freelance-rates footprint.",
+      "expected_signal": "Check 7/14/28-day Pages and page-specific Queries exports for movement from pos ~8.6 toward positions 5-7, CTR improvement from 0.15%, more clicks on social media manager cost/rates/freelance rate queries, and stable impressions for existing freelance-rate terms.",
+      "do_not_overlearn_if": "If weak, possible causes include Google rewriting the title/snippet, SERPs dominated by job-market or marketplace pages, page-specific query evidence needing a different title shape, or the page needing external authority beyond internal links.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-25T00-55-00Z-social-manager-cost-striking-distance.md"
     }
   ]
 }
