@@ -99,4 +99,4 @@ Looking to explore more options? Check out these related guides:
 * [The Cheapest Social Media Scheduler for HVAC Companies (2026)](/blog/cheapest-social-media-scheduler-hvac-companies)
 * [Best Social Media Scheduler for Local Business 2026: Complete Guide & Top Picks](/blog/best-social-media-scheduler-for-local-business-2026)
 * [How to Automatically Post to All Social Media Platforms](/blog/how-to-automatically-post-to-all-social-media-platforms)
-* [Social Media Caption Limits 2026: IG, TikTok, LinkedIn](/blog/social-media-caption-length)
+* [Instagram, TikTok, and Social Media Character Limits 2026](/blog/social-media-caption-length)

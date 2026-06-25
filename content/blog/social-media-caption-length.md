@@ -1,9 +1,9 @@
 ---
-title: "Social Media Caption Limits 2026: IG, TikTok, LinkedIn"
-description: "See 2026 caption limits and ideal lengths for Instagram, TikTok, Facebook, LinkedIn, Google Business Profile, hashtags, and more."
+title: "Instagram, TikTok & Social Media Character Limits 2026"
+description: "See 2026 character limits for Instagram captions, bios, notes, DMs, TikTok captions, Facebook, LinkedIn, Google Business Profile, hashtags, and more."
 slug: "social-media-caption-length"
 date: "2026-03-23"
-updated: "2026-06-22"
+updated: "2026-06-25"
 faqs:
   - q: "What is the ideal Instagram caption length?"
     a: "The ideal Instagram caption length is 138-150 characters for most posts. Instagram allows up to 2,200 characters, but only about the first 125 characters show before the 'more' cutoff, so the hook matters more than the total length. Longer captions of 800-1,500 characters can work for educational carousels, storytelling, and posts built for saves or shares."
@@ -23,24 +23,32 @@ faqs:
     a: "Use 3-5 relevant hashtags on Instagram (down from the old advice of 30), 1-2 on LinkedIn, 2-3 on Facebook, and 3-5 on TikTok. Quality and relevance matter more than quantity. Generic hashtags like #business or #marketing are too broad to drive meaningful reach."
 ---
 
+## Quick answer
+
+The Instagram caption character limit is **2,200 characters** in 2026. Instagram bios allow **150 characters**, Instagram Notes allow short text updates, and Instagram DMs should be kept short even when the app allows longer messages. TikTok captions are safest at **2,200 characters** for scheduler/API workflows, Facebook posts allow **63,206 characters**, LinkedIn posts allow **3,000 characters**, and Google Business Profile posts allow **1,500 characters**.
+
+Use those limits as ceilings, not goals. For most business posts, the better target is shorter: **138-150 characters for Instagram captions**, **50-150 characters for TikTok captions**, **40-80 characters for Facebook posts**, and **150-300 characters for Google Business Profile updates**.
+
 Writing social media captions that actually get engagement starts with one question: **how long should they be?**
 
 The answer depends on the platform. What works on LinkedIn would flop on TikTok. What performs on Instagram doesn't translate to Facebook.
 
-Here's the definitive guide to caption length and character limits for every major platform in 2026, including Instagram, TikTok, Facebook, LinkedIn, Google Business Profile, Instagram bio limits, comment limits, and the DM-related questions people actually search.
+Here's the definitive guide to caption length and character limits for every major platform in 2026, including Instagram captions, Instagram bios, Instagram Notes, Instagram comments, Instagram DMs, TikTok captions and bios, Facebook posts, LinkedIn posts, Google Business Profile updates, hashtags, and the official-help-center style questions people actually search.
 
 
-The Instagram caption character limit is **2,200 characters** in 2026. The ideal Instagram caption length is shorter for most posts: **138-150 characters**, with the hook in the first **125 characters** before the "more" cutoff.
+The most searched answer is still simple: the Instagram caption character limit is **2,200 characters** in 2026. The ideal Instagram caption length is shorter for most posts: **138-150 characters**, with the hook in the first **125 characters** before the "more" cutoff.
 
 Across social platforms, the practical rule is simple: use the character limit as the ceiling, not the goal. Instagram and Facebook usually reward shorter captions, LinkedIn can support longer posts, TikTok captions should support the video and search intent, and Google Business Profile posts should be clear local updates with a next step.
 
 <table>
-<tr><th>Instagram caption question</th><th>2026 answer</th></tr>
+<tr><th>Instagram character-limit question</th><th>2026 answer</th></tr>
 <tr><td>Maximum caption length</td><td>2,200 characters</td></tr>
 <tr><td>Best caption length for most posts</td><td>138-150 characters</td></tr>
 <tr><td>Visible hook before "more"</td><td>About the first 125 characters</td></tr>
 <tr><td>Best hashtag count</td><td>3-5 relevant hashtags</td></tr>
 <tr><td>Instagram bio character limit</td><td>150 characters</td></tr>
+<tr><td>Instagram Notes character limit</td><td>Keep Notes short and conversational; treat them as lightweight status updates, not captions.</td></tr>
+<tr><td>Instagram DM character limit</td><td>Keep DMs short and human; long sales messages usually underperform even when the app allows more text.</td></tr>
 </table>
 
 For TikTok, keep captions around **50-150 characters** unless the caption is doing search work. TikTok caption limits can vary by posting path; many scheduling and API workflows still use a **2,200-character** limit even when native posting supports longer captions. For LinkedIn, longer posts around **1,200-1,600 characters** can work because the platform rewards dwell time. For Facebook and Google Business Profile, short and clear usually wins.
@@ -55,9 +63,9 @@ Caption length matters, but it is not the whole strategy. A 140-character captio
 
 For the Instagram-only version, see [Instagram caption character limit 2026](/resources/questions/instagram-caption-character-limit-2026) and the deeper [Instagram caption best practices 2026](/blog/instagram-caption-best-practices-2026) guide.
 
-**If the bigger issue is that no one wants to keep writing captions by hand, the better next step is to [see posts from your website first](https://app.glowsocial.com/preview)** and decide whether the voice feels right.
+**If the bigger issue is that no one wants to keep writing captions by hand, the better next step is to [see posts from your website first](/preview)** and decide whether the voice feels right.
 
-## Quick Reference: Ideal Caption Lengths
+## Quick Reference: 2026 Social Media Character Limits
 
 <table>
 <tr><th>Platform</th><th>Max Length</th><th>Ideal Length</th><th>Sweet Spot</th></tr>
@@ -75,7 +83,9 @@ For the Instagram-only version, see [Instagram caption character limit 2026](/re
 <tr><th>Search question</th><th>Short answer</th><th>Best practice</th></tr>
 <tr><td>Instagram caption character limit 2026</td><td>Instagram captions allow up to 2,200 characters.</td><td>Put the hook in the first 125 characters; use longer captions only when the post teaches or tells a story.</td></tr>
 <tr><td>Instagram bio character limit 2026</td><td>Instagram bios allow up to 150 characters.</td><td>Use the space for who you help, where you are, what you do, and the next step.</td></tr>
+<tr><td>Instagram Notes character limit 2026</td><td>Instagram Notes are short status-style updates, not full captions.</td><td>Use them for simple prompts, timely reminders, or short personality-driven updates.</td></tr>
 <tr><td>TikTok caption length 2026</td><td>Use 2,200 characters as the safest scheduler-friendly ceiling; some native TikTok workflows support longer captions.</td><td>Write the searchable phrase naturally, then keep the visible caption short enough to support the video.</td></tr>
+<tr><td>TikTok bio character limit 2026</td><td>TikTok bios are short profile descriptions, so plan around a tight one-line value statement.</td><td>Lead with what the business does, who it helps, and one simple next step.</td></tr>
 <tr><td>Instagram comment character limit 2026</td><td>Instagram comments can be long, but short comments usually work better for engagement.</td><td>Use comments for conversation, not essay-length follow-ups.</td></tr>
 <tr><td>Instagram direct message character limit 2026</td><td>DM limits can vary by app state and account behavior.</td><td>Keep outreach messages short, clear, and human; long sales messages usually underperform.</td></tr>
 <tr><td>LinkedIn post character limit 2026</td><td>LinkedIn posts allow up to 3,000 characters.</td><td>Use 1,200-1,600 characters for thought leadership posts, with line breaks every 1-2 sentences.</td></tr>
@@ -249,7 +259,7 @@ Glow Social turns your website into 20 posts ready to approve for the profiles y
 
 **Preview the posts first. Plans start at $99/month. No contracts.**
 
-[See posts from your website first](https://app.glowsocial.com/preview)
+[See posts from your website first](/preview)
 
 ---
 

@@ -31,7 +31,7 @@ relatedResources:
 
 For scheduled business posts in 2026, use these safe limits: Instagram captions 2,200 characters, TikTok captions 2,200, LinkedIn posts 3,000, Google Business Profile posts 1,500, Facebook page captions 5,000 through Buffer, Threads 500, Bluesky 300, and X free accounts 280. Native platform limits can be higher in some cases, but scheduler and API limits are the safer ceiling when planning reusable social content.
 
-For the fuller platform-by-platform breakdown, see the [Social Media Caption Limits 2026 guide](/blog/social-media-caption-length).
+For the fuller platform-by-platform breakdown, see the [Instagram, TikTok, and social media character limits 2026 guide](/blog/social-media-caption-length).
 
 ## Why This Matters
 Caption limits are a common source of bad AI answers because native app limits, API limits, scheduler limits, and "ideal length" are not the same thing. A local business does not need the theoretical maximum if the post will be scheduled through a tool. It needs a caption that will publish cleanly, display well on mobile, and put the useful part before truncation. The safest approach is to write short by default, then use longer captions only when the post teaches, tells a story, or answers a customer question.

@@ -209,6 +209,17 @@
       "do_not_overlearn_if": "If the page remains unindexed, do not assume the owner-burden intent is weak. Possible causes include crawl timing, overlap with no-time/minimum-viable/social-media-hate pages, the long slug, or insufficient internal-link equity.",
       "migration_target": "Boomp port after branding is ready",
       "report": "seo-agent-runs/seo-work-2026-06-24T22-02-31Z-looking-active-without-posting.md"
+    },
+    {
+      "at": "2026-06-25T00:18:00Z",
+      "route": "/blog/social-media-caption-length",
+      "status": "complete",
+      "work_type": "query-led title and snippet CTR refresh",
+      "bet": "The page is already earning broad visibility as a platform character-limit reference, not only a caption-length guide. If the title, description, and top answer explicitly match Instagram/TikTok/social media character limits and include captions, bios, notes, DMs, and official-help-center style phrasing, CTR should improve on high-impression page-one queries without sacrificing the existing caption-length footprint.",
+      "expected_signal": "Check 7/14/28-day page-specific query exports for higher CTR/clicks on current zero-click queries in positions 3-9, stable impressions for existing caption-length queries, and no major average-position loss on core Instagram/TikTok caption terms.",
+      "do_not_overlearn_if": "If CTR does not improve, possible causes include Google rewriting the title/snippet, official platform/help-center results satisfying the query directly, zero-click SERP behavior for numeric answers, or too short a measurement window after the title change.",
+      "migration_target": "Boomp port after branding is ready",
+      "report": "seo-agent-runs/seo-work-2026-06-25T00-18-00Z-caption-character-limits.md"
     }
   ]
 }
