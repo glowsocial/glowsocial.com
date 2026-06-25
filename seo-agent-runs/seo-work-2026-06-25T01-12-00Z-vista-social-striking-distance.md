@@ -4,7 +4,7 @@
 - **Route:** `/blog/glow-social-vs-vista-social`
 - **Canonical URL:** `https://glowsocial.com/blog/glow-social-vs-vista-social`
 - **Work type:** GSC striking-distance refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `2d216a1`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move
 
 ## Why this page
