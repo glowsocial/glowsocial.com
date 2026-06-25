@@ -116,7 +116,7 @@ Ask yourself one question: **Do I have 5-10 hours per month for content creation
 
 ## Bottom Line
 
-Hootsuite is a good tool for teams that already create content. If you're leaving Hootsuite because **you don't have time for content creation**, switching to Buffer or Vista Social won't solve your problem — they require the same effort.
+Hootsuite is a good tool for teams that already create content. If you're leaving Hootsuite because **you don't have time for content creation**, switching to Buffer or Vista Social won't solve your problem — they require the same effort. For that specific decision, use the [Vista Social vs Glow Social comparison](/blog/glow-social-vs-vista-social) before buying another dashboard.
 
 The tools that actually solve the "I don't have time" problem are done-for-you or content-preparation services like Glow Social ($99/month), Feedbird ($99/month+), and 99 Dollar Social ($99/month).
 

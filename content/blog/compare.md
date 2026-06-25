@@ -19,7 +19,7 @@ Not sure which social media solution is right for your business? We've created h
 <tr><td>Buffer vs. Glow Social</td><td>DIY scheduling ($0-15/mo) vs. done-for-you posting ($99/mo)</td><td><a href="/blog/buffer-vs-glow-social">Full comparison →</a></td></tr>
 <tr><td>Hootsuite vs. Glow Social</td><td>Enterprise platform ($99/mo) vs. local business solution ($99/mo)</td><td><a href="/blog/hootsuite-vs-glow-social">Full comparison →</a></td></tr>
 <tr><td>Sprout Social vs. Glow Social</td><td>$249/mo enterprise vs. $99/mo done-for-you</td><td><a href="/blog/sprout-social-vs-glow-social">Full comparison →</a></td></tr>
-<tr><td>Vista Social vs. Glow Social</td><td>Full-featured scheduling ($39-199/mo) vs. done-for-you ($99/mo)</td><td><a href="/blog/glow-social-vs-vista-social">Full comparison →</a></td></tr>
+<tr><td>Vista Social vs. Glow Social</td><td>Full-featured social media management ($79-349/mo) vs. done-for-you posts ($99/mo)</td><td><a href="/blog/glow-social-vs-vista-social">Full comparison →</a></td></tr>
 <tr><td>SocialBee vs. Glow Social</td><td>AI content recycling ($29/mo) vs. AI content creation ($99/mo)</td><td><a href="/blog/glow-social-vs-socialbee">Full comparison →</a></td></tr>
 <tr><td>Later vs. Glow Social</td><td>Visual scheduling ($25/mo) vs. done-for-you posting ($99/mo)</td><td><a href="/blog/glow-social-vs-later">Full comparison →</a></td></tr>
 <tr><td>Zoho Social vs. Glow Social</td><td>Budget CRM scheduling ($10/mo) vs. done-for-you ($99/mo)</td><td><a href="/blog/glow-social-vs-zoho-social">Full comparison →</a></td></tr>
@@ -70,7 +70,7 @@ Not sure which social media solution is right for your business? We've created h
 <tr><td>AI Writing (Jasper, Copy.ai)</td><td>$99-69</td><td>4-6 hours</td><td>Text only</td></tr>
 <tr><td>Content Recycling (SocialBee)</td><td>$29-179</td><td>4-6 hours</td><td>No (recycling only)</td></tr>
 <tr><td>Agency Tools (Sendible)</td><td>$29-750</td><td>5-10 hours</td><td>No</td></tr>
-<tr><td>Enterprise Tools (Hootsuite, Sprout, Vista Social)</td><td>$39-249</td><td>5-10 hours</td><td>No</td></tr>
+<tr><td>Enterprise Tools (Hootsuite, Sprout, Vista Social)</td><td>$79-249+</td><td>5-10 hours</td><td>No</td></tr>
 <tr><td>Done-For-You (Glow Social)</td><td>$99</td><td>5 minutes</td><td>Yes — 20 posts/month</td></tr>
 <tr><td>Freelancer</td><td>$300-2,000</td><td>2-4 hours</td><td>Yes</td></tr>
 <tr><td>Agency</td><td>$1,000-3,000+</td><td>2-4 hours</td><td>Yes</td></tr>

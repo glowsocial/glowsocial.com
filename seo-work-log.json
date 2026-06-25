@@ -231,6 +231,17 @@
       "do_not_overlearn_if": "If weak, possible causes include Google rewriting the title/snippet, SERPs dominated by job-market or marketplace pages, page-specific query evidence needing a different title shape, or the page needing external authority beyond internal links.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
       "report": "seo-agent-runs/seo-work-2026-06-25T00-55-00Z-social-manager-cost-striking-distance.md"
+    },
+    {
+      "at": "2026-06-25T01:12:00Z",
+      "route": "/blog/glow-social-vs-vista-social",
+      "status": "complete",
+      "work_type": "GSC striking-distance comparison-page refresh",
+      "bet": "The page is the highest-impression zero-click comparison page in the position 8-11 set. A clearer Vista Social vs Glow Social 2026 title and top answer that spells out pricing, content creation, scheduling, analytics, and dashboard-vs-posts-ready decision logic should improve CTR and potentially average position for Vista Social comparison/alternative queries.",
+      "expected_signal": "Check 7/14/28-day Pages and page-specific Queries exports for clicks from the 0-click baseline, CTR improvement, movement from pos ~10.2 toward positions 6-8, and stable or improved impressions for Vista Social vs Glow Social, Vista Social alternative, Vista Social pricing/comparison, and scheduler vs done-for-you queries.",
+      "do_not_overlearn_if": "If weak, possible causes include Google rewriting the title/snippet, queries being mostly navigational for Vista Social, low Glow brand awareness in comparison SERPs, or the page needing more external authority/reviews rather than title and internal-link work.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-25T01-12-00Z-vista-social-striking-distance.md"
     }
   ]
 }
