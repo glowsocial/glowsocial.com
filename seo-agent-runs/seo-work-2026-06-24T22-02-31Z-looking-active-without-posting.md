@@ -4,7 +4,7 @@
 - **Route:** `/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself`
 - **Canonical URL:** `https://glowsocial.com/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself`
 - **Work type:** Crawled-not-indexed owner-burden page refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `b8f1008`
 - **Boomp migration target:** Port after branding is ready
 
 ## Why this page
