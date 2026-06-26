@@ -4,7 +4,7 @@
 - **Route:** `/blog/social-media-tools-under-50`
 - **Canonical URL:** `https://glowsocial.com/blog/social-media-tools-under-50`
 - **Work type:** GSC striking-distance complete-guide refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `e77bae4`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move
 
 ## Why this page
