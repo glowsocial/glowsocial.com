@@ -275,6 +275,28 @@
       "do_not_overlearn_if": "If weak, possible causes include title/snippet rewriting, list SERPs preferring software marketplaces, weak external authority compared with tool-review sites, or the page needing a fuller source/comparison table rather than only title/top-answer work.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
       "report": "seo-agent-runs/seo-work-2026-06-25T01-55-00Z-tools-under-50-striking-distance.md"
+    },
+    {
+      "at": "2026-06-26T00:10:00Z",
+      "route": "/compare/plann-alternative",
+      "status": "complete",
+      "work_type": "GSC striking-distance comparison-hub refresh",
+      "bet": "Searchers looking for a Plann alternative are likely comparing visual planning tools, but the buyer-intent opportunity for Glow is owner burden: Plann organizes content that already exists; Glow Social prepares posts from the website for approval. Retitling around Best Plann Alternative 2026 and strengthening the quick answer around posts ready to approve should improve CTR and help the page compete for Plann alternative / visual planner alternative queries.",
+      "expected_signal": "Check 7/14/28-day Pages and page-specific Queries exports for CTR improvement from 0.16%, movement from pos ~9.7 toward positions 5-7, more clicks on Plann alternative / best Plann alternative / Plann vs Glow Social / visual planner alternative queries, support lift into Planoly and Canva Pro alternatives, and stable/improved impressions from the 639 baseline.",
+      "do_not_overlearn_if": "If weak, possible causes include low Plann-branded search volume, Google preferring software directories, title/snippet rewriting, or the page needing a fuller feature/pricing table instead of only title/top-answer/internal-link work.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-26T00-10-00Z-plann-alternative-striking-distance.md"
+    },
+    {
+      "at": "2026-06-26T16:30:09Z",
+      "route": "/tools/social-media-roi-estimator",
+      "status": "complete",
+      "work_type": "buyer-intent tool page refresh",
+      "bet": "A thin ROI calculator page should become more index-worthy and conversion-ready when it answers the break-even-customer question before the tool, counts owner time as a real cost, adds FAQ/Breadcrumb schema, and routes realistic users toward a preview-first next step before they commit to a bigger retainer.",
+      "expected_signal": "Check 7/14/28-day indexing, impressions, clicks, CTR, average position, and assisted movement into /preview, /tools/social-media-management-cost-calculator, and pricing/cost pages for social media ROI calculator, social media ROI for local business, and social media break-even queries.",
+      "do_not_overlearn_if": "If weak, possible causes include low exact-query volume, ROI queries being satisfied by generic marketing calculators, insufficient internal-link equity, or needing page-specific query evidence before another title change. Do not assume tools/calculators are weak from one ROI page.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-26T16-30-09Z-roi-estimator.md"
     }
   ]
 }

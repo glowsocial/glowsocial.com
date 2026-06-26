@@ -52,7 +52,7 @@ In 2026, you no longer have to choose between a DIY tool and a $2,000/month mark
 ## Stop Paying to Do Your Own Work
 If you are tired of paying a monthly subscription just to spend your weekends stressing over social media captions, it is time to upgrade. 
 
-[See your Glow Social posts first](https://glowsocial.com/preview) and let Glow Social handle your online presence so you can get back to running your actual business.
+[See your Glow Social posts first](/preview) and let Glow Social handle your online presence so you can get back to running your actual business.
 
 ## Frequently Asked Questions
 ### What is the best alternative to Canva Pro for local business?
@@ -61,7 +61,7 @@ The best Canva Pro alternative for local businesses is Glow Social. It prepares 
 ### Why is Glow Social better than Canva Pro?
 Glow Social is better for business owners who want the content prepared for them. Canva Pro is still useful for design, but Glow Social prepares routine social posts from your website so your job is to review, edit if needed, and approve.
 
-**Compare more tools:** [Canva vs Buffer quick answer](/resources/questions/canva-vs-buffer-small-business) · [Canva scheduler quick answer](/resources/questions/canva-social-media-scheduler-small-business) · [Plann Alternative: done-for-you posts, not a calendar](/compare/plann-alternative) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Later Alternative](/compare/later-alternative) · [Best tools under $50/mo](/blog/social-media-tools-under-50)
+**Compare more tools:** [Canva vs Buffer quick answer](/resources/questions/canva-vs-buffer-small-business) · [Canva scheduler quick answer](/resources/questions/canva-social-media-scheduler-small-business) · [Best Plann Alternative: posts ready to approve](/compare/plann-alternative) · [Buffer vs. Glow Social](/blog/buffer-vs-glow-social) · [Later Alternative](/compare/later-alternative) · [Best tools under $50/mo](/blog/social-media-tools-under-50)
 
 
-[See posts from your website first](https://app.glowsocial.com/preview)
+[See posts from your website first](/preview)

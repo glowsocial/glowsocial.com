@@ -50,7 +50,7 @@ In 2026, you no longer have to choose between a DIY tool and a $2,000/month mark
 ## Stop Paying to Do Your Own Work
 If you are tired of paying a monthly subscription just to spend your weekends stressing over social media captions, it is time to upgrade. 
 
-[See your Glow Social posts first](https://glowsocial.com/preview) and let Glow Social handle your online presence so you can get back to running your actual business.
+[See your Glow Social posts first](/preview) and let Glow Social handle your online presence so you can get back to running your actual business.
 
 ## Frequently Asked Questions
 ### What is the best alternative to Planoly for local business?
@@ -59,7 +59,7 @@ The best Planoly alternative for local businesses is Glow Social. It prepares po
 ### Why is Glow Social better than Planoly?
 Glow Social is better for business owners who need content created, not just planned. Planoly is a DIY social planner; Glow Social saves time by preparing posts from your website.
 
-**Compare more tools:** [Planoly vs Later quick answer](/resources/questions/planoly-vs-later-small-business) · [Later Alternative](/compare/later-alternative) · [Plann Alternative](/compare/plann-alternative) · [Best tools under $50/mo](/blog/social-media-tools-under-50)
+**Compare more tools:** [Planoly vs Later quick answer](/resources/questions/planoly-vs-later-small-business) · [Later Alternative](/compare/later-alternative) · [Best Plann Alternative for local businesses](/compare/plann-alternative) · [Best tools under $50/mo](/blog/social-media-tools-under-50)
 
 
 ### Want to see what Glow Social can do for your Dentist business?
