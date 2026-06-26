@@ -4,7 +4,7 @@
 - **Route:** `/compare/plann-alternative`
 - **Canonical URL:** `https://glowsocial.com/compare/plann-alternative`
 - **Work type:** GSC striking-distance comparison-hub refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `77d9eca`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move
 
 ## Why this page
