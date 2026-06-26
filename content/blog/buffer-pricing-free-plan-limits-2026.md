@@ -118,7 +118,7 @@ Yes, Buffer has a real free plan. It is not just a short trial. The catch is tha
 - You do not need team approval workflows
 - You are willing to create every post yourself
 
-If you want a deeper comparison, read [Later vs Buffer](/blog/later-vs-buffer-differences-comparison), [best social media tools under $50/month](/blog/social-media-tools-under-50), and [Buffer alternatives with content creation built in](/blog/buffer-alternative-with-content-creation-built-in).
+If you want a deeper comparison, read [Later vs Buffer](/blog/later-vs-buffer-differences-comparison), [best social media tools under $50/month in 2026](/blog/social-media-tools-under-50), and [Buffer alternatives with content creation built in](/blog/buffer-alternative-with-content-creation-built-in).
 
 ## Buffer vs Later Pricing
 

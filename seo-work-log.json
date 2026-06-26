@@ -264,6 +264,17 @@
       "do_not_overlearn_if": "If weak, possible causes include zero-click SERPs for simple numeric answers, Google preferring Buffer official docs, title/snippet rewriting, or the support page needing to consolidate more strongly into the full Buffer pricing guide.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
       "report": "seo-agent-runs/seo-work-2026-06-25T01-32-00Z-buffer-free-plan-striking-distance.md"
+    },
+    {
+      "at": "2026-06-25T01:55:00Z",
+      "route": "/blog/social-media-tools-under-50",
+      "status": "complete",
+      "work_type": "GSC striking-distance complete-guide refresh",
+      "bet": "The page is a complete-guide hub in the position 8-11 band with zero clicks. Making the title, description, and top answer match best social media tools under $50/month in 2026 while preserving complete-guide coverage should improve CTR and average position for under-$50 social media tool searches and support adjacent Buffer/Later/Publer/Metricool/Plann comparison pages.",
+      "expected_signal": "Check 7/14/28-day Pages and page-specific Queries exports for clicks from the 0-click baseline, CTR improvement, movement from pos ~9.4 toward positions 5-7, stable/improved impressions for best social media tools under $50 and affordable/cheap social media tools, and support lift into adjacent scheduler/comparison pages.",
+      "do_not_overlearn_if": "If weak, possible causes include title/snippet rewriting, list SERPs preferring software marketplaces, weak external authority compared with tool-review sites, or the page needing a fuller source/comparison table rather than only title/top-answer work.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-25T01-55-00Z-tools-under-50-striking-distance.md"
     }
   ]
 }
