@@ -319,6 +319,17 @@
       "do_not_overlearn_if": "If weak, possible causes include low search volume, Google preferring software marketplaces, title/snippet rewriting, or the page needing a more robust externally sourced pricing/features table.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
       "report": "seo-agent-runs/seo-work-2026-06-26T00-45-00Z-automated-social-media-tools-striking-distance.md"
+    },
+    {
+      "at": "2026-06-26T01:20:00Z",
+      "route": "multi:/blog/top-5-automated-social-media-tools-small-business-2026,/blog/social-media-tools-under-50,/compare/plann-alternative",
+      "status": "complete",
+      "work_type": "Portable inline SVG decision-diagram test",
+      "bet": "Portable decision diagrams should make high-intent guide/comparison pages easier to scan, more useful to humans, and clearer for AEO extraction. The concepts are visual and repeat across pages: scheduling tools require posts to already exist, while review-ready workflows prepare posts before scheduling. CSS-variable styling avoids hardcoded Glow brand debt before Boomp.",
+      "expected_signal": "Check 7/14/28-day page-level indexing/crawl, CTR, and engagement movement for the three updated pages; compare whether pages with diagrams hold visibility or receive clicks better than similar text-only comparison pages.",
+      "do_not_overlearn_if": "If neutral, possible causes include small sample size, Search Console lag, diagrams being too low in the page for snippet influence, or needing image-specific metadata/social-image assets rather than inline explanatory SVG.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move; diagrams use CSS variables and should restyle with future brand tokens.",
+      "report": "seo-agent-runs/seo-work-2026-06-26T01-20-00Z-themeable-decision-diagrams.md"
     }
   ]
 }

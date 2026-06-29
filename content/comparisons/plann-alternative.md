@@ -18,6 +18,8 @@ Plann helps you organize content. Glow Social turns your website into **20 posts
 
 Short version: choose Plann when the content already exists and you need a better planning calendar. Choose Glow Social when the calendar is empty because no one has time to create the posts.
 
+<section class="decision-diagram" aria-labelledby="plann-diagram-title"><p class="decision-diagram__label">Decision diagram</p><h2 class="decision-diagram__title" id="plann-diagram-title">A visual calendar helps after the posts exist.</h2><div class="decision-diagram__scroll"><svg viewBox="0 0 760 250" role="img" aria-labelledby="plann-svg-title plann-svg-desc"><title id="plann-svg-title">Visual planning compared with posts ready to approve</title><desc id="plann-svg-desc">Plann is useful when the business already has captions and images to arrange in a calendar. Review-ready posting starts from the website and prepares posts for approval before publishing.</desc><rect class="decision-diagram__card" x="24" y="38" width="320" height="154" rx="18"/><text class="decision-diagram__text" x="52" y="76">Visual planner</text><text class="decision-diagram__small" x="52" y="106">Best when content already exists</text><circle class="decision-diagram__badge" cx="74" cy="142" r="16"/><text class="decision-diagram__small" x="104" y="147">Photos + captions → calendar</text><rect class="decision-diagram__card decision-diagram__card--accent" x="416" y="38" width="320" height="154" rx="18"/><text class="decision-diagram__text" x="444" y="76">Posts ready to approve</text><text class="decision-diagram__small" x="444" y="106">Best when the calendar is empty</text><circle class="decision-diagram__badge" cx="466" cy="142" r="16"/><text class="decision-diagram__small" x="496" y="147">Website → draft posts → approve</text><path class="decision-diagram__line" d="M344 116 C376 92 386 92 416 116"/><path class="decision-diagram__line" d="M344 152 C376 176 386 176 416 152"/></svg></div><p class="decision-diagram__caption">Plann can organize a content workflow. It does not remove the need to decide what the business should post this month.</p></section>
+
 If you are a local business owner searching for a Plann alternative, you are likely experiencing one of two frustrations:
 1. **The Time Drain:** It takes way too many hours every week to manage.
 2. **The Blank Screen:** The software doesn't actually help you come up with what to say.
@@ -33,9 +35,10 @@ Glow Social is a done-for-you social media service that turns your website into 
 In 2026, you no longer have to choose between a DIY tool and a $2,000/month marketing agency. 
 
 [Glow Social](https://glowsocial.com) was built specifically to replace tools like Plann. Instead of giving you an empty calendar and telling you to fill it, Glow Social does the heavy lifting:
-*   **Website-informed post ideas:** The system learns your services, offers, and local business details.
-*   **Posts prepared for approval:** Hooks, captions, and graphics are drafted before you pay.
-*   **Approval-first publishing:** Approved posts go out to Facebook, Instagram, LinkedIn, and TikTok.
+
+- **Website-informed post ideas:** The system learns your services, offers, and local business details.
+- **Posts prepared for approval:** Hooks, captions, and graphics are drafted before you pay.
+- **Approval-first publishing:** Approved posts go out to Facebook, Instagram, LinkedIn, and TikTok.
 
 If you are also weighing bigger scheduler platforms, compare this with [Later vs Buffer](/blog/later-vs-buffer-differences-comparison) and [Vista Social vs Glow Social](/blog/glow-social-vs-vista-social).
 

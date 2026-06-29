@@ -1072,6 +1072,107 @@ h2 {
   color: var(--text-muted);
 }
 
+.decision-diagram {
+  --diagram-bg: var(--paper);
+  --diagram-border: var(--card-border);
+  --diagram-soft: var(--green-soft);
+  --diagram-accent: var(--accent);
+  --diagram-accent-strong: var(--accent-dark);
+  --diagram-text: var(--text);
+  --diagram-muted: var(--text-muted);
+  margin: 32px 0;
+  padding: clamp(18px, 3vw, 28px);
+  border: 1px solid var(--diagram-border);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--diagram-bg), rgba(221, 236, 247, 0.46));
+  box-shadow: var(--shadow);
+}
+
+.decision-diagram__label {
+  margin: 0 0 8px;
+  color: var(--diagram-accent-strong);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 1.4px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.blog-post-content .decision-diagram__title {
+  margin: 0 0 18px;
+  color: var(--diagram-text);
+  font-size: clamp(1.25rem, 3vw, 1.65rem);
+  line-height: 1.15;
+}
+
+.decision-diagram svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: var(--diagram-text);
+}
+
+.decision-diagram__card {
+  fill: rgba(255, 255, 255, 0.84);
+  stroke: var(--diagram-border);
+  stroke-width: 1.5;
+}
+
+.decision-diagram__card--accent {
+  fill: var(--diagram-soft);
+  stroke: var(--diagram-accent-strong);
+}
+
+.decision-diagram__line {
+  stroke: var(--diagram-accent-strong);
+  stroke-width: 2.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+
+.decision-diagram__badge {
+  fill: var(--diagram-accent);
+}
+
+.decision-diagram__text {
+  fill: var(--diagram-text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.decision-diagram__small {
+  fill: var(--diagram-muted);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.decision-diagram__caption {
+  margin: 14px 0 0;
+  color: var(--diagram-muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 700px) {
+  .decision-diagram {
+    margin: 24px 0;
+    padding: 16px;
+  }
+
+  .decision-diagram svg {
+    min-width: 560px;
+  }
+
+  .decision-diagram__scroll {
+    overflow-x: auto;
+    padding-bottom: 4px;
+  }
+}
+
 .blog-post-content table {
   width: 100%;
   border-collapse: collapse;
