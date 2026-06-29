@@ -22,7 +22,7 @@ The most common question small business owners ask about social media isn't "wha
 
 The honest answer: anywhere from $0 to $3,000+ per month. But the price you see on a tool's website is never the full cost. Here's the complete picture, including the cost most pricing pages hide: **your time.**
 
-If you want the low-cost done-for-you option, see [affordable social media management from Glow Social](/affordable-social-media-management). If you are comparing agency retainers, start with the [social media agency alternative](/social-media-agency-alternative) page.
+If you want the low-cost done-for-you option, see [affordable social media management from Glow Social](/affordable-social-media-management). If you are comparing agency retainers, start with the [social media agency alternative](/social-media-agency-alternative) page. If you want to run your own numbers first, use the [social media management cost calculator](/tools/social-media-management-cost-calculator).
 
 
 Most small businesses should budget **$99-$500/month** for social media management. A scheduler can cost $0-$50/month if you already create posts. A done-for-you posting system can cost $99/month when you need posts prepared for approval. Freelancers usually start around $300-$500/month for basic posting, while agencies commonly start around $1,000+/month.

@@ -3,9 +3,9 @@ import "../tools.css";
 import CostComparisonCalculator from "../CostComparisonCalculator";
 
 const PAGE_URL = "https://glowsocial.com/tools/social-media-management-cost-calculator";
-const PAGE_TITLE = "Social Media Management Cost Calculator | Glow Social";
+const PAGE_TITLE = "Social Media Management Cost Calculator for Small Business";
 const PAGE_DESCRIPTION =
-  "Calculate the real monthly cost of DIY social media, freelancers, agencies, and done-for-you social media help for a local business.";
+  "Estimate the real monthly cost of DIY social media, tools, freelancers, agencies, and done-for-you posting once owner time is included.";
 
 export const metadata = {
   title: PAGE_TITLE,
@@ -16,7 +16,7 @@ export const metadata = {
   openGraph: {
     title: PAGE_TITLE,
     description:
-      "Compare owner time, tool costs, freelancer retainers, agency pricing, and done-for-you posting so the cheapest option is not hiding unpaid work.",
+      "Compare owner time, software costs, freelancer retainers, agency pricing, and done-for-you posting so the cheapest option is not hiding unpaid work.",
     url: PAGE_URL,
     siteName: "Glow Social",
     type: "website",
@@ -33,7 +33,7 @@ export const metadata = {
     card: "summary_large_image",
     title: PAGE_TITLE,
     description:
-      "Estimate what social media really costs once owner time, tools, freelancers, agencies, and done-for-you posting are compared side by side.",
+      "Estimate what social media management really costs once owner time, tools, freelancers, agencies, and done-for-you posting are compared side by side.",
     images: ["https://glowsocial.com/images/og-image.png?v=cost-calculator-2026-06"],
   },
 };
@@ -81,10 +81,18 @@ function ToolJsonLd() {
         },
         {
           "@type": "Question",
-          name: "What should a local business compare before choosing a social media option?",
+          name: "What should a local business compare before choosing a social media management option?",
           acceptedAnswer: {
             "@type": "Answer",
             text: "Compare the monthly cash cost, the owner's time cost, the amount of content creation included, approval control, and whether the option actually keeps posts moving without creating another weekly task.",
+          },
+        },
+        {
+          "@type": "Question",
+          name: "What is a reasonable monthly social media management budget for a small business?",
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: "A reasonable monthly budget depends on how much work is included. A scheduler may cost under $50 but requires owner-created posts. A lightweight done-for-you posting service can be around $99 per month, while freelancers and agencies often cost more when strategy, meetings, reporting, and custom creative are included.",
           },
         },
       ],
@@ -129,10 +137,11 @@ export default function SocialMediaManagementCostCalculatorPage() {
       <ToolJsonLd />
       <section className="tools-hero">
         <div className="tools-hero-inner">
-          <h1>Social Media Management Cost Calculator</h1>
+          <h1>Social Media Management Cost Calculator for Small Business</h1>
           <p>
-            Compare the real cost of doing social media yourself, hiring a
-            freelancer, hiring an agency, or using done-for-you automation.
+            Compare the real cost of doing social media yourself, using tools,
+            hiring a freelancer, hiring an agency, or choosing done-for-you
+            posting.
           </p>
         </div>
       </section>
@@ -147,6 +156,46 @@ export default function SocialMediaManagementCostCalculatorPage() {
             Use this calculator to compare DIY, freelancers, agencies, and
             done-for-you posting side by side.
           </p>
+          <p>
+            For most local businesses, the hidden variable is not the scheduling
+            fee. It is whether someone still has to decide what to post every
+            week. Use the result to compare cash cost, time cost, and content
+            burden together.
+          </p>
+        </section>
+
+        <section className="decision-diagram" aria-labelledby="cost-calculator-diagram-title">
+          <p className="decision-diagram__label">Decision diagram</p>
+          <h2 className="decision-diagram__title" id="cost-calculator-diagram-title">
+            The cheapest monthly price is not always the cheapest option.
+          </h2>
+          <div className="decision-diagram__scroll">
+            <svg viewBox="0 0 760 250" role="img" aria-labelledby="cost-calculator-svg-title cost-calculator-svg-desc">
+              <title id="cost-calculator-svg-title">Social media cost comparison including owner time</title>
+              <desc id="cost-calculator-svg-desc">A cheap tool has a small software bill but leaves the owner planning, writing, designing, and scheduling. Freelancers and agencies cost more cash. Review-ready posting reduces content burden by preparing posts for approval.</desc>
+              <rect className="decision-diagram__card" x="24" y="38" width="210" height="154" rx="18" />
+              <text className="decision-diagram__text" x="52" y="76">DIY tool</text>
+              <text className="decision-diagram__small" x="52" y="106">Low cash cost</text>
+              <text className="decision-diagram__small" x="52" y="134">High owner time</text>
+              <text className="decision-diagram__small" x="52" y="162">Posts still start blank</text>
+              <path className="decision-diagram__line" d="M236 116 H286" />
+              <rect className="decision-diagram__card" x="296" y="38" width="190" height="154" rx="18" />
+              <text className="decision-diagram__text" x="324" y="76">Freelancer</text>
+              <text className="decision-diagram__small" x="324" y="106">More cash</text>
+              <text className="decision-diagram__small" x="324" y="134">Scope varies</text>
+              <text className="decision-diagram__small" x="324" y="162">Meetings add time</text>
+              <path className="decision-diagram__line" d="M488 116 H538" />
+              <rect className="decision-diagram__card decision-diagram__card--accent" x="548" y="38" width="188" height="154" rx="18" />
+              <text className="decision-diagram__text" x="576" y="76">Review-ready</text>
+              <text className="decision-diagram__small" x="576" y="106">Posts prepared</text>
+              <text className="decision-diagram__small" x="576" y="134">Owner approves</text>
+              <text className="decision-diagram__small" x="576" y="162">Approved posts publish</text>
+            </svg>
+          </div>
+          <p className="decision-diagram__caption">
+            The right choice depends on what you are actually buying: software,
+            creative help, or a workflow that gets posts ready for approval.
+          </p>
         </section>
 
         <CostComparisonCalculator />
@@ -155,24 +204,26 @@ export default function SocialMediaManagementCostCalculatorPage() {
           <h2>How to read the results</h2>
           <div className="tools-guide-grid">
             <div>
-              <h3>DIY cost</h3>
+              <h3>If DIY looks cheapest</h3>
               <p>
-                Count the owner&apos;s hours, not just the software bill. DIY is
-                only the cheapest option when the time burden is realistic.
+                Count the owner&apos;s hours, not just the software bill. DIY only
+                wins when the content workload is realistic and repeatable.
               </p>
             </div>
             <div>
-              <h3>Freelancer or agency cost</h3>
+              <h3>If a freelancer or agency looks expensive</h3>
               <p>
-                Compare retainers against what is actually included: strategy,
-                content creation, approvals, posting, reporting, and meetings.
+                Compare the retainer against what is actually included:
+                strategy, writing, design, approvals, posting, reporting, and
+                meetings.
               </p>
             </div>
             <div>
-              <h3>Done-for-you posting cost</h3>
+              <h3>If done-for-you posting is close</h3>
               <p>
                 A lighter service can be a better fit when the business mainly
-                needs posts created from real business context and kept moving.
+                needs posts prepared from real context and kept moving after
+                approval.
               </p>
             </div>
           </div>
@@ -203,6 +254,16 @@ export default function SocialMediaManagementCostCalculatorPage() {
               blank calendar next month.
             </p>
           </div>
+          <div className="tools-faq-item">
+            <h3>What is a reasonable monthly social media management budget?</h3>
+            <p>
+              It depends on what is included. A basic scheduler may be under
+              $50/month but leaves content creation on you. A lightweight
+              done-for-you posting workflow can be closer to $99/month, while
+              freelancer and agency retainers usually cost more because they may
+              include custom creative, meetings, strategy, and reporting.
+            </p>
+          </div>
         </section>
 
         <section className="tool-copy">
@@ -214,18 +275,26 @@ export default function SocialMediaManagementCostCalculatorPage() {
             price looks cheap but the time cost is not.
           </p>
           <p>
-            For benchmark ranges and buyer guidance, pair this tool with the
-            <Link href="/research/social-media-management-pricing-benchmarks-local-businesses"> pricing benchmarks</Link>
-            and the
-            <Link href="/resources/questions/social-media-management-pricing-2026"> 2026 pricing answer page</Link>.
+            For benchmark ranges and buyer guidance, pair this tool with the{" "}
+            <Link href="/blog/social-media-management-cost-pricing-guide">social media management pricing guide</Link>,{" "}
+            the{" "}
+            <Link href="/research/social-media-management-pricing-benchmarks-local-businesses">pricing benchmarks</Link>,{" "}
+            and the{" "}
+            <Link href="/resources/questions/social-media-management-pricing-2026">2026 pricing answer page</Link>.
           </p>
           <p>
             If the result shows the owner is still carrying the content burden,
-            compare the calculator against
-            <Link href="/affordable-social-media-management"> affordable social media management</Link>
-            or see how
-            <Link href="/social-media-scheduler-that-creates-content"> a scheduler that creates content</Link>
+            compare the calculator against{" "}
+            <Link href="/affordable-social-media-management">affordable social media management</Link>{" "}
+            or see how{" "}
+            <Link href="/social-media-scheduler-that-creates-content">a scheduler that creates content</Link>{" "}
             changes the workflow.
+          </p>
+          <p>
+            If you are mostly comparing low-cost software, the{" "}
+            <Link href="/blog/social-media-tools-under-50">under-$50 social media tools guide</Link>{" "}
+            explains where tools help and where owner time still carries the
+            workload.
           </p>
         </section>
       </main>

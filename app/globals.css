@@ -1099,11 +1099,14 @@ h2 {
   text-transform: uppercase;
 }
 
-.blog-post-content .decision-diagram__title {
+.decision-diagram__title {
   margin: 0 0 18px;
   color: var(--diagram-text);
   font-size: clamp(1.25rem, 3vw, 1.65rem);
   line-height: 1.15;
+  text-align: left;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 .decision-diagram svg {

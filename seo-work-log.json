@@ -330,6 +330,17 @@
       "do_not_overlearn_if": "If neutral, possible causes include small sample size, Search Console lag, diagrams being too low in the page for snippet influence, or needing image-specific metadata/social-image assets rather than inline explanatory SVG.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move; diagrams use CSS variables and should restyle with future brand tokens.",
       "report": "seo-agent-runs/seo-work-2026-06-26T01-20-00Z-themeable-decision-diagrams.md"
+    },
+    {
+      "at": "2026-06-29T00:00:00Z",
+      "route": "/tools/social-media-management-cost-calculator",
+      "status": "complete",
+      "work_type": "Existing tool page buyer-intent refresh",
+      "bet": "A cost calculator page can be more index-worthy and conversion-ready when it answers the buyer question before the interactive UI: the real cost is cash plus owner time. Strengthening metadata, visible direct-answer copy, FAQ/schema, and internal links should help the page compete for small-business social media management cost searches while supporting the broader pricing guide cluster.",
+      "expected_signal": "Check 7/14/28-day crawl/index status, impressions for cost-calculator and social-media-management-cost terms, clicks from pricing/cost queries, and internal movement between the pricing guide and calculator.",
+      "do_not_overlearn_if": "If weak, possible causes include GSC validation lag, Google preferring article-style cost guides over interactive tools, the route needing richer calculator-specific structured data, or needing more inbound links from cost/pricing pages.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move; preserve owner-time framing and decision diagram unless tool URLs change.",
+      "report": "seo-agent-runs/seo-work-2026-06-29T00-00-00Z-cost-calculator-refresh.md"
     }
   ]
 }
