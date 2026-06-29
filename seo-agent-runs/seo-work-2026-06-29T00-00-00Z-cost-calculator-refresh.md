@@ -4,7 +4,7 @@
 - **Route:** `/tools/social-media-management-cost-calculator`
 - **Canonical URL:** `https://glowsocial.com/tools/social-media-management-cost-calculator`
 - **Work type:** Existing tool page buyer-intent refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `b2b2012`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move; preserve calculator route or map to equivalent cost-calculator route if Boomp tool URLs change.
 
 ## Why this page
