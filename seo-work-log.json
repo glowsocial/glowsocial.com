@@ -295,8 +295,19 @@
       "bet": "A thin ROI calculator page should become more index-worthy and conversion-ready when it answers the break-even-customer question before the tool, counts owner time as a real cost, adds FAQ/Breadcrumb schema, and routes realistic users toward a preview-first next step before they commit to a bigger retainer.",
       "expected_signal": "Check 7/14/28-day indexing, impressions, clicks, CTR, average position, and assisted movement into /preview, /tools/social-media-management-cost-calculator, and pricing/cost pages for social media ROI calculator, social media ROI for local business, and social media break-even queries.",
       "do_not_overlearn_if": "If weak, possible causes include low exact-query volume, ROI queries being satisfied by generic marketing calculators, insufficient internal-link equity, or needing page-specific query evidence before another title change. Do not assume tools/calculators are weak from one ROI page.",
-      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move",
+      "migration_target": "Re-sync latest Glow version before final Glow→Boomp URL move",
       "report": "seo-agent-runs/seo-work-2026-06-26T16-30-09Z-roi-estimator.md"
+    },
+    {
+      "at": "2026-06-29T16:02:43Z",
+      "route": "/tools/posting-frequency-calculator",
+      "status": "complete",
+      "work_type": "buyer-intent tool page refresh",
+      "bet": "A thin posting-frequency calculator page should become more index-worthy and conversion-ready when it answers the local-business cadence question before the tool, explains that owner time and content creation capacity constrain the schedule, adds FAQ/Breadcrumb schema, and routes high-burden users toward a preview-first next step.",
+      "expected_signal": "Check 7/14/28-day indexing, impressions, clicks, CTR, average position, and assisted movement into /preview, /tools, and posting-frequency benchmark pages for posting frequency calculator, how often should a local business post, and Google Business Profile posting cadence queries.",
+      "do_not_overlearn_if": "If weak, possible causes include low exact calculator-query volume, Google preferring broader benchmark guides, insufficient internal-link equity, or needing page-specific query evidence before another title change. Do not assume tools/calculators are weak from one cadence page.",
+      "migration_target": "Re-sync latest Glow version before final Glow→Boomp URL move",
+      "report": "seo-agent-runs/seo-work-2026-06-29T16-02-43Z-posting-frequency-calculator.md"
     }
   ]
 }
