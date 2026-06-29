@@ -4,7 +4,7 @@
 - **Route:** `/tools/posting-frequency-calculator`
 - **Canonical URL:** `https://glowsocial.com/tools/posting-frequency-calculator`
 - **Work type:** buyer-intent tool page refresh
-- **Glow commit:** `03ba7dd`
+- **Glow commit:** `13d516d`
 - **Boomp migration target:** Re-sync latest Glow version before final Glow → Boomp URL move
 
 ## Why this page
