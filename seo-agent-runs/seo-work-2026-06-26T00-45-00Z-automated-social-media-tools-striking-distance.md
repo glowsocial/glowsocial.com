@@ -4,7 +4,7 @@
 - **Route:** `/blog/top-5-automated-social-media-tools-small-business-2026`
 - **Canonical URL:** `https://glowsocial.com/blog/top-5-automated-social-media-tools-small-business-2026`
 - **Work type:** GSC striking-distance complete/list-guide refresh
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `16db213`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move
 
 ## Why this page
