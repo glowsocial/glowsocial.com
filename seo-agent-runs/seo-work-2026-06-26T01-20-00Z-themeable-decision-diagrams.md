@@ -6,7 +6,7 @@
   - `/blog/social-media-tools-under-50`
   - `/compare/plann-alternative`
 - **Work type:** Portable inline SVG decision-diagram test
-- **Glow commit:** Pending at report creation
+- **Glow commit:** `40c13eb`
 - **Boomp migration target:** Re-sync latest Glow version before final URL move; diagrams use CSS variables and should restyle with future brand tokens
 
 ## Why this batch
