@@ -1,3 +1,1896 @@
+const BOOMP_BLOG_REDIRECTS = [
+  {
+    source: "/blog/10-things-i-learned-posting-101-times-with-glow-social",
+    destination: "https://boomp.net/blog/10-things-i-learned-posting-101-times-with-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/50-creative-business-social-media-post-ideas-to-engage-your-audience",
+    destination: "https://boomp.net/blog/50-creative-business-social-media-post-ideas-to-engage-your-audience",
+    permanent: true,
+  },
+  {
+    source: "/blog/7-best-sprout-social-alternatives-local-business-2026",
+    destination: "https://boomp.net/blog/7-best-sprout-social-alternatives-local-business-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/7-ways-local-businesses-cut-marketing-costs-2026",
+    destination: "https://boomp.net/blog/7-ways-local-businesses-cut-marketing-costs-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/affordable-social-media-management-guide",
+    destination: "https://boomp.net/blog/affordable-social-media-management-guide",
+    permanent: true,
+  },
+  {
+    source: "/blog/affordable-social-media-no-marketing-agency",
+    destination: "https://boomp.net/blog/affordable-social-media-no-marketing-agency",
+    permanent: true,
+  },
+  {
+    source: "/blog/affordable-social-media-vs-hootsuite",
+    destination: "https://boomp.net/blog/affordable-social-media-vs-hootsuite",
+    permanent: true,
+  },
+  {
+    source: "/blog/ai-search-optimization-local-businesses",
+    destination: "https://boomp.net/blog/ai-search-optimization-local-businesses",
+    permanent: true,
+  },
+  {
+    source: "/blog/ai-social-media-tools-scheduling-vs-creation-vs-done-for-you",
+    destination: "https://boomp.net/blog/ai-social-media-tools-scheduling-vs-creation-vs-done-for-you",
+    permanent: true,
+  },
+  {
+    source: "/blog/ai-tools-vs-agencies-cost",
+    destination: "https://boomp.net/blog/ai-tools-vs-agencies-cost",
+    permanent: true,
+  },
+  {
+    source: "/blog/automate-social-media-oba-framework",
+    destination: "https://boomp.net/blog/automate-social-media-oba-framework",
+    permanent: true,
+  },
+  {
+    source: "/blog/automated-social-media-local-business",
+    destination: "https://boomp.net/blog/automated-social-media-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/automated-social-media-roofers-contractors",
+    destination: "https://boomp.net/blog/automated-social-media-roofers-contractors",
+    permanent: true,
+  },
+  {
+    source: "/blog/average-time-social-media-marketing",
+    destination: "https://boomp.net/blog/average-time-social-media-marketing",
+    permanent: true,
+  },
+  {
+    source: "/blog/bad-social-media-advice-local-business",
+    destination: "https://boomp.net/blog/bad-social-media-advice-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/before-after-post-examples-landscapers",
+    destination: "https://boomp.net/blog/before-after-post-examples-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-affordable-social-media-management-small-business",
+    destination: "https://boomp.net/blog/best-affordable-social-media-management-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-ai-social-media-content-generators",
+    destination: "https://boomp.net/blog/best-ai-social-media-content-generators",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-ai-tool-for-social-media",
+    destination: "https://boomp.net/blog/best-ai-tool-for-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-alternative-to-hiring-social-media-manager",
+    destination: "https://boomp.net/blog/best-alternative-to-hiring-social-media-manager",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-dentists",
+    destination: "https://boomp.net/blog/best-buffer-alternative-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-hvac-companies",
+    destination: "https://boomp.net/blog/best-buffer-alternative-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-landscapers",
+    destination: "https://boomp.net/blog/best-buffer-alternative-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-lawyers",
+    destination: "https://boomp.net/blog/best-buffer-alternative-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-med-spas",
+    destination: "https://boomp.net/blog/best-buffer-alternative-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-plumbers",
+    destination: "https://boomp.net/blog/best-buffer-alternative-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-real-estate-agents",
+    destination: "https://boomp.net/blog/best-buffer-alternative-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-restaurants",
+    destination: "https://boomp.net/blog/best-buffer-alternative-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-roofers",
+    destination: "https://boomp.net/blog/best-buffer-alternative-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-buffer-alternative-salons",
+    destination: "https://boomp.net/blog/best-buffer-alternative-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-dentists",
+    destination: "https://boomp.net/blog/best-canva-alternative-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-hvac-companies",
+    destination: "https://boomp.net/blog/best-canva-alternative-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-landscapers",
+    destination: "https://boomp.net/blog/best-canva-alternative-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-lawyers",
+    destination: "https://boomp.net/blog/best-canva-alternative-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-med-spas",
+    destination: "https://boomp.net/blog/best-canva-alternative-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-plumbers",
+    destination: "https://boomp.net/blog/best-canva-alternative-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-real-estate-agents",
+    destination: "https://boomp.net/blog/best-canva-alternative-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-restaurants",
+    destination: "https://boomp.net/blog/best-canva-alternative-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-roofers",
+    destination: "https://boomp.net/blog/best-canva-alternative-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-canva-alternative-salons",
+    destination: "https://boomp.net/blog/best-canva-alternative-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-done-for-you-social-media-services-roofers",
+    destination: "https://boomp.net/blog/best-done-for-you-social-media-services-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-google-business-profile-posting-tools-local-business",
+    destination: "https://boomp.net/blog/best-google-business-profile-posting-tools-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-google-business-profile-tools-restaurants",
+    destination: "https://boomp.net/blog/best-google-business-profile-tools-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-dentists",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-hvac-companies",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-landscapers",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-lawyers",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-med-spas",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-plumbers",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-real-estate-agents",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-restaurants",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-roofers",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-hootsuite-alternative-salons",
+    destination: "https://boomp.net/blog/best-hootsuite-alternative-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-dentists",
+    destination: "https://boomp.net/blog/best-later-alternative-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-hvac-companies",
+    destination: "https://boomp.net/blog/best-later-alternative-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-landscapers",
+    destination: "https://boomp.net/blog/best-later-alternative-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-lawyers",
+    destination: "https://boomp.net/blog/best-later-alternative-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-med-spas",
+    destination: "https://boomp.net/blog/best-later-alternative-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-plumbers",
+    destination: "https://boomp.net/blog/best-later-alternative-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-real-estate-agents",
+    destination: "https://boomp.net/blog/best-later-alternative-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-restaurants",
+    destination: "https://boomp.net/blog/best-later-alternative-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-roofers",
+    destination: "https://boomp.net/blog/best-later-alternative-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-later-alternative-salons",
+    destination: "https://boomp.net/blog/best-later-alternative-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-dentists",
+    destination: "https://boomp.net/blog/best-metricool-alternative-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-hvac-companies",
+    destination: "https://boomp.net/blog/best-metricool-alternative-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-landscapers",
+    destination: "https://boomp.net/blog/best-metricool-alternative-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-lawyers",
+    destination: "https://boomp.net/blog/best-metricool-alternative-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-med-spas",
+    destination: "https://boomp.net/blog/best-metricool-alternative-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-plumbers",
+    destination: "https://boomp.net/blog/best-metricool-alternative-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-real-estate-agents",
+    destination: "https://boomp.net/blog/best-metricool-alternative-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-restaurants",
+    destination: "https://boomp.net/blog/best-metricool-alternative-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-roofers",
+    destination: "https://boomp.net/blog/best-metricool-alternative-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-metricool-alternative-salons",
+    destination: "https://boomp.net/blog/best-metricool-alternative-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-platforms-local-business",
+    destination: "https://boomp.net/blog/best-platforms-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-automation-tools-create-content",
+    destination: "https://boomp.net/blog/best-social-media-automation-tools-create-content",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-automation-tools-restaurants",
+    destination: "https://boomp.net/blog/best-social-media-automation-tools-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-automation-tools-small-business",
+    destination: "https://boomp.net/blog/best-social-media-automation-tools-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-management-services-dentists",
+    destination: "https://boomp.net/blog/best-social-media-management-services-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-manager-alternatives-small-business",
+    destination: "https://boomp.net/blog/best-social-media-manager-alternatives-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-platforms-local-businesses-2026",
+    destination: "https://boomp.net/blog/best-social-media-platforms-local-businesses-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-posting-service-contractors",
+    destination: "https://boomp.net/blog/best-social-media-posting-service-contractors",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-posting-service-dentists",
+    destination: "https://boomp.net/blog/best-social-media-posting-service-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-posting-service-home-services",
+    destination: "https://boomp.net/blog/best-social-media-posting-service-home-services",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-posting-service-restaurants",
+    destination: "https://boomp.net/blog/best-social-media-posting-service-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-posting-service-salons",
+    destination: "https://boomp.net/blog/best-social-media-posting-service-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-scheduler-for-local-business-2026",
+    destination: "https://boomp.net/blog/best-social-media-scheduler-for-local-business-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-auto-repair-shops",
+    destination: "https://boomp.net/blog/best-social-media-service-auto-repair-shops",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-businesses-no-time",
+    destination: "https://boomp.net/blog/best-social-media-service-businesses-no-time",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-busy-business-owners",
+    destination: "https://boomp.net/blog/best-social-media-service-busy-business-owners",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-cleaning-companies",
+    destination: "https://boomp.net/blog/best-social-media-service-cleaning-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-coaches-consultants",
+    destination: "https://boomp.net/blog/best-social-media-service-coaches-consultants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-for-accountants",
+    destination: "https://boomp.net/blog/best-social-media-service-for-accountants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-for-lawyers",
+    destination: "https://boomp.net/blog/best-social-media-service-for-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-gyms-fitness-studios",
+    destination: "https://boomp.net/blog/best-social-media-service-gyms-fitness-studios",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-insurance-agents",
+    destination: "https://boomp.net/blog/best-social-media-service-insurance-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-landscapers",
+    destination: "https://boomp.net/blog/best-social-media-service-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-local-businesses-under-100-month",
+    destination: "https://boomp.net/blog/best-social-media-service-local-businesses-under-100-month",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-medical-practices",
+    destination: "https://boomp.net/blog/best-social-media-service-medical-practices",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-one-person-businesses",
+    destination: "https://boomp.net/blog/best-social-media-service-one-person-businesses",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-pet-groomers",
+    destination: "https://boomp.net/blog/best-social-media-service-pet-groomers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-photographers",
+    destination: "https://boomp.net/blog/best-social-media-service-photographers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-real-estate-agents",
+    destination: "https://boomp.net/blog/best-social-media-service-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-retail-stores",
+    destination: "https://boomp.net/blog/best-social-media-service-retail-stores",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-service-wedding-vendors",
+    destination: "https://boomp.net/blog/best-social-media-service-wedding-vendors",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-services-for-plumbers",
+    destination: "https://boomp.net/blog/best-social-media-services-for-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-services-for-salons",
+    destination: "https://boomp.net/blog/best-social-media-services-for-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-social-media-tools-for-med-spas",
+    destination: "https://boomp.net/blog/best-social-media-tools-for-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-dentists",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-hvac-companies",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-landscapers",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-lawyers",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-med-spas",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-plumbers",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-real-estate-agents",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-restaurants",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-roofers",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-sprout-social-alternative-salons",
+    destination: "https://boomp.net/blog/best-sprout-social-alternative-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/best-time-to-post-on-social-media",
+    destination: "https://boomp.net/blog/best-time-to-post-on-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/boost-your-engagement-discover-the-benefits-of-social-media-schedulers",
+    destination: "https://boomp.net/blog/boost-your-engagement-discover-the-benefits-of-social-media-schedulers",
+    permanent: true,
+  },
+  {
+    source: "/blog/buffer-alternative-with-content-creation-built-in",
+    destination: "https://boomp.net/blog/buffer-alternative-with-content-creation-built-in",
+    permanent: true,
+  },
+  {
+    source: "/blog/buffer-pricing-free-plan-limits-2026",
+    destination: "https://boomp.net/blog/buffer-pricing-free-plan-limits-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/buffer-vs-glow-social",
+    destination: "https://boomp.net/blog/buffer-vs-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/can-ai-replace-social-media-manager",
+    destination: "https://boomp.net/blog/can-ai-replace-social-media-manager",
+    permanent: true,
+  },
+  {
+    source: "/blog/can-ai-write-good-social-media-posts",
+    destination: "https://boomp.net/blog/can-ai-write-good-social-media-posts",
+    permanent: true,
+  },
+  {
+    source: "/blog/can-you-run-business-without-social-media",
+    destination: "https://boomp.net/blog/can-you-run-business-without-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheaper-alternative-to-social-media-agency",
+    destination: "https://boomp.net/blog/cheaper-alternative-to-social-media-agency",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-dentists",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-hvac-companies",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-landscapers",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-landscapers",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-lawyers",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-lawyers",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-med-spas",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-plumbers",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-real-estate-agents",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-restaurants",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-roofers",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler-salons",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-social-media-scheduler",
+    destination: "https://boomp.net/blog/cheapest-social-media-scheduler",
+    permanent: true,
+  },
+  {
+    source: "/blog/cheapest-way-to-do-social-media-for-business",
+    destination: "https://boomp.net/blog/cheapest-way-to-do-social-media-for-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/compare",
+    destination: "https://boomp.net/blog/compare",
+    permanent: true,
+  },
+  {
+    source: "/blog/compete-with-bigger-businesses-social-media",
+    destination: "https://boomp.net/blog/compete-with-bigger-businesses-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/consistent-posting-90-day-results",
+    destination: "https://boomp.net/blog/consistent-posting-90-day-results",
+    permanent: true,
+  },
+  {
+    source: "/blog/consistent-social-media-without-burnout",
+    destination: "https://boomp.net/blog/consistent-social-media-without-burnout",
+    permanent: true,
+  },
+  {
+    source: "/blog/content-ideas-local-business",
+    destination: "https://boomp.net/blog/content-ideas-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/content-pillars-daily-social-media-strategy",
+    destination: "https://boomp.net/blog/content-pillars-daily-social-media-strategy",
+    permanent: true,
+  },
+  {
+    source: "/blog/copy-ai-vs-glow-social",
+    destination: "https://boomp.net/blog/copy-ai-vs-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/cost-of-not-posting-social-media",
+    destination: "https://boomp.net/blog/cost-of-not-posting-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/create-month-content-one-hour",
+    destination: "https://boomp.net/blog/create-month-content-one-hour",
+    permanent: true,
+  },
+  {
+    source: "/blog/do-i-need-a-social-media-agency",
+    destination: "https://boomp.net/blog/do-i-need-a-social-media-agency",
+    permanent: true,
+  },
+  {
+    source: "/blog/do-i-need-social-media-for-my-business",
+    destination: "https://boomp.net/blog/do-i-need-social-media-for-my-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/does-glow-social-work-for-realtors",
+    destination: "https://boomp.net/blog/does-boomp-work-for-realtors",
+    permanent: true,
+  },
+  {
+    source: "/blog/does-glow-social-work-for-restaurants",
+    destination: "https://boomp.net/blog/does-boomp-work-for-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/does-glow-social-work-for-salons",
+    destination: "https://boomp.net/blog/does-boomp-work-for-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/done-for-you-ai-social-media-law-firms",
+    destination: "https://boomp.net/blog/done-for-you-ai-social-media-law-firms",
+    permanent: true,
+  },
+  {
+    source: "/blog/done-for-you-social-media-cost",
+    destination: "https://boomp.net/blog/done-for-you-social-media-cost",
+    permanent: true,
+  },
+  {
+    source: "/blog/done-for-you-social-media-guide",
+    destination: "https://boomp.net/blog/done-for-you-social-media-guide",
+    permanent: true,
+  },
+  {
+    source: "/blog/done-for-you-social-media-roofing",
+    destination: "https://boomp.net/blog/done-for-you-social-media-roofing",
+    permanent: true,
+  },
+  {
+    source: "/blog/done-for-you-vs-diy-social-media",
+    destination: "https://boomp.net/blog/done-for-you-vs-diy-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/empower-your-strategy-with-inspiring-social-media-management-quotes",
+    destination: "https://boomp.net/blog/empower-your-strategy-with-inspiring-social-media-management-quotes",
+    permanent: true,
+  },
+  {
+    source: "/blog/empty-social-profiles-vs-consistent-posting",
+    destination: "https://boomp.net/blog/empty-social-profiles-vs-consistent-posting",
+    permanent: true,
+  },
+  {
+    source: "/blog/facebook-for-small-business-minimum-posting-strategy",
+    destination: "https://boomp.net/blog/facebook-for-small-business-minimum-posting-strategy",
+    permanent: true,
+  },
+  {
+    source: "/blog/facebook-post-ideas-restaurants",
+    destination: "https://boomp.net/blog/facebook-post-ideas-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/find-first-social-media-clients",
+    destination: "https://boomp.net/blog/find-first-social-media-clients",
+    permanent: true,
+  },
+  {
+    source: "/blog/free-scheduler-vs-social-media-manager",
+    destination: "https://boomp.net/blog/free-scheduler-vs-social-media-manager",
+    permanent: true,
+  },
+  {
+    source: "/blog/free-social-media-audit-small-business",
+    destination: "https://boomp.net/blog/free-social-media-audit-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/free-social-media-scheduler",
+    destination: "https://boomp.net/blog/free-social-media-scheduler",
+    permanent: true,
+  },
+  {
+    source: "/blog/freelance-social-media-manager-charge-cost",
+    destination: "https://boomp.net/blog/freelance-social-media-manager-charge-cost",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-contractors-more-calls-social-media",
+    destination: "https://boomp.net/blog/boomp-contractors-more-calls-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-customer-results",
+    destination: "https://boomp.net/blog/boomp-customer-results",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-difference-ai-content-platforms",
+    destination: "https://boomp.net/blog/boomp-difference-ai-content-platforms",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-fixes-last-posted-problem",
+    destination: "https://boomp.net/blog/boomp-fixes-last-posted-problem",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-for-agency-owners",
+    destination: "https://boomp.net/blog/boomp-for-agency-owners",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-get-more-customers",
+    destination: "https://boomp.net/blog/boomp-get-more-customers",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-posts-per-month",
+    destination: "https://boomp.net/blog/boomp-posts-per-month",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-reviews-what-customers-say",
+    destination: "https://boomp.net/blog/boomp-reviews-what-customers-say",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-roofing-social-media-service-2",
+    destination: "https://boomp.net/blog/boomp-roofing-social-media-service-2",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-simplifies-content-creation",
+    destination: "https://boomp.net/blog/boomp-simplifies-content-creation",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-smart-feed-industry-updates",
+    destination: "https://boomp.net/blog/boomp-smart-feed-industry-updates",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-freelance-social-media-manager",
+    destination: "https://boomp.net/blog/boomp-vs-freelance-social-media-manager",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-hiring-social-media-manager",
+    destination: "https://boomp.net/blog/boomp-vs-hiring-social-media-manager",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-hootsuite-comparison",
+    destination: "https://boomp.net/blog/boomp-vs-hootsuite-comparison",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-hootsuite",
+    destination: "https://boomp.net/blog/boomp-vs-hootsuite",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-later",
+    destination: "https://boomp.net/blog/boomp-vs-later",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-metricool",
+    destination: "https://boomp.net/blog/boomp-vs-metricool",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-sendible",
+    destination: "https://boomp.net/blog/boomp-vs-sendible",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-socialbee",
+    destination: "https://boomp.net/blog/boomp-vs-socialbee",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-vista-social",
+    destination: "https://boomp.net/blog/boomp-vs-vista-social",
+    permanent: true,
+  },
+  {
+    source: "/blog/glow-social-vs-zoho-social",
+    destination: "https://boomp.net/blog/boomp-vs-zoho-social",
+    permanent: true,
+  },
+  {
+    source: "/blog/google-business-profile-for-service-area-businesses",
+    destination: "https://boomp.net/blog/google-business-profile-for-service-area-businesses",
+    permanent: true,
+  },
+  {
+    source: "/blog/google-business-profile-post-examples-hvac-companies",
+    destination: "https://boomp.net/blog/google-business-profile-post-examples-hvac-companies",
+    permanent: true,
+  },
+  {
+    source: "/blog/google-business-profile-posts-for-people-who-hate-marketing",
+    destination: "https://boomp.net/blog/google-business-profile-posts-for-people-who-hate-marketing",
+    permanent: true,
+  },
+  {
+    source: "/blog/google-business-profile-posts-local-business-reach",
+    destination: "https://boomp.net/blog/google-business-profile-posts-local-business-reach",
+    permanent: true,
+  },
+  {
+    source: "/blog/google-business-profile-posts-that-drive-phone-calls",
+    destination: "https://boomp.net/blog/google-business-profile-posts-that-drive-phone-calls",
+    permanent: true,
+  },
+  {
+    source: "/blog/google-business-profile-social-media-local-business",
+    destination: "https://boomp.net/blog/google-business-profile-social-media-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/google-business-profile-vs-social-media",
+    destination: "https://boomp.net/blog/google-business-profile-vs-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/guide-to-adding-followers-on-instagram-proven-methods",
+    destination: "https://boomp.net/blog/guide-to-adding-followers-on-instagram-proven-methods",
+    permanent: true,
+  },
+  {
+    source: "/blog/hootsuite-alternative-no-content-creation",
+    destination: "https://boomp.net/blog/hootsuite-alternative-no-content-creation",
+    permanent: true,
+  },
+  {
+    source: "/blog/hootsuite-alternatives-no-content-creation",
+    destination: "https://boomp.net/blog/hootsuite-alternatives-no-content-creation",
+    permanent: true,
+  },
+  {
+    source: "/blog/hootsuite-alternatives-small-business",
+    destination: "https://boomp.net/blog/hootsuite-alternatives-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/hootsuite-vs-buffer-vs-glow-social",
+    destination: "https://boomp.net/blog/hootsuite-vs-buffer-vs-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/hootsuite-vs-glow-social",
+    destination: "https://boomp.net/blog/hootsuite-vs-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/hours-per-week-social-media",
+    destination: "https://boomp.net/blog/hours-per-week-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-ai-social-media-posting-works",
+    destination: "https://boomp.net/blog/how-ai-social-media-posting-works",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-dentists-can-turn-patient-faqs-into-trust-building-social-media-posts",
+    destination: "https://boomp.net/blog/how-dentists-can-turn-patient-faqs-into-trust-building-social-media-posts",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-does-glow-social-work",
+    destination: "https://boomp.net/blog/how-does-boomp-work",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-glow-social-creates-social-media-posts",
+    destination: "https://boomp.net/blog/how-boomp-creates-social-media-posts",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-google-reviews-affect-local-seo",
+    destination: "https://boomp.net/blog/how-google-reviews-affect-local-seo",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-landscapers-can-turn-before-and-after-photos-into-a-month-of-posts",
+    destination: "https://boomp.net/blog/how-landscapers-can-turn-before-and-after-photos-into-a-month-of-posts",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-long-does-it-take-to-manage-social-media",
+    destination: "https://boomp.net/blog/how-long-does-it-take-to-manage-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-med-spas-can-turn-treatment-photos-into-30-days-of-content",
+    destination: "https://boomp.net/blog/how-med-spas-can-turn-treatment-photos-into-30-days-of-content",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-much-does-a-social-media-manager-cost-2026",
+    destination: "https://boomp.net/blog/how-much-does-a-social-media-manager-cost-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-much-does-a-social-media-manager-cost",
+    destination: "https://boomp.net/blog/how-much-does-a-social-media-manager-cost",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-much-does-glow-social-cost",
+    destination: "https://boomp.net/blog/how-much-does-boomp-cost",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-much-does-social-media-management-cost",
+    destination: "https://boomp.net/blog/how-much-does-social-media-management-cost",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-much-should-i-budget-for-social-media-management",
+    destination: "https://boomp.net/blog/how-much-should-i-budget-for-social-media-management",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-much-should-social-media-management-cost",
+    destination: "https://boomp.net/blog/how-much-should-social-media-management-cost",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-often-should-local-business-post-social-media-data",
+    destination: "https://boomp.net/blog/how-often-should-local-business-post-social-media-data",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-often-should-small-businesses-post",
+    destination: "https://boomp.net/blog/how-often-should-small-businesses-post",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-real-estate-agents-can-turn-one-listing-into-30-days-of-content",
+    destination: "https://boomp.net/blog/how-real-estate-agents-can-turn-one-listing-into-30-days-of-content",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-roofers-can-turn-6-job-photos-into-30-days-of-social-proof",
+    destination: "https://boomp.net/blog/how-roofers-can-turn-6-job-photos-into-30-days-of-social-proof",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-salons-can-turn-client-transformations-into-a-month-of-social-posts",
+    destination: "https://boomp.net/blog/how-salons-can-turn-client-transformations-into-a-month-of-social-posts",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-social-media-affects-local-business-credibility",
+    destination: "https://boomp.net/blog/how-social-media-affects-local-business-credibility",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-automate-social-media-posting-for-small-business",
+    destination: "https://boomp.net/blog/how-to-automate-social-media-posting-for-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-automatically-post-to-all-social-media-platforms",
+    destination: "https://boomp.net/blog/how-to-automatically-post-to-all-social-media-platforms",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-build-a-month-of-social-media-from-your-everyday-work",
+    destination: "https://boomp.net/blog/how-to-build-a-month-of-social-media-from-your-everyday-work",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-create-a-social-media-calendar-automatically",
+    destination: "https://boomp.net/blog/how-to-create-a-social-media-calendar-automatically",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-create-facebook-business-page",
+    destination: "https://boomp.net/blog/how-to-create-facebook-business-page",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-create-social-media-content-faster",
+    destination: "https://boomp.net/blog/how-to-create-social-media-content-faster",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-generate-social-media-content-with-ai",
+    destination: "https://boomp.net/blog/how-to-generate-social-media-content-with-ai",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-get-more-and-more-likes-on-facebook-effective-strategies",
+    destination: "https://boomp.net/blog/how-to-get-more-and-more-likes-on-facebook-effective-strategies",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-get-more-customers-from-social-media",
+    destination: "https://boomp.net/blog/how-to-get-more-customers-from-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-get-more-google-reviews",
+    destination: "https://boomp.net/blog/how-to-get-more-google-reviews",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-hire-social-media-manager",
+    destination: "https://boomp.net/blog/how-to-hire-social-media-manager",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-keep-your-business-looking-active-online-with-what-you-already-have",
+    destination: "https://boomp.net/blog/how-to-keep-your-business-looking-active-online-with-what-you-already-have",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself",
+    destination: "https://boomp.net/blog/how-to-keep-your-business-looking-active-online-without-posting-yourself",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-look-professional-social-media-without-team",
+    destination: "https://boomp.net/blog/how-to-look-professional-social-media-without-team",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-market-business-if-you-hate-social-media",
+    destination: "https://boomp.net/blog/how-to-market-business-if-you-hate-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-respond-to-negative-google-reviews",
+    destination: "https://boomp.net/blog/how-to-respond-to-negative-google-reviews",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-restart-social-media-after-long-break",
+    destination: "https://boomp.net/blog/how-to-restart-social-media-after-long-break",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-save-time-social-media-marketing",
+    destination: "https://boomp.net/blog/how-to-save-time-social-media-marketing",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-schedule-social-media-posts-automatically",
+    destination: "https://boomp.net/blog/how-to-schedule-social-media-posts-automatically",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-set-up-all-social-media-accounts-at-once",
+    destination: "https://boomp.net/blog/how-to-set-up-all-social-media-accounts-at-once",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-set-up-google-business-profile-free",
+    destination: "https://boomp.net/blog/how-to-set-up-google-business-profile-free",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-set-up-google-business-profile",
+    destination: "https://boomp.net/blog/how-to-set-up-google-business-profile",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-set-up-linkedin-company-page",
+    destination: "https://boomp.net/blog/how-to-set-up-linkedin-company-page",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-set-up-social-media-for-your-business",
+    destination: "https://boomp.net/blog/how-to-set-up-social-media-for-your-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-set-up-social-media-small-business",
+    destination: "https://boomp.net/blog/how-to-set-up-social-media-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-show-up-in-chatgpt-local-business-searches",
+    destination: "https://boomp.net/blog/how-to-show-up-in-chatgpt-local-business-searches",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-show-up-in-perplexity-local-business",
+    destination: "https://boomp.net/blog/how-to-show-up-in-perplexity-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-start-social-media-marketing-no-budget",
+    destination: "https://boomp.net/blog/how-to-start-social-media-marketing-no-budget",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-turn-6-job-photos-into-30-days-of-social-proof",
+    destination: "https://boomp.net/blog/how-to-turn-6-job-photos-into-30-days-of-social-proof",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-turn-before-and-after-photos-into-trust-building-posts",
+    destination: "https://boomp.net/blog/how-to-turn-before-and-after-photos-into-trust-building-posts",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-turn-customer-reviews-into-a-month-of-social-proof",
+    destination: "https://boomp.net/blog/how-to-turn-customer-reviews-into-a-month-of-social-proof",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-turn-faqs-into-social-media-posts-customers-care-about",
+    destination: "https://boomp.net/blog/how-to-turn-faqs-into-social-media-posts-customers-care-about",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-turn-google-reviews-into-posts-without-sounding-braggy",
+    destination: "https://boomp.net/blog/how-to-turn-google-reviews-into-posts-without-sounding-braggy",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-turn-one-finished-project-into-a-month-of-local-marketing",
+    destination: "https://boomp.net/blog/how-to-turn-one-finished-project-into-a-month-of-local-marketing",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-turn-your-website-into-12-ready-to-post-social-media-ideas",
+    destination: "https://boomp.net/blog/how-to-turn-your-website-into-12-ready-to-post-social-media-ideas",
+    permanent: true,
+  },
+  {
+    source: "/blog/how-to-write-social-media-bio-business",
+    destination: "https://boomp.net/blog/how-to-write-social-media-bio-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/i-dont-have-time-for-social-media",
+    destination: "https://boomp.net/blog/i-dont-have-time-for-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/instagram-bio-for-business",
+    destination: "https://boomp.net/blog/instagram-bio-for-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/instagram-caption-best-practices-2026",
+    destination: "https://boomp.net/blog/instagram-caption-best-practices-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/instagram-for-local-business-not-influencer",
+    destination: "https://boomp.net/blog/instagram-for-local-business-not-influencer",
+    permanent: true,
+  },
+  {
+    source: "/blog/instagram-post-ideas-salons",
+    destination: "https://boomp.net/blog/instagram-post-ideas-salons",
+    permanent: true,
+  },
+  {
+    source: "/blog/is-hiring-a-social-media-manager-worth-it-for-small-business",
+    destination: "https://boomp.net/blog/is-hiring-a-social-media-manager-worth-it-for-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/is-social-media-worth-it-no-online-presence",
+    destination: "https://boomp.net/blog/is-social-media-worth-it-no-online-presence",
+    permanent: true,
+  },
+  {
+    source: "/blog/is-your-facebook-page-making-your-business-look-closed",
+    destination: "https://boomp.net/blog/is-your-facebook-page-making-your-business-look-closed",
+    permanent: true,
+  },
+  {
+    source: "/blog/jasper-vs-glow-social",
+    destination: "https://boomp.net/blog/jasper-vs-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/keep-social-media-clients-happy",
+    destination: "https://boomp.net/blog/keep-social-media-clients-happy",
+    permanent: true,
+  },
+  {
+    source: "/blog/later-pricing-free-plan-2026",
+    destination: "https://boomp.net/blog/later-pricing-free-plan-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/later-vs-buffer-differences-comparison",
+    destination: "https://boomp.net/blog/later-vs-buffer-differences-comparison",
+    permanent: true,
+  },
+  {
+    source: "/blog/local-business-social-media-2026",
+    destination: "https://boomp.net/blog/local-business-social-media-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/master-social-media-management-degree-for-career-success-and-digital-growth",
+    destination: "https://boomp.net/blog/master-social-media-management-degree-for-career-success-and-digital-growth",
+    permanent: true,
+  },
+  {
+    source: "/blog/metricool-vs-hootsuite-for-small-business",
+    destination: "https://boomp.net/blog/metricool-vs-hootsuite-for-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/minimum-posting-frequency-business-growth",
+    destination: "https://boomp.net/blog/minimum-posting-frequency-business-growth",
+    permanent: true,
+  },
+  {
+    source: "/blog/minimum-viable-social-media-presence-local-business",
+    destination: "https://boomp.net/blog/minimum-viable-social-media-presence-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/myths-contrarian-content-local-business-engagement",
+    destination: "https://boomp.net/blog/myths-contrarian-content-local-business-engagement",
+    permanent: true,
+  },
+  {
+    source: "/blog/oba-social-media-framework-local-business",
+    destination: "https://boomp.net/blog/oba-social-media-framework-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/outsource-social-media-small-business",
+    destination: "https://boomp.net/blog/outsource-social-media-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/pinterest-engagement-local-businesses-2026",
+    destination: "https://boomp.net/blog/pinterest-engagement-local-businesses-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/posting-frequency-local-business",
+    destination: "https://boomp.net/blog/posting-frequency-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/price-social-media-services",
+    destination: "https://boomp.net/blog/price-social-media-services",
+    permanent: true,
+  },
+  {
+    source: "/blog/psychology-of-content-engagement-6-hooks",
+    destination: "https://boomp.net/blog/psychology-of-content-engagement-6-hooks",
+    permanent: true,
+  },
+  {
+    source: "/blog/publer-vs-buffer-small-business",
+    destination: "https://boomp.net/blog/publer-vs-buffer-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/real-cost-inconsistent-social-media-posting",
+    destination: "https://boomp.net/blog/real-cost-inconsistent-social-media-posting",
+    permanent: true,
+  },
+  {
+    source: "/blog/real-posts-glow-social-created-local-business",
+    destination: "https://boomp.net/blog/real-posts-boomp-created-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/roi-social-media-local-business",
+    destination: "https://boomp.net/blog/roi-social-media-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/roi-social-media-local-businesses",
+    destination: "https://boomp.net/blog/roi-social-media-local-businesses",
+    permanent: true,
+  },
+  {
+    source: "/blog/should-i-hire-social-media-manager-or-diy",
+    destination: "https://boomp.net/blog/should-i-hire-social-media-manager-or-diy",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-accountants-bookkeepers",
+    destination: "https://boomp.net/blog/social-media-accountants-bookkeepers",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-agency-scale-30-clients",
+    destination: "https://boomp.net/blog/social-media-agency-scale-30-clients",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-agency-vs-done-for-you-service",
+    destination: "https://boomp.net/blog/social-media-agency-vs-done-for-you-service",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-and-ai-transform-your-digital-dominance-effortlessly",
+    destination: "https://boomp.net/blog/social-media-and-ai-transform-your-digital-dominance-effortlessly",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-automation-financial-advisors-accountants",
+    destination: "https://boomp.net/blog/social-media-automation-financial-advisors-accountants",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-automation-local-gyms",
+    destination: "https://boomp.net/blog/social-media-automation-local-gyms",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-bio-generator-free",
+    destination: "https://boomp.net/blog/social-media-bio-generator-free",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-boutique-fitness",
+    destination: "https://boomp.net/blog/social-media-boutique-fitness",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-calendar-examples-local-business",
+    destination: "https://boomp.net/blog/social-media-calendar-examples-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-caption-length",
+    destination: "https://boomp.net/blog/social-media-caption-length",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-checklist-new-business",
+    destination: "https://boomp.net/blog/social-media-checklist-new-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-content-brand-voice-ai",
+    destination: "https://boomp.net/blog/social-media-content-brand-voice-ai",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-content-generator-auto-repair-shops",
+    destination: "https://boomp.net/blog/social-media-content-generator-auto-repair-shops",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-content-ideas-small-business",
+    destination: "https://boomp.net/blog/social-media-content-ideas-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-content-strategy-local-retail",
+    destination: "https://boomp.net/blog/social-media-content-strategy-local-retail",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-cost-comparison-manual-scheduling-voice-matched",
+    destination: "https://boomp.net/blog/social-media-cost-comparison-manual-scheduling-voice-matched",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-fitness-studios",
+    destination: "https://boomp.net/blog/social-media-fitness-studios",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-for-business-owners-who-hate-social-media",
+    destination: "https://boomp.net/blog/social-media-for-business-owners-who-hate-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-for-small-business-guide",
+    destination: "https://boomp.net/blog/social-media-for-small-business-guide",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-healthcare-practices",
+    destination: "https://boomp.net/blog/social-media-healthcare-practices",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-home-services",
+    destination: "https://boomp.net/blog/social-media-home-services",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-management-cost-pricing-guide",
+    destination: "https://boomp.net/blog/social-media-management-cost-pricing-guide",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-management-for-chiropractors",
+    destination: "https://boomp.net/blog/social-media-management-for-chiropractors",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-management-for-financial-advisors",
+    destination: "https://boomp.net/blog/social-media-management-for-financial-advisors",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-management-images-boost-engagement-with-ai-powered-content",
+    destination: "https://boomp.net/blog/social-media-management-images-boost-engagement-with-ai-powered-content",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-management-meaning-elevate-your-strategy-with-ai-tools",
+    destination: "https://boomp.net/blog/social-media-management-meaning-elevate-your-strategy-with-ai-tools",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-management-on-instagram-boost-engagement-with-ai-tools",
+    destination: "https://boomp.net/blog/social-media-management-on-instagram-boost-engagement-with-ai-tools",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-manager-vs-ai",
+    destination: "https://boomp.net/blog/social-media-manager-vs-ai",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-manager-vs-done-for-you-ai",
+    destination: "https://boomp.net/blog/social-media-manager-vs-done-for-you-ai",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-marketing-cost-optimize-your-budget-with-ai-solutions",
+    destination: "https://boomp.net/blog/social-media-marketing-cost-optimize-your-budget-with-ai-solutions",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-marketing-dentists",
+    destination: "https://boomp.net/blog/social-media-marketing-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-marketing-ideas-to-elevate-engagement-and-strategy",
+    destination: "https://boomp.net/blog/social-media-marketing-ideas-to-elevate-engagement-and-strategy",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-mistakes-local-business",
+    destination: "https://boomp.net/blog/social-media-mistakes-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-not-working",
+    destination: "https://boomp.net/blog/social-media-not-working",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-on-autopilot",
+    destination: "https://boomp.net/blog/social-media-on-autopilot",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-planner-for-small-business-streamline-your-strategy-today",
+    destination: "https://boomp.net/blog/social-media-planner-for-small-business-streamline-your-strategy-today",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-post-ideas-dentists",
+    destination: "https://boomp.net/blog/social-media-post-ideas-dentists",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-post-ideas-med-spas",
+    destination: "https://boomp.net/blog/social-media-post-ideas-med-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-posting-schedule-small-business",
+    destination: "https://boomp.net/blog/social-media-posting-schedule-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-real-estate-agents",
+    destination: "https://boomp.net/blog/social-media-real-estate-agents",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-restaurants",
+    destination: "https://boomp.net/blog/social-media-restaurants",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-retail-boutiques",
+    destination: "https://boomp.net/blog/social-media-retail-boutiques",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-roi-small-business",
+    destination: "https://boomp.net/blog/social-media-roi-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-salons-spas",
+    destination: "https://boomp.net/blog/social-media-salons-spas",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-starter-kit-small-business",
+    destination: "https://boomp.net/blog/social-media-starter-kit-small-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-stories-boost-engagement-with-ai-powered-content-creation",
+    destination: "https://boomp.net/blog/social-media-stories-boost-engagement-with-ai-powered-content-creation",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-strategy-med-spas-estheticians",
+    destination: "https://boomp.net/blog/social-media-strategy-med-spas-estheticians",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-tools-boutique-hotels",
+    destination: "https://boomp.net/blog/social-media-tools-boutique-hotels",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-tools-local-business",
+    destination: "https://boomp.net/blog/social-media-tools-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-tools-under-50",
+    destination: "https://boomp.net/blog/social-media-tools-under-50",
+    permanent: true,
+  },
+  {
+    source: "/blog/social-media-workflow-wedding-photographers",
+    destination: "https://boomp.net/blog/social-media-workflow-wedding-photographers",
+    permanent: true,
+  },
+  {
+    source: "/blog/socialbee-vs-glow-social",
+    destination: "https://boomp.net/blog/socialbee-vs-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/sprout-social-vs-glow-social",
+    destination: "https://boomp.net/blog/sprout-social-vs-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/the-best-time-to-post-tik-toks-on-saturday-for-maximum-engagement",
+    destination: "https://boomp.net/blog/the-best-time-to-post-tik-toks-on-saturday-for-maximum-engagement",
+    permanent: true,
+  },
+  {
+    source: "/blog/the-glow-method-social-media-automation",
+    destination: "https://boomp.net/blog/the-glow-method-social-media-automation",
+    permanent: true,
+  },
+  {
+    source: "/blog/time-small-business-social-media",
+    destination: "https://boomp.net/blog/time-small-business-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/top-5-automated-social-media-tools-small-business-2026",
+    destination: "https://boomp.net/blog/top-5-automated-social-media-tools-small-business-2026",
+    permanent: true,
+  },
+  {
+    source: "/blog/transform-your-strategy-with-a-social-media-ai-post-generator",
+    destination: "https://boomp.net/blog/transform-your-strategy-with-a-social-media-ai-post-generator",
+    permanent: true,
+  },
+  {
+    source: "/blog/understanding-curating-content-meaning-a-comprehensive-overview",
+    destination: "https://boomp.net/blog/understanding-curating-content-meaning-a-comprehensive-overview",
+    permanent: true,
+  },
+  {
+    source: "/blog/unlock-social-media-planning-notion-for-streamlined-digital-domination",
+    destination: "https://boomp.net/blog/unlock-social-media-planning-notion-for-streamlined-digital-domination",
+    permanent: true,
+  },
+  {
+    source: "/blog/unlock-your-career-potential-top-jobs-in-social-media-management-await-you",
+    destination: "https://boomp.net/blog/unlock-your-career-potential-top-jobs-in-social-media-management-await-you",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-ai-assistants-look-for-local-business-recommendations",
+    destination: "https://boomp.net/blog/what-ai-assistants-look-for-local-business-recommendations",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-customers-check-before-calling-local-business",
+    destination: "https://boomp.net/blog/what-customers-check-before-calling-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-happens-not-posting-regularly",
+    destination: "https://boomp.net/blog/what-happens-not-posting-regularly",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-is-glow-social",
+    destination: "https://boomp.net/blog/what-is-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-is-media-scheduling-boost-your-social-media-strategy-effortlessly",
+    destination: "https://boomp.net/blog/what-is-media-scheduling-boost-your-social-media-strategy-effortlessly",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-makes-customers-trust-business-online",
+    destination: "https://boomp.net/blog/what-makes-customers-trust-business-online",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-makes-glow-social-different",
+    destination: "https://boomp.net/blog/what-makes-boomp-different",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-platforms-does-glow-social-support",
+    destination: "https://boomp.net/blog/what-platforms-does-boomp-support",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-platforms-should-local-business-be-on",
+    destination: "https://boomp.net/blog/what-platforms-should-local-business-be-on",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-should-a-local-business-post-on-social-media-for-30-days",
+    destination: "https://boomp.net/blog/what-should-a-local-business-post-on-social-media-for-30-days",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-should-plumbers-post-on-social-media",
+    destination: "https://boomp.net/blog/what-should-plumbers-post-on-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-social-media-managers-wont-tell-you",
+    destination: "https://boomp.net/blog/what-social-media-managers-wont-tell-you",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-tasks-can-be-automated-social-media",
+    destination: "https://boomp.net/blog/what-tasks-can-be-automated-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-to-post-on-facebook-for-roofers",
+    destination: "https://boomp.net/blog/what-to-post-on-facebook-for-roofers",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-to-post-on-google-business-profile-plumbers",
+    destination: "https://boomp.net/blog/what-to-post-on-google-business-profile-plumbers",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-to-post-on-instagram-dentist",
+    destination: "https://boomp.net/blog/what-to-post-on-instagram-dentist",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-to-post-on-social-media-when-you-have-nothing-to-say",
+    destination: "https://boomp.net/blog/what-to-post-on-social-media-when-you-have-nothing-to-say",
+    permanent: true,
+  },
+  {
+    source: "/blog/what-to-post-when-you-only-have-a-website-a-few-photos-and-no-time",
+    destination: "https://boomp.net/blog/what-to-post-when-you-only-have-a-website-a-few-photos-and-no-time",
+    permanent: true,
+  },
+  {
+    source: "/blog/whats-the-best-way-to-automate-social-media-posting",
+    destination: "https://boomp.net/blog/whats-the-best-way-to-automate-social-media-posting",
+    permanent: true,
+  },
+  {
+    source: "/blog/whats-the-biggest-challenge-with-social-media-marketing",
+    destination: "https://boomp.net/blog/whats-the-biggest-challenge-with-social-media-marketing",
+    permanent: true,
+  },
+  {
+    source: "/blog/whats-the-difference-between-buffer-and-ai-content-tools",
+    destination: "https://boomp.net/blog/whats-the-difference-between-buffer-and-ai-content-tools",
+    permanent: true,
+  },
+  {
+    source: "/blog/which-social-media-platforms-should-my-business-be-on",
+    destination: "https://boomp.net/blog/which-social-media-platforms-should-my-business-be-on",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-customers-check-social-media-before-calling",
+    destination: "https://boomp.net/blog/why-customers-check-social-media-before-calling",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-i-built-glow-social",
+    destination: "https://boomp.net/blog/why-i-built-boomp",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-is-content-strategy-important-for-social-media-success",
+    destination: "https://boomp.net/blog/why-is-content-strategy-important-for-social-media-success",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-is-posting-consistently-on-social-media-so-hard",
+    destination: "https://boomp.net/blog/why-is-posting-consistently-on-social-media-so-hard",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-local-businesses-fail-at-social-media",
+    destination: "https://boomp.net/blog/why-local-businesses-fail-at-social-media",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-scheduling-apps-dont-work-local-business",
+    destination: "https://boomp.net/blog/why-scheduling-apps-dont-work-local-business",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-social-media-managers-expensive",
+    destination: "https://boomp.net/blog/why-social-media-managers-expensive",
+    permanent: true,
+  },
+  {
+    source: "/blog/why-your-social-media-pages-are-costing-you-customers",
+    destination: "https://boomp.net/blog/why-your-social-media-pages-are-costing-you-customers",
+    permanent: true,
+  },
+];
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   trailingSlash: false,
@@ -53,6 +1946,9 @@ const nextConfig = {
 
   async redirects() {
     return [
+      // === Glow → Boomp blog migration redirects ===
+      ...BOOMP_BLOG_REDIRECTS,
+
       // === "Time spent on social media" cluster consolidation ===
       // Merging 5 thin duplicate pages into /blog/average-time-social-media-marketing
       {
