@@ -341,6 +341,17 @@
       "do_not_overlearn_if": "If weak, possible causes include GSC validation lag, Google preferring article-style cost guides over interactive tools, the route needing richer calculator-specific structured data, or needing more inbound links from cost/pricing pages.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move; preserve owner-time framing and decision diagram unless tool URLs change.",
       "report": "seo-agent-runs/seo-work-2026-06-29T00-00-00Z-cost-calculator-refresh.md"
+    },
+    {
+      "at": "2026-06-30T16:02:01Z",
+      "route": "/blog/how-much-does-glow-social-cost",
+      "status": "complete",
+      "work_type": "buyer-intent product-pricing page refresh",
+      "bet": "A branded pricing page can be more useful for searchers and answer engines when it answers the exact price immediately, then explains what the $99/month plan includes, what it does not replace, and how to compare it against cheap schedulers or freelancers.",
+      "expected_signal": "Check 7/14/28-day indexing, impressions, clicks, CTR, branded pricing queries, and assisted movement from cost/pricing pages into the preview flow.",
+      "do_not_overlearn_if": "If weak, possible causes include low branded search demand, Google satisfying exact-price queries directly, the Glow-to-Boomp migration changing brand-query behavior, or the page needing stronger navigation/internal links rather than more copy.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move; preserve $99/month inclusions and approval-first language if product pricing remains the same.",
+      "report": "seo-agent-runs/seo-work-2026-06-30T16-02-01Z-glow-social-cost.md"
     }
   ]
 }
