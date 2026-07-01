@@ -786,7 +786,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/empower-your-strategy-with-inspiring-social-media-management-quotes",
-    destination: "https://boomp.net/blog/empower-your-strategy-with-inspiring-social-media-management-quotes",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -971,7 +971,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/guide-to-adding-followers-on-instagram-proven-methods",
-    destination: "https://boomp.net/blog/guide-to-adding-followers-on-instagram-proven-methods",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1141,7 +1141,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/how-to-get-more-and-more-likes-on-facebook-effective-strategies",
-    destination: "https://boomp.net/blog/how-to-get-more-and-more-likes-on-facebook-effective-strategies",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1351,7 +1351,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/master-social-media-management-degree-for-career-success-and-digital-growth",
-    destination: "https://boomp.net/blog/master-social-media-management-degree-for-career-success-and-digital-growth",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1566,7 +1566,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/social-media-management-on-instagram-boost-engagement-with-ai-tools",
-    destination: "https://boomp.net/blog/social-media-management-on-instagram-boost-engagement-with-ai-tools",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1591,7 +1591,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/social-media-marketing-ideas-to-elevate-engagement-and-strategy",
-    destination: "https://boomp.net/blog/social-media-marketing-ideas-to-elevate-engagement-and-strategy",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1611,7 +1611,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/social-media-planner-for-small-business-streamline-your-strategy-today",
-    destination: "https://boomp.net/blog/social-media-planner-for-small-business-streamline-your-strategy-today",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1661,7 +1661,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/social-media-stories-boost-engagement-with-ai-powered-content-creation",
-    destination: "https://boomp.net/blog/social-media-stories-boost-engagement-with-ai-powered-content-creation",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1701,7 +1701,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/the-best-time-to-post-tik-toks-on-saturday-for-maximum-engagement",
-    destination: "https://boomp.net/blog/the-best-time-to-post-tik-toks-on-saturday-for-maximum-engagement",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1726,7 +1726,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/understanding-curating-content-meaning-a-comprehensive-overview",
-    destination: "https://boomp.net/blog/understanding-curating-content-meaning-a-comprehensive-overview",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
@@ -1736,7 +1736,7 @@ const BOOMP_BLOG_REDIRECTS = [
   },
   {
     source: "/blog/unlock-your-career-potential-top-jobs-in-social-media-management-await-you",
-    destination: "https://boomp.net/blog/unlock-your-career-potential-top-jobs-in-social-media-management-await-you",
+    destination: "https://boomp.net/blog",
     permanent: true,
   },
   {
