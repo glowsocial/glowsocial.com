@@ -200,6 +200,7 @@ function BreadcrumbJsonLd({ title, slug }) {
         "@type": "ListItem",
         position: 3,
         name: title || slug,
+        item: `${SITE_URL}/blog/${slug}`,
       },
     ],
   };
