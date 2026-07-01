@@ -3294,6 +3294,15 @@ const nextConfig = {
         destination: canonical,
         permanent: true,
       })),
+
+      // === Full Glow Social → Boomp site migration fallback ===
+      // Specific redirects above handle renamed/consolidated slugs first.
+      // Everything else moves path-for-path to Boomp.
+      {
+        source: "/:path*",
+        destination: "https://boomp.net/:path*",
+        permanent: true,
+      },
     ];
   },
 };
