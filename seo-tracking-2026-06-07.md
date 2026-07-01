@@ -50,3 +50,7 @@ Use those exports for the next pass: match exact page queries, add missing FAQ/d
 ## Buyer-Intent Pricing Notes
 
 - 2026-06-30: Refreshed `https://glowsocial.com/blog/how-much-does-glow-social-cost` because it is a bottom-funnel product-pricing page but was thin and missing FAQ schema. Added stronger metadata, direct $99/month answer, plan-inclusion copy, comparison table, when-to-use / when-not-to-use guidance, FAQ schema, preview-first CTA, and an inbound related link from the main pricing guide. Bet: branded pricing searchers and cost-cluster visitors should get a clearer answer and a stronger path to preview. Manual indexing URLs: `https://glowsocial.com/blog/how-much-does-glow-social-cost`, `https://glowsocial.com/blog/social-media-management-cost-pricing-guide`.
+
+## Buyer-Intent Service Page Notes
+
+- 2026-07-01: Refreshed `https://glowsocial.com/social-media-agency-alternative` because it is a high-intent alternatives/cost page for owners weighing a full agency retainer against a narrower posting service. Added stronger price/scope metadata, a clearer agency-vs-posting-service top answer, WebPage schema, an expanded FAQ schema answer for whether Glow Social is cheaper than an agency, and a related link to the DIY-vs-agency cost calculator. Bet: agency-alternative searchers should respond better when the page names the retainer avoidance problem and routes them toward preview-first proof plus a cost calculator. Manual indexing URL: `https://glowsocial.com/social-media-agency-alternative`.

@@ -8,16 +8,16 @@ export const dynamic = "force-dynamic";
 const PAGE_URL = "https://glowsocial.com/social-media-agency-alternative";
 
 export const metadata = {
-  title: "Social Media Agency Alternative for Small Business",
+  title: "Social Media Agency Alternative from $99/month",
   description:
-    "A preview-first alternative to hiring a social media agency when you mainly need posts created, reviewed, and ready to publish.",
+    "Compare Glow Social with a social media agency when you need posts created, reviewed, and ready to publish without a full retainer.",
   alternates: {
     canonical: "/social-media-agency-alternative",
   },
   openGraph: {
-    title: "Social Media Agency Alternative for Small Business",
+    title: "Social Media Agency Alternative from $99/month",
     description:
-      "You may not need a full agency yet. See review-ready posts from your website before you choose a plan.",
+      "You may not need a full agency retainer yet. See review-ready posts from your website before you choose a plan.",
     url: PAGE_URL,
     siteName: "Glow Social",
     type: "website",
@@ -32,7 +32,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Social Media Agency Alternative for Small Business",
+    title: "Social Media Agency Alternative from $99/month",
     description:
       "See whether preview-first, approval-first posting is a better fit than an agency retainer.",
     images: ["https://glowsocial.com/images/og-image.png"],
@@ -41,6 +41,23 @@ export const metadata = {
 
 function JsonLd({ pricing }) {
   const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      name: "Social media agency alternative from $99/month",
+      url: PAGE_URL,
+      description:
+        "A comparison page for small businesses deciding whether they need a full social media agency retainer or a lighter posting service that prepares review-ready posts from their website.",
+      isPartOf: {
+        "@type": "WebSite",
+        name: "Glow Social",
+        url: "https://glowsocial.com",
+      },
+      about: {
+        "@type": "Thing",
+        name: "Social media agency alternatives",
+      },
+    },
     {
       "@context": "https://schema.org",
       "@type": "Service",
@@ -83,6 +100,14 @@ function JsonLd({ pricing }) {
           acceptedAnswer: {
             "@type": "Answer",
             text: "A small business usually does not need an agency when the core problem is inactive profiles, not campaign strategy. If the job is regular organic posting, a lighter service can be enough.",
+          },
+        },
+        {
+          "@type": "Question",
+          name: "Is Glow Social cheaper than a social media agency?",
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: `Yes. Glow Social starts at ${pricing.startingAtFull}. It costs less because the scope is narrower: posts created from your website, reviewed by you, and published after approval. It does not include paid ads, custom shoots, campaign strategy, or live community management.`,
           },
         },
         {
@@ -136,12 +161,12 @@ export default function SocialMediaAgencyAlternativePage() {
         <div className="container affordable-hero-grid">
           <div className="affordable-hero-copy">
             <p className="affordable-eyebrow">Social media agency alternative</p>
-            <h1>You may not need a social media agency yet.</h1>
+            <h1>You may not need a social media agency retainer yet.</h1>
             <p className="affordable-lede">
-              If your main problem is inconsistent posting, do not jump
-              straight to a full agency retainer. Glow Social turns your
-              website into review-ready posts, lets you approve them first, and
-              keeps approved posts moving starting at {pricing.startingAtFull}.
+              If your main problem is inconsistent posting, compare the agency
+              scope against the lighter job you actually need done. Glow Social
+              turns your website into review-ready posts, lets you approve them
+              first, and keeps approved posts moving starting at {pricing.startingAtFull}.
             </p>
             <div className="affordable-cta-row">
               <a href={heroPreviewUrl} className="btn btn--primary btn--lg">
@@ -179,13 +204,18 @@ export default function SocialMediaAgencyAlternativePage() {
       <section className="affordable-answer">
         <div className="container affordable-answer-box">
           <p>
-            The best alternative to a social media agency is a done-for-you
-            posting service when your main problem is consistency. Agencies are
-            built for strategy-heavy work. Glow Social is built for small
-            businesses that need their social media to look active without
-            hiring a full marketing team. You can preview posts from your own
-            website, review them, and only move forward if the output feels
-            right.
+            <strong>Quick answer:</strong> The best alternative to a social media
+            agency is a done-for-you posting service when the work is regular
+            organic content, not campaigns, ads, or community management. Glow
+            Social starts at {pricing.startingAtFull} because it focuses on the
+            part most local businesses fall behind on: turning the website into
+            posts, letting the owner approve them, and publishing the approved
+            work on schedule.
+          </p>
+          <p>
+            Hire an agency when you need strategy, shoots, paid ads, or replies.
+            Use Glow Social when the simpler question is, “Can someone keep our
+            profiles active without making me manage another content calendar?”
           </p>
         </div>
       </section>
@@ -375,6 +405,10 @@ export default function SocialMediaAgencyAlternativePage() {
             <Link href="/affordable-social-media-management" className="affordable-card">
               <h3>Social media under $100</h3>
               <p>Compare low-cost options when you need posting handled without a full retainer.</p>
+            </Link>
+            <Link href="/tools/diy-vs-agency-cost-calculator" className="affordable-card">
+              <h3>DIY vs. agency cost calculator</h3>
+              <p>Estimate whether the cheaper-looking route still leaves too much content work on the owner.</p>
             </Link>
             <Link href="/social-media-scheduler-that-creates-content" className="affordable-card">
               <h3>Scheduler that creates content</h3>

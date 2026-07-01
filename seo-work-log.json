@@ -352,6 +352,17 @@
       "do_not_overlearn_if": "If weak, possible causes include low branded search demand, Google satisfying exact-price queries directly, the Glow-to-Boomp migration changing brand-query behavior, or the page needing stronger navigation/internal links rather than more copy.",
       "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move; preserve $99/month inclusions and approval-first language if product pricing remains the same.",
       "report": "seo-agent-runs/seo-work-2026-06-30T16-02-01Z-glow-social-cost.md"
+    },
+    {
+      "at": "2026-07-01T16:01:26Z",
+      "route": "/social-media-agency-alternative",
+      "status": "complete",
+      "work_type": "buyer-intent service/comparison page refresh",
+      "bet": "Agency-alternative searchers are often trying to avoid a full retainer, not learn what agencies do. A stronger title, immediate price/scope answer, WebPage schema, FAQ schema, and a link into the DIY-vs-agency calculator should make the page more index-worthy and conversion-ready.",
+      "expected_signal": "Check 7/14/28-day crawl/index status, impressions, clicks, CTR, social media agency alternative and cheaper agency alternative queries, and assisted movement into /preview, /pricing, and the DIY-vs-agency cost calculator.",
+      "do_not_overlearn_if": "If weak, possible causes include Google preferring article-style agency-cost guides over service pages, overlap with adjacent agency-alternative articles, low exact-match search volume, title rewriting, or needing more internal links from cost/comparison hubs.",
+      "migration_target": "Re-sync latest Glow version before final Glow\u2192Boomp URL move; preserve agency-vs-posting-service scope distinction and preview-first CTA if ported.",
+      "report": "seo-agent-runs/seo-work-2026-07-01T16-01-26Z-agency-alternative.md"
     }
   ]
 }
